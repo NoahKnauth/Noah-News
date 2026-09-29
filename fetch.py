@@ -2,7 +2,7 @@ import calendar, html, json, os, re, sys, time, datetime as dt
 import feedparser, requests
 
 KEY = os.environ["GEMINI_API_KEY"]
-MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "gemini-3.8-flash").split(",") if m.strip()]
+MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "gemini-2.5-flash,gemini-3-flash-preview").split(",") if m.strip()]
 MAX_AGE_H, PER_FEED, MAX_IN = 36, 12, 35
 
 PROMPT = """Du bist Redakteur eines täglichen Nachrichtenbriefings für einen Studenten (Logistik/Wirtschaft) in Deutschland.
