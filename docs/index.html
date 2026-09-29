@@ -28,6 +28,8 @@ h2{font-size:1.05rem;line-height:1.35;color:#1f2340;margin-bottom:.4rem}
 article p{color:#333;line-height:1.65}
 .q{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.7rem}
 .q a{color:#4a3d9c;background:#eeeaff;border-radius:6px;padding:.35rem .6rem;font-size:.85rem;text-decoration:none;min-height:2rem;display:inline-flex;align-items:center}
+summary{cursor:pointer;color:#4a3d9c;font-weight:600;margin-top:.6rem;padding:.4rem 0;min-height:2.2rem}
+details p{margin-top:.6rem}
 .f{background:#fff3cd;border-left:4px solid #ffc107;border-radius:8px;padding:1rem;color:#6b5200}
 .l{color:#fff;text-align:center;padding:2rem 1rem}
 a:focus-visible,button:focus-visible{outline:3px solid #ffd700;outline-offset:2px}
@@ -49,6 +51,7 @@ fetch("data.json?"+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json()}).then(
     if(t.fehler||!t.meldungen||!t.meldungen.length)out.append(el("div",t.fehler||"Keine Meldungen verfügbar.","f"));
     (t.meldungen||[]).forEach(m=>{
       const a=el("article");a.append(el("h2",m.titel),el("p",m.text));
+      if(m.detail){const dt=el("details");dt.append(el("summary","Ausführlich lesen"));m.detail.split(/\n\s*\n/).forEach(x=>dt.append(el("p",x.trim())));a.append(dt)}
       const s=el("div",null,"q");
       (m.quellen||[]).filter(q=>q.url).forEach(q=>{const l=el("a",q.name||"Quelle");l.href=q.url;l.target="_blank";l.rel="noopener";s.append(l)});
       if(s.children.length)a.append(s);
