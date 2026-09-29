@@ -6,16 +6,19 @@ MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "gemini-3.8-flash")
 MAX_AGE_H, PER_FEED, MAX_IN = 36, 12, 35
 
 PROMPT = """Du bist Redakteur eines täglichen Nachrichtenbriefings für einen Studenten (Logistik/Wirtschaft) in Deutschland.
-Themenfeld: {thema}. Unten stehen nummerierte Meldungen aus verschiedenen Quellen (Titel und Anreißertext).
 
-Regeln:
+Unten stehen mehrere Themenfelder, jeweils mit nummerierten Meldungen aus verschiedenen Quellen (Titel und Anreißertext).
+
+Regeln für ALLE Themenfelder:
 - Wähle nur Meldungen mit echtem Nachrichtenwert. Lass Boulevard, Gewinnspiele, Ratgeber, reine Meinung ohne Faktenkern und Wiederholungen weg.
 - Fasse Meldungen zum selben Ereignis zu einer zusammen.
 - Übernimm Wesentliches exakt und unvereinfacht: Zahlen, Namen, Daten, Ursachen, Folgen, Fachbegriffe.
 - Schreibe NUR, was in den gegebenen Texten steht. Ergänze nichts aus eigenem Wissen. Wenn ein Anreißertext nur wenig hergibt, schreibe entsprechend kurz.
 - Widersprechen sich Quellen, benenne den Widerspruch.
-- Jede Meldung: 2 bis 5 Sätze, sachlich, auf Deutsch (englische Quellen übersetzen). Höchstens 8 Meldungen, wichtigste zuerst.
-- Antworte ausschließlich als JSON: {{"meldungen":[{{"titel":"...","text":"...","quellen":[Nummern]}}]}}
+- Pro Themenfeld: maximal 8 Meldungen, jede 2 bis 5 Sätze, sachlich, auf Deutsch (englische Quellen übersetzen). Wichtigste zuerst.
+
+Antworte ausschließlich als JSON mit dieser Struktur:
+{{"themen":[{{"name":"Themaname","meldungen":[{{"titel":"...","text":"...","quellen":[Nummern]}}]}}]}}
 
 Meldungen:
 {items}"""
@@ -40,28 +43,41 @@ def collect(feeds):
         print(f'{f["name"]}: {n} Meldungen')
     return out[:MAX_IN]
 
-def ask(thema, items):
-    listing = "\n\n".join(f'[{i}] ({x["quelle"]}) {x["titel"]}\n{x["text"]}' for i, x in enumerate(items))
+def ask_all_themas(all_themas_data):
+    """Sendet EINE Anfrage an Gemini mit ALLEN Themenfeldern"""
+    # Baue die komplette Nachricht mit allen Themenfeldern auf
+    items_text = ""
+    for thema, items in all_themas_data.items():
+        if not items:
+            continue
+        items_text += f"\n=== {thema} ===\n"
+        for i, x in enumerate(items):
+            items_text += f'[{i}] ({x["quelle"]}) {x["titel"]}\n{x["text"]}\n\n'
+    
     body = {
-        "contents": [{"parts": [{"text": PROMPT.format(thema=thema, items=listing)}]}],
+        "contents": [{"parts": [{"text": PROMPT.format(items=items_text)}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
     }
 
     retryable_status = {429, 500, 502, 503, 504}
 
     for model in MODELS:
-        for attempt in range(4):
+        for attempt in range(3):
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
             try:
+                print(f"Sende Anfrage an {model} (Versuch {attempt + 1}/3)...")
                 r = requests.post(url, headers={"x-goog-api-key": KEY}, json=body, timeout=120)
+                
                 if r.status_code == 200:
                     txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-                    return json.loads(re.sub(r"^```(?:json)?|```$", "", txt.strip()).strip())["meldungen"]
+                    response = json.loads(re.sub(r"^```(?:json)?|```$", "", txt.strip()).strip())
+                    print(f"✓ {model} erfolgreich")
+                    return response.get("themen", [])
 
-                print(f"{model}: HTTP {r.status_code} {r.text[:200]}")
-                if r.status_code in retryable_status and attempt < 3:
-                    delay = 2 ** (attempt + 1)
-                    print(f"Retry {model} in {delay}s")
+                print(f"{model}: HTTP {r.status_code}")
+                if r.status_code in retryable_status and attempt < 2:
+                    delay = 60 if r.status_code in {429, 503} else 10
+                    print(f"Warte {delay}s vor Retry...")
                     time.sleep(delay)
                     continue
 
@@ -69,37 +85,62 @@ def ask(thema, items):
 
             except Exception as ex:
                 print(f"{model}: Fehler auf Versuch {attempt + 1}: {ex}")
-                if attempt < 3:
-                    time.sleep(2 ** (attempt + 1))
+                if attempt < 2:
+                    time.sleep(10)
                     continue
                 break
 
-    raise RuntimeError("kein Modell hat geantwortet")
+    raise RuntimeError("Kein Modell konnte die Anfrage verarbeiten")
 
 def main():
     cfg = json.load(open("feeds.json", encoding="utf-8"))
-    themen, ok = [], 0
+    
+    print("Sammle Nachrichten von allen RSS-Feeds...")
+    all_themas_data = {}
+    themen_list = []
+    
     for thema, feeds in cfg.items():
-        entry = {"name": thema, "meldungen": []}
-        try:
-            items = collect(feeds)
-            if items:
-                for m in ask(thema, items):
-                    q = [{"name": items[i]["quelle"], "url": items[i]["url"]}
-                         for i in m.get("quellen", []) if isinstance(i, int) and 0 <= i < len(items)]
-                    entry["meldungen"].append({"titel": m["titel"], "text": m["text"], "quellen": q})
-                ok += 1
-            else:
-                entry["fehler"] = "Keine aktuellen Meldungen gefunden."
-        except Exception as ex:
-            print("FEHLER", thema, ex); entry["fehler"] = "Zusammenfassung fehlgeschlagen."
-        themen.append(entry)
-        time.sleep(15)
-    os.makedirs("docs", exist_ok=True)
-    if ok:
-        json.dump({"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(), "themen": themen},
+        print(f"\n--- {thema} ---")
+        items = collect(feeds)
+        all_themas_data[thema] = items
+        themen_list.append({"name": thema, "meldungen": [], "fehler": None if items else "Keine Meldungen"})
+    
+    # Nur eine Anfrage an Gemini
+    print("\n" + "="*50)
+    print("Sende EINE Anfrage an Gemini mit ALLEN Themenfeldern...")
+    print("="*50 + "\n")
+    
+    try:
+        gemini_response = ask_all_themas(all_themas_data)
+        
+        # Verarbeite die Gemini-Antwort und baue die finale Struktur auf
+        for gemini_thema in gemini_response:
+            thema_name = gemini_thema.get("name", "")
+            # Finde das matching Themenfeld
+            for entry in themen_list:
+                if entry["name"].lower() == thema_name.lower():
+                    entry["fehler"] = None
+                    # Finde die Items für dieses Thema
+                    if thema_name in all_themas_data:
+                        items = all_themas_data[thema_name]
+                        for m in gemini_thema.get("meldungen", []):
+                            q = [{"name": items[i]["quelle"], "url": items[i]["url"]}
+                                 for i in m.get("quellen", []) if isinstance(i, int) and 0 <= i < len(items)]
+                            entry["meldungen"].append({"titel": m["titel"], "text": m["text"], "quellen": q})
+                    break
+        
+        # Speichere die Daten
+        os.makedirs("docs", exist_ok=True)
+        json.dump({"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(), "themen": themen_list},
                   open("docs/data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    else:
-        print("Alle Themenfelder fehlgeschlagen; data.json bleibt unverändert.")
+        print("\n✓ data.json erfolgreich erstellt!")
+        
+    except Exception as ex:
+        print(f"\n✗ FEHLER: {ex}")
+        print("data.json bleibt unverändert.")
+        os.makedirs("docs", exist_ok=True)
+        # Speichere wenigstens die Struktur mit Fehlerhinweis
+        json.dump({"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(), "themen": themen_list},
+                  open("docs/data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 main()
