@@ -17,7 +17,7 @@ jobs:
       - name: Briefing erstellen
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODELS: gemini-3-flash,gemini-2.5-flash
+          GEMINI_MODELS: gemini-3-flash-preview,gemini-2.5-flash
         run: python fetch.py
       - name: Ergebnis speichern
         run: |
