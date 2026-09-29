@@ -42,15 +42,38 @@ def collect(feeds):
 
 def ask(thema, items):
     listing = "\n\n".join(f'[{i}] ({x["quelle"]}) {x["titel"]}\n{x["text"]}' for i, x in enumerate(items))
-    body = {"contents": [{"parts": [{"text": PROMPT.format(thema=thema, items=listing)}]}],
-            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2}}
+    body = {
+        "contents": [{"parts": [{"text": PROMPT.format(thema=thema, items=listing)}]}],
+        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
+    }
+
+    retryable_status = {429, 500, 502, 503, 504}
+
     for model in MODELS:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        r = requests.post(url, headers={"x-goog-api-key": KEY}, json=body, timeout=120)
-        if r.status_code == 200:
-            txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(re.sub(r"^```(?:json)?|```$", "", txt.strip()).strip())["meldungen"]
-        print(f"{model}: HTTP {r.status_code} {r.text[:200]}")
+        for attempt in range(4):
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+            try:
+                r = requests.post(url, headers={"x-goog-api-key": KEY}, json=body, timeout=120)
+                if r.status_code == 200:
+                    txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+                    return json.loads(re.sub(r"^```(?:json)?|```$", "", txt.strip()).strip())["meldungen"]
+
+                print(f"{model}: HTTP {r.status_code} {r.text[:200]}")
+                if r.status_code in retryable_status and attempt < 3:
+                    delay = 2 ** (attempt + 1)
+                    print(f"Retry {model} in {delay}s")
+                    time.sleep(delay)
+                    continue
+
+                break
+
+            except Exception as ex:
+                print(f"{model}: Fehler auf Versuch {attempt + 1}: {ex}")
+                if attempt < 3:
+                    time.sleep(2 ** (attempt + 1))
+                    continue
+                break
+
     raise RuntimeError("kein Modell hat geantwortet")
 
 def main():
@@ -72,10 +95,11 @@ def main():
             print("FEHLER", thema, ex); entry["fehler"] = "Zusammenfassung fehlgeschlagen."
         themen.append(entry)
         time.sleep(15)
-    if not ok:
-        sys.exit("Alle Themenfelder fehlgeschlagen, data.json bleibt unverändert.")
     os.makedirs("docs", exist_ok=True)
-    json.dump({"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(), "themen": themen},
-              open("docs/data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    if ok:
+        json.dump({"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(), "themen": themen},
+                  open("docs/data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    else:
+        print("Alle Themenfelder fehlgeschlagen; data.json bleibt unverändert.")
 
 main()
