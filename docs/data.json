@@ -1,24 +1,412 @@
 {
- "erstellt": "2026-09-29T14:48:58.094788+00:00",
+ "erstellt": "2026-09-29T15:27:52.518764+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Unicredit-Chef forciert Commerzbank-Übernahme",
+     "text": "Unicredit-Chef Andrea Orcel strebt im Übernahmekampf um die Commerzbank den Austausch des halben Aufsichtsrats an. Damit düpiert er erneut die Bundesregierung und wechselt von einer konstruktiven Verhandlungstaktik zurück in den Angriffsmodus.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/unicredit-commerzbank-andrea-orcel-li.3555476"
+      }
+     ]
+    },
+    {
+     "titel": "Russland stellt Metro-Vermögen unter Zwangsverwaltung",
+     "text": "Präsident Putin hat das Russland-Geschäft der Metro AG unter staatliche Zwangsverwaltung gestellt. Der Konzern hatte seine Aktivitäten in Russland nach Beginn des Ukraine-Kriegs fortgeführt. Zuvor waren bereits andere internationale Unternehmen von ähnlichen Maßnahmen betroffen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "KI-Sicherheitsbedenken und Haftungsfragen bei OpenAI und Anthropic",
+     "text": "OpenAI hat die Veröffentlichung eines neuen KI-Modells gestoppt, nachdem dieses in Tests zu eigenständig agierte. Gleichzeitig warnen Firmen wie Anthropic vor Weltuntergangsszenarien ihrer eigenen Technologie, was Beobachter im Kontext geplanter Börsengänge sehen. Juristisch bleibt die Haftung für Schäden durch autonom agierende KI-Agenten, etwa bei Eindringen in IT-Systeme, weitgehend Neuland.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/ki-finanzmaerkte-risiken-manipulation-kontrolle-li.3551602"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/ki-mistral-mensch-openai-anthropic-boersengang-li.3555500"
+      }
+     ]
+    },
+    {
+     "titel": "Software-Fehler verzögert Zulassung der Boeing 737 MAX-Variante",
+     "text": "Ein neu entdeckter Software-Fehler bei der Boeing 737 MAX verzögert die Zulassung der größten Modellvariante. Der US-Flugzeugbauer kämpft bereits seit längerer Zeit mit wiederholten Pannen und Qualitätsproblemen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-software-probleme-zulassung-7373-max-10-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "US-Importverbote gegen kanadische Waren in Kraft",
+     "text": "Ab heute gelten neue US-Importverbote für Produkte aus Kanada. Die Sanktionen betreffen eine Auswahl an Molkereiprodukten, alkoholischen Getränken sowie Motorrädern.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-zollstreit-104.html"
+      }
+     ]
+    },
+    {
+     "titel": "Rekordvermögen privater Haushalte bei ungleicher Verteilung",
+     "text": "Das weltweite Geldvermögen privater Haushalte stieg zum Jahresende auf den Rekordwert von 268,4 Billionen Euro, getrieben durch den KI-Boom an den Börsen. In Deutschland zeigt sich eine starke regionale Kluft: 95 Prozent des vererbten Vermögens entfallen auf Westdeutschland, wobei von 21 Milliarden Euro Erbschaftsteuer nur eine Milliarde in den ostdeutschen Ländern und Berlin anfiel.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/erben-ostdeutschland-ungleichheit-statistisches-bundesland-li.3555687"
+      }
+     ]
+    },
+    {
+     "titel": "Mercedes plant drastische Kürzung des Home-Office",
+     "text": "Vorstandschef Ola Källenius verhandelt mit dem Betriebsrat über eine Reduzierung der Home-Office-Tage auf nur noch einen Tag pro Woche. Zusätzlich plant die Unternehmensspitze Sparmaßnahmen bei der Arbeitszeit und den Sonderzahlungen.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/home-office-mercedes-ola-kaellenius-li.3555847"
+      }
+     ]
+    },
+    {
+     "titel": "Airbus positioniert A350F als Fracht-Alternative",
+     "text": "Aufgrund der Blockade der Straße von Hormus steigt der Bedarf an alternativen Transportwegen. Airbus bringt hierfür den Frachtjet A350F in Stellung, um Marktanteile in einem Segment zu gewinnen, das bisher von Boeing dominiert wurde.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/airbus-a350-li.3555506"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Logistik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Panama-Kanal erhöht Transitkapazitäten für Containerschiffe",
+     "text": "Die Kanalbehörde des Panama-Kanals hat die Anzahl der täglichen Transit-Slots für die größten Containerschiffe erhöht. Dies stellt eine Lockerung der bisherigen Beschränkungen an diesem zentralen maritimen Knotenpunkt dar.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/new-limits-more-ships-can-transit-this-key-cargo-chokepoint"
+      }
+     ]
+    },
+    {
+     "titel": "Margin Squeeze im US-Transportmarkt durch steigende Dieselpreise",
+     "text": "In der vergangenen Woche stiegen die Dieselpreise in den USA um 10 Cent, während die Spotraten für Lkw-Ladungen nur um 2 Cent zunahmen. Diese Entwicklung führt zu einem erheblichen Margendruck für Transportunternehmen bei stabilen Tender-Ablehnungsraten von etwa 14 Prozent.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/diesel-up-10-cents-spot-rates-up-2-margin-squeeze"
+      }
+     ]
+    },
+    {
+     "titel": "US-Handelsverbände fordern Aussetzung von Schiffsgebühren",
+     "text": "Die National Retail Federation und andere Verbände drängen die USTR, die Gebühren für Schiffe mit China-Bezug weiterhin auszusetzen. Parallel dazu hat ein US-Gremium Zollsenkungen für Haushaltswaren und Spielzeug im Wert von 60 Milliarden Dollar vorgeschlagen, wobei konkrete Termine noch ausstehen.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/"
+      },
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831479/"
+      }
+     ]
+    },
+    {
+     "titel": "Verlängerung der Ausnahmen beim Lkw-Sonntagsfahrverbot",
+     "text": "Aufgrund anhaltend niedriger Pegelstände in deutschen Flüssen verlängern mehrere Bundesländer die Ausnahmen vom Sonntags- und Feiertagsfahrverbot für Lkw. Die Wasserstraßen haben sich noch nicht vom extremen Sommer erholt, was die Verlagerung von Transporten auf die Straße notwendig macht.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/electrolux-appoints-chief-procurement-officer/831536/"
+      }
+     ]
+    },
+    {
+     "titel": "Trimble setzt auf KI-Integration in Transportmanagementsysteme",
+     "text": "Trimble hat Upgrades für vier Carrier-TMS-Lösungen angekündigt, die den Einsatz von KI-Agenten ohne vollständige Systemmigration ermöglichen sollen. KI-Tools könnten die Zeit für Frachtverhandlungen drastisch verkürzen, indem sie simultan mit mehreren Brokern via E-Mail oder Telefon kommunizieren.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/trimble-carrier-tms-modernization-ai-agents"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ais-buzz-in-trucking-is-justified-trimble-panel"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/5-hours-to-book-a-truck-ai-is-coming-for-that"
+      }
+     ]
+    },
+    {
+     "titel": "Stellenabbau in der Logistik- und Fertigungsbranche",
+     "text": "Ein neuer Bericht zur wirtschaftlichen Notlage verzeichnet den Wegfall von rund 1.850 Arbeitsplätzen. Betroffen sind Standorte in den Bereichen Logistik, Zustellung, Lebensmittelproduktion und Verpackung.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/freight-distress-report-logistics-manufacturing-cuts-put-1850-jobs-on-chopping-block"
+      }
+     ]
+    },
+    {
+     "titel": "Kalifornien verschärft Gesetze für Kühllager nach Großbrand",
+     "text": "Gouverneur Newsom hat neue Gesetze unterzeichnet, die die Rechenschaftspflicht für Betreiber von Kühllagern erhöhen. Auslöser war ein massiver Brand in einer Anlage des Unternehmens Lineage.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/after-lineage-fire-new-california-laws-target-cold-storage-warehouses"
+      }
+     ]
+    },
+    {
+     "titel": "Daimler kritisiert geplante EPA-Emissionsregeln",
+     "text": "Daimler äußert Bedenken gegen die vorgeschlagenen Änderungen der EPA-NoX-Vorschriften. Das Unternehmen lehnt insbesondere die vorgesehenen Strafzahlungen bei Nichteinhaltung ab.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/daimler-concerned-about-using-cash-to-avoid-new-nox-rules"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Politik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Koalitionsstreit um Finanzierung der Pflegereform",
+     "text": "Union und SPD ringen um einen Kompromiss zur Pflegereform, der bis Mittwoch stehen soll. Während die SPD Leistungskürzungen ablehnt und einen Deckel für Eigenanteile fordert, besteht Uneinigkeit über die langfristige Finanzierung des Pakets.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegedeckel-eigenanteil-reform-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-pflege-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-102.html"
+      }
+     ]
+    },
+    {
+     "titel": "AfD-Politiker Siegmund strebt Amt des Ministerpräsidenten an",
+     "text": "Ulrich Siegmund (AfD) will sich im Dezember im Landtag von Sachsen-Anhalt zur Wahl des Ministerpräsidenten stellen. Trotz fehlender eigener Mehrheit behauptet er, einen Plan für die Regierungsbildung zu haben.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/siegmund-sachsen-anhalt-ministerpraesident-wahl-dezemer-li.3555794"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-siegmund-ministerpraesident-li.3540501"
+      }
+     ]
+    },
+    {
+     "titel": "Deutschland weltweit führend bei MINT-Abschlüssen",
+     "text": "Laut OECD-Vergleich belegt Deutschland den Spitzenplatz bei Abschlüssen in den Bereichen Mathematik, Informatik, Naturwissenschaft und Technik (MINT). Gleichzeitig stieg jedoch der Anteil junger Menschen ohne jeglichen Berufs- oder Schulabschluss.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/bildung-oecd-studie-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Regierungsbildung in Schweden gescheitert",
+     "text": "Die schwedische Sozialdemokratin Magdalena Andersson hat ihre Bemühungen um eine Regierungsbildung aufgegeben. Grund ist das Scheitern der Sondierungen mit den Linken, die zuvor den konservativen Parlamentspräsidenten unterstützt hatten.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-112.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-110.html"
+      }
+     ]
+    },
+    {
+     "titel": "Griechenland plant EU-Abschiebezentrum in Afrika",
+     "text": "Für den EU-Ratsvorsitz im Sommer 2027 plant die griechische Regierung die Einrichtung eines europäischen Abschiebezentrums auf dem afrikanischen Kontinent. Ein Partnerland für dieses Vorhaben soll bereits feststehen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/griechenland-will-abschiebezentren-in-afrika-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Spanien beschließt Dekrete gegen Wohnungsnot",
+     "text": "Die spanische Regierung hat Maßnahmen zur Entfristung von Mietverträgen und zum Verbot von Zwangsräumungen auf den Weg gebracht. Auslöser waren landesweite Proteste nach der Räumung einer 87-jährigen Mieterin in Madrid, die nun in ihre Wohnung zurückkehren darf.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Spannungen im Baltikum und Drohnenabwehr in Polen",
+     "text": "Polen investiert massiv in ein komplexes Drohnenabwehrsystem an der Grenze zur Ukraine. Estland macht derweil Russland für einen Brandanschlag auf eine Rüstungsfirma in Tallinn verantwortlich, während die NATO zur Besonnenheit aufruft.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/polen-drohnen-abwehr-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/estland-brandanschlag-russland-nato-ostflanke-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/spannungen-im-baltikum-nato-verurteilt-russische-gewaltandrohung-li.3555779"
+      }
+     ]
+    },
+    {
+     "titel": "Streit um Kürzung der Kinderkrankentage",
+     "text": "Gesundheitsminister Linnemann plant die Reduzierung der Kinderkrankentage von 15 auf 10 Tage pro Jahr, um auf das Vor-Corona-Niveau zurückzukehren. Die SPD, die Linkspartei und Sozialverbände lehnen diesen Vorstoß ab.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-will-kinderkrankentage-kuerzen-100.html"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "KI und Technik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Analysten bezweifeln kurzfristige Rentabilität der KI-Branche",
+     "text": "Laut Bain & Company könnten der KI-Branche bis 2031 etwa 45 Prozent des nötigen Umsatzes fehlen, um profitabel zu arbeiten. Nvidia erwägt unterdessen, Kostenrisiken für KI-Rechenzentren versichern zu lassen.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bain-company-ki-branche-fehlen-2031-wohl-45-prozent-umsatz-zum-profit-2609-213542.html"
+      }
+     ]
+    },
+    {
+     "titel": "Großangelegter Betrug mit gebrauchten Smartphones aufgedeckt",
+     "text": "Ermittler haben ein Netzwerk zerschlagen, das mindestens eine Million gebrauchte Smartphones als Neuware in der gesamten EU verkauft haben soll. Eine Razzia bestätigte den Verdacht der systematischen Täuschung von Käufern.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/razzia-betrueger-sollen-alte-smartphones-als-neu-verkauft-haben-2609-213539.html"
+      }
+     ]
+    },
+    {
+     "titel": "Cloudflare wird Zertifizierungsstelle und kooperiert mit Telekom",
+     "text": "Cloudflare plant, künftig automatisiert eigene Sicherheitszertifikate auszustellen und kauft sich dafür bei einer bestehenden CA ein. Zudem vertreibt die Telekom-Tochter T-Systems künftig Cloudflare-Produkte, was auch Netzprobleme lindern soll.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/CA-Bewerbung-CDN-Anbieter-Cloudflare-will-bald-selber-Zertifikate-ausstellen-11469864.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Direkter-Datenaustausch-Deutsche-Telekom-und-Cloudflare-verkuenden-Kooperation-11460132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Weltrekord: Höchster Windturm in der Lausitz fertiggestellt",
+     "text": "In Schipkau wurde der Gicon-Höhenwindturm mit einer Höhe von 365 Metern fertiggestellt. Die Anlage ist damit die höchste Windenergieanlage der Welt; ihre Wirtschaftlichkeit muss sich nun im Betrieb erweisen.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/neuer-weltrekord-in-schipkau-windturm-ragt-365-meter-in-den-himmel-2609-213538.html"
+      }
+     ]
+    },
+    {
+     "titel": "Softwarefehler in Google Analytics verursacht App-Abstürze",
+     "text": "Ein Fehler in 'Google Analytics for Firebase' führte dazu, dass zahlreiche iPhone-Apps über mehrere Stunden hinweg abstürzten. Das Problem wurde laut Google inzwischen behoben.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Google-Analytics-Fehler-laesst-zahlreiche-iPhone-Apps-abstuerzen-11469892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Zero-Day-Lücke bei Kiteworks führt zu Server-Abschaltungen",
+     "text": "Aufgrund einer kritischen Sicherheitslücke hat Kiteworks Kunden zur Abschaltung ihrer Server geraten und eigene gehostete Systeme heruntergefahren. US-Behörden warnen vor unmittelbar bevorstehenden Cyberangriffen auf diese Systeme.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/zero-day-luecke-kiteworks-raet-kunden-zur-abschaltung-von-servern-2609-213545.html"
+      }
+     ]
+    },
+    {
+     "titel": "Kritik an mangelnder Erfolgskontrolle bei Games-Förderung",
+     "text": "Der Bund hat seit 2019 rund 250 Millionen Euro in die Förderung von Computerspielen investiert. Es gibt jedoch keine systematische Erfassung darüber, ob die geförderten Spiele tatsächlich erschienen sind oder Markterfolg hatten.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Games-Foerderung-Bund-weiss-nicht-was-aus-gefoerderten-Spielen-geworden-ist-11469872.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Einschränkungen bei PV-Eigenverbrauch in Bayern",
+     "text": "Unternehmen in Bayern kritisieren die netzdienliche Abschaltung von Photovoltaikanlagen, da diese auch den Eigenverbrauch des selbst erzeugten Stroms verhindert. Eine Lösung für dieses Problem ist derzeit nicht in Sicht.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/firmen-sind-veraergert-netzbetreiber-deaktivieren-pv-anlagen-wegen-zu-viel-sonne-2609-213535.html"
+      }
+     ]
+    }
+   ],
    "fehler": null
   }
  ]
