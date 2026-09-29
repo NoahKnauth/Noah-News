@@ -1,0 +1,26 @@
+name: Tägliches Briefing
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser requests
+      - name: Briefing erstellen
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python fetch.py
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data.json
+          git diff --cached --quiet || (git commit -m "Briefing aktualisiert" && git push)
