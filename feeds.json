@@ -1,0 +1,23 @@
+{
+  "Wirtschaft": [
+    {"name": "Tagesschau Wirtschaft", "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml"},
+    {"name": "Süddeutsche Wirtschaft", "url": "https://rss.sueddeutsche.de/rss/Wirtschaft"},
+    {"name": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/wirtschaft-106.rss"}
+  ],
+  "Logistik": [
+    {"name": "Logistik-Watchblog", "url": "https://logistik-watchblog.de/feed/"},
+    {"name": "Supply Chain Dive", "url": "https://www.supplychaindive.com/feeds/news/"},
+    {"name": "FreightWaves", "url": "https://www.freightwaves.com/news/feed"}
+  ],
+  "Politik": [
+    {"name": "Tagesschau Inland", "url": "https://www.tagesschau.de/inland/index~rss2.xml"},
+    {"name": "Tagesschau Ausland", "url": "https://www.tagesschau.de/ausland/index~rss2.xml"},
+    {"name": "Süddeutsche Politik", "url": "https://rss.sueddeutsche.de/rss/Politik"},
+    {"name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-de-all"}
+  ],
+  "KI und Technik": [
+    {"name": "heise online", "url": "https://www.heise.de/rss/heise-atom.xml"},
+    {"name": "Golem", "url": "https://rss.golem.de/rss.php?feed=RSS2.0"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"}
+  ]
+}
