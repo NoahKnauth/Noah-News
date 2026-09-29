@@ -15,19 +15,80 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
+        }
+        
+        .wrapper {
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar Navigation */
+        .sidebar {
+            width: 250px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100vh;
+            overflow-y: auto;
+            backdrop-filter: blur(10px);
+        }
+        
+        .sidebar h3 {
+            color: white;
+            margin-bottom: 20px;
+            font-size: 1.2em;
+            text-align: center;
+        }
+        
+        .sidebar-nav {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .sidebar-link {
+            display: block;
+            padding: 12px 16px;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.1);
+            border-left: 3px solid transparent;
+        }
+        
+        .sidebar-link:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateX(5px);
+        }
+        
+        .sidebar-link.active {
+            background: rgba(255, 255, 255, 0.3);
+            border-left-color: #ffd700;
+            font-weight: bold;
+        }
+        
+        /* Main Content */
+        .main-content {
+            margin-left: 250px;
+            flex: 1;
             padding: 20px;
         }
         
         .container {
-            max-width: 900px;
+            max-width: 1000px;
             margin: 0 auto;
         }
         
         header {
             text-align: center;
             color: white;
-            margin-bottom: 40px;
-            padding-top: 20px;
+            margin-bottom: 30px;
+            padding: 30px 20px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
         }
         
         header h1 {
@@ -47,20 +108,43 @@
             font-size: 0.95em;
         }
         
+        /* Thema Card */
         .thema {
             background: white;
             border-radius: 12px;
             padding: 30px;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            scroll-margin-top: 60px;
+            transition: transform 0.3s ease;
+        }
+        
+        .thema:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+        }
+        
+        .thema-header {
+            margin-bottom: 25px;
         }
         
         .thema h2 {
             color: #667eea;
-            font-size: 1.8em;
-            margin-bottom: 25px;
+            font-size: 2em;
+            margin-bottom: 15px;
             border-bottom: 3px solid #667eea;
             padding-bottom: 10px;
+        }
+        
+        .thema-description {
+            background: #f0f4ff;
+            padding: 16px;
+            border-left: 4px solid #667eea;
+            border-radius: 6px;
+            color: #444;
+            line-height: 1.7;
+            font-size: 1em;
+            margin-bottom: 20px;
         }
         
         .meldung {
@@ -69,6 +153,12 @@
             background: #f8f9fa;
             border-left: 4px solid #667eea;
             border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+        
+        .meldung:hover {
+            background: #f0f4ff;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
         }
         
         .meldung:last-child {
@@ -79,11 +169,12 @@
             color: #333;
             font-size: 1.2em;
             margin-bottom: 10px;
+            line-height: 1.4;
         }
         
         .meldung p {
             color: #555;
-            line-height: 1.6;
+            line-height: 1.7;
             margin-bottom: 10px;
         }
         
@@ -91,15 +182,22 @@
             font-size: 0.9em;
             color: #999;
             margin-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
         }
         
         .quellen a {
             color: #667eea;
             text-decoration: none;
-            margin-right: 15px;
+            padding: 4px 8px;
+            background: rgba(102, 126, 234, 0.1);
+            border-radius: 4px;
+            transition: all 0.3s ease;
         }
         
         .quellen a:hover {
+            background: rgba(102, 126, 234, 0.2);
             text-decoration: underline;
         }
         
@@ -115,8 +213,25 @@
         .loading {
             text-align: center;
             color: white;
-            padding: 40px;
-            font-size: 1.1em;
+            padding: 60px 20px;
+            font-size: 1.2em;
+        }
+        
+        .loading::after {
+            content: '';
+            display: block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 20px auto 0;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
         
         .error-message {
@@ -135,27 +250,121 @@
             padding: 20px;
             font-size: 0.9em;
         }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .wrapper {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                position: relative;
+                width: 100%;
+                height: auto;
+                display: none;
+                flex-direction: row;
+                justify-content: center;
+                gap: 10px;
+                padding: 15px;
+            }
+            
+            .sidebar.mobile-open {
+                display: flex;
+            }
+            
+            .sidebar h3 {
+                display: none;
+            }
+            
+            .sidebar-nav {
+                flex-direction: row;
+                gap: 8px;
+                flex-wrap: wrap;
+            }
+            
+            .sidebar-link {
+                padding: 8px 12px;
+                font-size: 0.9em;
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .menu-toggle {
+                display: block;
+                position: fixed;
+                top: 10px;
+                left: 10px;
+                background: rgba(255, 255, 255, 0.2);
+                border: none;
+                color: white;
+                padding: 10px 15px;
+                border-radius: 6px;
+                cursor: pointer;
+                z-index: 1000;
+            }
+            
+            header {
+                padding: 20px 15px;
+            }
+            
+            header h1 {
+                font-size: 1.8em;
+            }
+            
+            .thema h2 {
+                font-size: 1.5em;
+            }
+        }
+        
+        @media (min-width: 769px) {
+            .menu-toggle {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>📰 Tägliches Briefing</h1>
-            <p>Nachrichten für Logistik & Wirtschaft</p>
-        </header>
+    <div class="wrapper">
+        <aside class="sidebar">
+            <h3>📑 Themen</h3>
+            <nav class="sidebar-nav" id="sidebar-nav">
+                <!-- Wird dynamisch gefüllt -->
+            </nav>
+        </aside>
         
-        <div id="content" class="loading">
-            Laden...
+        <div class="main-content">
+            <div class="container">
+                <header>
+                    <h1>📰 Tägliches Briefing</h1>
+                    <p>Nachrichten für Logistik & Wirtschaft</p>
+                </header>
+                
+                <div id="content" class="loading">
+                    Laden...
+                </div>
+                
+                <footer>
+                    <p>Automatisch generiert täglich um 5:00 UTC</p>
+                </footer>
+            </div>
         </div>
-        
-        <footer>
-            <p>Automatisch generiert täglich um 5:00 UTC</p>
-        </footer>
     </div>
     
     <script>
+        // Thema-Beschreibungen
+        const themaDescriptions = {
+            'Wirtschaft': 'Aktuelle Entwicklungen in Märkten, Unternehmen und Konjunktur. Hier finden Sie Berichte über Börsen, Unternehmensbilanzen, Handelsbeziehungen und wirtschaftliche Trends, die für Ihre Geschäftstätigkeit relevant sind.',
+            'Logistik': 'Supply Chain und Logistik im Fokus. Erfahren Sie über Transport, Lagerwirtschaft, Lieferkettenlösungen und logistische Innovationen, die die Branche prägen.',
+            'Politik': 'Politische Nachrichten aus In- und Ausland. Folgen Sie wichtigen Entscheidungen, Gesetzen und politischen Entwicklungen mit Auswirkungen auf Wirtschaft und Gesellschaft.',
+            'KI und Technik': 'Künstliche Intelligenz, Technologie und Innovation. Hier erhalten Sie Einblicke in neue Technologien, KI-Anwendungen und digitale Trends, die Industrie und Arbeitswelt transformieren.'
+        };
+        
         async function loadData() {
             const contentDiv = document.getElementById('content');
+            const sidebarNav = document.getElementById('sidebar-nav');
+            
             try {
                 const response = await fetch('data.json');
                 if (!response.ok) throw new Error('data.json nicht gefunden');
@@ -168,6 +377,7 @@
                 }
                 
                 let html = '';
+                let navHtml = '';
                 
                 if (data.erstellt) {
                     const date = new Date(data.erstellt);
@@ -182,7 +392,17 @@
                 }
                 
                 for (const thema of data.themen) {
-                    html += `<div class="thema"><h2>${escapeHtml(thema.name)}</h2>`;
+                    const themaId = thema.name.toLowerCase().replace(/\s+/g, '-');
+                    
+                    // Navigation erstellen
+                    navHtml += `<a href="#${themaId}" class="sidebar-link" data-thema="${themaId}">${thema.name}</a>`;
+                    
+                    // Inhalt erstellen
+                    html += `<div class="thema" id="${themaId}">`;
+                    html += `<div class="thema-header">`;
+                    html += `<h2>${escapeHtml(thema.name)}</h2>`;
+                    html += `<div class="thema-description">${escapeHtml(themaDescriptions[thema.name] || 'Nachrichten zu diesem Thema.')}</div>`;
+                    html += `</div>`;
                     
                     if (thema.fehler) {
                         html += `<div class="fehler">${escapeHtml(thema.fehler)}</div>`;
@@ -196,7 +416,7 @@
                                 html += `<div class="quellen">`;
                                 for (const quelle of meldung.quellen) {
                                     if (quelle.url) {
-                                        html += `<a href="${escapeHtml(quelle.url)}" target="_blank">${escapeHtml(quelle.name || 'Quelle')}</a>`;
+                                        html += `<a href="${escapeHtml(quelle.url)}" target="_blank">📄 ${escapeHtml(quelle.name || 'Quelle')}</a>`;
                                     }
                                 }
                                 html += `</div>`;
@@ -211,7 +431,34 @@
                     html += `</div>`;
                 }
                 
+                sidebarNav.innerHTML = navHtml;
                 contentDiv.innerHTML = html;
+                
+                // Event Listener für Navigation
+                document.querySelectorAll('.sidebar-link').forEach(link => {
+                    link.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
+                        this.classList.add('active');
+                        
+                        const targetId = this.getAttribute('href').substring(1);
+                        const target = document.getElementById(targetId);
+                        if (target) {
+                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    });
+                });
+                
+                // Sidebar mobile toggle
+                document.querySelectorAll('.sidebar-link').forEach(link => {
+                    link.addEventListener('click', function() {
+                        const sidebar = document.querySelector('.sidebar');
+                        if (window.innerWidth <= 768 && sidebar.classList.contains('mobile-open')) {
+                            sidebar.classList.remove('mobile-open');
+                        }
+                    });
+                });
+                
             } catch (error) {
                 contentDiv.innerHTML = `<div class="error-message">⚠️ Fehler beim Laden der Daten:<br>${escapeHtml(error.message)}</div>`;
                 console.error('Fehler:', error);
