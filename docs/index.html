@@ -1,1 +1,235 @@
-
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tägliches Briefing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding-top: 20px;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .timestamp {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.8);
+            margin-bottom: 30px;
+            font-size: 0.95em;
+        }
+        
+        .thema {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+        
+        .thema h2 {
+            color: #667eea;
+            font-size: 1.8em;
+            margin-bottom: 25px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .meldung {
+            margin-bottom: 25px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            border-radius: 4px;
+        }
+        
+        .meldung:last-child {
+            margin-bottom: 0;
+        }
+        
+        .meldung h3 {
+            color: #333;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        
+        .meldung p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+        
+        .quellen {
+            font-size: 0.9em;
+            color: #999;
+            margin-top: 10px;
+        }
+        
+        .quellen a {
+            color: #667eea;
+            text-decoration: none;
+            margin-right: 15px;
+        }
+        
+        .quellen a:hover {
+            text-decoration: underline;
+        }
+        
+        .fehler {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 4px;
+            color: #856404;
+            margin-bottom: 15px;
+        }
+        
+        .loading {
+            text-align: center;
+            color: white;
+            padding: 40px;
+            font-size: 1.1em;
+        }
+        
+        .error-message {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        
+        footer {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.7);
+            margin-top: 50px;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📰 Tägliches Briefing</h1>
+            <p>Nachrichten für Logistik & Wirtschaft</p>
+        </header>
+        
+        <div id="content" class="loading">
+            Laden...
+        </div>
+        
+        <footer>
+            <p>Automatisch generiert täglich um 5:00 UTC</p>
+        </footer>
+    </div>
+    
+    <script>
+        async function loadData() {
+            const contentDiv = document.getElementById('content');
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) throw new Error('data.json nicht gefunden');
+                
+                const data = await response.json();
+                
+                if (!data.themen || data.themen.length === 0) {
+                    contentDiv.innerHTML = '<div class="error-message">Keine Daten vorhanden.</div>';
+                    return;
+                }
+                
+                let html = '';
+                
+                if (data.erstellt) {
+                    const date = new Date(data.erstellt);
+                    const formatter = new Intl.DateTimeFormat('de-DE', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    });
+                    html += `<div class="timestamp">Erstellt: ${formatter.format(date)}</div>`;
+                }
+                
+                for (const thema of data.themen) {
+                    html += `<div class="thema"><h2>${escapeHtml(thema.name)}</h2>`;
+                    
+                    if (thema.fehler) {
+                        html += `<div class="fehler">${escapeHtml(thema.fehler)}</div>`;
+                    } else if (thema.meldungen && thema.meldungen.length > 0) {
+                        for (const meldung of thema.meldungen) {
+                            html += `<div class="meldung">`;
+                            html += `<h3>${escapeHtml(meldung.titel)}</h3>`;
+                            html += `<p>${escapeHtml(meldung.text)}</p>`;
+                            
+                            if (meldung.quellen && meldung.quellen.length > 0) {
+                                html += `<div class="quellen">`;
+                                for (const quelle of meldung.quellen) {
+                                    if (quelle.url) {
+                                        html += `<a href="${escapeHtml(quelle.url)}" target="_blank">${escapeHtml(quelle.name || 'Quelle')}</a>`;
+                                    }
+                                }
+                                html += `</div>`;
+                            }
+                            
+                            html += `</div>`;
+                        }
+                    } else {
+                        html += `<div class="fehler">Keine Meldungen verfügbar.</div>`;
+                    }
+                    
+                    html += `</div>`;
+                }
+                
+                contentDiv.innerHTML = html;
+            } catch (error) {
+                contentDiv.innerHTML = `<div class="error-message">⚠️ Fehler beim Laden der Daten:<br>${escapeHtml(error.message)}</div>`;
+                console.error('Fehler:', error);
+            }
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Seite laden wenn DOM bereit ist
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', loadData);
+        } else {
+            loadData();
+        }
+    </script>
+</body>
+</html>

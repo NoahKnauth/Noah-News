@@ -1,0 +1,15 @@
+{
+  "erstellt": "2026-09-29T14:00:00+00:00",
+  "themen": [
+    {
+      "name": "Testdaten",
+      "meldungen": [
+        {
+          "titel": "Website funktioniert",
+          "text": "Die Daten werden erfolgreich geladen und angezeigt. Sobald der Workflow data.json mit echten Daten erzeugt, werden diese automatisch hier angezeigt.",
+          "quellen": []
+        }
+      ]
+    }
+  ]
+}
