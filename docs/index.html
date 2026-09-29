@@ -1,482 +1,64 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tägliches Briefing</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-        }
-        
-        .wrapper {
-            display: flex;
-            min-height: 100vh;
-        }
-        
-        /* Sidebar Navigation */
-        .sidebar {
-            width: 250px;
-            background: rgba(0, 0, 0, 0.2);
-            padding: 20px;
-            position: fixed;
-            left: 0;
-            top: 0;
-            height: 100vh;
-            overflow-y: auto;
-            backdrop-filter: blur(10px);
-        }
-        
-        .sidebar h3 {
-            color: white;
-            margin-bottom: 20px;
-            font-size: 1.2em;
-            text-align: center;
-        }
-        
-        .sidebar-nav {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-        
-        .sidebar-link {
-            display: block;
-            padding: 12px 16px;
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: all 0.3s ease;
-            background: rgba(255, 255, 255, 0.1);
-            border-left: 3px solid transparent;
-        }
-        
-        .sidebar-link:hover {
-            background: rgba(255, 255, 255, 0.2);
-            transform: translateX(5px);
-        }
-        
-        .sidebar-link.active {
-            background: rgba(255, 255, 255, 0.3);
-            border-left-color: #ffd700;
-            font-weight: bold;
-        }
-        
-        /* Main Content */
-        .main-content {
-            margin-left: 250px;
-            flex: 1;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            color: white;
-            margin-bottom: 30px;
-            padding: 30px 20px;
-            background: rgba(0, 0, 0, 0.2);
-            border-radius: 12px;
-        }
-        
-        header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        
-        header p {
-            font-size: 1.1em;
-            opacity: 0.9;
-        }
-        
-        .timestamp {
-            text-align: center;
-            color: rgba(255, 255, 255, 0.8);
-            margin-bottom: 30px;
-            font-size: 0.95em;
-        }
-        
-        /* Thema Card */
-        .thema {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            scroll-margin-top: 60px;
-            transition: transform 0.3s ease;
-        }
-        
-        .thema:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
-        }
-        
-        .thema-header {
-            margin-bottom: 25px;
-        }
-        
-        .thema h2 {
-            color: #667eea;
-            font-size: 2em;
-            margin-bottom: 15px;
-            border-bottom: 3px solid #667eea;
-            padding-bottom: 10px;
-        }
-        
-        .thema-description {
-            background: #f0f4ff;
-            padding: 16px;
-            border-left: 4px solid #667eea;
-            border-radius: 6px;
-            color: #444;
-            line-height: 1.7;
-            font-size: 1em;
-            margin-bottom: 20px;
-        }
-        
-        .meldung {
-            margin-bottom: 25px;
-            padding: 20px;
-            background: #f8f9fa;
-            border-left: 4px solid #667eea;
-            border-radius: 4px;
-            transition: all 0.3s ease;
-        }
-        
-        .meldung:hover {
-            background: #f0f4ff;
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
-        }
-        
-        .meldung:last-child {
-            margin-bottom: 0;
-        }
-        
-        .meldung h3 {
-            color: #333;
-            font-size: 1.2em;
-            margin-bottom: 10px;
-            line-height: 1.4;
-        }
-        
-        .meldung p {
-            color: #555;
-            line-height: 1.7;
-            margin-bottom: 10px;
-        }
-        
-        .quellen {
-            font-size: 0.9em;
-            color: #999;
-            margin-top: 10px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        
-        .quellen a {
-            color: #667eea;
-            text-decoration: none;
-            padding: 4px 8px;
-            background: rgba(102, 126, 234, 0.1);
-            border-radius: 4px;
-            transition: all 0.3s ease;
-        }
-        
-        .quellen a:hover {
-            background: rgba(102, 126, 234, 0.2);
-            text-decoration: underline;
-        }
-        
-        .fehler {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
-            padding: 20px;
-            border-radius: 4px;
-            color: #856404;
-            margin-bottom: 15px;
-        }
-        
-        .loading {
-            text-align: center;
-            color: white;
-            padding: 60px 20px;
-            font-size: 1.2em;
-        }
-        
-        .loading::after {
-            content: '';
-            display: block;
-            width: 40px;
-            height: 40px;
-            border: 4px solid rgba(255, 255, 255, 0.3);
-            border-top: 4px solid white;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 20px auto 0;
-        }
-        
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        
-        .error-message {
-            background: #f8d7da;
-            border: 1px solid #f5c6cb;
-            color: #721c24;
-            padding: 20px;
-            border-radius: 8px;
-            margin-top: 20px;
-        }
-        
-        footer {
-            text-align: center;
-            color: rgba(255, 255, 255, 0.7);
-            margin-top: 50px;
-            padding: 20px;
-            font-size: 0.9em;
-        }
-        
-        /* Responsive */
-        @media (max-width: 768px) {
-            .wrapper {
-                flex-direction: column;
-            }
-            
-            .sidebar {
-                position: relative;
-                width: 100%;
-                height: auto;
-                display: none;
-                flex-direction: row;
-                justify-content: center;
-                gap: 10px;
-                padding: 15px;
-            }
-            
-            .sidebar.mobile-open {
-                display: flex;
-            }
-            
-            .sidebar h3 {
-                display: none;
-            }
-            
-            .sidebar-nav {
-                flex-direction: row;
-                gap: 8px;
-                flex-wrap: wrap;
-            }
-            
-            .sidebar-link {
-                padding: 8px 12px;
-                font-size: 0.9em;
-            }
-            
-            .main-content {
-                margin-left: 0;
-            }
-            
-            .menu-toggle {
-                display: block;
-                position: fixed;
-                top: 10px;
-                left: 10px;
-                background: rgba(255, 255, 255, 0.2);
-                border: none;
-                color: white;
-                padding: 10px 15px;
-                border-radius: 6px;
-                cursor: pointer;
-                z-index: 1000;
-            }
-            
-            header {
-                padding: 20px 15px;
-            }
-            
-            header h1 {
-                font-size: 1.8em;
-            }
-            
-            .thema h2 {
-                font-size: 1.5em;
-            }
-        }
-        
-        @media (min-width: 769px) {
-            .menu-toggle {
-                display: none;
-            }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#667eea">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Briefing">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<title>Tägliches Briefing</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%) fixed;min-height:100vh;color:#222}
+header{max-width:42rem;margin:0 auto;padding:calc(env(safe-area-inset-top) + 1rem) 1rem .6rem;color:#fff}
+h1{font-size:1.4rem;line-height:1.2}
+.ts{font-size:.85rem;opacity:.9;margin-top:.2rem}
+nav{position:sticky;top:0;z-index:5;background:rgba(70,50,130,.6);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding-top:env(safe-area-inset-top)}
+#tabs{max-width:42rem;margin:0 auto;display:flex;gap:.5rem;overflow-x:auto;padding:.6rem 1rem;scrollbar-width:none}
+#tabs::-webkit-scrollbar{display:none}
+#tabs button{flex:none;font:600 .95rem inherit;font-family:inherit;color:#fff;background:rgba(255,255,255,.16);border:0;border-radius:2rem;padding:.55rem 1rem;min-height:2.6rem}
+#tabs button[aria-selected=true]{background:#fff;color:#5a3fa0}
+main{max-width:42rem;margin:0 auto;padding:.75rem .75rem calc(env(safe-area-inset-bottom) + 2rem)}
+article{background:#fff;border-radius:12px;padding:1rem;margin-bottom:.75rem;box-shadow:0 4px 14px rgba(0,0,0,.15)}
+h2{font-size:1.05rem;line-height:1.35;color:#1f2340;margin-bottom:.4rem}
+article p{color:#333;line-height:1.65}
+.q{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.7rem}
+.q a{color:#4a3d9c;background:#eeeaff;border-radius:6px;padding:.35rem .6rem;font-size:.85rem;text-decoration:none;min-height:2rem;display:inline-flex;align-items:center}
+.f{background:#fff3cd;border-left:4px solid #ffc107;border-radius:8px;padding:1rem;color:#6b5200}
+.l{color:#fff;text-align:center;padding:2rem 1rem}
+a:focus-visible,button:focus-visible{outline:3px solid #ffd700;outline-offset:2px}
+</style>
 </head>
 <body>
-    <div class="wrapper">
-        <aside class="sidebar">
-            <h3>📑 Themen</h3>
-            <nav class="sidebar-nav" id="sidebar-nav">
-                <!-- Wird dynamisch gefüllt -->
-            </nav>
-        </aside>
-        
-        <div class="main-content">
-            <div class="container">
-                <header>
-                    <h1>📰 Tägliches Briefing</h1>
-                    <p>Nachrichten für Logistik & Wirtschaft</p>
-                </header>
-                
-                <div id="content" class="loading">
-                    Laden...
-                </div>
-                
-                <footer>
-                    <p>Automatisch generiert täglich um 5:00 UTC</p>
-                </footer>
-            </div>
-        </div>
-    </div>
-    
-    <script>
-        // Thema-Beschreibungen
-        const themaDescriptions = {
-            'Wirtschaft': 'Aktuelle Entwicklungen in Märkten, Unternehmen und Konjunktur. Hier finden Sie Berichte über Börsen, Unternehmensbilanzen, Handelsbeziehungen und wirtschaftliche Trends, die für Ihre Geschäftstätigkeit relevant sind.',
-            'Logistik': 'Supply Chain und Logistik im Fokus. Erfahren Sie über Transport, Lagerwirtschaft, Lieferkettenlösungen und logistische Innovationen, die die Branche prägen.',
-            'Politik': 'Politische Nachrichten aus In- und Ausland. Folgen Sie wichtigen Entscheidungen, Gesetzen und politischen Entwicklungen mit Auswirkungen auf Wirtschaft und Gesellschaft.',
-            'KI und Technik': 'Künstliche Intelligenz, Technologie und Innovation. Hier erhalten Sie Einblicke in neue Technologien, KI-Anwendungen und digitale Trends, die Industrie und Arbeitswelt transformieren.'
-        };
-        
-        async function loadData() {
-            const contentDiv = document.getElementById('content');
-            const sidebarNav = document.getElementById('sidebar-nav');
-            
-            try {
-                const response = await fetch('data.json');
-                if (!response.ok) throw new Error('data.json nicht gefunden');
-                
-                const data = await response.json();
-                
-                if (!data.themen || data.themen.length === 0) {
-                    contentDiv.innerHTML = '<div class="error-message">Keine Daten vorhanden.</div>';
-                    return;
-                }
-                
-                let html = '';
-                let navHtml = '';
-                
-                if (data.erstellt) {
-                    const date = new Date(data.erstellt);
-                    const formatter = new Intl.DateTimeFormat('de-DE', {
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric',
-                        hour: '2-digit',
-                        minute: '2-digit'
-                    });
-                    html += `<div class="timestamp">Erstellt: ${formatter.format(date)}</div>`;
-                }
-                
-                for (const thema of data.themen) {
-                    const themaId = thema.name.toLowerCase().replace(/\s+/g, '-');
-                    
-                    // Navigation erstellen
-                    navHtml += `<a href="#${themaId}" class="sidebar-link" data-thema="${themaId}">${thema.name}</a>`;
-                    
-                    // Inhalt erstellen
-                    html += `<div class="thema" id="${themaId}">`;
-                    html += `<div class="thema-header">`;
-                    html += `<h2>${escapeHtml(thema.name)}</h2>`;
-                    html += `<div class="thema-description">${escapeHtml(themaDescriptions[thema.name] || 'Nachrichten zu diesem Thema.')}</div>`;
-                    html += `</div>`;
-                    
-                    if (thema.fehler) {
-                        html += `<div class="fehler">${escapeHtml(thema.fehler)}</div>`;
-                    } else if (thema.meldungen && thema.meldungen.length > 0) {
-                        for (const meldung of thema.meldungen) {
-                            html += `<div class="meldung">`;
-                            html += `<h3>${escapeHtml(meldung.titel)}</h3>`;
-                            html += `<p>${escapeHtml(meldung.text)}</p>`;
-                            
-                            if (meldung.quellen && meldung.quellen.length > 0) {
-                                html += `<div class="quellen">`;
-                                for (const quelle of meldung.quellen) {
-                                    if (quelle.url) {
-                                        html += `<a href="${escapeHtml(quelle.url)}" target="_blank">📄 ${escapeHtml(quelle.name || 'Quelle')}</a>`;
-                                    }
-                                }
-                                html += `</div>`;
-                            }
-                            
-                            html += `</div>`;
-                        }
-                    } else {
-                        html += `<div class="fehler">Keine Meldungen verfügbar.</div>`;
-                    }
-                    
-                    html += `</div>`;
-                }
-                
-                sidebarNav.innerHTML = navHtml;
-                contentDiv.innerHTML = html;
-                
-                // Event Listener für Navigation
-                document.querySelectorAll('.sidebar-link').forEach(link => {
-                    link.addEventListener('click', function(e) {
-                        e.preventDefault();
-                        document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
-                        this.classList.add('active');
-                        
-                        const targetId = this.getAttribute('href').substring(1);
-                        const target = document.getElementById(targetId);
-                        if (target) {
-                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                        }
-                    });
-                });
-                
-                // Sidebar mobile toggle
-                document.querySelectorAll('.sidebar-link').forEach(link => {
-                    link.addEventListener('click', function() {
-                        const sidebar = document.querySelector('.sidebar');
-                        if (window.innerWidth <= 768 && sidebar.classList.contains('mobile-open')) {
-                            sidebar.classList.remove('mobile-open');
-                        }
-                    });
-                });
-                
-            } catch (error) {
-                contentDiv.innerHTML = `<div class="error-message">⚠️ Fehler beim Laden der Daten:<br>${escapeHtml(error.message)}</div>`;
-                console.error('Fehler:', error);
-            }
-        }
-        
-        function escapeHtml(text) {
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
-        }
-        
-        // Seite laden wenn DOM bereit ist
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', loadData);
-        } else {
-            loadData();
-        }
-    </script>
+<header><h1>Tägliches Briefing</h1><div class="ts" id="ts"></div></header>
+<nav><div id="tabs" role="tablist"></div></nav>
+<main id="out"><div class="l">Laden …</div></main>
+<script>
+const $=id=>document.getElementById(id);
+function el(t,txt,c){const e=document.createElement(t);if(txt)e.textContent=txt;if(c)e.className=c;return e}
+fetch("data.json?"+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
+  if(d.erstellt)$("ts").textContent="Erstellt: "+new Date(d.erstellt).toLocaleString("de-DE",{dateStyle:"long",timeStyle:"short"});
+  const show=i=>{
+    [...$("tabs").children].forEach((b,j)=>{b.setAttribute("aria-selected",j===i);if(j===i)b.scrollIntoView({inline:"center",block:"nearest"})});
+    const out=$("out");out.replaceChildren();
+    const t=d.themen[i];
+    if(t.fehler||!t.meldungen||!t.meldungen.length)out.append(el("div",t.fehler||"Keine Meldungen verfügbar.","f"));
+    (t.meldungen||[]).forEach(m=>{
+      const a=el("article");a.append(el("h2",m.titel),el("p",m.text));
+      const s=el("div",null,"q");
+      (m.quellen||[]).filter(q=>q.url).forEach(q=>{const l=el("a",q.name||"Quelle");l.href=q.url;l.target="_blank";l.rel="noopener";s.append(l)});
+      if(s.children.length)a.append(s);
+      out.append(a);
+    });
+    scrollTo(0,0);
+  };
+  d.themen.forEach((t,i)=>{const b=el("button",t.name);b.setAttribute("role","tab");b.onclick=()=>show(i);$("tabs").append(b)});
+  show(0);
+}).catch(()=>{$("out").replaceChildren(el("div","Keine Daten gefunden. Starte den Ablauf in GitHub unter Actions einmal manuell.","f"))});
+</script>
 </body>
 </html>
