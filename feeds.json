@@ -2,22 +2,30 @@
   "Wirtschaft": [
     {"name": "Tagesschau Wirtschaft", "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml"},
     {"name": "Süddeutsche Wirtschaft", "url": "https://rss.sueddeutsche.de/rss/Wirtschaft"},
-    {"name": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/wirtschaft-106.rss"}
+    {"name": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/wirtschaft-106.rss"},
+    {"name": "Financial Times Deutschland", "url": "https://www.ft.com/?format=rss"},
+    {"name": "Handelsblatt", "url": "https://www.handelsblatt.com/rss"},
+    {"name": "WirtschaftsWoche", "url": "https://www.wiwo.de/rss"}
   ],
   "Logistik": [
     {"name": "Logistik-Watchblog", "url": "https://logistik-watchblog.de/feed/"},
     {"name": "Supply Chain Dive", "url": "https://www.supplychaindive.com/feeds/news/"},
-    {"name": "FreightWaves", "url": "https://www.freightwaves.com/news/feed"}
+    {"name": "FreightWaves", "url": "https://www.freightwaves.com/news/feed"},
+    {"name": "containerjournal.de", "url": "https://www.containerjournal.de/feed/"},
+    {"name": "Logistik heute", "url": "https://www.logistik-heute.de/rss"}
   ],
   "Politik": [
     {"name": "Tagesschau Inland", "url": "https://www.tagesschau.de/inland/index~rss2.xml"},
     {"name": "Tagesschau Ausland", "url": "https://www.tagesschau.de/ausland/index~rss2.xml"},
     {"name": "Süddeutsche Politik", "url": "https://rss.sueddeutsche.de/rss/Politik"},
-    {"name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-de-all"}
+    {"name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-de-all"},
+    {"name": "DLF Nachrichten", "url": "https://www.deutschlandfunk.de/nachrichten-100.rss"}
   ],
   "KI und Technik": [
     {"name": "heise online", "url": "https://www.heise.de/rss/heise-atom.xml"},
     {"name": "Golem", "url": "https://rss.golem.de/rss.php?feed=RSS2.0"},
-    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"}
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Ars Technica", "url": "https://arstechnica.com/feed/"}
   ]
 }
