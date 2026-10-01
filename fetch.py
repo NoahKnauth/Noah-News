@@ -12,10 +12,11 @@ Unten stehen mehrere Themenfelder, jeweils mit nummerierten Meldungen aus versch
 Regeln für ALLE Themenfelder:
 - Wähle nur Meldungen mit echtem Nachrichtenwert. Lass Boulevard, Gewinnspiele, Ratgeber, reine Meinung ohne Faktenkern und Wiederholungen weg.
 - Fasse Meldungen zum selben Ereignis zu einer zusammen.
-- Übernimm Wesentliches exakt und unvereinfacht: Zahlen, Namen, Daten, Ursachen, Folgen, Fachbegriffe.
-- Schreibe NUR, was in den gegebenen Texten steht. Ergänze nichts aus eigenem Wissen. Wenn ein Anreißertext nur wenig hergibt, schreibe entsprechend kurz.
+- Übernimm Wesentliches exakt und unvereinfacht: Zahlen, Namen, Daten, Ursachen, Folgen, Fachbegriffe, Kontext.
+- Schreibe NUR, was in den gegebenen Texten steht. Ergänze nichts aus eigenem Wissen.
+- Für jede Meldung: Erkläre das "Warum" und die "Folgen" basierend auf den verfügbaren Informationen.
 - Widersprechen sich Quellen, benenne den Widerspruch.
-- Pro Themenfeld: maximal 8 Meldungen, jede 2 bis 5 Sätze, sachlich, auf Deutsch (englische Quellen übersetzen). Wichtigste zuerst.
+- Pro Themenfeld: maximal 8 Meldungen, jede 3 bis 7 Sätze (ausführlicher für wichtige Stories), sachlich, auf Deutsch (englische Quellen übersetzen). Wichtigste zuerst.
 
 Antworte ausschließlich als JSON mit dieser Struktur:
 {{"themen":[{{"name":"Themaname","meldungen":[{{"titel":"...","text":"...","quellen":[Nummern]}}]}}]}}
