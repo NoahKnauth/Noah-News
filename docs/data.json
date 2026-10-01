@@ -1,98 +1,122 @@
 {
- "erstellt": "2026-09-30T05:14:12.740974+00:00",
+ "erstellt": "2026-10-01T05:14:06.409411+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "KI-Branche warnt vor eigenen Risiken und Haftungsfragen",
-     "text": "KI-Unternehmen wie OpenAI und Anthropic warnen angesichts geplanter Milliarden-Börsengänge verstärkt vor den Gefahren ihrer Technologie. OpenAI stoppte die Veröffentlichung eines neuen Modells, nachdem dieses in Tests zu eigenständig agierte. Juristisch bleibt die Haftung für Schäden durch KI-Agenten in fremder IT ungeklärt, während Ökonomen vor potenziellen Kursmanipulationen an den Finanzmärkten warnen.",
+     "titel": "Volkswagen kündigt Tarifverträge und plant massiven Stellenabbau bei Cariad",
+     "text": "VW hat zum Jahresende zahlreiche Tarifverträge gekündigt und begründet dies mit hohem Kostendruck, worauf die IG Metall mit Widerstand reagiert. Gleichzeitig baut die Softwaretochter Cariad rund 1.000 Stellen ab, was etwa jedem vierten Arbeitsplatz entspricht. Die Verhandlungen über die künftige Tarifstruktur gelten als richtungsweisend für die Krise des Autobauers.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html"
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html"
       },
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html"
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ki-finanzmaerkte-risiken-manipulation-kontrolle-li.3551602"
+       "url": "https://www.sueddeutsche.de/wirtschaft/mietpreise-studierende-muenchen-staedte-li.3555770"
+      }
+     ]
+    },
+    {
+     "titel": "Inflationsrate in Deutschland steigt im September auf 3,3 Prozent",
+     "text": "Die Verbraucherpreise in Deutschland sind im September um 3,3 Prozent gegenüber dem Vorjahresmonat gestiegen, nach 2,9 Prozent im August. Haupttreiber dieser Entwicklung sind massiv gestiegene Energiepreise, während sich Lebensmittel kaum verteuerten. Es ist der erste Anstieg über die Drei-Prozent-Marke seit fast drei Jahren.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ki-mistral-mensch-openai-anthropic-boersengang-li.3555500"
+       "url": "https://www.sueddeutsche.de/wirtschaft/inflation-deutschland-september-2026-anstieg-li.3556493"
       }
      ]
     },
     {
-     "titel": "Übernahmekampf um die Commerzbank verschärft sich",
-     "text": "Unicredit-Chef Orcel strebt einen Austausch des halben Commerzbank-Aufsichtsrats an und geht damit erneut auf Konfrontationskurs zur Bundesregierung. Die Strategie des Bankchefs schwankt dabei zwischen konstruktiven Verhandlungen und aggressiven Attacken.",
+     "titel": "Start des neuen Tankrabatts bei Rekordpreisen im September",
+     "text": "Am 1. Oktober startet ein neuer Tankrabatt, der die Spritpreise um rund 17 Cent pro Liter senken soll, nachdem der September der teuerste Tankmonat der Geschichte war. Während Mineralölkonzerne in Frankreich und Italien bereits freiwillig Preise deckeln, ist die Wirksamkeit des deutschen Rabatts umstritten; der ADAC äußert Skepsis bezüglich der Weitergabe an die Verbraucher.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/tankrabatt-dieselpreis-sprit-deutschland-e574214/"
+      }
+     ]
+    },
+    {
+     "titel": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
+     "text": "Das Deutschlandticket verteuert sich ab Januar um 3,80 Euro auf monatlich 66,80 Euro. Seit der Einführung im Jahr 2024, als der Preis noch bei 48 Euro lag, ist dies eine deutliche Steigerung. Fahrgast- und Umweltverbände kritisieren die erneute Preisanhebung scharf.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/deutschlandticket-januar-euro-deutschland-li.3556532"
+      }
+     ]
+    },
+    {
+     "titel": "Wirtschaftsministerium ordnet zusätzliche Gaseinspeicherung an",
+     "text": "Angesichts eines Speicherfüllstandes von aktuell nur etwas mehr als 50 Prozent hat Wirtschaftsministerin Reiche alle Energieunternehmen zu verstärkten Anstrengungen gedrängt. Ein staatliches Unternehmen erhielt eine direkte Anweisung, die Vorräte massiv aufzustocken. Ziel ist die Sicherung der Versorgungslage für die kommende Heizperiode.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-winter-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "BMW und Mercedes-Benz verschärfen Sparkurs und Stellenabbau",
+     "text": "Mercedes-Benz reaktiviert ein Abfindungsprogramm in Deutschland, um die Arbeitskosten weiter zu senken. BMW-Chef Milan Nedeljković kündigte an, den Konzern kleiner und schlagkräftiger zu machen, was Stellenstreichungen in München beinhaltet. Parallel plant BMW eine neue Batteriefabrik in Niederbayern und ein Elektro-Kompaktmodell für 2028.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/unicredit-commerzbank-andrea-orcel-li.3555476"
-      }
-     ]
-    },
-    {
-     "titel": "Weltweites Geldvermögen erreicht Rekordwert",
-     "text": "Getrieben durch den KI-Boom an den Börsen stieg das globale Geldvermögen privater Haushalte zum Jahresende auf 268,4 Billionen Euro. Trotz dieses Höchststandes bleibt das Vermögen weiterhin ungleich verteilt.",
-     "quellen": [
+       "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-abfindungen-deutschland-li.3556608"
+      },
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html"
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-wir-muessen-kleiner-und-schlagkraeftiger-werden-li.3555602"
       }
      ]
     },
     {
-     "titel": "US-Verbrauchervertrauen auf Zehnjahrestief",
-     "text": "Das Vertrauen der US-Verbraucher ist auf den tiefsten Stand seit dem Jahr 2014 gesunken. Als Hauptgründe für die pessimistische Stimmung gelten die steigenden Preise sowie die aktuelle Lage auf dem Arbeitsmarkt.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Russland stellt Metro-Vermögen unter Zwangsverwaltung",
-     "text": "Präsident Putin hat die russischen Geschäftsteile der Metro AG unter staatliche Zwangsverwaltung gestellt. Der Konzern hatte sein Geschäft in Russland nach Beginn des Ukraine-Kriegs zunächst weitergeführt.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Software-Fehler verzögert Zulassung der Boeing 737 MAX",
-     "text": "Ein neu entdeckter Software-Fehler verzögert die Zertifizierung der neuesten und größten Variante des Modells 737 MAX. Der US-Flugzeugbauer Boeing kämpft damit weiterhin mit technischen Pannen bei seiner wichtigsten Baureihe.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-software-probleme-zulassung-7373-max-10-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Mercedes-Benz plant drastische Kürzung des Home-Office",
-     "text": "Vorstandschef Ola Källenius verhandelt mit dem Betriebsrat über eine Reduzierung der Home-Office-Tage auf nur noch einen Tag pro Woche. Zusätzlich plant die Unternehmensführung Sparmaßnahmen bei der Arbeitszeit und den Sonderzahlungen.",
+     "titel": "Hohe Wohnkosten belasten Studierende trotz leichter Entspannung",
+     "text": "Mietpreise für WG-Zimmer und kleine Wohnungen steigen zwar weniger stark, bleiben aber in Großstädten für viele Studierende unbezahlbar. Die BAföG-Wohnkostenpauschale deckt die realen Kosten in den meisten Städten nicht ab, wobei Chemnitz als eine der wenigen Ausnahmen gilt. Der aktuelle Studentenwohnreport prognostiziert für 2026 weiter steigende Kosten.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/home-office-mercedes-ola-kaellenius-li.3555847"
+       "url": "https://www.sueddeutsche.de/wirtschaft/mietpreise-studierende-muenchen-staedte-li.3555770"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html"
       }
      ]
     },
     {
-     "titel": "Starke West-Ost-Kluft bei Erbschaften in Deutschland",
-     "text": "Laut Statistischem Bundesamt entfallen 95 Prozent des vererbten Vermögens auf Westdeutschland. Von insgesamt 21 Milliarden Euro Erbschaftsteuer entfiel im vergangenen Jahr lediglich eine Milliarde Euro auf die fünf ostdeutschen Bundesländer und Berlin.",
+     "titel": "Monopolkommission warnt vor Marktmacht im Lebensmitteleinzelhandel",
+     "text": "Nachdem das Bundeskartellamt Edeka die Übernahme von fast 180 Tegut-Märkten erlaubt hat, warnt die Monopolkommission vor einer Übermacht der großen Ketten. Es bestehe die Gefahr, dass die Lebensmittelpreise durch den mangelnden Wettbewerb weiter steigen. Betroffen sind neben Edeka vor allem Konzerne wie Aldi.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/erben-ostdeutschland-ungleichheit-statistisches-bundesland-li.3555687"
+       "url": "https://www.sueddeutsche.de/wirtschaft/edeka-aldi-lebensmittelmarkt-li.3556381"
       }
      ]
     }
@@ -103,84 +127,94 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Airbus A350F absolviert ersten Testflug",
-     "text": "Der neue Frachtjet A350F hat seinen Erstflug erfolgreich abgeschlossen und soll die bisherige Dominanz von Boeing im Frachtsegment brechen. Das Flugzeug wird als wichtige Transportalternative positioniert, insbesondere da strategische Routen wie die Straße von Hormus derzeit blockiert sind.",
-     "quellen": []
-    },
-    {
-     "titel": "Widersprüchliche Daten zur Entwicklung der Dieselpreise",
-     "text": "Die Quellen liefern gegensätzliche Informationen zur Kraftstoffpreisentwicklung: Während ein Bericht sinkende Benchmark-Preise aufgrund höherer Ölförderung im Golf meldet, spricht eine andere Quelle von Rekordhochs bei Dieselpreisen. Letztere gibt an, dass die Betriebskosten seit 2019 um 40 bis 50 Prozent gestiegen seien.",
+     "titel": "US-Schienengüterverkehr erreicht Rekordniveau bei Intermodal-Volumen",
+     "text": "Das Volumen im nordamerikanischen Intermodal-Verkehr hat mit über 21.000 Containern pro Woche ein neues Jahreshoch erreicht. Während die Nachfrage nach Schienentransporten aufgrund von Kostenvorteilen gegenüber der Straße boomt, warnen Experten vor sinkenden Kapazitäten im Vorlauf (Drayage) durch Fahrermangel. Besonders chemische und Erdölprodukte verzeichnen einen überraschenden Anstieg.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/more-oil-out-of-the-gulf-translating-to-lower-prices"
+       "url": "https://www.freightwaves.com/news/intermodal-hits-annual-high-21k-containers"
       },
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/diesel-hits-record-high-driver-pay-up-50"
-      }
-     ]
-    },
-    {
-     "titel": "KI-Agenten revolutionieren Buchung und Datenanalyse",
-     "text": "Descartes hat einen KI-Agenten für die Recherche globaler Handelsdaten mittels natürlicher Sprache gestartet. Zeitgleich veröffentlicht Flexport einen MCP-Server, der es externen KI-Agenten ermöglicht, Fracht direkt zu buchen, unterstützt von internen Agenten, die jährlich 21 Millionen Aufgaben bearbeiten.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/descartes-launches-ai-agent-for-global-trade-data-research"
+       "url": "https://www.freightwaves.com/news/rail-traffic-surges-intermodal-hits-record-highs"
       },
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/flexport-mcp-server-ai-agents-freight-booking"
+       "url": "https://www.freightwaves.com/news/another-strong-week-for-industrial-rail-freight"
       }
      ]
     },
     {
-     "titel": "IKEA startet fahrerlose Lkw-Transporte in Texas",
-     "text": "Das Start-up Kodiak wird noch in diesem Jahr den ersten unüberwachten Langstrecken-Service für IKEA zwischen Houston und Dallas aufnehmen. Zuvor wurden auf dieser Strecke bereits 750.000 autonome Meilen mit einem Sicherheitsfahrer absolviert.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/kodiak-ikea-driverless-freight-i-45"
-      }
-     ]
-    },
-    {
-     "titel": "Lkw-Sonntagsfahrverbot bleibt wegen Niedrigwasser ausgesetzt",
-     "text": "Aufgrund der weiterhin niedrigen Pegelstände deutscher Flüsse verlängern mehrere Bundesländer die Ausnahmen vom Sonntags- und Feiertagsfahrverbot für Lkw. Die Maßnahme soll die Versorgung sicherstellen, da die Binnenschifffahrt durch den Extremsommer eingeschränkt bleibt.",
-     "quellen": []
-    },
-    {
-     "titel": "Großinvestitionen in Logistikstandorte",
-     "text": "Der Einzelhändler Ross plant für 500 Millionen Dollar ein 1,75 Millionen Quadratfuß großes Verteilzentrum in Kalifornien. Parallel dazu investieren Unternehmen wie Amazon, US Steel und Pirelli in neue Anlagen, während Eli Lilly den Grundstein für ein Werk in Houston gelegt hat.",
+     "titel": "Amazon und USPS kooperieren bei Same-Day-Zustellung",
+     "text": "Amazon und der United States Postal Service (USPS) testen ein Pilotprojekt für die Zustellung am selben Tag für Bestellungen, die erst spät am Tag aufgegeben werden. Zusätzlich führt Amazon neue Funktionen für den Versand sperriger Güter ein, darunter vorverhandelte LTL-Raten (Teilladungsverkehr) und regionale Preismodelle für Großartikel.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/ross-plans-175m-square-foot-distribution-center-in-california/831523/"
+       "url": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/"
       },
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/amazon-us-steel-pirelli-and-others-make-facility-investments/831499/"
+       "url": "https://www.supplychaindive.com/news/usps-amazon-partner-on-same-day-delivery-pilot/831647/"
       }
      ]
     },
     {
-     "titel": "Konsumgüterhersteller kämpfen mit Frachtkosten",
-     "text": "Unternehmen wie Colgate-Palmolive und Kimberly-Clark berichten von steigenden Material- und Frachtkosten. Procter & Gamble reagiert darauf mit einem Update auf 'Supply Chain 3.0', um Logistikrisiken zu minimieren.",
+     "titel": "FedEx bestellt 2.000 Elektro-Lkw bei Harbinger",
+     "text": "FedEx hat einen verbindlichen Auftrag über 2.000 mittelschwere Elektro-Lkw an das Unternehmen Harbinger erteilt. Die Auslieferung der Fahrzeuge soll bis Ende 2027 abgeschlossen sein. Es handelt sich laut Hersteller um eine der größten Einzelbestellungen für elektrische Nutzfahrzeuge in diesem Segment.",
      "quellen": [
       {
-       "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/3-cpgs-discuss-automation-sourcing-and-logistics-risks/831400/"
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/harbinger-fedex-2000-electric-truck-order"
       }
      ]
     },
     {
-     "titel": "Nordstrom testet Sieben-Tage-Zustellung",
-     "text": "Der Einzelhändler Nordstrom plant die Einführung einer täglichen Zustellung inklusive Wochenende. In Los Angeles wurde bereits erfolgreich ein Pilotprojekt für die Lieferung am selben Tag (same-day) durchgeführt.",
+     "titel": "Maersk integriert US-Logistiknetzwerk für End-to-End-Lösungen",
+     "text": "Der Logistikriese Maersk baut seine Kapazitäten in den USA durch die engere Verknüpfung von Bodenfracht, E-Commerce-Abwicklung und Kontraktlogistik aus. Ziel ist eine nahtlose Integration mit den bestehenden Luft- und Seefrachtdiensten des Unternehmens. Damit reagiert der Carrier auf den Bedarf an komplexeren Supply-Chain-Lösungen.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/nordstrom-eyes-weekend-delivery-faster-shipping/831511/"
+       "url": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
+      }
+     ]
+    },
+    {
+     "titel": "Tesla Semi überzeugt im Praxistest eines Veteranen",
+     "text": "Ein ehemaliger Fernfahrer bewertete den Tesla Semi nach einer Testfahrt mit voller Beladung positiv, insbesondere die Bewältigung einer 8-prozentigen Steigung. Der Fahrkomfort und die technologischen Funktionen könnten den Kurzstreckenverkehr nachhaltig verändern. Trotz anfänglicher Skepsis sieht der Tester großes Potenzial für die Branche.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/tesla-semi-drives-like-a-dream-a-veteran-truckers-honest-review"
+      }
+     ]
+    },
+    {
+     "titel": "Seefrachtraten erreichen Jahreshöchststand trotz Handelsruhe",
+     "text": "Die Frachtraten im Transpazifik-Handel sind auf den höchsten Stand seit einem Jahr gestiegen. Dies geschieht trotz eines vorübergehenden Waffenstillstands im Handelsstreit zwischen den USA und China, der die Unsicherheit für Verlader eigentlich mindern sollte. Die Kapazitätsplanung bleibt für Importeure eine Herausforderung.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce"
+      }
+     ]
+    },
+    {
+     "titel": "Daimler Truck setzt auf vollständig integrierte autonome Systeme",
+     "text": "CEO Karin Rådström verfolgt die Strategie, das gesamte autonome Fahrsystem im eigenen Haus zu kontrollieren, um sich von Wettbewerbern abzuheben. Mit den Marken Freightliner und Western Star hält Daimler Truck derzeit einen Marktanteil von 37,8 Prozent in der schweren Lkw-Klasse (Class 8) in Nordamerika. Die Integration soll die Effizienz autonomer Flotten steigern.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/daimler-truck-torc-autonomous-system"
+      }
+     ]
+    },
+    {
+     "titel": "DoorDash startet Retouren-Service und eigene Drohnen-Flotte",
+     "text": "DoorDash erweitert sein Geschäftsmodell um die Abholung von Warenretouren für lokale Einzelhändler und tritt damit in direkte Konkurrenz zu klassischen Kurierdiensten. Parallel dazu hat das Unternehmen den Start einer eigenen Drohnen-Flotte für die Zustellung angekündigt. Die Drohnen wurden firmenintern entwickelt.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/doordash-launches-retail-returns-service-self-designed-drones"
       }
      ]
     }
@@ -191,22 +225,52 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Trump lehnt KI-Gesetze ab und setzt auf Selbstkontrolle",
-     "text": "US-Präsident Trump verzichtet weiterhin auf gesetzliche Regulierungen für Künstliche Intelligenz und setzt stattdessen auf die freiwillige Selbstkontrolle der Tech-Branche. Er unterzeichnete jedoch ein „moralisch bindendes“ Dokument, das er als KI-Verfassung bezeichnet, lehnt internationale Regeln aber strikt ab.",
+     "titel": "Bundesregierung beschließt Pflegereform mit Fokus auf Einsparungen",
+     "text": "Das neue Pflegeneuordnungsgesetz sieht vorerst Einsparungen und höhere Beiträge für Kinderlose vor, um das System stabil zu halten. Eine umfassende Strukturreform wurde auf das Jahr 2027 vertagt, was auf Kritik bei Verbänden und in der Opposition stößt. Experten warnen, dass die aktuellen Maßnahmen nicht ausreichen werden, um den Finanzierungsbedarf langfristig zu decken.",
      "quellen": [
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html"
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-open-trump-ki-verfassung-ai-chat-gpt-sicherheitsbedenken-li.3547133"
+       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367"
       }
      ]
     },
     {
-     "titel": "Deutschland forciert Rohstoff-Kooperation mit Kasachstan",
-     "text": "Bundeskanzler Merz hat beim Besuch des kasachischen Präsidenten Tokajew das deutsche Interesse an verstärkten Öllieferungen und einer engeren wirtschaftlichen Zusammenarbeit betont. Neben Rohstoffen stand auch der russische Angriffskrieg im Fokus der Gespräche.",
+     "titel": "Elon Musk berät US-Pentagon bei der Kriegsführung der Zukunft",
+     "text": "US-Verteidigungsminister Pete Hegseth hat Elon Musk und Palmer Luckey als Berater für das „Project Meridian“ berufen, um Konzepte für autonome Kriegsführung zu entwickeln. Gleichzeitig plant Hegseth eine Verschlankung der US-Armee um 20 Prozent der Offiziers- und Planstellen. Ziel ist eine technologisch fortschrittlichere und effizientere Militärstruktur.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Deutschland intensiviert Energie-Zusammenarbeit mit Kasachstan",
+     "text": "Bundeskanzler Merz empfing den kasachischen Präsidenten Tokajew in Berlin, um über verstärkte Öl- und Rohstofflieferungen zu beraten. Deutschland zeigt großes Interesse an einer Diversifizierung seiner Energiequellen und einer engeren wirtschaftlichen Bindung an Zentralasien. Auch der russische Angriffskrieg gegen die Ukraine war zentraler Bestandteil der Gespräche.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
@@ -215,82 +279,56 @@
      ]
     },
     {
-     "titel": "Labour-Parteitag: Burnham kündigt umfassende Reformen an",
-     "text": "Der britische Premierminister Andy Burnham hat weitreichende Sozialreformen angekündigt, um die Lebenshaltungskosten langfristig zu senken. Trotz seiner hohen Popularität bereitet er die Bevölkerung auch auf unpopuläre Maßnahmen vor, um das System neu zu sortieren.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/grossbritannien-labour-andy-burnham-parteitag-li.3555620"
-      }
-     ]
-    },
-    {
-     "titel": "Spanien beschließt Dekrete gegen Wohnungsnot",
-     "text": "Nach landesweiten Protesten hat die spanische Regierung Maßnahmen zur Entfristung von Mietverträgen und zum Verbot von Zwangsräumungen beschlossen. Auslöser war die Räumung einer 87-jährigen Mieterin in Madrid, die nun in ihre Wohnung zurückkehren darf.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/spanien-mietrechtsreform-regierung-mieterschutz-li.3555730"
-      }
-     ]
-    },
-    {
-     "titel": "Koalition ringt um Kompromiss zur Pflegereform",
-     "text": "In der Bundesregierung dauern die Verhandlungen über die Pflegereform an, wobei die SPD Leistungskürzungen ablehnt und einen Deckel für Eigenanteile fordert. Ein Kompromiss zwischen Union und SPD soll zeitnah stehen, um die Finanzierung des Systems zu sichern.",
+     "titel": "Härtere Strafen für Angriffe auf Einsatzkräfte geplant",
+     "text": "Die Bundesregierung bringt ein Gesetz auf den Weg, das das Strafmaß für Gewalt gegen Polizisten, Rettungskräfte und Zugbegleiter erhöht. Hintergrund ist die statistisch belegte Zunahme von Übergriffen auf Personen, die Aufgaben für das Gemeinwohl wahrnehmen. Die Reform soll den Schutz der Beschäftigten im öffentlichen Raum verbessern.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegedeckel-eigenanteil-reform-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Familienministerin erwägt Kehrtwende bei Elterngeld-Kürzungen",
+     "text": "Nach massiver Kritik stellt Ministerin Prien die geplanten Kürzungen der Elterngeld-Bezugsdauer auf den Prüfstand. Möglicherweise wird auf die Reduzierung auf zwölf Monate verzichtet, auch die Aufteilung der Partnermonate wird neu bewertet. Eine endgültige Entscheidung steht noch aus.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Trump lehnt gesetzliche KI-Regulierung ab",
+     "text": "US-Präsident Trump plant, weiterhin auf verbindliche Gesetze zur Beschränkung Künstlicher Intelligenz zu verzichten. Stattdessen setzt die US-Regierung auf eine freiwillige Selbstkontrolle der Technologiebranche. Damit positioniert sich die USA gegen internationale Bestrebungen für strengere KI-Leitplanken.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html"
       },
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html"
+       "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html"
       }
      ]
     },
     {
-     "titel": "Estland bezichtigt Russland der Sabotage",
-     "text": "Nach einem Brandanschlag auf eine Rüstungsfirma in Tallinn macht die estnische Regierung Russland direkt für den Vorfall verantwortlich. NATO-Generalsekretär Rutte mahnte die Bündnispartner angesichts der Sabotagevorwürfe zur Besonnenheit.",
+     "titel": "Italien führt Burkaverbot und Sprachquoten an Schulen ein",
+     "text": "Ein neues Gesetzesdekret der Regierung Meloni verbietet die Verschleierung an Schulen und führt verbindliche Quoten für die italienische Sprache im Unterricht ein. Die Regelungen betreffen sowohl Schüler als auch Eltern auf dem Schulgelände. Staatschef Mattarella hat das Dekret bereits unterzeichnet.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/estland-brandanschlag-russland-nato-ostflanke-100.html"
+       "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html"
       }
      ]
     },
     {
-     "titel": "Deutschland weltweit führend bei MINT-Abschlüssen",
-     "text": "Im OECD-Vergleich belegt Deutschland den Spitzenplatz bei den Abschlüssen in den Bereichen Mathematik, Informatik, Naturwissenschaft und Technik. Gleichzeitig verzeichnet die Statistik jedoch einen Anstieg bei der Zahl junger Menschen ohne Schulabschluss oder Ausbildung.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bildung-oecd-studie-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Hohe Lebensmittelverschwendung in der EU",
-     "text": "Statistiken zeigen, dass jeder EU-Bürger pro Jahr durchschnittlich 129 Kilogramm Lebensmittel wegwirft. Die EU und die nationalen Regierungen planen nun verstärkte Maßnahmen, um diese Abfallmengen zu reduzieren.",
+     "titel": "Tote bei russischen Angriffen auf Kiew – Flughäfen in Polen gesperrt",
+     "text": "Schwere russische Drohnen- und Raketenangriffe auf die Region Kiew haben mehrere Todesopfer und Verletzte gefordert. Infolge der militärischen Aktivitäten im Grenzgebiet wurde der Betrieb zweier polnischer Flughäfen aus Sicherheitsgründen zeitweise eingestellt. Die ukrainischen Behörden melden erhebliche Schäden an der Infrastruktur.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html"
+       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html"
       }
      ]
     }
@@ -301,86 +339,98 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Starship erreicht Orbit trotz Triebwerksproblemen",
-     "text": "Beim 14. Testflug gelangte die Starship-Rakete erstmals in die Erdumlaufbahn, musste jedoch aufgrund von Ausfällen einzelner Triebwerke am Booster und der Rakete vorzeitig im Pazifik landen. Diese technischen Probleme könnten die Zeitplanung der NASA für kommende Mondmissionen negativ beeinflussen.",
+     "titel": "Ökostrom deckt 61 Prozent des deutschen Strombedarfs",
+     "text": "In den ersten neun Monaten des Jahres 2026 stammten knapp 61 Prozent des in Deutschland verbrauchten Stroms aus erneuerbaren Energien wie Wind und Sonne. Dies markiert einen weiteren Anstieg der Bedeutung von Ökostrom für die nationale Energieversorgung. Besonders der Ausbau der Windkraft trug zu diesem Ergebnis bei.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Antriebsausfaelle-beim-Starship-koennten-Mondmissionen-der-NASA-beeintraechtigen-11470395.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Gericht erlaubt anlasslose Handy-Durchsuchungen an US-Grenzen",
-     "text": "Ein US-Bundesberufungsgericht hat entschieden, dass elektronische Geräte bei der Einreise in die USA ohne konkreten Anlass durchsucht werden dürfen. Damit unterliegen Smartphones und Laptops an der Grenze faktisch keinem Datenschutz.",
+     "titel": "Hohe Nutzung von KI-Agenten in deutschen Unternehmen",
+     "text": "Fast jeder zweite Beschäftigte in Deutschland nutzt bereits KI-Agenten zur Automatisierung von Arbeitsabläufen. Während die Produktivität in Büroprozessen durch Tools wie Claude steigt, wächst bei den Mitarbeitern die Sorge um die langfristige Arbeitsplatzsicherheit und steigende Qualifikationsanforderungen. Experten diskutieren zudem über das Risiko des „Deskilling“ durch KI-Einsatz.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Mittwoch-Starship-mit-Triebwerksproblemen-Handy-Inspektion-bei-USA-Einreise-11470417.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Deutschland-bei-KI-Agenten-weltweit-in-der-Spitzengruppe-11471998.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/anzeige-ki-agenten-fuer-produktive-bueroprozesse-einsetzen-2609-213228.html"
       },
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Urteil-erlaubt-Handy-Durchsuchung-an-US-Grenze-ohne-Anlass-11470383.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/KI-in-der-Reha-Entlastung-bei-der-Dokumentation-offene-Fragen-zum-Arztberuf-11471741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Mistral-Chef kritisiert US-Forderungen nach KI-Regulierung",
-     "text": "Arthur Mensch, Chef des KI-Start-ups Mistral, bezeichnet US-Regulierungspläne als strategischen Trick ('Regulatory Capture'). Ziel sei es, die Open-Weights-Konkurrenz zu verdrängen und die Geschäftsmodelle von OpenAI und Anthropic zu schützen.",
-     "quellen": [
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/arthur-mensch-mistral-chef-nennt-us-forderungen-nach-ki-regulierung-einen-trick-2609-213553.html"
-      }
-     ]
-    },
-    {
-     "titel": "Huawei entwickelt neue Chip-Technologien gegen US-Sanktionen",
-     "text": "Aufgrund des Ausschlusses von TSMC-Lieferungen setzt Huawei auf 'Logic-Folding' und das Stapeln von Chiplets. Damit versucht der Konzern, trotz eingeschränkten Zugangs zu modernster Fertigung, konkurrenzfähige KI-Chips zu produzieren.",
+     "titel": "Google stellt Gemini 4 Argon mit Fokus auf Cybersicherheit vor",
+     "text": "Google hat sein neues Modell Gemini 4 Argon präsentiert, das speziell für IT-Sicherheitsanalysen und Enterprise-Workflows optimiert wurde. In ersten Benchmarks liegt das Modell jedoch hinter Konkurrenten wie GPT-6 Astra und Claude 3.5 Sonnet zurück. Die US-Handelsbehörde FTC untersucht derweil Vorfälle, bei denen LLMs von OpenAI und Anthropic Schäden verursacht haben sollen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Huaweis-Logic-Folding-Technik-und-neue-KI-Konkurrenz-fuer-Nvidia-11420638.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+       "url": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Zu-viele-KI-Vorfaelle-US-Behoerde-untersucht-Anthropic-METR-OpenAI-11471857.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Pentagon investiert in KI-Lügendetektor",
-     "text": "Das US-Verteidigungsministerium plant 30 Millionen Dollar für die Entwicklung eines KI-basierten Lügendetektors bereitzustellen. Wissenschaftliche Experten äußern jedoch erhebliche Zweifel an der technischen Umsetzbarkeit und Validität des Konzepts.",
+     "titel": "IT-Panne bei der Bundeswehr löscht Daten von 60.000 Reservisten",
+     "text": "Ein Fehler beim Massendatenimport beim IT-Dienstleister BWI führte zur Löschung der Datensätze von rund 60.000 nicht einberufenen Reservisten. Die Betroffenen haben aktuell keinen Zugriff auf E-Mails, den Bundeswehr-Messenger oder andere IT-Systeme. Die Wiederherstellung der Zugänge ist Gegenstand laufender Arbeiten.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html"
+      }
+     ]
+    },
+    {
+     "titel": "Datenleck bei der Stadt Wien durch Schwachstelle in Online-Speicher",
+     "text": "Unbefugte konnten Dokumente der Stadt Wien herunterladen, nachdem eine Sicherheitslücke in einem Online-Speicher ausgenutzt wurde. Der Vorfall wurde bekannt, weil die Schwachstelle in Hacker-Foren zum Verkauf angeboten wurde. Die Stadt hat den Einbruch bestätigt und die Lücke geschlossen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Pentagon-will-30-Millionen-Dollar-fuer-KI-Luegendetektor-ausgeben-11470046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Donnerstag-Sicherheitsluecke-bei-Wiener-Behoerde-Tech-Prominenz-hilft-Pentagon-11471994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Stadt-Wien-entdeckt-Einbruch-in-Online-Speicher-11471899.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "BMW öffnet Bestellbücher für elektrischen i3",
-     "text": "Die neue Elektrolimousine BMW i3 ist ab sofort in zwei Basisvarianten bestellbar. Das Fahrzeug startet preislich bei 60.000 Euro und soll eine Reichweite von bis zu 710 Kilometern erzielen.",
+     "titel": "Bayerisches Start-up erhält 150 Millionen Euro für Brennstoffzellen-Innovation",
+     "text": "Ein Start-up aus Bayern hat Kapital in Höhe von 150 Millionen Euro eingeworben, um die Produktion von Festoxidbrennstoffzellen zu skalieren. Das System kann Gas hocheffizient in Strom umwandeln und ist zudem reversibel einsetzbar. Die Technologie soll insbesondere bei Dunkelflauten zur Netzstabilität beitragen.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html"
+       "url": "https://www.golem.de/news/gas-to-power-festoxidbrennstoffzelle-funktioniert-bei-dunkelflaute-und-hellbrise-2609-213588.html"
       }
      ]
     },
     {
-     "titel": "Telekom und Cloudflare beenden Peering-Streit",
-     "text": "Der langjährige Konflikt um 'Paid Peering' und künstlich gedrosselte Datenrouten zwischen der Deutschen Telekom und Cloudflare wurde offiziell beigelegt. Damit endet die Praxis der gegenseitigen Drosselung von Transit-Routen.",
+     "titel": "BMW kündigt kompaktes Elektroauto der „Neuen Klasse“ für 2028 an",
+     "text": "BMW erweitert sein Portfolio an Elektrofahrzeugen ab 2028 um ein Kompaktmodell auf Basis der „Neuen Klasse“. Parallel dazu erwägt der Konzern die Einführung eines besonders großen SUV-Modells für den US-Markt. Die Strategie zielt auf eine umfassende Elektrifizierung der Kernsegmente ab.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html"
+       "url": "https://www.golem.de/news/elektroauto-bmw-kuendigt-kompaktmodell-der-neuen-klasse-an-2609-213593.html"
       }
      ]
     },
     {
-     "titel": "Durchbruch bei humanoiden Robotern erwartet",
-     "text": "Das Start-up Agile Robots prognostiziert einen baldigen Marktdurchbruch für KI-gesteuerte humanoide Roboter. Das Unternehmen rechnet in naher Zukunft mit dem Erreichen der Umsatzmilliarde.",
+     "titel": "Razzia gegen Online-Hater nach Angriffen auf 44-Jährigen",
+     "text": "Ermittler durchsuchten 15 Wohnungen in sieben Bundesländern, um gegen eine Gruppe vorzugehen, die einen Mann systematisch im Netz und real attackiert hatte. Die Aktion richtete sich gegen eine organisierte „Hater-Community“. Die Behörden werten nun sichergestellte Beweismittel aus.",
      "quellen": [
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/agile-robots-robotic-start-up-erwartet-sehr-bald-die-umsatzmilliarde-2609-213549.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Razzia-gegen-Hater-Community-nach-Hetzjagd-auf-44-Jaehrigen-11472008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     }
