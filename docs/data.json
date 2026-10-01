@@ -1,30 +1,30 @@
 {
- "erstellt": "2026-10-01T05:14:06.409411+00:00",
+ "erstellt": "2026-10-01T07:35:42.071589+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "Volkswagen kündigt Tarifverträge und plant massiven Stellenabbau bei Cariad",
-     "text": "VW hat zum Jahresende zahlreiche Tarifverträge gekündigt und begründet dies mit hohem Kostendruck, worauf die IG Metall mit Widerstand reagiert. Gleichzeitig baut die Softwaretochter Cariad rund 1.000 Stellen ab, was etwa jedem vierten Arbeitsplatz entspricht. Die Verhandlungen über die künftige Tarifstruktur gelten als richtungsweisend für die Krise des Autobauers.",
+     "titel": "Volkswagen kündigt Tarifverträge und bereitet sich auf harten Arbeitskampf vor",
+     "text": "Die Geschäftsführung von Volkswagen hat zum Jahresende eine Reihe von Haustarifverträgen gekündigt, wovon mehr als 100.000 Beschäftigte betroffen sind. Grund für diesen drastischen Schritt ist der enorme Kostendruck, unter dem der kriselnde Autobauer aktuell steht. Die IG Metall bezeichnete das Vorgehen als „übles Foul“ an der Belegschaft und kündigte massiven Widerstand an. Die Folge ist ein drohender, langwieriger Tarifkonflikt in den kommenden Wochen. Ziel des Konzerns ist es, durch die Kündigungen die Arbeitskosten signifikant zu senken, um die Wettbewerbsfähigkeit wiederherzustellen.",
      "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html"
-      },
       {
        "name": "Tagesschau Wirtschaft",
        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html"
       },
       {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html"
+      },
+      {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/mietpreise-studierende-muenchen-staedte-li.3555770"
+       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-wir-muessen-kleiner-und-schlagkraeftiger-werden-li.3555602"
       }
      ]
     },
     {
      "titel": "Inflationsrate in Deutschland steigt im September auf 3,3 Prozent",
-     "text": "Die Verbraucherpreise in Deutschland sind im September um 3,3 Prozent gegenüber dem Vorjahresmonat gestiegen, nach 2,9 Prozent im August. Haupttreiber dieser Entwicklung sind massiv gestiegene Energiepreise, während sich Lebensmittel kaum verteuerten. Es ist der erste Anstieg über die Drei-Prozent-Marke seit fast drei Jahren.",
+     "text": "Die Verbraucherpreise in Deutschland sind im September um 3,3 Prozent gegenüber dem Vorjahresmonat gestiegen, nachdem die Rate im August noch bei 2,9 Prozent gelegen hatte. Hauptursache für diesen Anstieg sind die massiv gestiegenen Energiepreise, während sich Lebensmittel kaum verteuerten. Die Folge ist eine spürbare Belastung der privaten Haushalte durch höhere Lebenshaltungskosten. Es besteht ein Widerspruch in den Quellen bezüglich der historischen Einordnung: Eine Quelle spricht vom ersten Anstieg über drei Prozent seit fast drei Jahren, eine andere vom ersten Mal seit Ende 2023.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -37,8 +37,8 @@
      ]
     },
     {
-     "titel": "Start des neuen Tankrabatts bei Rekordpreisen im September",
-     "text": "Am 1. Oktober startet ein neuer Tankrabatt, der die Spritpreise um rund 17 Cent pro Liter senken soll, nachdem der September der teuerste Tankmonat der Geschichte war. Während Mineralölkonzerne in Frankreich und Italien bereits freiwillig Preise deckeln, ist die Wirksamkeit des deutschen Rabatts umstritten; der ADAC äußert Skepsis bezüglich der Weitergabe an die Verbraucher.",
+     "titel": "Start des Tankrabatts bei historisch hohen Spritpreisen",
+     "text": "Am 1. Oktober ist in Deutschland ein neuer Tankrabatt in Kraft getreten, der die Preise um etwa 17 Cent pro Liter senken soll. Dies geschieht vor dem Hintergrund, dass Tanken im September so teuer war wie nie zuvor in Deutschland. Während die Preise regional unterschiedlich stark sinken, ist E10 teilweise bereits für unter zwei Euro erhältlich. Die Mineralölkonzerne stehen in der Kritik, da unklar ist, wie viel des Rabatts tatsächlich bei den Kunden ankommt. In Frankreich und Italien begrenzen Konzerne die Preise bereits freiwillig durch Verzicht auf Gewinnanteile, ein Modell, das nun auch für Deutschland diskutiert wird.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -55,12 +55,20 @@
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/tankrabatt-dieselpreis-sprit-deutschland-e574214/"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html"
       }
      ]
     },
     {
      "titel": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
-     "text": "Das Deutschlandticket verteuert sich ab Januar um 3,80 Euro auf monatlich 66,80 Euro. Seit der Einführung im Jahr 2024, als der Preis noch bei 48 Euro lag, ist dies eine deutliche Steigerung. Fahrgast- und Umweltverbände kritisieren die erneute Preisanhebung scharf.",
+     "text": "Der Preis für das Deutschlandticket wird zum Januar von bisher 63 Euro auf 66,80 Euro angehoben. Seit der Einführung im Jahr 2024, als das Ticket noch 48 Euro kostete, ist dies eine deutliche Steigerung. Grund für die Preisanpassung ist der Finanzierungsbedarf des öffentlichen Nahverkehrs. Fahrgast- und Umweltverbände kritisieren die Erhöhung scharf, da sie die Attraktivität des ÖPNV gefährden könnte. Die Folge für Pendler und Studierende sind steigende monatliche Fixkosten für die Mobilität.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -73,8 +81,32 @@
      ]
     },
     {
+     "titel": "BMW plant neue Strategie und Elektro-Kompaktmodell für 2028",
+     "text": "BMW-Chef Milan Nedeljković will den Konzern durch eine neue Strategie „kleiner und schlagkräftiger“ machen, was auch einen Stellenabbau in München beinhaltet. Gleichzeitig investiert das Unternehmen in eine neue Batteriefabrik in Niederbayern und plant für 2028 ein neues Elektro-Kompaktmodell der „Neuen Klasse“. Ziel ist es, die Effizienz zu steigern und die Marktposition bei Elektrofahrzeugen auszubauen. Für den US-Markt wird zudem die Einführung eines besonders großen SUV-Modells in Erwägung gezogen. Die Folge dieser Umstrukturierung ist eine stärkere Fokussierung auf technologische Innovation bei gleichzeitiger Reduktion der Verwaltungskosten.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-wir-muessen-kleiner-und-schlagkraeftiger-werden-li.3555602"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/manager-headhunter-stellenabbau-industrie-li.3554051"
+      }
+     ]
+    },
+    {
+     "titel": "Arbeitslosenzahl sinkt im September nur leicht",
+     "text": "Die Zahl der Arbeitslosen in Deutschland ist im September geringfügig gesunken und liegt nun knapp unter der Marke von drei Millionen. Dieser Rückgang ist saisonüblich für das Ende der Sommerpause, fällt jedoch schwächer aus als in den Vorjahren. Ursache ist die anhaltende Zurückhaltung der Unternehmen, die derzeit kaum neues Personal suchen. Die Folge ist eine Stagnation auf dem Arbeitsmarkt trotz des leichten Rückgangs der absoluten Zahlen. Experten sehen darin ein Zeichen für die anhaltende wirtschaftliche Unsicherheit in vielen Branchen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html"
+      }
+     ]
+    },
+    {
      "titel": "Wirtschaftsministerium ordnet zusätzliche Gaseinspeicherung an",
-     "text": "Angesichts eines Speicherfüllstandes von aktuell nur etwas mehr als 50 Prozent hat Wirtschaftsministerin Reiche alle Energieunternehmen zu verstärkten Anstrengungen gedrängt. Ein staatliches Unternehmen erhielt eine direkte Anweisung, die Vorräte massiv aufzustocken. Ziel ist die Sicherung der Versorgungslage für die kommende Heizperiode.",
+     "text": "Wirtschaftsministerin Reiche hat ein staatliches Energieunternehmen direkt angewiesen, die Erdgasspeicher verstärkt zu füllen. Aktuell sind die Speicher in Deutschland nur zu etwas mehr als der Hälfte ausgelastet, was als unzureichend für die kommende Heizperiode angesehen wird. Warum dieser Schritt erfolgt, liegt an der Sorge um die Versorgungssicherheit im Winter. Die Folge ist ein erhöhter Druck auf alle Energieunternehmen, ihre Vorräte trotz hoher Marktpreise aufzustocken. Damit soll ein Engpass bei der Gasversorgung von Industrie und Haushalten verhindert werden.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -83,22 +115,8 @@
      ]
     },
     {
-     "titel": "BMW und Mercedes-Benz verschärfen Sparkurs und Stellenabbau",
-     "text": "Mercedes-Benz reaktiviert ein Abfindungsprogramm in Deutschland, um die Arbeitskosten weiter zu senken. BMW-Chef Milan Nedeljković kündigte an, den Konzern kleiner und schlagkräftiger zu machen, was Stellenstreichungen in München beinhaltet. Parallel plant BMW eine neue Batteriefabrik in Niederbayern und ein Elektro-Kompaktmodell für 2028.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-abfindungen-deutschland-li.3556608"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-wir-muessen-kleiner-und-schlagkraeftiger-werden-li.3555602"
-      }
-     ]
-    },
-    {
-     "titel": "Hohe Wohnkosten belasten Studierende trotz leichter Entspannung",
-     "text": "Mietpreise für WG-Zimmer und kleine Wohnungen steigen zwar weniger stark, bleiben aber in Großstädten für viele Studierende unbezahlbar. Die BAföG-Wohnkostenpauschale deckt die realen Kosten in den meisten Städten nicht ab, wobei Chemnitz als eine der wenigen Ausnahmen gilt. Der aktuelle Studentenwohnreport prognostiziert für 2026 weiter steigende Kosten.",
+     "titel": "Steigende Mieten belasten Studierende in Großstädten massiv",
+     "text": "Der aktuelle Studentenwohnreport zeigt, dass die Wohnkosten für Studierende im Jahr 2026 weiter ansteigen werden. Besonders in Großstädten sind kleine Wohnungen und WG-Zimmer für viele kaum noch bezahlbar, wobei die BAföG-Wohnkostenpauschale die realen Kosten oft nicht mehr deckt. Eine Ausnahme bildet Chemnitz, wo Wohnraum noch vergleichsweise günstig ist. Die Folge ist eine zunehmende finanzielle Überlastung der Studierenden, die oft einen Großteil ihres Budgets für die Miete aufwenden müssen. Dies könnte langfristig die Standortwahl für ein Studium beeinflussen.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
@@ -106,17 +124,7 @@
       },
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Monopolkommission warnt vor Marktmacht im Lebensmitteleinzelhandel",
-     "text": "Nachdem das Bundeskartellamt Edeka die Übernahme von fast 180 Tegut-Märkten erlaubt hat, warnt die Monopolkommission vor einer Übermacht der großen Ketten. Es bestehe die Gefahr, dass die Lebensmittelpreise durch den mangelnden Wettbewerb weiter steigen. Betroffen sind neben Edeka vor allem Konzerne wie Aldi.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/edeka-aldi-lebensmittelmarkt-li.3556381"
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html"
       }
      ]
     }
@@ -127,8 +135,8 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "US-Schienengüterverkehr erreicht Rekordniveau bei Intermodal-Volumen",
-     "text": "Das Volumen im nordamerikanischen Intermodal-Verkehr hat mit über 21.000 Containern pro Woche ein neues Jahreshoch erreicht. Während die Nachfrage nach Schienentransporten aufgrund von Kostenvorteilen gegenüber der Straße boomt, warnen Experten vor sinkenden Kapazitäten im Vorlauf (Drayage) durch Fahrermangel. Besonders chemische und Erdölprodukte verzeichnen einen überraschenden Anstieg.",
+     "titel": "Nordamerikanischer Schienengüterverkehr erreicht Rekordniveau",
+     "text": "Das intermodale Volumen auf nordamerikanischen Schienen hat mit über 21.000 Containern im 7-Tage-Durchschnitt ein neues Jahreshoch erreicht. Getrieben wird diese Entwicklung durch signifikante Kostenvorteile gegenüber dem Straßentransport und eine allgemeine wirtschaftliche Erholung, die sich auch in steigenden Chemie- und Erdöltransporten zeigt. Ein kritischer Flaschenhals ist jedoch die schwindende Kapazität im Nahverkehr (Drayage), da es an Fahrern mangelt. Die Folge könnte eine Ausbremsung des Wachstums sein, falls der Güterumschlag an den Terminals nicht beschleunigt werden kann. Dennoch bleibt die Nachfrage nach Schienentransporten aufgrund der Effizienzsteigerungen hoch.",
      "quellen": [
       {
        "name": "FreightWaves",
@@ -145,8 +153,8 @@
      ]
     },
     {
-     "titel": "Amazon und USPS kooperieren bei Same-Day-Zustellung",
-     "text": "Amazon und der United States Postal Service (USPS) testen ein Pilotprojekt für die Zustellung am selben Tag für Bestellungen, die erst spät am Tag aufgegeben werden. Zusätzlich führt Amazon neue Funktionen für den Versand sperriger Güter ein, darunter vorverhandelte LTL-Raten (Teilladungsverkehr) und regionale Preismodelle für Großartikel.",
+     "titel": "Amazon erweitert Logistik-Kapazitäten für Sperrgut und Same-Day-Delivery",
+     "text": "Amazon hat neue Funktionen für den Versand großer und sperriger Artikel eingeführt, darunter vorverhandelte LTL-Tarife (Less-Than-Truckload) und regionale Preismodelle. Parallel dazu startet ein Pilotprojekt mit dem US Postal Service (USPS), um Bestellungen, die spät am Tag aufgegeben werden, noch am selben Tag zuzustellen. Warum diese Maßnahmen ergriffen werden, liegt im Ziel, die Liefergeschwindigkeit zu erhöhen und die Kosten für komplexe Sendungen zu optimieren. Für gewerbliche Versender bedeutet dies eine bessere Planbarkeit und potenziell niedrigere Versandkosten. Die Folge ist ein weiter verschärfter Wettbewerb mit traditionellen Kurierdiensten.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
@@ -159,48 +167,8 @@
      ]
     },
     {
-     "titel": "FedEx bestellt 2.000 Elektro-Lkw bei Harbinger",
-     "text": "FedEx hat einen verbindlichen Auftrag über 2.000 mittelschwere Elektro-Lkw an das Unternehmen Harbinger erteilt. Die Auslieferung der Fahrzeuge soll bis Ende 2027 abgeschlossen sein. Es handelt sich laut Hersteller um eine der größten Einzelbestellungen für elektrische Nutzfahrzeuge in diesem Segment.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/harbinger-fedex-2000-electric-truck-order"
-      }
-     ]
-    },
-    {
-     "titel": "Maersk integriert US-Logistiknetzwerk für End-to-End-Lösungen",
-     "text": "Der Logistikriese Maersk baut seine Kapazitäten in den USA durch die engere Verknüpfung von Bodenfracht, E-Commerce-Abwicklung und Kontraktlogistik aus. Ziel ist eine nahtlose Integration mit den bestehenden Luft- und Seefrachtdiensten des Unternehmens. Damit reagiert der Carrier auf den Bedarf an komplexeren Supply-Chain-Lösungen.",
-     "quellen": [
-      {
-       "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
-      }
-     ]
-    },
-    {
-     "titel": "Tesla Semi überzeugt im Praxistest eines Veteranen",
-     "text": "Ein ehemaliger Fernfahrer bewertete den Tesla Semi nach einer Testfahrt mit voller Beladung positiv, insbesondere die Bewältigung einer 8-prozentigen Steigung. Der Fahrkomfort und die technologischen Funktionen könnten den Kurzstreckenverkehr nachhaltig verändern. Trotz anfänglicher Skepsis sieht der Tester großes Potenzial für die Branche.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/tesla-semi-drives-like-a-dream-a-veteran-truckers-honest-review"
-      }
-     ]
-    },
-    {
-     "titel": "Seefrachtraten erreichen Jahreshöchststand trotz Handelsruhe",
-     "text": "Die Frachtraten im Transpazifik-Handel sind auf den höchsten Stand seit einem Jahr gestiegen. Dies geschieht trotz eines vorübergehenden Waffenstillstands im Handelsstreit zwischen den USA und China, der die Unsicherheit für Verlader eigentlich mindern sollte. Die Kapazitätsplanung bleibt für Importeure eine Herausforderung.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce"
-      }
-     ]
-    },
-    {
-     "titel": "Daimler Truck setzt auf vollständig integrierte autonome Systeme",
-     "text": "CEO Karin Rådström verfolgt die Strategie, das gesamte autonome Fahrsystem im eigenen Haus zu kontrollieren, um sich von Wettbewerbern abzuheben. Mit den Marken Freightliner und Western Star hält Daimler Truck derzeit einen Marktanteil von 37,8 Prozent in der schweren Lkw-Klasse (Class 8) in Nordamerika. Die Integration soll die Effizienz autonomer Flotten steigern.",
+     "titel": "Daimler Truck setzt auf integriertes System für autonomes Fahren",
+     "text": "Daimler Truck verfolgt unter der Leitung von CEO Karin Rådström die Strategie, das gesamte System für autonomes Fahren selbst zu besitzen und zu integrieren. Mit den Marken Freightliner und Western Star hält das Unternehmen bereits 37,8 % des Class-8-Marktes in den USA. Durch die tiefe Integration von Hardware und Software will sich Daimler von Wettbewerbern abheben, die auf externe Lösungen setzen. Die Folge ist eine stärkere Kontrolle über die technologische Entwicklung und die Sicherheitsstandards autonomer Lkw. Ziel ist es, die Marktführerschaft im Bereich der schweren Nutzfahrzeuge durch technologische Autarkie zu festigen.",
      "quellen": [
       {
        "name": "FreightWaves",
@@ -209,12 +177,52 @@
      ]
     },
     {
-     "titel": "DoorDash startet Retouren-Service und eigene Drohnen-Flotte",
-     "text": "DoorDash erweitert sein Geschäftsmodell um die Abholung von Warenretouren für lokale Einzelhändler und tritt damit in direkte Konkurrenz zu klassischen Kurierdiensten. Parallel dazu hat das Unternehmen den Start einer eigenen Drohnen-Flotte für die Zustellung angekündigt. Die Drohnen wurden firmenintern entwickelt.",
+     "titel": "FedEx bestellt 2.000 Elektro-Lkw bei Harbinger",
+     "text": "Das Unternehmen Harbinger hat einen verbindlichen Auftrag von FedEx über 2.000 elektrische Lastkraftwagen erhalten, die bis Ende 2027 ausgeliefert werden sollen. Es handelt sich um eine der größten Einzelbestellungen für mittelschwere Elektro-Nutzfahrzeuge in der Branche. Grund für die Investition ist das Ziel von FedEx, die Flotte zu dekarbonisieren und Betriebskosten zu senken. Die Folge für Harbinger ist eine massive Ausweitung der Produktion und eine Bestätigung ihrer Technologie am Markt. Dieser Großauftrag signalisiert einen beschleunigten Übergang zu emissionsfreien Antrieben in der Paketzustellung.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/doordash-launches-retail-returns-service-self-designed-drones"
+       "url": "https://www.freightwaves.com/news/harbinger-fedex-2000-electric-truck-order"
+      }
+     ]
+    },
+    {
+     "titel": "Frachtraten im Pazifik erreichen Jahreshöchststand",
+     "text": "Die Raten für Seefracht zwischen den USA und China sind auf den höchsten Stand seit einem Jahr gestiegen. Ursache ist ein vorübergehender „Handelsfrieden“ zwischen den beiden Nationen, der die Unsicherheit für Importeure und Reedereien kurzfristig gemindert hat. Die Folge sind höhere Transportkosten für Unternehmen, die Waren über den Pazifik beziehen. Trotz der hohen Preise bleibt die Nachfrage stabil, da Unternehmen versuchen, ihre Lagerbestände vor möglichen neuen Handelshemmnissen aufzufüllen. Dies belastet die Margen in der verarbeitenden Industrie und im Handel.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce"
+      }
+     ]
+    },
+    {
+     "titel": "KI-Einsatz in Lagern optimiert Dock-Zeiten ohne neue Hardware",
+     "text": "Das Startup Seeteria nutzt vorhandene Überwachungskameras in Lagern, um mittels KI Leerlaufzeiten an Laderampen und Blockaden in Gängen in Echtzeit zu identifizieren. Warum diese Lösung gewählt wird, liegt in der einfachen Implementierung ohne teure neue Sensorik. Die KI erkennt Störungen im Arbeitsfluss, die für menschliche Beobachter normal wirken könnten, und ermöglicht ein schnelleres Eingreifen. Die Folge ist eine höhere Umschlagkapazität und eine Reduzierung von Engpässen bei der Be- und Entladung. Dies optimiert die gesamte Intralogistik und senkt die Standzeiten für Lkw.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/warehouse-ai-using-existing-cameras-to-cut-idle-dock-time"
+      }
+     ]
+    },
+    {
+     "titel": "Maersk baut US-Landlogistik und E-Commerce-Netzwerk aus",
+     "text": "Die Reederei Maersk hat ihre Logistikkapazitäten in den USA durch den Aufbau eines robusten Bodenfrachtnetzwerks und die Integration ihrer E-Commerce-Sparte erheblich erweitert. Diese Strategie verbindet Kontraktlogistik direkt mit Luftfrachtdiensten und dem Seetransport. Ziel ist es, den Kunden eine lückenlose End-to-End-Lieferkette aus einer Hand anzubieten. Die Folge ist eine geringere Abhängigkeit von reinen Seefrachtraten und eine stärkere Positionierung als globaler Logistikintegrator. Maersk reagiert damit auf den Trend zu komplexeren und integrierten Supply-Chain-Lösungen.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
+      }
+     ]
+    },
+    {
+     "titel": "Ethiopian Airlines bestellt zehn Boeing 777-Frachter",
+     "text": "Ethiopian Airlines hat bei Boeing zehn Frachtflugzeuge vom Typ 777 bestellt, um ihre Kapazitäten kurzfristig zu erweitern. Zusätzlich sollen in der nächsten Dekade acht Maschinen des neuen Typs 777-8 folgen, sobald diese in Produktion gehen. Grund für die Flottenexpansion ist die wachsende Bedeutung des Luftfrachtstandorts Äthiopien als Drehkreuz für den afrikanischen Kontinent. Die Folge ist eine deutliche Steigerung der Transportkapazitäten für zeitkritische Güter und Exportwaren. Damit festigt die Airline ihre Position als führender Frachtführer in der Region.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ethiopian-airlines-to-buy-10-777-freighters-from-boeing"
       }
      ]
     }
@@ -225,8 +233,8 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Bundesregierung beschließt Pflegereform mit Fokus auf Einsparungen",
-     "text": "Das neue Pflegeneuordnungsgesetz sieht vorerst Einsparungen und höhere Beiträge für Kinderlose vor, um das System stabil zu halten. Eine umfassende Strukturreform wurde auf das Jahr 2027 vertagt, was auf Kritik bei Verbänden und in der Opposition stößt. Experten warnen, dass die aktuellen Maßnahmen nicht ausreichen werden, um den Finanzierungsbedarf langfristig zu decken.",
+     "titel": "Bundesregierung beschließt Pflegeneuordnungsgesetz mit höheren Beiträgen",
+     "text": "Die schwarz-rote Koalition hat sich auf ein Pflegeneuordnungsgesetz geeinigt, das vor allem Einsparungen und Beitragsanpassungen vorsieht. Für Kinderlose wird die Pflegeversicherung teurer, um das System finanziell stabil zu halten. Eine umfassende Strukturreform wurde jedoch auf das Jahr 2027 vertagt, was auf deutliche Kritik stößt. Warum dieser Schritt gewählt wurde, liegt am akuten Finanzierungsbedarf bei gleichzeitigem politischem Ringen um langfristige Lösungen. Die Folge ist eine kurzfristige Sicherung der Pflegeleistungen bei steigender finanzieller Belastung für einen Teil der Versicherten.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
@@ -247,8 +255,18 @@
      ]
     },
     {
-     "titel": "Elon Musk berät US-Pentagon bei der Kriegsführung der Zukunft",
-     "text": "US-Verteidigungsminister Pete Hegseth hat Elon Musk und Palmer Luckey als Berater für das „Project Meridian“ berufen, um Konzepte für autonome Kriegsführung zu entwickeln. Gleichzeitig plant Hegseth eine Verschlankung der US-Armee um 20 Prozent der Offiziers- und Planstellen. Ziel ist eine technologisch fortschrittlichere und effizientere Militärstruktur.",
+     "titel": "Deutschland und Kasachstan vertiefen Rohstoff-Zusammenarbeit",
+     "text": "Beim Besuch des kasachischen Präsidenten Tokajew in Berlin betonte Bundeskanzler Merz das große Interesse Deutschlands an mehr Öl und Rohstoffen aus Kasachstan. Ziel ist es, die wirtschaftliche Zusammenarbeit auszuweiten und die Abhängigkeit von russischen Energielieferungen weiter zu reduzieren. Auch der russische Angriffskrieg gegen die Ukraine war Thema der Gespräche. Die Folge ist eine engere strategische Partnerschaft, die Deutschland den Zugang zu kritischen Ressourcen sichern soll. Kasachstan positioniert sich damit als wichtiger Partner für die deutsche Energiesicherheit.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "US-Verteidigungsminister kürzt Stellen und holt Elon Musk ins Pentagon",
+     "text": "US-Verteidigungsminister Hegseth hat angekündigt, ein Fünftel aller Stellen für Generale und Admirale zu streichen, um die Hierarchien zu verschlanken. Gleichzeitig erhält Elon Musk eine zentrale Rolle im Pentagon, um die „Zukunft der Kriegsführung“ und autonome Systeme zu erforschen. Warum diese Umstrukturierung erfolgt, liegt im Bestreben, das Militär durch technologische Innovationen effizienter und moderner zu gestalten. Kritiker warnen vor einem Verlust an Erfahrung durch die drastischen Stellenstreichungen. Die Folge ist eine stärkere Ausrichtung der US-Verteidigungsstrategie auf KI-gestützte und autonome Technologien.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
@@ -259,28 +277,56 @@
        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html"
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html"
       }
      ]
     },
     {
-     "titel": "Deutschland intensiviert Energie-Zusammenarbeit mit Kasachstan",
-     "text": "Bundeskanzler Merz empfing den kasachischen Präsidenten Tokajew in Berlin, um über verstärkte Öl- und Rohstofflieferungen zu beraten. Deutschland zeigt großes Interesse an einer Diversifizierung seiner Energiequellen und einer engeren wirtschaftlichen Bindung an Zentralasien. Auch der russische Angriffskrieg gegen die Ukraine war zentraler Bestandteil der Gespräche.",
+     "titel": "EU plant krisenfeste Kommunikation für Rettungsdienste bis 2030",
+     "text": "Die EU-Kommission will die grenzüberschreitende Kommunikation von Polizei und Rettungsdiensten durch ein gemeinsames Breitbandnetz (EUCCS) verbessern. Bisher scheitert die Zusammenarbeit in Krisenfällen oft an technischen Inkompatibilitäten zwischen den nationalen Systemen. Erste Mitgliedstaaten sollen das neue Netzwerk ab 2030 nutzen können. Die Folge wäre eine deutlich effizientere Koordination bei Katastrophen oder grenzüberschreitenden Einsätzen. Ziel ist es, die europäische Sicherheitsarchitektur technologisch zu vereinheitlichen und krisenfest zu machen.",
      "quellen": [
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html"
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/eu-plan-kommunikation-krisenfall-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Widersprüchliche Berichte über Beinahe-Katastrophe auf Flydubai-Flug",
+     "text": "Ein Flug von Flydubai nach Tel Aviv entging nur knapp einer Katastrophe und musste in Saudi-Arabien notlanden. Es gibt widersprüchliche Angaben zur Ursache: Während britische Quellen von einem gewaltsamen Konflikt zwischen den Piloten berichten, bei dem ein Pilot den anderen angriff, spricht die israelische Regierung von einem versuchten Terroranschlag oder einer Entführung. Die Folge sind intensive internationale Ermittlungen unter Beteiligung saudi-arabischer Behörden. Passagiere und Besatzungsmitglieder halfen laut Berichten dabei, den Angriff an Bord abzuwehren. Die genauen Hintergründe bleiben unklar, während Großbritannien Hinweise auf eine iranische Verwicklung prüft.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/tankrabatt-gestartet-afd-verbot-rot-gruen-rote-sondierungen-in-berlin-li.3556796"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-katastrophe-li.3556670"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367"
+      }
+     ]
+    },
+    {
+     "titel": "Italien führt Burkaverbot und Sprachquoten an Schulen ein",
+     "text": "In Italien ist ein neues Gesetzesdekret der Meloni-Regierung in Kraft getreten, das ein Verschleierungsverbot sowie eine Sprachquote an Schulen vorschreibt. Davon sind sowohl Schüler als auch deren Eltern betroffen. Warum diese Maßnahmen eingeführt wurden, liegt im Bestreben der rechten Regierung, die nationale Identität und Integration durch sprachliche Vorgaben zu stärken. Die Folge sind kontroverse Debatten über Religionsfreiheit und Diskriminierung im Bildungssystem. Staatschef Mattarella hat das Dekret bereits unterzeichnet, womit die Regeln ab sofort bindend sind.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html"
       }
      ]
     },
     {
      "titel": "Härtere Strafen für Angriffe auf Einsatzkräfte geplant",
-     "text": "Die Bundesregierung bringt ein Gesetz auf den Weg, das das Strafmaß für Gewalt gegen Polizisten, Rettungskräfte und Zugbegleiter erhöht. Hintergrund ist die statistisch belegte Zunahme von Übergriffen auf Personen, die Aufgaben für das Gemeinwohl wahrnehmen. Die Reform soll den Schutz der Beschäftigten im öffentlichen Raum verbessern.",
+     "text": "Die Bundesregierung plant eine Verschärfung des Strafrechts für Angriffe auf Einsatz- und Rettungskräfte sowie Zugbegleiter. Hintergrund ist die statistisch belegte Zunahme von Gewalt gegen Personen, die im Dienst für das Gemeinwohl stehen. Die Folge der Gesetzesänderung sollen höhere Haft- oder Geldstrafen sein, um eine abschreckende Wirkung zu erzielen. Damit reagiert die Politik auf Forderungen von Verbänden und Gewerkschaften nach besserem Schutz für Beschäftigte im öffentlichen Raum. Das Gesetz soll noch im Herbst verabschiedet werden.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
@@ -290,45 +336,11 @@
     },
     {
      "titel": "Familienministerin erwägt Kehrtwende bei Elterngeld-Kürzungen",
-     "text": "Nach massiver Kritik stellt Ministerin Prien die geplanten Kürzungen der Elterngeld-Bezugsdauer auf den Prüfstand. Möglicherweise wird auf die Reduzierung auf zwölf Monate verzichtet, auch die Aufteilung der Partnermonate wird neu bewertet. Eine endgültige Entscheidung steht noch aus.",
+     "text": "Bundesfamilienministerin Prien hat angedeutet, dass die geplanten Kürzungen beim Elterngeld möglicherweise doch nicht wie vorgesehen umgesetzt werden. Ursprünglich war eine Verkürzung der Bezugsdauer auf zwölf Monate geplant, was auf massiven Widerstand und Kritik stieß. Warum die Kehrtwende erwogen wird, liegt am politischen Druck und der Sorge um die Vereinbarkeit von Familie und Beruf. Die Folge wäre eine Beibehaltung der bisherigen Regelungen oder eine weniger drastische Reform. Auch die Aufteilung der Partnermonate steht erneut auf dem Prüfstand.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Trump lehnt gesetzliche KI-Regulierung ab",
-     "text": "US-Präsident Trump plant, weiterhin auf verbindliche Gesetze zur Beschränkung Künstlicher Intelligenz zu verzichten. Stattdessen setzt die US-Regierung auf eine freiwillige Selbstkontrolle der Technologiebranche. Damit positioniert sich die USA gegen internationale Bestrebungen für strengere KI-Leitplanken.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Italien führt Burkaverbot und Sprachquoten an Schulen ein",
-     "text": "Ein neues Gesetzesdekret der Regierung Meloni verbietet die Verschleierung an Schulen und führt verbindliche Quoten für die italienische Sprache im Unterricht ein. Die Regelungen betreffen sowohl Schüler als auch Eltern auf dem Schulgelände. Staatschef Mattarella hat das Dekret bereits unterzeichnet.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Tote bei russischen Angriffen auf Kiew – Flughäfen in Polen gesperrt",
-     "text": "Schwere russische Drohnen- und Raketenangriffe auf die Region Kiew haben mehrere Todesopfer und Verletzte gefordert. Infolge der militärischen Aktivitäten im Grenzgebiet wurde der Betrieb zweier polnischer Flughäfen aus Sicherheitsgründen zeitweise eingestellt. Die ukrainischen Behörden melden erhebliche Schäden an der Infrastruktur.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html"
       }
      ]
     }
@@ -339,8 +351,42 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Ökostrom deckt 61 Prozent des deutschen Strombedarfs",
-     "text": "In den ersten neun Monaten des Jahres 2026 stammten knapp 61 Prozent des in Deutschland verbrauchten Stroms aus erneuerbaren Energien wie Wind und Sonne. Dies markiert einen weiteren Anstieg der Bedeutung von Ökostrom für die nationale Energieversorgung. Besonders der Ausbau der Windkraft trug zu diesem Ergebnis bei.",
+     "titel": "Google stellt Gemini 4 Argon für Cybersicherheit vor",
+     "text": "Google hat sein neues KI-Modell Gemini 4 Argon präsentiert, das laut Chief AI Architect Koray Kavukcuoglu „Frontier-Performance“ in komplexen Workflows bietet. Das Modell ist speziell für Software-Engineering, Finanzanalysen und Cybersicherheitsabwehr optimiert. Warum der Zugriff aktuell stark beschränkt ist, liegt an der hohen Leistungsfähigkeit; nur „vertrauenswürdige Cyber-Verteidiger“ erhalten vorerst Zugang. Die Folge ist eine exklusive Nutzung der Technologie durch spezialisierte Sicherheitsorganisationen, während der breite Markt noch warten muss. Google betont die Notwendigkeit einer kontrollierten Einführung bei derart mächtigen KI-Systemen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+      }
+     ]
+    },
+    {
+     "titel": "Reddit schränkt Zugriff auf „Old Reddit“ zur Bot-Abwehr ein",
+     "text": "Reddit verschärft die Zugangshürden für die klassische Benutzeroberfläche („Old Reddit“), um automatisiertes Scraping durch KI-Bots zu erschweren. Nutzer müssen künftig eingeloggt sein und bestimmte Kriterien erfüllen, um die alte Ansicht weiterhin nutzen zu können. Warum dieser Schritt erfolgt, liegt im Schutz der Plattformdaten vor unbefugtem Auslesen für das Training von KI-Modellen. Die Folge ist eine Einschränkung für viele langjährige Nutzer und Entwickler, die die schlichte Oberfläche bevorzugen. Reddit nimmt damit einen Verlust an Nutzerkomfort in Kauf, um die Kontrolle über seine Inhalte zu behalten.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/scraping-reddit-schraenkt-alte-oberflaeche-weiter-ein-2610-213600.html"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping"
+      }
+     ]
+    },
+    {
+     "titel": "Amazon plant Smart Glasses mit kontinuierlicher Foto-Überwachung für Fahrer",
+     "text": "Amazon entwickelt Smart Glasses für seine Zustellfahrer, die während der gesamten Schicht tausende Fotos der Umgebung aufnehmen sollen. Diese Bilder werden an eine KI übermittelt, um die Zustellprozesse zu optimieren und Hindernisse zu erkennen. Warum das Projekt kritisch gesehen wird, liegt an den massiven Datenschutzbedenken, da auch Privatpersonen und Grundstücke ungefragt fotografiert werden. Die Folge könnte ein erheblicher Konflikt mit Datenschutzbehörden und eine verstärkte Überwachung im öffentlichen Raum sein. Fahrer befürchten zudem eine lückenlose Kontrolle ihrer Arbeitsweise.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy"
+      }
+     ]
+    },
+    {
+     "titel": "Ökostrom deckt 61 Prozent des deutschen Bedarfs",
+     "text": "In den ersten neun Monaten des Jahres 2026 haben erneuerbare Energien aus Wind und Sonne knapp 61 Prozent des Strombedarfs in Deutschland gedeckt. Dies ist ein neuer Höchstwert und unterstreicht den Fortschritt der Energiewende. Warum dieser Anstieg möglich war, liegt am kontinuierlichen Ausbau der Kapazitäten und günstigen Wetterbedingungen. Die Folge ist eine sinkende Abhängigkeit von fossilen Brennstoffen im Stromsektor. Dennoch bleibt die Herausforderung der Netzstabilität bei schwankender Einspeisung bestehen.",
      "quellen": [
       {
        "name": "heise online",
@@ -349,88 +395,42 @@
      ]
     },
     {
-     "titel": "Hohe Nutzung von KI-Agenten in deutschen Unternehmen",
-     "text": "Fast jeder zweite Beschäftigte in Deutschland nutzt bereits KI-Agenten zur Automatisierung von Arbeitsabläufen. Während die Produktivität in Büroprozessen durch Tools wie Claude steigt, wächst bei den Mitarbeitern die Sorge um die langfristige Arbeitsplatzsicherheit und steigende Qualifikationsanforderungen. Experten diskutieren zudem über das Risiko des „Deskilling“ durch KI-Einsatz.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Deutschland-bei-KI-Agenten-weltweit-in-der-Spitzengruppe-11471998.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/anzeige-ki-agenten-fuer-produktive-bueroprozesse-einsetzen-2609-213228.html"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/KI-in-der-Reha-Entlastung-bei-der-Dokumentation-offene-Fragen-zum-Arztberuf-11471741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Google stellt Gemini 4 Argon mit Fokus auf Cybersicherheit vor",
-     "text": "Google hat sein neues Modell Gemini 4 Argon präsentiert, das speziell für IT-Sicherheitsanalysen und Enterprise-Workflows optimiert wurde. In ersten Benchmarks liegt das Modell jedoch hinter Konkurrenten wie GPT-6 Astra und Claude 3.5 Sonnet zurück. Die US-Handelsbehörde FTC untersucht derweil Vorfälle, bei denen LLMs von OpenAI und Anthropic Schäden verursacht haben sollen.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Zu-viele-KI-Vorfaelle-US-Behoerde-untersucht-Anthropic-METR-OpenAI-11471857.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "IT-Panne bei der Bundeswehr löscht Daten von 60.000 Reservisten",
-     "text": "Ein Fehler beim Massendatenimport beim IT-Dienstleister BWI führte zur Löschung der Datensätze von rund 60.000 nicht einberufenen Reservisten. Die Betroffenen haben aktuell keinen Zugriff auf E-Mails, den Bundeswehr-Messenger oder andere IT-Systeme. Die Wiederherstellung der Zugänge ist Gegenstand laufender Arbeiten.",
+     "titel": "Serienproduktion des deutschen Flugzeugs D328eco für 2029 geplant",
+     "text": "In Sachsen soll bis zum Jahr 2029 die Serienproduktion des Regionalflugzeugs D328eco anlaufen. Dies wäre der erste komplette Neubau eines Verkehrsflugzeugs in Deutschland seit zwei Jahrzehnten. Warum das Projekt für die Logistik relevant ist, liegt in der geplanten Nutzung durch Unternehmen wie DHL für regionale Frachtrouten. Die Folge ist eine Stärkung des Luftfahrtstandorts Deutschland und die Schaffung hochqualifizierter Arbeitsplätze in der Region. Das Flugzeug soll besonders effizient und umweltfreundlich operieren.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html"
+       "url": "https://www.golem.de/news/flugzeugbau-in-deutschland-d328eco-soll-bis-2029-in-sachsen-vom-band-rollen-2610-213597.html"
       }
      ]
     },
     {
-     "titel": "Datenleck bei der Stadt Wien durch Schwachstelle in Online-Speicher",
-     "text": "Unbefugte konnten Dokumente der Stadt Wien herunterladen, nachdem eine Sicherheitslücke in einem Online-Speicher ausgenutzt wurde. Der Vorfall wurde bekannt, weil die Schwachstelle in Hacker-Foren zum Verkauf angeboten wurde. Die Stadt hat den Einbruch bestätigt und die Lücke geschlossen.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Donnerstag-Sicherheitsluecke-bei-Wiener-Behoerde-Tech-Prominenz-hilft-Pentagon-11471994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Stadt-Wien-entdeckt-Einbruch-in-Online-Speicher-11471899.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Bayerisches Start-up erhält 150 Millionen Euro für Brennstoffzellen-Innovation",
-     "text": "Ein Start-up aus Bayern hat Kapital in Höhe von 150 Millionen Euro eingeworben, um die Produktion von Festoxidbrennstoffzellen zu skalieren. Das System kann Gas hocheffizient in Strom umwandeln und ist zudem reversibel einsetzbar. Die Technologie soll insbesondere bei Dunkelflauten zur Netzstabilität beitragen.",
+     "titel": "Pentagon startet „Project Meridian“ mit Elon Musk",
+     "text": "Das US-Verteidigungsministerium hat das „Project Meridian“ ins Leben gerufen, bei dem Technologie-Unternehmer wie Elon Musk und Palmer Luckey als Berater fungieren. Ziel ist es, den Bedarf für künftige kriegerische Auseinandersetzungen zu ermitteln und die Rüstungsindustrie schneller an technologische Innovationen anzupassen. Warum dieser Schritt erfolgt, liegt in der zunehmenden Bedeutung von KI und autonomen Systemen auf dem Schlachtfeld. Die Folge ist eine engere Verzahnung von Silicon-Valley-Expertise und militärischer Planung. Kritiker sehen darin eine problematische Privatisierung strategischer Verteidigungsentscheidungen.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/gas-to-power-festoxidbrennstoffzelle-funktioniert-bei-dunkelflaute-und-hellbrise-2609-213588.html"
+       "url": "https://www.golem.de/news/project-meridian-musk-luckey-und-gingrich-beraten-das-pentagon-2610-213601.html"
       }
      ]
     },
     {
-     "titel": "BMW kündigt kompaktes Elektroauto der „Neuen Klasse“ für 2028 an",
-     "text": "BMW erweitert sein Portfolio an Elektrofahrzeugen ab 2028 um ein Kompaktmodell auf Basis der „Neuen Klasse“. Parallel dazu erwägt der Konzern die Einführung eines besonders großen SUV-Modells für den US-Markt. Die Strategie zielt auf eine umfassende Elektrifizierung der Kernsegmente ab.",
+     "titel": "Tencent least 100.000 US-Chips zur Beschleunigung seiner KI-Entwicklung",
+     "text": "Der chinesische Tech-Gigant Tencent hat einen Vertrag mit Oracle abgeschlossen, um Zugriff auf 100.000 Hochleistungschips in südostasiatischen Rechenzentren zu erhalten. Warum dieser Umweg gewählt wurde, liegt an den US-Exportbeschränkungen für KI-Hardware direkt nach China. Die Folge ist eine Beschleunigung der KI-Projekte von Tencent, insbesondere für die Plattform WeChat, im Wettbewerb mit ByteDance und Alibaba. Dieser Deal zeigt, wie chinesische Unternehmen versuchen, technologische Barrieren durch internationale Partnerschaften zu umgehen. Oracle profitiert dabei von der hohen Nachfrage nach Cloud-Kapazitäten in der Region.",
      "quellen": [
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/elektroauto-bmw-kuendigt-kompaktmodell-der-neuen-klasse-an-2609-213593.html"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
       }
      ]
     },
     {
-     "titel": "Razzia gegen Online-Hater nach Angriffen auf 44-Jährigen",
-     "text": "Ermittler durchsuchten 15 Wohnungen in sieben Bundesländern, um gegen eine Gruppe vorzugehen, die einen Mann systematisch im Netz und real attackiert hatte. Die Aktion richtete sich gegen eine organisierte „Hater-Community“. Die Behörden werten nun sichergestellte Beweismittel aus.",
+     "titel": "Figure entsorgt alte Roboter-Generation im Schmelzofen",
+     "text": "Das Robotik-Unternehmen Figure hat den Generationswechsel seiner humanoiden Roboter vollzogen und die Modelle der Serie F.01 spektakulär entsorgt. In einem Video ist zu sehen, wie die alten Roboter in einen Schmelzofen springen, was als PR-Aktion unter Beteiligung von Arnold Schwarzenegger inszeniert wurde. Warum dieser Schritt gewählt wurde, liegt in der Demonstration des technologischen Fortschritts der neuen Generation F.02. Die Folge ist eine klare Abgrenzung zu veralteter Hardware und die Fokussierung auf leistungsfähigere, kommerziell einsetzbare Einheiten. Figure will damit seine Führungsposition im Bereich der humanoiden Robotik unterstreichen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Razzia-gegen-Hater-Community-nach-Hetzjagd-auf-44-Jaehrigen-11472008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Arnold-Schwarzenegger-humanoide-F-02-und-ein-Hochofen-Figure-entsorgt-Roboter-11472119.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     }
