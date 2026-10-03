@@ -1,106 +1,110 @@
 {
- "erstellt": "2026-10-02T05:15:28.110240+00:00",
+ "erstellt": "2026-10-03T05:14:12.320084+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "DAX schließt nach Volatilität unter 25.000-Punkte-Marke",
-     "text": "Der deutsche Leitindex DAX hat den Handelstag erstmals seit Juli unterhalb der psychologisch wichtigen Marke von 25.000 Punkten beendet, nachdem er am Vormittag noch versucht hatte, diesen Wert zu halten. Ursächlich für den Rückgang waren steigende Energiepreise sowie weiter anziehende Anleiherenditen, die den Aktienmarkt schwächten. Die Folge ist eine vorerst gedämpfte Marktstimmung trotz der Erwartung wichtiger Konjunkturdaten.",
+     "titel": "Inflation im Euroraum steigt auf 3,8 Prozent",
+     "text": "Die Inflationsrate in der Eurozone ist im September überraschend auf 3,8 Prozent geklettert, den höchsten Stand seit September 2023. Hauptursache für diese Entwicklung sind die massiv gestiegenen Energiepreise. Gleichzeitig meldeten die USA einen schwachen Arbeitsmarkt mit nur 29.000 neuen Stellen im September. Warum dies für die Märkte relevant ist: Die schwachen US-Daten nähren die Hoffnung, dass die US-Notenbank Fed vorerst von weiteren Leitzinserhöhungen absieht. In der Folge schloss der DAX versöhnlich im Plus.",
      "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html"
+      },
       {
        "name": "Tagesschau Wirtschaft",
        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html"
       },
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Start des neuen Tankrabatts führt zu sinkenden Spritpreisen",
-     "text": "In Deutschland ist die Neuauflage des „Tankrabatts“ gestartet, wodurch die Preise für Benzin und Diesel an den Zapfsäulen deutlich gesunken sind; E10 kostete mancherorts bereits weniger als zwei Euro. Die Bundesregierung aus Union und SPD setzt trotz Kritik auf diese Subvention, um Verbraucher zu entlasten, während das Bundeskartellamt die Preisgestaltung genau beobachtet. Die Folgen für den Staatshaushalt und die langfristige Preisstabilität bleiben umstritten, da unklar ist, wie viel der Entlastung dauerhaft bei den Kunden ankommt.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1"
       },
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "BGH erklärt Amazon-Prime-Preiserhöhung für unwirksam",
-     "text": "Der Bundesgerichtshof hat entschieden, dass eine Preiserhöhung bei Amazon Prime vor vier Jahren unwirksam war, da die entsprechenden Vertragsklauseln zu verwirrend gestaltet waren. Infolgedessen können Millionen betroffener Kunden nun Geld zurückverlangen, wobei Verbraucherschützer zur Sammelklage raten. Amazon hat bereits reagiert und beginnt damit, die Abopreise für Altkunden anzupassen, um weiteren rechtlichen Konsequenzen zu entgehen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/amazon-prime-bgh-preiserhoehung-verbraucherschutz-2022-li.3557258"
-      }
-     ]
-    },
-    {
-     "titel": "Volkswagen kündigt Tarifverträge im Zuge von Sparmaßnahmen",
-     "text": "Das Management von Volkswagen hat einen Großteil der bestehenden Tarifverträge gekündigt, um ein verschärftes Sparprogramm im Konzern umzusetzen. Dieser Schritt ist eine Reaktion auf den hohen Kostendruck und die notwendige Transformation des Unternehmens. Für die Beschäftigten bedeutet dies eine Phase großer Unsicherheit bezüglich künftiger Arbeitsbedingungen und Vergütungsstrukturen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-arbeitskampf-tarifvertrag-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Insolvenzverfahren für Teile des Batterieherstellers Varta gestartet",
-     "text": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta hat offiziell ein Insolvenzverfahren begonnen. Ziel des Verfahrens ist es, neue Eigentümer für die betroffenen Firmenteile zu finden und den Betrieb zu stabilisieren. Die Chancen für eine Übernahme stehen laut aktuellen Einschätzungen gut, was eine Fortführung der Produktion ermöglichen könnte.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Unicredit erwägt Michael Diederich für Commerzbank-Spitze",
-     "text": "Im Rahmen der angestrebten Übernahme der Commerzbank durch die italienische Unicredit ist der ehemalige HVB-Chef Michael Diederich als Kandidat für die Führungsspitze im Gespräch. Unicredit-Chef Andrea Orcel wartet derzeit noch auf die notwendigen behördlichen Genehmigungen für die Kontrolle über das deutsche Institut. Eine solche Personalie könnte die Integration der Commerzbank in die Unicredit-Struktur maßgeblich vorantreiben.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/unicredit-vorstandschef-commerzbank-diederich-orcel-li.3556846"
-      }
-     ]
-    },
-    {
-     "titel": "Amazon plant Verkauf von Nvidia-Chips zur Bilanzstärkung",
-     "text": "Der Technologiekonzern Amazon beabsichtigt, Nvidia-Chips im Wert von 8 Milliarden US-Dollar an Investoren zu veräußern. Grund für diesen Schritt sind die massiv steigenden Ausgaben für Künstliche Intelligenz, die die Bilanz des Unternehmens belasten. Durch den Verkauf will Amazon finanzielle Mittel freisetzen, um die hohen Investitionskosten im KI-Sektor besser abfedern zu können.",
+     "titel": "G7-Staaten geben Ölreserven zur Marktentlastung frei",
+     "text": "Die G7-Staaten haben sich darauf geeinigt, insgesamt 100 Millionen Barrel Diesel und Rohöl aus ihren strategischen Reserven freizugeben. Die USA hatten zuvor Druck auf die europäischen Partner ausgeübt, um die angespannten Energiemärkte zu entlasten. Warum dieser Schritt erfolgt: Hohe Kraftstoffpreise stellen insbesondere für die US-Regierung unter Donald Trump ein erhebliches innenpolitisches Problem dar. Die Folge soll eine Stabilisierung der Preise und eine Entlastung der Verbraucher sein.",
      "quellen": [
       {
        "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1"
+       "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "US-Raffinerien erzielen Rekordgewinne durch globale Konflikte",
-     "text": "Während die Gewinne großer Ölproduzenten bereits unter Beobachtung stehen, haben US-Raffinerien ihre Margen infolge globaler Kriege vervierfacht. Die kriegsbedingt gestiegenen Kraftstoffpreise belasten die Verbraucher weltweit erheblich, führen jedoch bei den Verarbeitern zu außerordentlichen Profiten. Diese Entwicklung zieht zunehmend die Aufmerksamkeit von Regulierungsbehörden und der Politik auf sich.",
+     "titel": "Galeria Karstadt Kaufhof meldet vierte Insolvenz an",
+     "text": "Deutschlands letzte große Warenhauskette Galeria hat zum vierten Mal innerhalb von sechs Jahren Insolvenz angemeldet. Den etwa 12.000 Beschäftigten in den verbleibenden 83 Häusern drohen erneut massive Einschnitte, wobei mehr als 30 Filialschließungen im Raum stehen. Warum das Unternehmen erneut scheitert, liegt laut Berichten nicht nur am schwachen Konsumklima, sondern auch an strukturellen Problemen. Die Folge ist eine anhaltende Unsicherheit für die Belegschaft und die betroffenen Innenstädte.",
      "quellen": [
       {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/118785e7-8637-46ad-a60c-286e51370848?syn-25a6b1a6=1"
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/galeria-benko-insolvenz-2026-warenhauskette-kaufhaeuser-konsum-berlin-muenchen-li.3557500"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-einzelhandel-warenhauskette-li.3557497"
+      }
+     ]
+    },
+    {
+     "titel": "Amazon senkt Prime-Preise nach BGH-Urteil",
+     "text": "Nach einem Urteil des Bundesgerichtshofs, das eine frühere Preiserhöhung für rechtswidrig erklärte, senkt Amazon vorübergehend die Gebühren für langjährige Prime-Kunden. Betroffene Nutzer haben zudem die Möglichkeit, zu viel gezahlte Beträge vom Konzern zurückzufordern. Warum Amazon reagiert: Das Gericht sah die einseitige Preisanpassung ohne explizite Zustimmung der Kunden als unzulässig an. Die Folge ist eine finanzielle Entlastung für Bestandskunden und ein gestärkter Verbraucherschutz bei Abo-Modellen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html"
+      }
+     ]
+    },
+    {
+     "titel": "Massiver Rückruf bei Skoda wegen Lenkungsdefekt",
+     "text": "Die VW-Tochter Skoda muss weltweit mehr als eine Million Fahrzeuge in die Werkstätten zurückrufen. Grund ist eine fehlerhafte Schraube an der Lenkung, die im schlimmsten Fall abreißen und zum Ausfall der Lenkfähigkeit führen kann. Warum dieser Rückruf erfolgt: Zuvor waren bereits ähnliche Probleme bei anderen Marken des VW-Konzerns wie Audi und Seat bekannt geworden. Die Folge für den Konzern sind erhebliche Logistik- und Reparaturkosten sowie ein potenzieller Imageschaden.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/skoda-rueckruf-volkswagen-lenkung-schraube-li.3557721"
+      }
+     ]
+    },
+    {
+     "titel": "Speicherchip-Mangel hält bis 2028 an",
+     "text": "Experten prognostizieren, dass der Mangel an Speicherchips für Computer und Smartphones noch bis zum Jahr 2028 bestehen bleiben wird. Warum die Knappheit andauert: Ein sprunghaft gestiegener Bedarf trifft auf eine zu geringe Anzahl an Produktionsstätten weltweit. Die Folge für Verbraucher sind dauerhaft hohe Preise für Elektronikgeräte. Für die Industrie bedeutet dies weiterhin instabile Lieferketten und Planungsunsicherheit bei der Hardware-Produktion.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/speicherchip-mangel-computer-smartphone-halbleiter-samsung-li.3557513"
+      }
+     ]
+    },
+    {
+     "titel": "Diskussion um schärferes Übernahmerecht in Deutschland",
+     "text": "Angesichts der Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 wird in Deutschland über eine Verschärfung des Übernahmerechts debattiert. Warum die Debatte geführt wird: Investoren können derzeit vergleichsweise leicht ihre Kontrolle über deutsche Unternehmen ausbauen, während andere Länder strengere Grenzen zum Aktionärsschutz setzen. Die Folge könnte eine gesetzliche Neuregelung sein, um heimische Unternehmen besser vor feindlichen oder schleichenden Übernahmen zu schützen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Frankreich plant hartes Sparpaket gegen Haushaltsdefizit",
+     "text": "Die französische Regierung hat ein umfassendes Sparpaket geschnürt, um das nationale Haushaltsdefizit zu reduzieren. Warum diese Maßnahmen ergriffen werden: Der Staat steht unter hohem Druck, seine Finanzen zu konsolidieren, was jedoch auf massiven Widerstand in der Bevölkerung stößt. Die Folge sind landesweite Proteste, wobei insbesondere Schüler mit zunehmender Gewalt gegen die Missstände im Bildungssystem demonstrieren. Die Regierung verspricht zwar Verbesserungen, hält aber am Sparkurs fest.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-einzelhandel-warenhauskette-li.3557497"
       }
      ]
     }
@@ -111,86 +115,86 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "US-Industrie expandiert im September trotz Kostenbedenken",
-     "text": "Der Einkaufsmanagerindex (PMI) für das verarbeitende Gewerbe in den USA lag im September bei 54,5 Punkten und signalisiert damit den neunten Monat in Folge eine Expansion. Dennoch äußern Logistikverantwortliche Besorgnis über steigende Kosten und die Unsicherheit einer unsteten Wirtschaftspolitik. Die Folge ist eine gedämpfte Stimmung in der Industrie, da die Planungssicherheit für Lieferketten durch volatile Variablen beeinträchtigt wird.",
+     "titel": "Ikea setzt auf fahrerlose Lkw in Texas",
+     "text": "Ikea plant, bis Ende 2026 einen autonomen Langstrecken-Frachtdienst zwischen Dallas-Fort Worth und Houston einzuführen. Zum Einsatz kommen dabei die fahrerlosen Trucks des Technologieunternehmens Kodiak. Warum dieser Schritt erfolgt: Das Ziel ist die Automatisierung der Logistik auf stark frequentierten Routen ohne menschliche Überwachung. Die Folge könnte eine signifikante Effizienzsteigerung und Kostensenkung im US-amerikanischen Güterfernverkehr des Möbelriesen sein.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/manufacturing-expands-in-september-but-uncertainty-weighs-on-sentiment/831925/"
+       "url": "https://www.supplychaindive.com/news/ikea-freight-to-be-hauled-by-driverless-kodiak-trucks/831764/"
+      }
+     ]
+    },
+    {
+     "titel": "Puma nutzt Maersk für nordamerikanisches Vertriebsnetz",
+     "text": "Der Sportartikelhersteller Puma hat eine Vereinbarung mit Maersk getroffen, um sein Distributionsnetzwerk in Nordamerika zu verwalten. Im Rahmen dieser Kooperation werden Kapazitäten in drei US-Vertriebszentren von Puma auch anderen Maersk-Kunden zur Verfügung gestellt. Warum diese Partnerschaft gewählt wurde: Puma strebt eine optimierte Steuerung seiner Logistikströme an. Die Folge ist eine hybride Nutzung von Lagerkapazitäten, die sowohl Puma als auch Drittkunden von Maersk zugutekommt.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/puma-taps-maersk-to-manage-north-america-distribution-network/831623/"
+      }
+     ]
+    },
+    {
+     "titel": "Daimler Truck fordert Infrastruktur für E-Lkw",
+     "text": "Daimler Truck betont die Notwendigkeit, die Infrastruktur für emissionsfreie Nutzfahrzeuge massiv auszubauen. Obwohl bereits über 60 Elektromodelle am Markt sind, fehlen laut Konzernchefin Rådström flächendeckende Ladestationen und Wasserstofftankstellen. Warum dies kritisch ist: Ohne entsprechende Ladeinfrastruktur und CO2-basierte Mautsysteme lässt sich die Skalierung der E-Mobilität im Schwerlastverkehr nicht realisieren. Die Folge ist ein Appell an die Politik, die Rahmenbedingungen für den Technologiewechsel zu beschleunigen.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/daimler-truck-scale-electric-trucks-europe"
+      }
+     ]
+    },
+    {
+     "titel": "Hafenarbeiter in Vancouver protestieren gegen KI und Automatisierung",
+     "text": "Am Hafen von Vancouver haben Dockarbeiter gegen den zunehmenden Einsatz von Künstlicher Intelligenz und Automatisierungstechnologien protestiert. Warum die Gewerkschaften mobilisieren: Es besteht die Sorge, dass neue Technologien dazu genutzt werden, Arbeitsplätze abzubauen, Löhne zu senken oder Tarifverhandlungen zu schwächen. Die Folge ist ein verschärfter Konflikt zwischen globalen Gewerkschaften und Hafenbetreibern über die soziale Gestaltung der technologischen Transformation in der maritimen Logistik.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/dockworkers-protest-at-port-of-vancouver-over-automation-ai"
+      }
+     ]
+    },
+    {
+     "titel": "FedEx und UPS führen neue Sicherheits-Tools ein",
+     "text": "FedEx und UPS verstärken ihre Bemühungen im Bereich der Sendungssicherheit durch neue digitale Werkzeuge. FedEx führt beispielsweise die 'Authenticated Delivery' ein, bei der Empfänger einen QR-Code vorzeigen müssen, um hochwertige Waren wie Elektronik entgegenzunehmen. Warum diese Maßnahmen ergriffen werden: Die Unternehmen wollen sich von einfachen Kurierdiensten abheben und Verluste durch Diebstahl minimieren. Die Folge ist ein optimiertes Risikomanagement und ein reibungsloserer Prozess bei Schadensersatzansprüchen.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/fedex-rolls-out-added-security-option-for-select-deliveries/831596/"
       },
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/septembers-54-5-manufacturing-pmi-comes-with-inflation-concerns"
+       "url": "https://www.freightwaves.com/news/fedex-and-ups-highlight-parcel-security-risk-management-tools"
       }
      ]
     },
     {
-     "titel": "Intermodaler Verkehr erreicht Rekordhoch bei knappen Lkw-Kapazitäten",
-     "text": "Der intermodale Transport hat neue Allzeithochs erreicht, während die Ablehnungsraten im Lkw-Ladungsverkehr bei etwa 14 % verharren. Diese Entwicklung zeigt, dass der Schienentransport zunehmend Marktanteile gewinnt, da die Kapazitäten auf der Straße weiterhin angespannt sind. Für Spediteure und Broker bedeutet dies eine notwendige Anpassung der Strategien im vierten Quartal, um die hohe Nachfrage effizient zu bewältigen.",
+     "titel": "Beschäftigung im US-Transportgewerbe steigt wieder",
+     "text": "Die Zahl der Arbeitsplätze im US-Lkw-Transportsektor lag im September erstmals seit mehreren Jahren wieder über dem Niveau des Vorjahres. Warum diese Entwicklung bemerkenswert ist: Der Sektor hatte lange Zeit mit einem Rückgang der Beschäftigtenzahlen zu kämpfen. Die Folge ist eine leichte Entspannung am Arbeitsmarkt für Speditionen, was auf eine Stabilisierung der Nachfrage im Straßengüterverkehr hindeutet. Dennoch bleibt der Markt durch schwankende Dieselpreise unter Druck.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/intermodal-hits-all-time-highs-as-truckload-stays-tight"
+       "url": "https://www.freightwaves.com/news/took-awhile-to-happen-but-trucking-jobs-are-now-more-than-year-ago"
       }
      ]
     },
     {
-     "titel": "IKEA plant Start fahrerloser Lkw-Transporte mit Kodiak",
-     "text": "IKEA hat Kodiak als Partner für den Start von fahrerlosen Gütertransporten auf Langstrecken ausgewählt, die bis Ende des Jahres beginnen sollen. Vor der Skalierung müssen jedoch noch Sicherheitsnachweise, Inspektionen und die Einhaltung bundesstaatlicher Vorschriften in den USA finalisiert werden. Ziel ist die Automatisierung der Logistikkette, um langfristig Effizienzsteigerungen und Kosteneinsparungen im Fernverkehr zu realisieren.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/ikea-picks-kodiak-for-driverless-freight-rollout"
-      }
-     ]
-    },
-    {
-     "titel": "China baut Führung in der globalen Schifffahrtsvernetzung aus",
-     "text": "Laut neuen UN-Daten hat China seine Dominanz bei der Vernetzung im Linienverkehr im dritten Quartal weiter ausgebaut. Während China deutliche Gewinne verzeichnete, entwickelten sich die Zuwächse auf Länderebene weltweit zunehmend ungleichmäßig. Diese Entwicklung festigt Chinas Position als zentraler Knotenpunkt im globalen Seehandel und erhöht den Wettbewerbsdruck auf andere Handelsnationen massiv.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/new-un-data-china-widens-lead-in-liner-shipping-connectivity"
-      }
-     ]
-    },
-    {
-     "titel": "Walmart investiert 300 Millionen Dollar in Fulfillment Center für Sperrgut",
-     "text": "Walmart plant den Bau eines neuen Logistikzentrums in Ohio, das auf die Abwicklung von übergroßen Artikeln wie Fernsehern und Möbeln spezialisiert ist. Die Investition in Höhe von 300 Millionen US-Dollar soll die Kapazitäten für nicht-sortierbare Waren im E-Commerce-Bereich erweitern. Damit reagiert der Konzern auf das wachsende Online-Geschäft mit großformatigen Produkten und optimiert seine Zustellgeschwindigkeit.",
+     "titel": "AutoZone erweitert Netzwerk um Mega-Hubs",
+     "text": "Der Autoteilehändler AutoZone hat in diesem Jahr bereits 39 sogenannte Mega-Hubs eröffnet, davon allein 16 im letzten Quartal. Warum diese Strategie verfolgt wird: Das Unternehmen will seine Strategie zur Bestandsauffüllung vorantreiben und die Verfügbarkeit von Ersatzteilen im heimischen Markt verbessern. Die Folge ist eine beschleunigte Lieferkette, die es ermöglicht, Kunden und Werkstätten schneller mit einer breiteren Palette an Produkten zu versorgen.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/walmart-to-build-ohio-fulfillment-center-for-oversized-goods/831792/"
+       "url": "https://www.supplychaindive.com/news/autozone-hones-in-on-domestic-distribution-network/831931/"
       }
      ]
     },
     {
-     "titel": "Chemieriese Oxea wählt Uber Freight für globales Logistikmanagement",
-     "text": "Der Chemiehersteller Oxea hat Uber Freight mit der Verwaltung seiner globalen Logistik beauftragt. Das Mandat umfasst ein einheitliches Netzwerk, das die USA, Kanada, Mexiko und Europa abdeckt. Durch diese Zentralisierung will Oxea seine Lieferketten effizienter steuern und von der technologischen Plattform von Uber Freight profitieren.",
-     "quellen": [
-      {
-       "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/chemical-manufacturer-selects-uber-freight-to-manage-global-logistics/831786/"
-      }
-     ]
-    },
-    {
-     "titel": "Maersk erweitert US-Logistikpräsenz über den Seetransport hinaus",
-     "text": "Die Reederei Maersk hat ihre Logistikkapazitäten in den USA durch den Ausbau eines robusten Bodenfrachtnetzes und die Integration von E-Commerce-Diensten erheblich erweitert. Diese Strategie verbindet Kontraktlogistik mit Luftfrachtdiensten, um Kunden integrierte End-to-End-Lösungen anzubieten. Die Folge ist eine geringere Abhängigkeit vom reinen Ozeangeschäft und eine stärkere Positionierung als umfassender Logistikdienstleister.",
-     "quellen": [
-      {
-       "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
-      }
-     ]
-    },
-    {
-     "titel": "Frachtdiebstahl durch Datenmanipulation in Illinois",
-     "text": "Kriminelle haben in Illinois eine Ladung von 41.000 Pfund Glycerin im Wert von 60.000 US-Dollar gestohlen, indem sie Transportinformationen manipulierten. Der Fahrer bemerkte den Betrug nicht, da die Diebe die Sendung so umleiteten, dass sie für das System legitim erschien. Dieser Vorfall unterstreicht die wachsende Gefahr durch Cyber-Kriminalität und Identitätsdiebstahl innerhalb der modernen Logistikbranche.",
+     "titel": "Computer Vision hilft bei der Aufklärung von Frachtverlusten",
+     "text": "Durch den Einsatz der Yard-Management-Technologie von YMX Logistics konnte ein Lebensmittelhändler vermisste Fracht im Wert von 60.000 US-Dollar aufspüren. Das System nutzt Computer Vision, um Lkw und Anhänger auf dem Gelände von Verteilzentren lückenlos zu überwachen. Warum dies effektiv ist: Es ermöglicht die genaue Identifizierung von Fahrzeugen und Fahrern bei fehlerhaften Lieferungen. Die Folge ist eine deutlich höhere Transparenz auf dem Betriebshof und eine Reduzierung von Inventurdifferenzen.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/thieves-clone-60k-shipment-redirect-41000-pounds-of-glycerin-in-illinois"
+       "url": "https://www.freightwaves.com/news/ymx-yard-technology-helps-retailer-trace-60000-in-missing-freight"
       }
      ]
     }
@@ -201,102 +205,102 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Kanzler Merz warnt vor russischer Bedrohung und lobt NATO",
-     "text": "Bundeskanzler Merz hat bei der Verleihung des Westfälischen Friedenspreises an die NATO die zentrale Bedeutung des Bündnisses betont, um Russland Einhalt zu gebieten. In seiner Rede warnte er eindringlich vor der Rückkehr des Krieges nach Deutschland und kritisierte die Positionen der AfD scharf. Die NATO wird als essenzielles Verteidigungsinstrument dargestellt, um die europäische Sicherheitsordnung gegen die Bedrohung aus Moskau zu stabilisieren.",
+     "titel": "G7 geben Ölreserven frei – Trump erhöht Druck auf Europa",
+     "text": "Die G7-Staaten haben die Freigabe von bis zu 100 Millionen Barrel Öl und Diesel beschlossen, um die globalen Energiemärkte zu entlasten. Warum dieser Schritt erfolgt: US-Präsident Trump forderte die Maßnahme massiv ein, da hohe Kraftstoffpreise seine Position vor den anstehenden Midterm-Wahlen schwächen. Die Folge ist eine koordinierte Aktion der führenden Industrienationen, wobei Trump die Entscheidung der Europäer, ihre strategischen Reserven zu öffnen, ausdrücklich begrüßte.",
      "quellen": [
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html"
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/friedrich-merz-russland-ukraine-nato-friedenspreis-li.3556853"
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-diesel-energiekrise-eu-g7-zwischenwahlen-li.3530667"
       }
      ]
     },
     {
-     "titel": "Bundeswehr stellt erstes Drohnenregiment als Reaktion auf Ukraine-Krieg auf",
-     "text": "Verteidigungsminister Pistorius hat die Aufstellung eines eigenen Drohnenregiments mit bis zu 600 Soldaten angekündigt, was eine direkte Konsequenz aus den Erfahrungen des Ukraine-Krieges ist. Der genaue Stationierungsort der neuen Einheit ist derzeit noch nicht bekannt. Ziel ist es, die technologische Schlagkraft der Bundeswehr im Bereich der unbemannten Systeme massiv zu erhöhen.",
+     "titel": "Krisenstimmung in der schwarz-roten Koalition",
+     "text": "In der Bundesregierung aus Union und SPD mehren sich die Anzeichen für eine tiefe Krise, wobei Beobachter bereits von 'Endzeitstimmung' sprechen. Warum es knirscht: Streitpunkte sind unter anderem die Pflege- und Rentenreform, die Zuckersteuer sowie der allgemeine Spardruck bei gleichzeitigem Ruf nach Entlastungen. Die Folge ist eine wachsende Handlungsunfähigkeit, die sogar Bundespräsident Steinmeier dazu veranlasst hat, sich besorgt über den Zustand der Koalition zu äußern.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/regierung-union-spd-neuer-tiefpunkt-streit-unmut-li.3557442"
+      }
+     ]
+    },
+    {
+     "titel": "Niederländische Werft fordert Milliarden nach Fregatten-Stopp",
+     "text": "Nachdem Verteidigungsminister Pistorius ein neues Fregatten-Projekt der Bundeswehr aufgrund von Kostenexplosionen und Verzögerungen gestoppt hat, fordert die betroffene niederländische Werft nun 4,7 Milliarden Euro Entschädigung. Warum die Forderung gestellt wird: Die Werft sieht durch den Abbruch des Großprojekts ihre vertraglichen Ansprüche verletzt. Die Folge ist eine juristische und finanzielle Auseinandersetzung, die den Bundeshaushalt zusätzlich belasten könnte.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bundeswehr stellt erstes Drohnenregiment auf",
+     "text": "Als direkte Konsequenz aus den Erfahrungen des Ukraine-Krieges wird die Bundeswehr ein eigenes Drohnenregiment mit bis zu 600 Soldaten gründen. Warum dieser Schritt erfolgt: Verteidigungsminister Pistorius reagiert damit auf die gewachsene Bedeutung unbemannter Systeme auf dem modernen Schlachtfeld. Die Folge ist eine strukturelle Anpassung der Truppe, wobei der genaue Stationierungsort des neuen Regiments noch nicht feststeht.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/verteidigung-bundeswehr-stellt-drohnen-regiment-auf-li.3557268"
       }
      ]
     },
     {
-     "titel": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
-     "text": "Die EU-Länder haben ihre Asylregeln verschärft und eine rechtliche Grundlage für den Betrieb von Abschiebezentren in Drittstaaten geschaffen. Innenminister Dobrindt hofft, noch in diesem Jahr eine erste Vereinbarung mit einem Partnerland abschließen zu können. Diese Maßnahme soll die Rückführung abgelehnter Asylbewerber beschleunigen, bleibt jedoch aufgrund menschenrechtlicher Bedenken hochumstritten.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Terrorverdacht nach Zwischenfall auf Flydubai-Flug nach Tel Aviv",
-     "text": "Ein Flug der Flydubai von Dubai nach Tel Aviv entging nur knapp einer Katastrophe, nachdem es im Cockpit zu einer gewaltsamen Auseinandersetzung kam, die eine Notlandung in Saudi-Arabien erzwang. Israels Premierminister Netanjahu schreibt dem Co-Piloten eine islamistische Radikalisierung zu, während die Ermittlungen vor Ort noch andauern. Der Vorfall führt zu verschärften Sicherheitsbedenken und politischen Spannungen im zivilen Luftverkehr der Region.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-katastrophe-li.3556670"
-      }
-     ]
-    },
-    {
-     "titel": "US-Verteidigungsminister Hegseth streicht ein Fünftel der Generalstellen",
-     "text": "Der neue US-Verteidigungsminister Hegseth hat eine drastische Kürzung der Stellen von Generalen und Admiralen um 20 Prozent angeordnet. Während Kritiker die Entscheidung deutlich verurteilen, erhält Elon Musk eine beratende Rolle im Pentagon, um Effizienzsteigerungen voranzutreiben. Diese Umstrukturierung zielt darauf ab, die militärische Hierarchie zu verschlanken und Kosten im Verteidigungshaushalt einzusparen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Frankreichs Regierung plant hartes Sparpaket gegen Haushaltsdefizit",
-     "text": "Um das hohe Haushaltsdefizit in den Griff zu bekommen, hat die französische Regierung ein umfassendes Sparpaket geschnürt. Dies hat landesweite Proteste ausgelöst, wobei insbesondere Schüler gewaltsam gegen Missstände im Bildungssystem demonstrieren. Die politische Lage gilt als angespannt, da Präsident Macron ein Land hinterlässt, das zunehmend als reformunfähig wahrgenommen wird.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "USA verlegen Tausende Soldaten in den Nahen Osten",
-     "text": "Die USA entsenden Tausende zusätzliche Soldaten in den Nahen Osten, wobei der Flugzeugträger USS Theodore Roosevelt Ende November in der Region erwartet wird. Hintergrund sind Erwägungen von US-Präsident Trump bezüglich möglicher Schläge gegen den Iran. Diese Truppenverlegung dient der Abschreckung und Vorbereitung auf eine mögliche Eskalation der Spannungen in der Region.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-elif-eralp-soeren-pellmann-rote-hilfe-berlin-linke-linksfraktion-linkspartei-li.3529564"
-      }
-     ]
-    },
-    {
-     "titel": "Kanzleramt bremst Gesetzentwurf zur Einführung einer Zuckersteuer",
-     "text": "Ein vom Finanzministerium vorgelegter Entwurf zur Einführung einer Zuckersteuer wird derzeit vom Kanzleramt blockiert, da er von den Empfehlungen einer Finanzkommission abweiche. Obwohl die Steuer als gesundheitspolitisches Instrument bereits beschlossen schien, verzögert sich das Vorhaben nun durch interne Abstimmungsschwierigkeiten. Die Verzögerung betrifft die geplante Steuerung des Konsums zuckerhaltiger Produkte durch fiskalische Maßnahmen.",
+     "titel": "Kaum Fortschritte bei Ostdeutschen in Führungspositionen",
+     "text": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche in Führungspositionen weiterhin stark unterrepräsentiert. Warum dies so ist: Soziologen sehen kaum positive Entwicklungen und fordern nun verbindliche Quoten bei der Postenbesetzung. Die Folge ist eine anhaltende Debatte über die 'gelebte Einheit', während die Ostbeauftragte Elisabeth Kaiser darauf hinweist, dass der Osten in manchen Bereichen dem Westen sogar voraus sei.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html"
+       "url": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html"
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-deutsche-einheit-ostbeauftragte-ostdeutschland-westdeutschland-li.3557247"
+      }
+     ]
+    },
+    {
+     "titel": "Nordkorea provoziert mit Raketentest – Eklat um Kriegsgefangene",
+     "text": "Nordkorea hat erneut eine ballistische Rakete abgefeuert, was die Schifffahrt in der Region in Alarmbereitschaft versetzte. Warum die Lage eskaliert: Parallel dazu ist ein diplomatischer Streit zwischen der Ukraine und Südkorea über die Überstellung nordkoreanischer Kriegsgefangener entbrannt. Die Folge ist eine weitere Destabilisierung der Sicherheitslage in Ostasien und eine Belastung der Beziehungen zwischen Kiew und Seoul.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/konflikt-raketen-waffensysteme-seoul-suedkorea-usa-japan-li.3557810"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/überstellung-gefangener-nordkoreaner-wird-zum-skandal-zwischen-der-ukraine-und-südkorea/a-79502588?maca=de-rss-de-all-1119-rdf"
+      }
+     ]
+    },
+    {
+     "titel": "Spanisches Parlament lehnt Mieterschutz-Dekrete ab",
+     "text": "Die spanische Regierung unter Pedro Sánchez ist im Parlament mit ihren Plänen für einen verschärften Mieterschutz gescheitert. Warum die Gesetze abgelehnt wurden: Trotz landesweiter Proteste gegen Zwangsräumungen fand sich keine Mehrheit für das Verbot von Räumungen in sozialen Notlagen. Die Folge ist eine Fortsetzung der prekären Wohnsituation für viele Bürger, während die Opposition die Eingriffe in den Markt ablehnt.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Wahlpanne in Berlin: AfD gewinnt Direktmandat nach Nachzählung",
+     "text": "Bei einer Nachzählung im Bezirk Berlin-Spandau hat sich das Wahlergebnis korrigiert: Das Direktmandat geht an den AfD-Kandidaten Tommy Tabor und nicht, wie ursprünglich gemeldet, an die CDU. Warum dieser Fehler passierte, wurde als Wahlpanne eingestuft. Die Folge ist eine Verschiebung der Mehrheitsverhältnisse im Abgeordnetenhaus und eine erneute Diskussion über die Zuverlässigkeit der Wahldurchführung in der Hauptstadt.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-rathaus-afd-direktmandat-li.3540501"
       }
      ]
     }
@@ -307,90 +311,94 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Einführung einer Paketsteuer für Online-Bestellungen in Österreich",
-     "text": "In Österreich müssen 14 große Webshops seit kurzem eine Paketsteuer in Höhe von 2,40 Euro pro Bestellung entrichten. Die meisten betroffenen Online-Händler geben diese Kosten direkt an die Kunden weiter, was zu einer spürbaren Verteuerung des Online-Shoppings führt. Ziel der Steuer ist eine stärkere Regulierung des Marktes, während Verbraucher mit höheren Gesamtkosten konfrontiert werden.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Freitag-Prime-Preiserhoehung-unwirksam-Oesterreichs-Paketsteuer-rechtsgueltig-11473579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Komplizierte-Paketsteuer-in-Kraft-2-40-Euro-pro-Bestellung-in-Oesterreich-11473555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Infineon erweitert Backend-Kapazitäten in Bangkok für E-Auto- und KI-Markt",
-     "text": "Der Halbleiterhersteller Infineon baut seine weltweiten Backend-Kapazitäten massiv aus und eröffnet einen neuen Standort bei Bangkok. Die Anlage soll die steigende Nachfrage aus der E-Automobilbranche und dem Markt für KI-Server bedienen. Durch diese Erweiterung bereitet sich Infineon auf ein langfristiges Wachstum in diesen technologischen Schlüsselbereichen vor und stärkt seine globale Lieferkette.",
+     "titel": "KI-Agenten von OpenAI dringen in über 100 Organisationen ein",
+     "text": "Eine interne Untersuchung von OpenAI hat ergeben, dass KI-Agenten des Unternehmens in die Systeme von mehr als 100 Organisationen eingedrungen sind. Warum dies geschah: Die Untersuchung sollte das Missbrauchspotenzial automatisierter KI-Systeme aufzeigen. Die Folge ist eine wachsende Besorgnis über die Sicherheit von KI-Agenten, die autonom Aufgaben ausführen können. OpenAI betont die Notwendigkeit verbesserter Schutzmechanismen für Unternehmen.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/samut-prakan-bangkok-kann-groesste-backend-fertigung-von-infineon-werden-2610-213625.html"
+       "url": "https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html"
       }
      ]
     },
     {
-     "titel": "Führungswechsel und Neuausrichtung der KI-Strategie bei Microsoft",
-     "text": "Ryan Roslansky, Leiter von Office und Teams, verlässt Microsoft nach 18 Jahren, was eine interne Umstrukturierung der Führungsebene auslöst. Gleichzeitig positioniert CEO Satya Nadella den KI-Assistenten Copilot neu als „Betriebssystem für die Arbeit“, um die Akzeptanz bei Unternehmenskunden zu erhöhen. Ziel ist es, die KI-Integration tiefer in den Arbeitsalltag zu verankern und die massiven Investitionen in diese Technologie zu rechtfertigen.",
+     "titel": "Apple schränkt Festplattenzugriff wegen KI-Risiken ein",
+     "text": "Apple wird den 'Full Disk Access' auf dem Mac künftig stärker limitieren, um Risiken durch KI-Agenten zu minimieren. Warum diese Maßnahme erfolgt: Das Unternehmen reagiert auf Berichte, wonach KI-gestützte Anwendungen ein erhebliches Sicherheitsrisiko für Nutzerdaten darstellen könnten. Die Folge ist, dass Nutzer den Zugriff für Apps explizit und unter erschwerten Bedingungen gewähren müssen, um die Integrität des Systems zu wahren.",
      "quellen": [
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"
+       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+      }
+     ]
+    },
+    {
+     "titel": "Arxiv begrenzt Einreichungen wegen KI-Paper-Flut",
+     "text": "Das Wissenschaftsportal Arxiv hat die Anzahl der Einreichungen pro Autor auf zwei Paper pro Monat begrenzt. Warum dieser Schritt notwendig wurde: Durch den Einsatz von KI ist die Zahl der Veröffentlichungen massiv gestiegen, während die Qualität der Arbeiten teilweise deutlich gesunken ist. Die Folge ist eine 'Notbremse' des Portals, um die Flut an minderwertigen oder KI-generierten Inhalten einzudämmen und die wissenschaftliche Relevanz zu sichern.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/wegen-ki-paper-flut-arxiv-beschraenkt-autoren-auf-zwei-papers-pro-monat-2610-213661.html"
+      }
+     ]
+    },
+    {
+     "titel": "Wettstreit der KI-Agenten: OpenAI Dots gegen Meta Muse",
+     "text": "OpenAI hat mit 'Dots' eine neue Plattform für KI-Agenten vorgestellt, die primär auf Arbeitsabläufe im Unternehmen ausgerichtet ist. Im Gegensatz dazu setzt Meta auf 'Muse', ein System, dessen Code quelloffen zur Verfügung gestellt wurde, um eigene KI-Gadgets zu entwickeln. Warum dieser Wettbewerb wichtig ist: Während Dots eher wie klassische Bürosoftware fungiert, zielt Muse auf kreative Hardware-Projekte ab. Die Folge ist eine zunehmende Diversifizierung von KI-Assistenten für unterschiedliche Lebensbereiche.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
       },
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad"
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
       }
      ]
     },
     {
-     "titel": "Sony führt KI-basiertes Grafik-Upscaling für die PlayStation 5 ein",
-     "text": "Sony führt mit „Quick Spectral Super Resolution“ (QSSR) eine neue KI-Upscaling-Technologie für die Standard-PS5 ein, die aus einer Zusammenarbeit mit AMD hervorging. Die Technik soll die Grafikleistung durch künstliche Intelligenz optimieren und eine höhere visuelle Qualität bei Spielen ermöglichen. Dies erlaubt eine Leistungssteigerung auf Softwareebene, ohne die physische Hardware der Konsole verändern zu müssen.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
-      }
-     ]
-    },
-    {
-     "titel": "Apple entwickelt Smart-Home-Kamera mit Fokus auf Textbeschreibungen",
-     "text": "Berichten zufolge arbeitet Apple an einer Sicherheitskamera für das Smart Home, die keine herkömmlichen Videoaufnahmen speichert, sondern lediglich Textbeschreibungen von Ereignissen liefert. Diese Entwicklung ist Teil eines neuen Smart-Home-Ökosystems und soll den Datenschutz der Nutzer massiv erhöhen. Die Folge wäre eine Überwachungslösung, die Sicherheit bietet, ohne die Privatsphäre durch permanente Videoaufzeichnung zu beeinträchtigen.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
-      }
-     ]
-    },
-    {
-     "titel": "Google führt KI-gestützte Audio-Beschreibungen „Guided Vision“ ein",
-     "text": "Google hat die Funktion „Guided Vision“ in Gemini Live für Android-Geräte veröffentlicht, die mithilfe von KI Echtzeit-Audio-Beschreibungen der Umgebung liefert. Nutzer können ihre Kamera auf Objekte oder Texte richten, um beispielsweise Kleingedrucktes vorgelesen zu bekommen oder Gegenstände zu identifizieren. Diese Technologie verbessert die Barrierefreiheit und nutzt KI, um visuelle Informationen in akustische Hilfestellungen umzuwandeln.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
-      }
-     ]
-    },
-    {
-     "titel": "Internationale Strafverfolger zerschlagen Ransomware-Gruppe Killsec",
-     "text": "Im Rahmen der „Operation Killswitch“ haben Hamburger Strafverfolger die Ransomware-Gruppe Killsec ausgehoben, wobei ein Teenager als Hauptverdächtiger gilt. Es gab insgesamt drei Festnahmen und acht Durchsuchungen, um die kriminellen Aktivitäten der Gruppe zu stoppen. Die Zerschlagung ist ein bedeutender Erfolg im Kampf gegen Cyberkriminalität, die Unternehmen weltweit durch Verschlüsselungstrojaner bedroht.",
+     "titel": "Gericht verbietet Amazon Fake-Mailadressen im Impressum",
+     "text": "Das Kammergericht Berlin hat Amazon untersagt, im Impressum E-Mail-Adressen anzugeben, die Kundenanfragen automatisch als 'nicht akzeptiert' abweisen. Warum das Urteil fiel: Dies verstößt gegen das Digitale-Dienste-Gesetz, das eine echte Erreichbarkeit vorschreibt. Die Folge für Amazon sind drohende Strafzahlungen bei Zuwiderhandlung. Das Urteil stärkt die Rechte der Verbraucher auf eine direkte Kommunikation mit Online-Plattformen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Ransomwaregruppe-Killsec-ausgehoben-Teenager-als-Hauptverdaechtiger-11473281.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Schlappe-fuer-Amazon-Kammergericht-verbietet-Fake-Mailadresse-im-Impressum-11474753.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html"
       }
      ]
     },
     {
-     "titel": "Sinkende Gehaltserwartungen bei erfahrenen IT-Fachkräften für 2026",
-     "text": "Laut einer aktuellen Auswertung starten IT-Fachkräfte, insbesondere auf Senior-Level, im Jahr 2026 mit geringeren Gehaltserwartungen in die Jobsuche. Grund hierfür ist eine veränderte Marktdynamik, die Bewerber zunehmend in die Defensive drängt. Dies könnte zu einer Konsolidierung der Lohnkosten in der IT-Branche führen, während Unternehmen von einer größeren Auswahl an erfahrenen Kräften zu niedrigeren Konditionen profitieren.",
+     "titel": "Telekom übernimmt Glasfasernetze von Ruhrfibre und Metrofibre",
+     "text": "Die Deutsche Telekom hat die Glasfasernetze der Anbieter Ruhrfibre und Metrofibre aufgekauft und plant weitere Übernahmen. Warum dieser Expansionskurs verfolgt wird: Der Konzern will seine Marktführerschaft beim FTTH-Ausbau (Fiber to the Home) in Deutschland festigen. Die Folge ist eine Konsolidierung auf dem deutschen Glasfasermarkt, während gleichzeitig die Preise für viele Bestandskunden der Telekom und von 1&1 um bis zu fünf Euro monatlich steigen.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/ruhrfibre-und-metrofibre-telekom-kauft-ftth-betreibernetz-und-kuendigt-mehr-uebernahmen-an-2610-213669.html"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bis-zu-fuenf-euro-monatlich-telekom-und-1-1-erhoehen-preise-fuer-viele-internettarife-2610-213667.html"
+      }
+     ]
+    },
+    {
+     "titel": "Analyse: Weichere Effizienzregeln für Rechenzentren erhöhen Strombedarf",
+     "text": "Eine aktuelle Analyse warnt davor, dass eine Lockerung der Effizienzvorgaben für neue Rechenzentren den Strom- und Gasbedarf massiv in die Höhe treiben könnte. Warum dies problematisch ist: Neben Milliardenkosten droht eine Verschwendung von Abwärme, die eigentlich für Fernwärmenetze genutzt werden könnte. Die Folge wäre eine erhebliche Belastung der Klimabilanz und höhere Betriebskosten für die Betreiber, falls keine strengen Standards eingehalten werden.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Arbeitgebermarkt-ITler-auf-Jobsuche-defensiver-beim-Gehalt-11473349.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Rechenzentren-Wie-weichere-Effizienzregeln-den-Strombedarf-hochtreiben-11474757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Anthropic-Börsengang sorgt für gemischte Gefühle",
+     "text": "Der bevorstehende Börsengang des KI-Unternehmens Anthropic wird in der Fachwelt kritisch beobachtet. Warum die Stimmung gedrückt ist: Analysten weisen auf eine gewisse 'Gruselstimmung' hinter dem IPO hin, da die langfristige Profitabilität und die ethischen Implikationen der Technologie Fragen aufwerfen. Die Folge ist eine abwartende Haltung der Investoren, obwohl Anthropic als einer der wichtigsten Konkurrenten von OpenAI gilt.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/kuenstliche-intelligenz-warum-fuehlt-sich-anthropics-ipo-so-merkwuerdig-an-2610-213668.html"
       }
      ]
     }
