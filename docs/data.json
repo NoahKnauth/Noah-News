@@ -1,102 +1,138 @@
 {
- "erstellt": "2026-10-16T05:26:26.016756+00:00",
+ "erstellt": "2026-10-17T05:22:51.345365+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "UniCredit erhält EZB-Zustimmung für Commerzbank-Übernahme",
-     "text": "Die italienische Großbank UniCredit hat nach zweijährigen Bemühungen das grüne Licht der Europäischen Zentralbank (EZB) für die Übernahme der Commerzbank erhalten. Damit wurde eine entscheidende regulatorische Hürde genommen, nachdem es zuvor langen Widerstand gegen die Fusionspläne gab. Die Folge ist eine potenzielle Konsolidierung im europäischen Bankensektor, die die Marktstruktur in Deutschland erheblich verändern könnte. Warum die EZB gerade jetzt zustimmte, liegt an der Erfüllung bankenaufsichtlicher Kriterien durch UniCredit.",
+     "titel": "Einigung zwischen Deutschland und Frankreich zum Verbrenner-Aus",
+     "text": "Deutschland und Frankreich haben sich auf eine Lockerung des geplanten Verbrenner-Aus in der EU verständigt, wodurch entsprechende Fahrzeuge auch nach 2035 neu zugelassen werden könnten. Kanzler Merz und Präsident Macron legten hierzu gemeinsame Vorschläge vor, um die Verhandlungen über die EU-Regeln für Autokonzerne voranzutreiben. Die Einigung führte zu einem deutlichen Anstieg der Aktienkurse deutscher Automobilhersteller und stützte den DAX. Kritiker innerhalb der Koalition sehen darin jedoch eine Belastung für das Bündnis, während Umweltminister Schneider die Einigung begrüßt. Ziel ist es, die Zukunftsfähigkeit der Industrie zu sichern und gleichzeitig politische Blockaden auf EU-Ebene zu lösen.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Deutsches Handelsdefizit mit China übersteigt 100 Milliarden Euro",
-     "text": "Im ersten Halbjahr hat das deutsche Handelsdefizit mit der Volksrepublik China erstmals die Marke von 100 Milliarden Euro überschritten. Die deutsche Volkswirtschaft importierte fast zweieinhalbmal so viele Waren aus China, wie sie dorthin exportierte. Ursache ist eine starke Abhängigkeit von chinesischen Importen bei gleichzeitig schwächerer Nachfrage nach deutschen Produkten in China. Dies führt zu einer zunehmenden wirtschaftlichen Unwucht und verstärkt die Debatte über eine Diversifizierung der Lieferketten.",
-     "quellen": [
+       "url": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html"
+      },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/china-exporte-handelsdefizit-li.3564035"
-      }
-     ]
-    },
-    {
-     "titel": "Deutsch-französischer Kompromiss zum Erhalt des Verbrennermotors",
-     "text": "Friedrich Merz und Emmanuel Macron haben sich auf Eckpunkte geeinigt, um das geplante EU-Verbot für Neuwagen mit Verbrennungsmotor aufzuweichen. Deutschland setzt sich dafür ein, dass Verbrenner-Technologien weiterhin zugelassen werden können, während Berlin den Franzosen in anderen politischen Bereichen entgegenkommt. Ziel ist es, die heimische Automobilindustrie vor den harten Einschnitten der bisherigen EU-Regeln zu schützen. Die Folge wäre eine grundlegende Änderung der europäischen Klimastrategie im Verkehrssektor.",
-     "quellen": [
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/verbrenner-aus-lockerung-100.html"
+      },
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/wirtschaft/verbrenner-aus-merz-macron-eu-regeln-automobilindustrie-elektromobilitaet-li.3564320"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/fruehstartrente-deutschland-foerderung-kinder-eltern-wissen-li.3520077"
+       "url": "https://www.sueddeutsche.de/wirtschaft/deutschland-frankreich-auto-vorschlaege-li.3564608"
       }
      ]
     },
     {
-     "titel": "Krisenstimmung bei KI-Infrastruktur: Investoren stoßen Anleihen ab",
-     "text": "Anleihen von Anbietern für KI-Infrastruktur und sogenannten Neocloud-Unternehmen wie CoreWeave sind auf ein kritisches Niveau gefallen. Investoren befürchten einen „Darwin-Moment“, in dem sich zeigt, welche Geschäftsmodelle im KI-Sektor tatsächlich profitabel sind. Die Unsicherheit wurde durch abgesagte Börsengänge australischer Rechenzentrumsgruppen wie Firmus und AirTrunk verstärkt. In der Folge droht eine Kreditklemme für Unternehmen, die massiv in teure KI-Hardware investieren müssen.",
-     "quellen": [
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b"
-      }
-     ]
-    },
-    {
-     "titel": "EuGH-Urteil: Banken müssen bei Phishing-Betrug haften",
-     "text": "Der Europäische Gerichtshof (EuGH) hat entschieden, dass Banken ihren Kunden Schäden durch Kontobetrug grundsätzlich erststatten müssen. Dies gilt insbesondere für immer raffiniertere Phishing-Maschen, bei denen Betrüger Zugriff auf Kontodaten erlangen. Die Banken sind verpflichtet, den Schaden zunächst zu ersetzen, wobei es nur sehr begrenzte Ausnahmen gibt. Das Urteil stärkt die Verbraucherrechte massiv und erhöht den Druck auf Finanzinstitute, ihre Sicherheitssysteme zu verbessern.",
+     "titel": "EZB genehmigt Übernahme der Commerzbank durch UniCredit",
+     "text": "Die Europäische Zentralbank (EZB) hat der geplanten Mehrheitsübernahme der Commerzbank durch die italienische UniCredit zugestimmt, womit der Weg für eine Fusion der zweitgrößten deutschen Bank frei ist. Trotz des Widerstands der Bundesregierung, die ihre Anteile an der Commerzbank behalten wollte, scheinen die Interessen der Mailänder Großbank nun Vorrang zu haben. Die Folgen könnten eine Konsolidierung des europäischen Bankensektors, aber auch ein Stellenabbau und der Verlust der Eigenständigkeit eines wichtigen deutschen Finanzinstituts sein. Analysten beobachten nun die nächsten Schritte von UniCredit-Chef Orcel, während die politische Debatte über die Souveränität des deutschen Finanzplatzes anhält.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html"
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bundesregierung-reformen-rente-fruehrente-li.3563519"
+       "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-ezb-banken-li.3564519"
       }
      ]
     },
     {
-     "titel": "Hohe Nachfrage nach Abfindungen bei BMW führt zu Bremsmanöver",
-     "text": "Der Automobilhersteller BMW sieht sich mit einem unerwartet hohen Interesse an seinem Abfindungsprogramm konfrontiert. Da der Konzern Tausende Stellen streichen will, wurden finanzielle Anreize für das Ausscheiden von Mitarbeitern geschaffen. Das enorme Interesse zwingt das Management nun dazu, den Prozess zu verlangsamen, um den Verlust von zu viel Fachpersonal auf einmal zu verhindern. Dies zeigt den hohen Transformationsdruck und die Bereitschaft der Belegschaft, den Konzern unter attraktiven Bedingungen zu verlassen.",
+     "titel": "Eurowings plant Kurzarbeit wegen steigender Kerosinkosten",
+     "text": "Die Lufthansa-Tochter Eurowings streicht zahlreiche Flüge im Winterflugplan und prüft die Einführung von Kurzarbeit für ihre Mitarbeitenden. Grund für diese drastischen Maßnahmen ist der massive Kostendruck durch gestiegene Kerosinpreise infolge des Iran-Krieges und der Eskalation im Nahen Osten. Parallel dazu erreichte der Preis für Brent-Öl ein Fünf-Monats-Hoch von 110 US-Dollar, was die gesamte Luftfahrtbranche unter Druck setzt. Airlines warnen bereits davor, dass Kunden weitere Preissteigerungen bei Tickets nicht mehr akzeptieren könnten, was zu langfristigen Einbußen führen würde. Die Situation verdeutlicht die direkte Abhängigkeit der Logistik- und Reisebranche von geopolitischen Stabilitäten.",
      "quellen": [
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-abfindungen-andrang-gross-folgen-li.3564216"
-      }
-     ]
-    },
-    {
-     "titel": "Mieten in Deutschland steigen um vier Prozent",
-     "text": "Die Wohnungsmieten in Deutschland sind im Jahresvergleich bundesweit um durchschnittlich fast vier Prozent gestiegen. Besonders stark ist die Zunahme in Hamburg, während München weiterhin die teuerste Stadt für Mieter bleibt. Ursache ist die anhaltend hohe Nachfrage bei gleichzeitig zu geringem Neubau von Wohnraum. Für Studenten und Arbeitnehmer bedeutet dies eine weiter steigende Belastung des verfügbaren Einkommens durch Fixkosten.",
-     "quellen": [
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
+      },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/mieten-wohnen-preise-immobilien-li.3563978"
-      }
-     ]
-    },
-    {
-     "titel": "Trump erwägt Lockerung für russische und iranische „Schattenflotte“",
-     "text": "Das Weiße Haus unter Donald Trump prüft, die Beschränkungen für die sogenannte Schattenflotte von Öltankern aus Russland und dem Iran zu lockern. Ziel dieser Maßnahme ist es, das weltweite Ölangebot zu erhöhen und so die Treibstoffkosten vor den US-Zwischenwahlen zu senken. Eine Rückkehr dieser Schiffe in den regulären Welthandel würde die Wirksamkeit bisheriger Sanktionen untergraben. Die Folge wäre eine Entlastung der globalen Energiemärkte bei gleichzeitiger politischer Stärkung der sanktionierten Staaten.",
-     "quellen": [
+       "url": "https://www.sueddeutsche.de/wirtschaft/eurowings-kurzarbeit-kerosinkosten-lufthansa-flugstreichungen-li.3564764"
+      },
       {
        "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1"
+       "url": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Bundesregierung plant Kooperation mit Nvidia zur KI-Förderung",
+     "text": "Die Bundesregierung unter Kanzler Merz plant eine strategische Kooperation mit dem US-Chiphersteller Nvidia, um den KI-Standort Deutschland attraktiver zu machen und die Industrie zukunftsfähig zu gestalten. Der geplante Deal sieht Millioneninvestitionen in Nvidia-Technologie vor, was jedoch auf Kritik stößt; Stimmen aus der Wirtschaft fordern stattdessen, das Geld vorrangig in den Bürokratieabbau zu investieren. Ziel der Regierung ist es, Deutschland im globalen KI-Boom zu positionieren und Investoren anzulocken. Die Kooperation könnte den Zugang zu spezialisierter Hardware für deutsche Unternehmen verbessern, birgt aber auch finanzielle Risiken bei einer einseitigen Technologieförderung.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/deutschland-frankreich-auto-vorschlaege-li.3564608"
+      }
+     ]
+    },
+    {
+     "titel": "Russland stellt deutsche Firmen unter Zwangsverwaltung",
+     "text": "Der Kreml hat weitere westliche Unternehmen unter staatliche Zwangsverwaltung gestellt, darunter einen namentlich nicht genannten deutschen Verpackungshersteller. Diese Maßnahme erfolgte unmittelbar vor einem Auftritt des ukrainischen Präsidenten Selenskyj beim Europäischen Rat. Damit setzt Russland seine Strategie fort, Eigentum westlicher Firmen als Reaktion auf internationale Sanktionen zu kontrollieren. Für betroffene Unternehmen bedeutet dies den faktischen Verlust ihrer operativen Kontrolle und ihrer Vermögenswerte im russischen Markt. Die Unsicherheit für verbliebene westliche Investoren in Russland nimmt dadurch weiter zu.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "text": "Der Bundestag hat eine deutliche Anhebung der Tabaksteuer beschlossen, die zu erheblichen Preissteigerungen für Zigaretten, Feinschnitt und tabakähnliche Produkte führen wird. Ziel der Maßnahme ist es, die Milliardeneinnahmen des Bundes zu erhöhen, um Haushaltslöcher zu stopfen. Finanzminister Klingbeil verteidigte die Erhöhung auch vor dem Hintergrund internationaler Empfehlungen zum Schuldenabbau. Raucher müssen sich auf spürbare Mehrkosten einstellen, während der Bund mit stabilen bis steigenden Steuereinnahmen rechnet. Die Reform ist Teil eines größeren Pakets zur Konsolidierung des Bundeshaushalts.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Einführung der Frühstartrente für Kinder beschlossen",
+     "text": "Der Bundestag hat die Einführung der sogenannten \"Frühstartrente\" beschlossen, bei der der Staat Kindern jährlich 120 Euro für die Altersvorsorge bereitstellt. Ziel ist es, frühzeitig Kapital für die spätere Rente aufzubauen und die private Vorsorge zu stärken. Kritiker bemängeln eine mögliche soziale Ungerechtigkeit, da wohlhabendere Eltern zusätzliche Beiträge leisten können, was von Befürwortern jedoch als Denkfehler zurückgewiesen wird. Die Maßnahme ist ein erster Baustein einer geplanten größeren Rentenreform. Sie soll langfristig die Abhängigkeit von der gesetzlichen Umlagerente verringern.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/fruehstartrente-kinder-altersvorsorge-depot-ungerecht-kommentar-li.3564454"
+      }
+     ]
+    },
+    {
+     "titel": "Aufwärtstrend bei Baugenehmigungen trotz hoher Zinsen",
+     "text": "Im August setzte sich der Aufwärtstrend bei den Baugenehmigungen für Wohnimmobilien in Deutschland fort, was einen Lichtblick für den kriselnden Wohnungsbau darstellt. Dennoch belasten hohe Zinsen und gestiegene Energiepreise weiterhin viele Bauherren und dämpfen die allgemeine Bauaktivität. Um dem Wohnungsmangel langfristig zu begegnen, plant die Bundesregierung zudem den Start einer bundeseigenen Wohnungsbaugesellschaft für das Jahr 2027. Diese soll gezielt bezahlbaren Wohnraum schaffen und die staatliche Baukompetenz bündeln. Trotz der positiven Genehmigungszahlen bleibt die Realisierung vieler Projekte aufgrund der Finanzierungskosten ungewiss.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html"
       }
      ]
     }
@@ -107,86 +143,86 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "GlobalFoundries baut Halbleiter-Fabriken für 21 Milliarden Dollar",
-     "text": "Im Rahmen eines Handelsabkommens zwischen den USA und Japan errichtet GlobalFoundries neue Chipfabriken im Bundesstaat New York. Das Investitionsvolumen beträgt 21 Milliarden US-Dollar und soll die US-Halbleiterproduktion massiv beschleunigen. Ziel ist es, kritische Lieferketten zu stärken und die wachsende Nachfrage aus der Automobil- und Industriebranche zu bedienen. Dies ist eine direkte Reaktion auf die globalen Versorgungsengpässe der letzten Jahre.",
+     "titel": "Eskalation der Angriffe auf Containerschiffe im Hormuz-Strait",
+     "text": "Die Angriffe auf Containerschiffe in der Straße von Hormuz haben massiv zugenommen, wobei zuletzt ein unter der Flagge Singapurs fahrendes Schiff nach einem Treffer sank. Diese Eskalation der regionalen Konflikte bedroht zentrale Handelsrouten und führt zu einer erhöhten Unsicherheit in der globalen Schifffahrt. Parallel dazu stieg der Preis für Brent-Öl auf ein Fünf-Monats-Hoch von 110 US-Dollar, da Berichte über abgefangene Raketenangriffe auf kritische Energiezentren in Saudi-Arabien die Märkte verunsichern. Logistikunternehmen müssen mit steigenden Versicherungskosten und Verzögerungen rechnen. Die Situation verdeutlicht die Verwundbarkeit maritimer Lieferketten in geopolitischen Spannungszonen.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/container-ship-attacks-escalate-in-strait-of-hormuz"
+      }
+     ]
+    },
+    {
+     "titel": "FedEx und UPS kündigen Rekordpreise für das vierte Quartal an",
+     "text": "FedEx und UPS bereiten sich auf Rekordpreise im vierten Quartal 2026 vor, getrieben durch massive Peak-Zuschläge während der Weihnachtssaison. Obwohl sinkende Treibstoffpreise im dritten Quartal kurzzeitig für Entlastung sorgten, wird die hohe Nachfrage die Kosten für Versender nun wieder in die Höhe treiben. Analysten von TD Cowen und AFS warnen, dass die Rabattierungsmöglichkeiten der Vorquartale durch die saisonalen Aufschläge kompensiert werden. Für Logistikplaner bedeutet dies eine erhebliche Belastung der Budgets zum Jahresende. Die Preissteigerungen sind eine Reaktion auf die notwendigen Kapazitätserweiterungen während der Sendungsspitzen.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/"
+       "url": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4-td-cowenafs/832992/"
       }
      ]
     },
     {
-     "titel": "KI-Agenten steigern Flotteneffizienz um 30 Prozent",
-     "text": "Samsara hat mit dem „Agent Studio“ eine Plattform eingeführt, die es Logistikunternehmen ermöglicht, KI-Agenten ohne Programmierkenntnisse zu erstellen. Diese Sprach- und Chat-Bots unterstützen beim Fahrertraining und der Überwachung von Compliance-Regeln wie den Lenk- und Ruhezeiten. Laut Herstellerangaben konnte die Sicherheit in Pilotprojekten um 30 Prozent gesteigert werden, während die Zeit für manuelle Prüfungen um 85 Prozent sank. Die Folge ist eine signifikante Senkung der operativen Kosten bei gleichzeitiger Erhöhung der Verkehrssicherheit.",
+     "titel": "Rekordvolumen im Hafen von Long Beach und im Schienenverkehr",
+     "text": "Der Hafen von Long Beach verzeichnete im September ein Rekordvolumen von fast einer Million Containern, was einen historischen Höchststand markiert. Gleichzeitig stieg das intermodale Schienenverkehrsaufkommen in den USA laut aktuellen Daten um 10 % an. Dieser Zuwachs erfolgt trotz der Herausforderung durch steigende Dieselkosten, die von den Verladern bewältigt werden müssen. Die Daten deuten auf eine robuste Nachfrage im US-Güterverkehr und eine effiziente Verlagerung auf die Schiene hin. Für die Logistikbranche ist dies ein Indikator für eine hohe Auslastung der Infrastruktur an der Westküste.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/how-ai-agents-boost-fleet-safety-efficiency-by-30"
-      }
-     ]
-    },
-    {
-     "titel": "Prologis hebt Prognose für Logistikimmobilien deutlich an",
-     "text": "Der weltweit größte Betreiber von Logistikimmobilien, Prologis, hat seine Erwartungen für das dritte Quartal übertroffen. Aufgrund der stabilen Nachfrage nach Lagerflächen wurde die Prognose für neue Entwicklungsprojekte im Jahr 2026 deutlich nach oben korrigiert. Dies deutet auf ein anhaltendes Wachstum im E-Commerce und eine weitere Dezentralisierung von Lagerbeständen hin. Für die Logistikbranche bedeutet dies eine weiterhin knappe Verfügbarkeit von erstklassigen Logistikflächen in Ballungsräumen.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again"
-      }
-     ]
-    },
-    {
-     "titel": "Neue Technologie für lückenlose Frachtverfolgung",
-     "text": "Descartes hat mit „MacroPoint ELD+“ eine Funktion eingeführt, die ELD-Daten, Trailer-GPS und Fahrer-Apps gleichzeitig auswertet. Durch diese Redundanz sollen Lücken in der Sichtbarkeit geschlossen und Betrugsversuche erschwert werden. Bisher mussten sich Disponenten oft auf eine einzige Datenquelle verlassen, was fehleranfällig war. Die Folge ist eine höhere Transparenz in der Lieferkette, die besonders für Makler und Verlader von hohem Wert ist.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/freight-visibility-gets-a-second-set-of-eyes"
-      }
-     ]
-    },
-    {
-     "titel": "Hohe Dieselpreise belasten US-Logistiksektor",
-     "text": "In Kalifornien verharren die Dieselpreise bei über 8 US-Dollar pro Gallone, was Fuhrunternehmen unter massiven finanziellen Druck setzt. Großhändler wie UNFI reagieren darauf mit Absicherungsgeschäften (Hedging) und dem Einsatz von KI-Plattformen zur Routenoptimierung. Experten erwarten, dass die hohen Kosten bis weit in das nächste Jahr anhalten könnten. Dies führt zu steigenden Transportkosten, die letztlich an die Endverbraucher weitergegeben werden müssen.",
-     "quellen": [
-      {
-       "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/"
+       "url": "https://www.freightwaves.com/news/intermodal-rail-better-by-10-in-latest-count"
       },
       {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/new-long-beach-record-as-volume-nears-1m-containers"
+      }
+     ]
+    },
+    {
+     "titel": "Gericht bestätigt Millionenurteil gegen C.H. Robinson",
+     "text": "Ein texanisches Gericht hat ein sogenanntes \"Nuclear Verdict\" gegen den Logistikdienstleister C.H. Robinson bestätigt. Solche Urteile zeichnen sich durch extrem hohe Schadensersatzsummen aus, die oft weit über den tatsächlichen materiellen Schaden hinausgehen. Die Entscheidung hat weitreichende Folgen für die Haftungsrisiken von Frachtvermittlern in den USA. Unternehmen der Branche müssen nun mit steigenden Versicherungsprämien und strengeren Anforderungen an die Auswahl ihrer Subunternehmer rechnen. Das Urteil unterstreicht die juristischen Gefahren im US-amerikanischen Transportmarkt.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson"
+      }
+     ]
+    },
+    {
+     "titel": "FMC schlägt Gebühren für spanische Schiffe vor",
+     "text": "Die US-Schifffahrtsbehörde Federal Maritime Commission (FMC) schlägt die Einführung von Gebühren in Höhe von 200.000 US-Dollar pro Fahrt für Schiffe unter spanischer Flagge vor. Zusätzlich sollen Importbeschränkungen für bestimmte Waren aus Spanien verhängt werden. Grund für diese drastischen Maßnahmen sind regulatorische Differenzen oder Handelshemmnisse, die von der FMC adressiert werden sollen. Für spanische Reedereien und Exporteure würde dies eine erhebliche Verteuerung und Erschwerung des US-Geschäfts bedeuten. Die Maßnahme könnte zu diplomatischen Spannungen und einer Neuausrichtung von Lieferketten führen.",
+     "quellen": [
+      {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/"
+       "url": "https://www.supplychaindive.com/news/fmc-proposes-fees-on-spanish-flagged-vessels-import-restrictions/833122/"
       }
      ]
     },
     {
-     "titel": "US-Regierung fördert 2.400 neue Lkw-Parkplätze",
-     "text": "Das US-Verkehrsministerium stellt Bundesmittel bereit, um landesweit mehr als 2.400 neue Parkplätze für Lastkraftwagen zu schaffen. Der Mangel an sicheren Abstellmöglichkeiten gilt als eines der größten Probleme für Fernfahrer und führt oft zu Verstößen gegen Ruhezeitregelungen. Die neuen Kapazitäten sollen die Sicherheit auf den Autobahnen erhöhen und die Arbeitsbedingungen für Fahrer verbessern. Dies ist ein wichtiger Schritt, um dem Fahrermangel in der Logistikbranche entgegenzuwirken.",
+     "titel": "Tesla baut Personal für Semi-Produktion in Nevada aus",
+     "text": "Tesla verstärkt die Rekrutierung von Personal für sein Semi-Werk in Nevada, um die steigende Zahl an Flottenbestellungen für den elektrischen Lkw der Klasse 8 zu bewältigen. Gesucht werden Mitarbeiter für die Montage, Qualitätssicherung und den Service, da Großkunden wie WattEV, IMC und die ZET SCALE Allianz ihre Orderzahlen erhöhen. Der Ausbau der Produktionskapazitäten ist entscheidend, um den Übergang zu emissionsfreien schweren Nutzfahrzeugen im US-Markt voranzutreiben. Für die Logistikbranche bedeutet dies eine verbesserte Verfügbarkeit von elektrischen Transportlösungen für den Fernverkehr. Tesla reagiert damit auf den wachsenden Druck zur Dekarbonisierung von Lieferketten.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/federal-dot-grants-will-fund-more-than-2400-parking-spots"
+       "url": "https://www.freightwaves.com/news/tesla-semi-nevada-hiring"
       }
      ]
     },
     {
-     "titel": "J.B. Hunt übertrifft gesenkte Erwartungen im dritten Quartal",
-     "text": "Nach einer Gewinnwarnung vor einem Monat hat der Logistikriese J.B. Hunt Quartalszahlen vorgelegt, die leicht über den revidierten Analystenschätzungen liegen. Trotz eines schwierigen Marktumfelds zeigt das Unternehmen eine relative Stabilität in seinen Kernsegmenten. Die Ergebnisse spiegeln die aktuelle Schwäche im US-Güterverkehrsmarkt wider, die durch Überkapazitäten und volatile Nachfrage geprägt ist. Für Investoren ist dies ein Signal, dass der Boden im Frachtzyklus erreicht sein könnte.",
+     "titel": "Startup Evos erhält 9 Millionen Dollar für Logistik-KI",
+     "text": "Das Startup Evos hat in einer Pre-Seed-Finanzierungsrunde 9 Millionen US-Dollar eingesammelt, um KI-gestützte Operatoren für Industrieunternehmen zu entwickeln. Die Technologie lernt Arbeitsabläufe von Mitarbeitern und führt Aufgaben innerhalb bestehender Unternehmenssoftware autonom aus. Ein Frachtvermittler konnte mit diesem System bereits 3.500 Rechnungsprüfungsentscheidungen innerhalb von zwei Monaten automatisieren. Dies verspricht erhebliche Effizienzsteigerungen und Kostensenkungen in der administrativen Logistikabwicklung. Die Investition zeigt das große Potenzial von spezialisierter KI zur Optimierung komplexer Back-Office-Prozesse.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/first-look-j-b-hunt-q3-earnings"
+       "url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses"
       }
      ]
     },
     {
-     "titel": "Neuer Öl-Standard für schwere Nutzfahrzeuge ab Januar",
-     "text": "Das American Petroleum Institute (API) führt im Januar einen neuen Standard für Motorenöle in schweren Dieselmotoren ein. Dieser ersetzt die seit 2017 geltenden Normen und betrifft Flottenbetreiber jeder Größe. Die Umstellung erfordert eine Anpassung der Wartungsprozesse und könnte Auswirkungen auf die Betriebskosten und die Langlebigkeit der Ausrüstung haben. Ziel der neuen Standards ist eine höhere Effizienz und die Erfüllung strengerer Emissionsvorgaben.",
+     "titel": "UPS eröffnet erweiterten Luftfracht-Hub auf den Philippinen",
+     "text": "UPS hat ein erweitertes Luftfracht- und Paketterminal auf den Philippinen eröffnet, um die Anbindung Asiens an sein globales Netzwerk zu verbessern. Der neue Hub ermöglicht höhere Servicelevel und schnellere Transitzeiten für Sendungen innerhalb der Region sowie nach Übersee. Diese Investition ist eine Reaktion auf das wachsende Handelsvolumen in Südostasien und den Bedarf an zuverlässigen Express-Logistiklösungen. Für Unternehmen in der Region bedeutet dies einen verbesserten Zugang zu internationalen Märkten. UPS stärkt damit seine Wettbewerbsposition gegenüber anderen globalen Integratoren im asiatischen Raum.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/the-heavy-duty-oil-standard-is-changing-in-january-what-it-means-for-your-fleet-your-costs-and-your-equipment"
+       "url": "https://www.freightwaves.com/news/larger-ups-air-hub-in-philippines-boosts-asia-service-levels"
       }
      ]
     }
@@ -197,106 +233,122 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Haushaltsstreit in der EU: Merz fordert massive Kürzungen",
-     "text": "Beim EU-Gipfel in Brüssel ist ein Streit über den zukünftigen Finanzrahmen bis 2034 entbrannt, der ein Volumen von bis zu zwei Billionen Euro umfasst. Bundeskanzler Friedrich Merz fordert deutliche Kürzungen und lehnt höhere Beiträge Deutschlands, des größten Nettozahlers, ab. Andere Mitgliedstaaten hoffen hingegen auf neue EU-Steuern, um die geplanten Ausgaben zu finanzieren. Ein Kompromiss ist nicht in Sicht, da die Positionen zwischen Sparern und Befürwortern höherer Ausgaben weit auseinanderliegen.",
+     "titel": "Schneller Abgang von Trumps Pressesprecherin Katie Zacharia",
+     "text": "Die neue Pressesprecherin des Weißen Hauses, Katie Zacharia, hat ihren Posten nach nur fünf Tagen im Amt bereits wieder verloren. Während einige Quellen von einer Entlassung durch US-Präsident Trump berichten, sprechen andere von einem Rücktritt aufgrund von Druck wegen falscher Angaben in ihrem Lebenslauf. Zacharia war zuvor durch wirre Sätze, Versprecher und Zweifel an ihrer Qualifikation als Anwältin in die Kritik geraten. Trump kommentierte den schnellen Abgang mit der Vermutung, die Aufgabe sei \"vielleicht nichts für sie\". Die Personalie sorgt für weitere Unruhe in der US-Regierung kurz vor den Midterm-Wahlen.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html"
       },
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-eu-friedrich-merz-ursula-von-der-leyen-li.3563985"
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-russland-zoelle-sanktionen-li.3564887"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/eu-haushalt-streit-merz-nettozahler-li.3562941"
+       "url": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046"
       }
      ]
     },
     {
-     "titel": "Bundestag beschließt Reform der Notfallversorgung",
-     "text": "Der Bundestag hat eine umfassende Reform der Notfallmedizin verabschiedet, um überlastete Notaufnahmen und Rettungsdienste zu entlasten. Künftig sollen Patienten durch eine bessere Steuerung schneller die passende Hilfe erhalten, während leichtere Fälle gezielt an den vertragsärztlichen Notdienst verwiesen werden. Hilfsorganisationen fordern jedoch Nachbesserungen, da sie die praktische Umsetzung kritisch sehen. Die Folge für Patienten soll eine effizientere Behandlung bei echten medizinischen Notfällen sein.",
+     "titel": "Trump stoppt Russland-Sanktionen für Diesel-Deal",
+     "text": "US-Präsident Trump hat per Dekret geplante Sanktionen und Zölle gegen Russland gestoppt, die vom Kongress als Reaktion auf den Ukraine-Krieg gefordert worden waren. Hintergrund ist ein Deal mit Moskau zur Freigabe von Diesel-Lieferungen, um den Druck auf die US-Energiemärkte zu senken. Gleichzeitig fordern US-Senatoren Aufklärung über die Drosselung des Starlink-Satelliteninternets für das ukrainische Militär. Während Trump eine Verantwortung von sich weist, widersprechen ihm Berichte über eine gezielte Einflussnahme. Diese Entscheidungen verschärfen die Spannungen zwischen dem Weißen Haus und dem Kongress sowie der Ukraine.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/midterms-2026-donald-trump-elon-musk-spenden-podcast-li.3563986"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-russland-zoelle-sanktionen-li.3564887"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283"
+      }
+     ]
+    },
+    {
+     "titel": "Johannes Winkel als Vorsitzender der Jungen Union wiedergewählt",
+     "text": "Johannes Winkel wurde auf dem \"Deutschlandtag\" der Jungen Union in Bonn mit 94 Prozent der Stimmen als Vorsitzender wiedergewählt. In seiner Rede kritisierte er die CDU scharf und warf ihr vor, Politik wie im Jahr 2010 zu machen, während er gleichzeitig die Glaubwürdigkeit der SPD infrage stellte. Der Parteinachwuchs versucht sich als Antreiber der Union zu positionieren, um die Partei aus ihrem aktuellen Umfragetief zu führen. Winkel forderte mehr Zuversicht und ein klareres Profil, um neue Impulse für die Bundespolitik zu setzen. Die Versammlung verdeutlicht die internen Spannungen und den Reformdruck innerhalb der größten Oppositionspartei.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html"
       },
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-112.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/deutschlandtag-junge-union-bonn-cdu-johannes-winkel-pascal-reddig-hendrik-wuest-friedrich-merz-li.3564260"
       }
      ]
     },
     {
-     "titel": "Starlink-Ausfälle in der Ukraine durch Weißes Haus beeinflusst",
-     "text": "Berichten zufolge gehen die Einschränkungen des Satelliten-Internetdienstes Starlink für die ukrainischen Streitkräfte auf eine Anordnung des Weißen Hauses zurück. In der Ukraine wächst die Sorge, dass diese Ausfälle politisch motiviert sind und die Verteidigungsfähigkeit gegen russische Angriffe schwächen. In der Folge wird die Unterstützung durch die EU und der Ausbau eigener Kapazitäten für die Ukraine immer wichtiger. Die Abhängigkeit von privaten Akteuren wie Elon Musk wird zunehmend als Sicherheitsrisiko wahrgenommen.",
+     "titel": "Koalitionsstreit über die Rente mit 63",
+     "text": "Innerhalb der schwarz-roten Koalition ist ein Streit über die \"Rente mit 63\" entbrannt, wobei Arbeitsminister Schweitzer zu Kompromissbereitschaft aufruft. Insbesondere die abschlagsfreie Rente nach 45 Beitragsjahren steht im Fokus politischer Debatten über Gerechtigkeit und Finanzierbarkeit. Während die Union Reformen anmahnt, verteidigt die SPD bestehende Ansprüche, was die Verhandlungen über das gesamte Rentenpaket erschwert. Ziel der Diskussion ist es, ein Gleichgewicht zwischen der Entlastung der Sozialsysteme und der Anerkennung langer Lebensarbeitszeiten zu finden. Die Uneinigkeit belastet das Klima in der Regierungskoalition zusätzlich.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-rente-sozialpolitik-rentenreform-li.3564493"
+      }
+     ]
+    },
+    {
+     "titel": "Start einer bundeseigenen Wohnungsbaugesellschaft für 2027 geplant",
+     "text": "Die Bundesregierung plant den Start einer bundeseigenen Wohnungsbaugesellschaft für das Jahr 2027, um dem massiven Wohnungsmangel in Deutschland entgegenzuwirken. Laut Bundesbauministerin Hubertz soll die Gesellschaft gezielt bezahlbaren Wohnraum schaffen und staatliche Bauprojekte koordinieren. Diese Maßnahme ist eine Reaktion auf die anhaltende Krise im privaten Wohnungsbau, die durch hohe Zinsen und Baukosten verschärft wurde. Die Gründung soll langfristig für eine Entlastung auf den angespannten Wohnungsmärkten sorgen. Kritiker fordern jedoch schnellere Lösungen angesichts der aktuellen Wohnungsnot.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "UN-Nachfolge scheitert an Vetomächten im Sicherheitsrat",
+     "text": "Die Suche nach einer Nachfolge für UN-Generalsekretär Guterres gestaltet sich schwierig, da alle bisherigen Kandidaten in sechs Probeabstimmungen an den Vetomächten im Sicherheitsrat gescheitert sind. Bis Ende Dezember muss eine Entscheidung getroffen werden, doch die tiefen Gräben zwischen den ständigen Mitgliedern blockieren den Prozess. Diese Pattsituation schwächt die Handlungsfähigkeit der Vereinten Nationen in einer Zeit multipler globaler Krisen. Die Vetomächte nutzen ihr Gewicht, um Kandidaten zu verhindern, die ihren jeweiligen strategischen Interessen widersprechen könnten. Ein Durchbruch ist derzeit nicht in Sicht.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Abholzung im Amazonas auf historischem Tiefstand",
+     "text": "Die Abholzung im brasilianischen Amazonasgebiet ist auf den niedrigsten Stand seit Beginn der Aufzeichnungen im Jahr 1988 gesunken. Die Regierung unter Präsident Lula wertet dies als großen Erfolg ihrer Schutzbemühungen und nutzt die Daten im aktuellen Wahlkampf. Der Rückgang ist ein wichtiges Signal für den globalen Klimaschutz und die Erhaltung der Biodiversität. Trotz dieses Erfolgs bleibt der Schutz des Regenwaldes eine dauerhafte Herausforderung, die internationale Unterstützung und konsequente lokale Durchsetzung erfordert. Die Entwicklung zeigt, dass politische Maßnahmen gegen illegale Rodungen wirksam sein können.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bundesrat fordert Schutz vor gefährlichen Online-Challenges",
+     "text": "Der Bundesrat fordert strengere Gesetze zum Schutz von Minderjährigen vor gefährlichen Online-Challenges wie der \"Blackout-Challenge\", bei der sich Jugendliche bis zur Ohnmacht würgen. Geplant sind Strafen für Erwachsene, die Minderjährige gezielt zu solchen lebensgefährlichen Handlungen verleiten. Während Politiker die Notwendigkeit betonen, warnen Wissenschaftler vor reiner Symbolpolitik und fordern umfassendere Präventionsansätze. Ziel ist es, die Verbreitung solcher Inhalte in sozialen Medien einzudämmen und die Verantwortlichkeit der Plattformen sowie der Anstifter zu erhöhen. Die Initiative reagiert auf eine Reihe schwerer Verletzungen und Todesfälle unter Jugendlichen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html"
       },
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Digitaler Personalausweis auf dem Smartphone kommt",
-     "text": "Der Bundestag hat den Weg für den digitalen Identitätsnachweis auf dem Smartphone frei gemacht. Bürger können künftig ihren Personalausweis in einer App hinterlegen, was Behördengänge vereinfachen und digitale Verwaltungsleistungen zugänglicher machen soll. Parallel dazu führt auch die Schweiz ab November biometrische Ausweise ein, die mit EU-Standards kompatibel sind. Diese Digitalisierung der Identitätsdokumente soll die Effizienz in der Verwaltung steigern und die Sicherheit im digitalen Raum erhöhen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html"
-      }
-     ]
-    },
-    {
-     "titel": "Anhebung der Tabaksteuer beschlossen",
-     "text": "Raucher in Deutschland müssen sich auf steigende Preise einstellen, da der Bundestag eine Erhöhung der Tabaksteuer beschlossen hat. Die Maßnahme soll dem Bund zusätzliche Steuereinnahmen in Milliardenhöhe sichern. Neben klassischen Zigaretten sind auch andere Tabakprodukte von der Erhöhung betroffen. Ziel der Politik ist neben der Haushaltskonsolidierung auch eine Lenkungswirkung zur Reduzierung des Tabakkonsums.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Zusatzbeitrag der Krankenkassen bleibt 2027 stabil",
-     "text": "Der Schätzerkreis der gesetzlichen Krankenversicherung (GKV) prognostiziert, dass der durchschnittliche Zusatzbeitrag im Jahr 2027 stabil bleiben kann. Gesundheitsminister Lauterbach wertete dies als positives Signal für die Versicherten und die Lohnnebenkosten. Ursache sind stabilere Finanzen der Kassen als zuvor erwartet. Dies entlastet Arbeitnehmer und Arbeitgeber vorerst von weiteren Kostensteigerungen im Gesundheitssystem.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Drohnenangriff auf Handelsschiff vor Rumänien",
-     "text": "Im Schwarzen Meer ist ein Handelsschiff vor der rumänischen Küste von Drohnen getroffen worden und in Brand geraten. Laut dem rumänischen Präsidenten werden mehrere Seeleute vermisst. Der Vorfall verdeutlicht die anhaltende Gefahr für die zivile Schifffahrt in der Region durch den Krieg gegen die Ukraine. Die Folge sind steigende Versicherungsprämien für Frachtschiffe und eine Gefährdung der maritimen Logistikrouten im Schwarzen Meer.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "US-Bundesstaaten verklagen OpenAI wegen Sicherheitsrisiken",
-     "text": "Acht US-Bundesstaaten haben Klage gegen das KI-Unternehmen OpenAI eingereicht. Sie werfen dem Entwickler von ChatGPT vor, erhebliche Risiken beim Umgang mit Nutzerdaten und der Sicherheit der Chatbots zu ignorieren. Die Kläger fordern strengere Regeln und Transparenz über die Funktionsweise der KI. Dies könnte weitreichende Folgen für die Regulierung von KI-Technologien in den USA und weltweit haben.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html"
       }
      ]
     }
@@ -307,98 +359,126 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "TSMC meldet Rekordzahlen dank 3-Nanometer-Chips",
-     "text": "Der weltweit führende Chiphersteller TSMC hat im vergangenen Quartal neue Rekordumsätze erzielt, wobei 3-Nanometer-Chips die Produktion dominierten. Auch der Umsatz mit der noch fortschrittlicheren 2-Nanometer-Technologie wächst stetig. Trotz der Erfolge mahnt das Management zur Vorsicht beim Ausblick auf die künftige Marktentwicklung. Die Dominanz von TSMC bleibt ein kritischer Faktor für die gesamte globale Elektronik- und KI-Lieferkette.",
+     "titel": "Apple stellt faltbares iPhone Duo und Smart-Home-Kollektion vor",
+     "text": "Apple hat mit dem \"iPhone Duo\" sein erstes faltbares Smartphone vorgestellt, das trotz eines Preises ab 2300 Euro unmittelbar nach Vorbestellungsstart ausverkauft war. Das Gerät verfügt über ein 5,4-Zoll-Außendisplay und ein 7,6-Zoll-Innendisplay mit einer speziellen \"Nano-Texture\"-Beschichtung, die Falten minimieren soll. Zeitgleich steigt Apple mit der \"Apple Home Collection\" in den Markt für eigene Smart-Home-Hardware wie Kameras und Thermostate ein, die in Kooperation mit LG und Schneider Electric entwickelt wurden. Diese strategische Erweiterung zielt darauf ab, die Abhängigkeit von Drittanbietern zu verringern und das eigene Ökosystem zu stärken. Die hohe Nachfrage führt bereits jetzt zu Lieferverzögerungen bis ins Jahr 2027.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Freitag-Millionen-fuer-verwanzte-Wallets-TSMCs-Milliarden-Wachstum-mit-Mahnung-11490138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/iPhone-Duo-Vorbestellung-ist-gestartet-schneller-Ausverkauf-11489760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/TSMC-schreibt-weiter-Rekordzahlen-blickt-aber-vorsichtig-in-die-Zukunft-11490124.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale"
       }
      ]
     },
     {
-     "titel": "Millionenraub durch manipulierte Krypto-Wallets",
-     "text": "Der Hardware-Wallet-Hersteller Ledger hat bestätigt, dass Angreifer durch monatelange Vorbereitung und ein Millionenbudget Wallets „verwanzt“ haben. Dadurch konnten Kryptowährungen im Wert von mehreren Millionen Euro gestohlen werden. Der Vorfall untergräbt das Vertrauen in die Sicherheit von Hardware-Lösungen zur Aufbewahrung digitaler Assets. Nutzer werden zu extremer Vorsicht und zur Überprüfung ihrer Geräte aufgerufen.",
+     "titel": "Nvidia RTX Spark: Erster Notebook-Chip für lokale KI im Test",
+     "text": "Nvidia hat mit dem \"RTX Spark\" den ersten Notebook-Chip vorgestellt, der speziell für die lokale Ausführung von KI-Anwendungen konzipiert ist. Erste Tests im c’t-Labor mit dem Asus ProArt P14 zeigen, dass der Chip KI-Versprechen einlösen kann, jedoch Fragen zur Betriebssystem-Kompatibilität außerhalb von Windows offenbleiben. Parallel dazu plant die Bundesregierung unter Kanzler Merz eine Kooperation mit Nvidia, um den Industriestandort Deutschland für KI-Investoren attraktiver zu machen. Kritiker bemängeln jedoch, dass die geplanten Millioneninvestitionen in Nvidia-Technik besser in den Bürokratieabbau fließen sollten. Die Technologie soll Unternehmen ermöglichen, komplexe KI-Modelle ohne Cloud-Anbindung direkt auf Endgeräten zu nutzen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Freitag-Millionen-fuer-verwanzte-Wallets-TSMCs-Milliarden-Wachstum-mit-Mahnung-11490138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Verwanzte-Wallets-Hersteller-Ledger-sieht-Angriff-auf-die-ganze-Branche-11490092.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/hintergrund/Wasserstoff-und-Akku-Heidekrautbahn-zieht-positive-Bilanz-11491358.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/merz-regierung-deutschland-sollte-buerokratie-abbauen-statt-nvidia-zu-foerdern-2610-214181.html"
       }
      ]
     },
     {
-     "titel": "ChatGPT-Erweiterung erhält Zugriff auf Browser-Tabs",
-     "text": "OpenAI hat seine Google Chrome-Erweiterung aktualisiert, sodass ChatGPT nun direkt auf geöffnete Browser-Tabs zugreifen und deren Inhalte analysieren kann. Nutzer können die KI anweisen, Informationen aus verschiedenen Tabs zusammenzufassen oder zu vergleichen. Dies soll die Produktivität bei der Recherche erhöhen, wirft jedoch gleichzeitig neue Fragen zum Datenschutz auf. Die Funktion ist Teil der Strategie, ChatGPT tiefer in den Arbeitsalltag der Nutzer zu integrieren.",
+     "titel": "Huawei rüstet europäische Netzwerke für KI-Boom auf",
+     "text": "Huawei aktualisiert seine Netzwerk-Produktlinie in Europa mit dem \"Stellar Intelligent Network\", um der steigenden Nachfrage durch KI-Agenten und Rechencluster gerecht zu werden. Diese technologische Aufrüstung erhöht den Wettbewerbsdruck auf etablierte US-Ausrüster im europäischen Markt für Rechenzentrumsinfrastruktur spürbar. Das System ist darauf ausgelegt, die massiven Datenströme zu bewältigen, die durch großskalige KI-Anwendungen entstehen. Huawei positioniert sich damit als zentraler Akteur für die notwendige Hardware-Basis des KI-Booms. Für europäische Unternehmen bedeutet dies eine weitere Option bei der Skalierung ihrer digitalen Kapazität.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/stellar-intelligent-network-huawei-ruestet-netzwerke-in-europa-fuer-den-ki-boom-auf-2610-214207.html"
+      }
+     ]
+    },
+    {
+     "titel": "Tesla-Unfall unter FSD-Modus und Klagen gegen OpenAI",
+     "text": "Ein schwerer Unfall in Kalifornien, bei dem ein Tesla-Fahrer während der Nutzung des \"Full Self-Driving\" (FSD) Modus einschlief und mit Streifenwagen kollidierte, sorgt für neue Sicherheitsdebatten. Die California Highway Patrol warnt eindringlich, dass die Technologie trotz ihres Namens keine volle Autonomie ermöglicht und die Verantwortung beim Fahrer verbleibt. Videoaufnahmen zeigen den Tesla mit hoher Geschwindigkeit vor dem Aufprall. Dieser Vorfall unterstreicht die Risiken einer Fehlinterpretation von Assistenzsystemen durch die Nutzer. Gleichzeitig steht OpenAI in den USA vor Klagen von acht Bundesstaaten, die erhebliche Sicherheitsrisiken beim Umgang mit KI-Chatbots wie ChatGPT sehen.",
      "quellen": [
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-      }
-     ]
-    },
-    {
-     "titel": "Ariane-Rakete soll 36 Amazon-Satelliten ins All bringen",
-     "text": "Arianespace bereitet den vierten Start für Amazons Satellitenkonstellation „Project Kuiper“ vor. Eine Ariane-Rakete wird 36 neue Satelliten in den niedrigen Erdorbit (LEO) befördern, um das globale Breitbandnetzwerk von Amazon auszubauen. Dies stärkt die Position der europäischen Raumfahrt in einem Markt, der bisher stark von SpaceX dominiert wird. Ziel von Amazon ist der Aufbau einer Konkurrenz zu Musks Starlink-Dienst.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Freitag-Millionen-fuer-verwanzte-Wallets-TSMCs-Milliarden-Wachstum-mit-Mahnung-11490138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash"
       },
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Arianespace-bereitet-vierte-Mission-fuer-Amazon-com-vor-11489936.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "Golem",
+       "url": "https://www.golem.de/news/merz-regierung-deutschland-sollte-buerokratie-abbauen-statt-nvidia-zu-foerdern-2610-214181.html"
       }
      ]
     },
     {
-     "titel": "Nokia kündigt weiteren Stellenabbau in Europa an",
-     "text": "Der finnische Netzwerkausrüster Nokia setzt seinen Sparkurs fort und hat eine neue Entlassungswelle in Europa angekündigt. Erst kürzlich wurde ein ganzer Konzernteil verkauft, um die Profitabilität zu steigern. Ursache ist die schwächelnde Nachfrage nach 5G-Netzausrüstung und der hohe Wettbewerbsdruck. Die Folge ist ein weiterer Verlust an industrieller Basis im europäischen Telekommunikationssektor.",
+     "titel": "Windows 11 Update optimiert RAM-Management für 8-GB-Systeme",
+     "text": "Microsoft führt mit dem Update 26H2 umfassende Änderungen am Arbeitsspeicher-Management von Windows 11 ein, um die Performance auf Systemen mit 8 GByte RAM zu verbessern. Unter anderem werden Widgets auf bestimmten PCs nicht mehr automatisch geladen, um Ressourcen zu sparen. Diese Optimierungen sollen das Betriebssystem effizienter machen und die Nutzererfahrung auf Hardware der Einstiegsklasse stabilisieren. Für Unternehmen bedeutet dies eine potenziell längere Nutzungsdauer bestehender Hardware-Flotten. Die Maßnahmen sind eine Reaktion auf Kritik an den hohen Systemanforderungen von Windows 11.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/stellenabbau-neue-entlassungswelle-bei-nokia-in-europa-2610-214163.html"
+       "url": "https://www.golem.de/news/26h2-und-mehr-windows-11-soll-auf-8-gbyte-ram-jetzt-besser-laufen-2610-214194.html"
       }
      ]
     },
     {
-     "titel": "Open RAN bei 1&1 noch ohne Kostenvorteile",
-     "text": "Der Mobilfunkanbieter 1&1 räumt ein, dass die Nutzung der Open-RAN-Technologie bisher keine Kostenvorteile gegenüber herkömmlichen Netzen bietet. Laut dem Mobilfunkchef sei die Austauschbarkeit der Zulieferer in der Praxis komplizierter als theoretisch angenommen. Kosteneinsparungen werden erst für die Zukunft erwartet, wenn die Technologie ausgereifter ist. Dies dämpft die Erwartungen an eine schnelle Revolution der Netzarchitektur durch offene Standards.",
-     "quellen": [
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html"
-      }
-     ]
-    },
-    {
-     "titel": "Abschaffung der Schaltsekunde zugunsten der Schaltstunde",
-     "text": "Nachdem es insgesamt 27 Mal Schaltsekunden gab, um die Zeitmessung an die Erdrotation anzupassen, wurde dieses Verfahren nun offiziell beendet. Stattdessen ist künftig die Einführung von Schaltstunden vorgesehen, um größere Abweichungen über längere Zeiträume auszugleichen. Dies soll technische Probleme in Computersystemen und Netzwerken verhindern, die oft sensibel auf die kurzfristigen Korrekturen der Schaltsekunde reagierten. Die Änderung ist ein bedeutender Schritt für die globale Zeitstandardisierung.",
+     "titel": "Kritik an automatisiertem Geldwäsche-Profiling durch AMLA",
+     "text": "Die Bürgerrechtsorganisation Privacy First warnt vor den neuen AMLA-Leitlinien zur automatisierten Geldwäscheüberwachung, da diese massiv in Grundrechte eingreifen könnten. Kritisiert wird insbesondere das automatisierte Risikoprofiling von Bankkunden, das zu Diskriminierung und unberechtigten Kontosperrungen führen könne. Die Organisation fordert ein striktes Verbot solcher Risikoprofile und mehr Transparenz bei der algorithmischen Entscheidungsfindung. Gleichzeitig drängen der Branchenverband Bitkom und Zivilgesellschaft auf gesetzliche Leitplanken für ein Schwachstellenmanagement, um das bewusste Offenhalten von IT-Lücken durch Geheimdienste zu verhindern. Beide Themen verdeutlichen den Konflikt zwischen Sicherheitsinteressen und digitalen Bürgerrechten.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Freitag-Millionen-fuer-verwanzte-Wallets-TSMCs-Milliarden-Wachstum-mit-Mahnung-11490138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Datenschuetzer-warnen-vor-Ueberwachungsstaat-durch-Geldwaesche-Algorithmen-11491362.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Nie-mehr-Schaltsekunden-11490060.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Buergerrechtler-und-Bitkom-fordern-strenges-Schwachstellenmanagement-11491210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Datenleck bei Amadeus gefährdet Passagierdaten",
-     "text": "Ein ungeschützter Speicherabzug beim Reise-IT-Dienstleister Amadeus hat Zugangsdaten und Passagierinformationen im Klartext offengelegt. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) rät Reisenden zur Vorsicht bei Funktionen wie dem Early-Check-in. Betroffene könnten Opfer von Identitätsdiebstahl oder gezielten Phishing-Angriffen werden. Der Vorfall unterstreicht die Sicherheitsrisiken in der hochgradig vernetzten Reisebranche.",
+     "titel": "Apple verschärft App-Store-Regeln gegen KI-Deepfakes",
+     "text": "Apple hat seine App-Store-Regeln verschärft, um sogenannte \"Nudify\"-Apps explizit zu verbieten, die mithilfe von KI intime Bilder von Personen ohne deren Zustimmung erstellen. Diese Änderung folgt auf massive Kritik, nachdem Deepfakes von Minderjährigen und Prominenten über verschiedene Plattformen verbreitet wurden. Die neuen Richtlinien sollen den Missbrauch von KI-Tools zur Erstellung nicht-konsensualer sexualisierter Inhalte eindämmen. Apple reagiert damit auf den wachsenden Druck von Regulierungsbehörden und der Öffentlichkeit. Die Durchsetzung dieser Regeln bleibt jedoch eine technische Herausforderung für die Moderationsteams.",
      "quellen": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Amadeus-Luecken-BSI-raet-zu-Vorsicht-bei-Early-Check-in-Mails-Co-11479912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+      }
+     ]
+    },
+    {
+     "titel": "Hugging Face veröffentlicht neue Open-Source-KI-Modelle",
+     "text": "Die KI-Plattform Hugging Face hat mehrere neue Open-Source-Modelle veröffentlicht, darunter \"Beam\", ein Modell mit 501 Milliarden Parametern, das Nutzer selbst anpassen und skalieren können. Zudem wurde \"Granite Switch 4.1\" vorgestellt, das Chat-Funktionen, Entscheidungsfindung und Spracherkennung über einen einzigen Endpunkt ermöglicht. Ein weiteres Projekt umfasst das Pretraining von Modellen mit 2,8 Billionen Token unter Verwendung einer offenen Daten-Generierungspipeline. Diese Veröffentlichungen stärken die Open-Source-Community im Wettbewerb mit proprietären Modellen großer Tech-Konzerne. Sie bieten Entwicklern leistungsstarke Werkzeuge für vielfältige KI-Anwendungen ohne hohe Lizenzkosten.",
+     "quellen": [
+      {
+       "name": "Hugging Face Blog",
+       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      },
+      {
+       "name": "Hugging Face Blog",
+       "url": "https://huggingface.co/blog/reflection-beam"
+      },
+      {
+       "name": "Hugging Face Blog",
+       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
       }
      ]
     }
