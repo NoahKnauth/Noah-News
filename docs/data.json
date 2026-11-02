@@ -1,57 +1,57 @@
 {
- "erstellt": "2026-11-01T11:44:10.516815+00:00",
+ "erstellt": "2026-11-02T13:13:58.693483+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "Milliardenraub bei Kryptobörse Binance: Auszahlungen laufen wieder an",
-     "text": "Nach einem Hackerangriff auf die weltweit größte Kryptobörse Binance, bei dem Digitalwährungen im Wert von 6,3 Milliarden US-Dollar erbeutet wurden, nimmt das Unternehmen die Auszahlungen schrittweise wieder auf. Das FBI macht die nordkoreanische Gruppe TraderTraitor für den Diebstahl verantwortlich, der als einer der größten Angriffe auf eine Digitalbörse gilt. Laut Binance-CEO wurden bereits 90 bis 95 Prozent der gestohlenen Vermögenswerte durch das Unternehmen abgedeckt oder ersetzt. Warum dies geschah, liegt an Sicherheitslücken, die von staatlich gelenkten Hackern ausgenutzt wurden. Die Folge ist eine verstärkte Verunsicherung im Kryptosektor, während Binance versucht, durch die Entschädigung der Nutzer das Vertrauen wiederherzustellen.",
+     "titel": "US-Zwischenwahlen: Wirtschaftliche Bilanz und Marktreaktionen",
+     "text": "Vor den US-Zwischenwahlen zeigt sich die US-Wirtschaft gespalten: Während das Wachstum anhält, leiden viele Bürger unter hohen Lebenshaltungskosten und Kraftstoffpreisen, die Rekordhöhen erreichen. Der Arbeitsmarkt verliert an Schwung, während die Staatsverschuldung weiter ansteigt. Anleger am deutschen Aktienmarkt reagieren verunsichert, weshalb der DAX zum Wochenstart nachgab. Die Folgen der Wahl werden als richtungsweisend für die künftige US-Politik und die globale Marktstabilität eingestuft.",
      "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Milliardenraub bei Kryptobörse Binance durch nordkoreanische Hacker",
+     "text": "Bei einem Hackerangriff auf die weltweit größte Kryptobörse Binance wurden Digitalwährungen im Wert von 6,3 Milliarden US-Dollar erbeutet. Das FBI macht die nordkoreanische Gruppe 'TraderTraitor' für den Diebstahl verantwortlich, die bereits mit der Geldwäsche über Ethereum begonnen hat. Infolge des Angriffs und trotz des Ersatzes von Kundengeldern durch Binance zogen Kunden rund 3,6 Milliarden Dollar von der Plattform ab. Die Auszahlungen wurden nach einer Unterbrechung schrittweise wieder aufgenommen, doch der Vertrauensverlust in der Branche bleibt massiv.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html"
+      },
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3572395"
       },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/binance-kryptoboerse-nordkorea-fbi-geldwaesche-li.3572353"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/krypto-plattform-hackernangriff-binance-diebstahl-li.3572270"
-      },
-      {
        "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+       "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "Warnstreiks in der Metall- und Elektroindustrie angelaufen",
-     "text": "Die IG Metall hat in der Nacht mit bundesweiten Warnstreiks in wichtigen Industriezweigen wie dem Automobil- und Maschinenbau begonnen, um in den laufenden Tarifverhandlungen Druck aufzubauen. Die Gewerkschaft fordert Verbesserungen bei Jobs und Kaufkraft in einer wirtschaftlich schwierigen Lage. Arbeitgebervertreter wie Bertram Brossardt kritisieren die Streiks als unpassend zur momentanen Krisensituation und fordern stattdessen längere Arbeitszeiten sowie Lohnverzicht in Krisenbetrieben. Warum gestreikt wird, liegt an der festgefahrenen Tarifrunde und der Forderung nach Inflationsausgleich. Die Folgen sind Produktionsunterbrechungen in Schlüsselindustrien und eine Verschärfung des Konflikts zwischen Sozialpartnern.",
+     "titel": "EU-Sonderregelung für Thyssenkrupp bei Wasserstoff-Umstellung",
+     "text": "Thyssenkrupp Steel Europe (TKSE) darf sein Duisburger Stahlwerk länger als ursprünglich geplant mit Erdgas betreiben, obwohl der Konzern zwei Milliarden Euro an Subventionen für die Umstellung auf klimafreundlichen Wasserstoff erhält. Die EU genehmigte diese Verzögerung aufgrund der aktuellen Wasserstoffknappheit. Warum diese Entscheidung trotz der fossilen Brennstoffnutzung als richtig erachtet wird, liegt in der Sicherung der Standortsicherung während der langwierigen Energiewende. Die Folge ist eine langsamere Dekarbonisierung der deutschen Stahlproduktion als ursprünglich projektiert.",
      "quellen": [
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
-      },
-      {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/metall-tarifrunde-bertram-brossardt-ig-metall-streiks-lohnerhoehung-li.3570117"
+       "url": "https://www.sueddeutsche.de/wirtschaft/thyssenkrupp-tkse-gruener-wasserstoff-eu-li.3572969"
       },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ig-metall-warnstreiks-autobau-maschinenbau-elektronik-metall-li.3572277"
-      }
-     ]
-    },
-    {
-     "titel": "Thyssenkrupp erhält EU-Erlaubnis für längere Erdgasnutzung",
-     "text": "Deutschlands größter Stahlhersteller Thyssenkrupp Steel (TKSE) darf sein Duisburger Werk länger als ursprünglich geplant mit Erdgas betreiben, obwohl das Unternehmen zwei Milliarden Euro an Subventionen für die Umstellung auf klimafreundlichen Wasserstoff erhält. Die EU-Kommission gestattet diesen zeitlichen Aufschub beim Klimaschutz nun offiziell. Warum diese Entscheidung fiel, liegt an den aktuellen Rahmenbedingungen für die Wasserstoffverfügbarkeit und den Transformationskosten. Die Folge ist eine verzögerte Dekarbonisierung der deutschen Stahlproduktion, während die finanzielle Förderung für den Umbau bestehen bleibt.",
-     "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/wirtschaft/tkse-thyssenkrupp-wasserstoff-foerderbescheid-eu-li.3571823"
@@ -59,42 +59,60 @@
      ]
     },
     {
-     "titel": "Russland exportiert Getreide aufgrund von Konflikten über die Arktis",
-     "text": "Wegen der anhaltenden Kämpfe im Schwarzen Meer ist Russland dazu übergegangen, landwirtschaftliche Güter über Häfen in der Arktis zu verschiffen. Diese Exportrouten liegen tausende Meilen von den ursprünglichen Verladepunkten entfernt. Warum dieser Schritt notwendig wurde, liegt an der militärischen Bedrohung der traditionellen Handelswege durch den Ukraine-Krieg. Die Folgen sind massiv steigende Transportkosten für internationale Käufer und eine logistische Neuausrichtung der russischen Agrarexporte.",
-     "quellen": [
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1"
-      }
-     ]
-    },
-    {
-     "titel": "Wirtschaftswachstum in Vietnam lockt Investoren an",
-     "text": "Vietnam, insbesondere Ho-Chi-Minh-Stadt, verzeichnet ein rasantes Wirtschaftswachstum und zeigt eine hohe Reformbereitschaft, die ausländische Unternehmer begeistert. Trotz des Erfolgs gibt es Bedenken, ob die amtierende Parteidiktatur die Risiken dieses ehrgeizigen Wachstums bewältigen kann. Warum das Land boomt, liegt an gezielten wirtschaftlichen Öffnungsprozessen und der Verlagerung globaler Lieferketten. Die Folge ist eine zunehmende Bedeutung Vietnams als Produktionsstandort, gepaart mit politischen Unsicherheiten hinsichtlich der langfristigen Stabilität.",
+     "titel": "Neue EU-Importgebühr für Pakete aus Nicht-EU-Ländern",
+     "text": "Ab November erhebt die EU eine neue Gebühr von zwei Euro pro Warenposition für Importe aus Drittstaaten wie China. Ziel dieser Maßnahme ist es, die enorme Flut an Billigpaketen im Onlinehandel einzudämmen und die heimische Wirtschaft zu schützen. Für Konsumenten bedeutet dies eine direkte Verteuerung von Kleinstbestellungen. Logistikdienstleister müssen zudem ihre Prozesse anpassen, um die Erhebung der Gebühr bei der Einfuhr sicherzustellen.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/vietnam-ho-chi-minh-stadt-wirtschaftswachstum-suedostasien-li.3559032"
+       "url": "https://www.sueddeutsche.de/wirtschaft/paketgebuehr-nicht-eu-laender-onlinehandel-china-temu-li.3572439"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html"
       }
      ]
     },
     {
-     "titel": "EU-Führung gefährdet Unterstützung für Start-ups",
-     "text": "Europäische Staats- und Regierungschefs riskieren laut Berichten ihr Versprechen, Innovatoren in Europa zu halten. Zwar wird die Finanzierungslücke für Start-ups thematisiert, doch die Harmonisierung der Regeln innerhalb des Blocks schreitet in die falsche Richtung voran. Warum dies kritisch ist, liegt an der mangelnden Einheitlichkeit des Binnenmarktes für junge Technologieunternehmen. Die Folge könnte eine Abwanderung innovativer Unternehmen in Regionen mit einfacheren regulatorischen Bedingungen sein.",
+     "titel": "Deutschland hinkt bei KI-Entwicklung laut Ifo-Institut hinterher",
+     "text": "Eine Analyse des Ifo-Instituts bescheinigt Deutschland erhebliche Rückstände beim Thema Künstliche Intelligenz, insbesondere in der Verwaltung und im Bildungssystem. Die Hightech-Branche sei im internationalen Vergleich zu klein, um den aktuellen Boom voll auszuschöpfen. Die Bundesregierung hat das Ziel ausgegeben, Deutschland bis 2030 zur 'KI-Nation' zu machen, sieht sich jedoch mit hohem Handlungsdruck konfrontiert. Folgen des Rückstands könnten ein Verlust an globaler Wettbewerbsfähigkeit und Innovationskraft sein.",
      "quellen": [
       {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/ce1e852d-c699-4cf6-b8a0-78fd283556f3?syn-25a6b1a6=1"
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/ifo-institut-ki-deutschland-digitalisierung-bildung-li.3572762"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/tkse-thyssenkrupp-wasserstoff-foerderbescheid-eu-li.3571823"
       }
      ]
     },
     {
-     "titel": "KI-Anlagetipps: Potenzial und Risiken bei der Geldanlage",
-     "text": "Immer mehr Privatanleger nutzen KI-Modelle wie ChatGPT oder Claude für Beratungen bei der Geldanlage. Experten sehen darin zwar Potenzial für die Datenanalyse, warnen jedoch ausdrücklich vor Fehlern und unvorhersehbaren Risiken der Algorithmen. Warum dieser Trend zunimmt, liegt an der einfachen Verfügbarkeit und der Zeitersparnis bei der Informationssuche. Die Folge ist eine wachsende Verantwortung der Anleger, die Ergebnisse kritisch zu hinterfragen, um finanzielle Verluste durch KI-Fehlentscheidungen zu vermeiden.",
+     "titel": "Warnstreiks in der Metall- und Elektroindustrie ausgeweitet",
+     "text": "Nach einer ergebnislosen zweiten Tarifrunde hat die IG Metall bundesweit zu massiven Warnstreiks aufgerufen. Bereits am Sonntag standen erste Fließbänder still, seit Wochenbeginn rollt eine größere Streikwelle durch die Betriebe. Die Gewerkschaft fordert deutliche Lohnsteigerungen, während die Arbeitgeberseite bisher kein akzeptables Angebot vorgelegt hat. Die Arbeitsniederlegungen führen zu Produktionsunterbrechungen in einer für Deutschland zentralen Schlüsselindustrie.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html"
+       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+      }
+     ]
+    },
+    {
+     "titel": "Quoten für grünen Flugkraftstoff verteuern das Fliegen",
+     "text": "Die EU schreibt künftig feste Quoten für die Beimischung von nachhaltigem Kerosin (SAF) vor. Da es derzeit jedoch kaum Produktionsanlagen gibt und die Herstellung extrem kostspielig ist, warnen Airlines vor drastisch steigenden Ticketpreisen. Warum die Kosten so hoch sind, liegt an der mangelnden Skalierung der Technologie. Die Folge wird eine dauerhafte Verteuerung des Flugverkehrs für Endverbraucher sein.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Alstom-Aktie bricht nach Gewinnwarnung massiv ein",
+     "text": "Die Aktien des französischen Zugherstellers Alstom verloren 28 Prozent an Wert, nachdem das Unternehmen seine Gewinnprognose gesenkt hatte. Der neue Chef Martin Sion kündigte einen Plan an, um die Schuldenlast um zwei Milliarden Euro zu reduzieren. Dies ist bereits die zweite größere Gewinnwarnung innerhalb kurzer Zeit. Die finanzielle Instabilität des Konzerns belastet das Vertrauen der Investoren in den europäischen Schienenverkehrssektor.",
+     "quellen": [
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1"
       }
      ]
     }
@@ -105,24 +123,49 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Analyse: Frachtzyklen folgen keiner festen Regelmäßigkeit",
-     "text": "Daten des US-Transportmarktes seit dem Jahr 2000 widerlegen die Annahme, dass Frachtzyklen einer regelmäßigen zeitlichen Abfolge unterliegen. Stattdessen gleichen die Marktschwankungen eher einer Serie von Zufallsschocks als einem vorhersehbaren Uhrwerk. Warum dies für die Branche wichtig ist, liegt an der Schwierigkeit, Kapazitäten und Preise langfristig auf Basis historischer Zyklen zu planen. Die Folge ist eine notwendige Erhöhung der Flexibilität in der Logistikplanung, um auf unvorhersehbare Marktveränderungen reagieren zu können.",
+     "titel": "Flexport steigert Volumen durch KI-Einsatz bei minimalem Personalzuwachs",
+     "text": "Der Logistikdienstleister Flexport verzeichnet seit April einen Anstieg des Seefrachtvolumens um 40 Prozent, während die Mitarbeiterzahl im gleichen Zeitraum nur um 5 Prozent wuchs. CEO Ryan Petersen führt diese Effizienzsteigerung auf den verstärkten Einsatz von Künstlicher Intelligenz zurück, die Produktveröffentlichungen beschleunigt. Infolgedessen erwägt das Unternehmen, künftig mit kleineren Engineering-Teams zu arbeiten. Dies unterstreicht den Trend zur Automatisierung komplexer Logistikprozesse.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular"
+       "url": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount"
       }
      ]
     },
     {
-     "titel": "EU-Zollreform: Neue Gebühren für Direktimporte ab November",
-     "text": "Anfang November tritt eine EU-Zollreform in Kraft, die neue Gebühren für Warenimporte aus Nicht-EU-Ländern wie von Plattformen wie Shein, Temu oder AliExpress vorsieht. Die Gebühr wird pro Position und nicht mehr pro Paket erhoben, was Kleinstimporte deutlich verteuern könnte. Warum diese Reform umgesetzt wird, liegt im Bestreben der EU, den massiven Zustrom billiger Pakete besser zu regulieren und steuerliche Schlupflöcher zu schließen. Die Folge für die Logistik ist ein erhöhter administrativer Aufwand bei der Zollabwicklung und potenziell sinkende Sendungsvolumina im B2C-Direktimport.",
+     "titel": "Verschärfte Kabotage-Kontrollen belasten mexikanischen Grenzverkehr",
+     "text": "In der Grenzregion zwischen Mexiko und den USA drohen verschärfte Durchsetzungen von Kabotage-Regeln den grenzüberschreitenden Lkw-Verkehr zu behindern. Um den Warenfluss dennoch zu fördern, hat der mexikanische Bundesstaat Nuevo León die Mautgebühren an der Colombia-Brücke um 50 Prozent gesenkt. Parallel dazu plant Walmart ein 400 Millionen Dollar teures Distributionszentrum nahe San Antonio, das 425 Arbeitsplätze schaffen soll. Diese Entwicklungen zeigen die hohe Dynamik und die regulatorischen Risiken in nordamerikanischen Lieferketten.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular"
+       "url": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking"
       }
      ]
+    },
+    {
+     "titel": "AIT Worldwide Logistics expandiert im ozeanischen Raum",
+     "text": "AIT Worldwide Logistics hat den australischen Spediteur Connor Anderson International übernommen, um seine Präsenz in Ozeanien signifikant auszuweiten. Das übernommene Unternehmen ist insbesondere in große Technologie-Bauprojekte involviert. Warum dieser Schritt erfolgt, liegt in der Strategie von AIT, globale Netzwerke für spezialisierte Industrien zu stärken. Die Folge ist eine verbesserte Abdeckung von Logistikdienstleistungen für den Tech-Sektor in der Region.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout"
+      }
+     ]
+    },
+    {
+     "titel": "Analyse: Warum hohe Lagerbestände Lieferprobleme nicht lösen",
+     "text": "Trotz Rekordbeständen verfehlen viele Unternehmen ihre Lieferziele (Fill Rates). Die Ursache liegt laut Experten nicht in mangelndem Bestand oder schlechten Prognosen, sondern in einer fehlerhaften Entscheidungsebene innerhalb der Supply Chain. Eine Optimierung der Entscheidungsprozesse sei notwendig, um die Effizienz zu steigern. Die Folge falscher Strategien sind gebundenes Kapital bei gleichzeitig unzufriedenen Kunden.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/"
+      }
+     ]
+    },
+    {
+     "titel": "Potenzial von Elektro-Lkw durch besseres Energiemanagement",
+     "text": "Der Umstieg auf batteriebetriebene Lkw-Flotten bietet erhebliche Einsparpotenziale bei den Energiekosten, sofern die Stromvermarktung optimiert wird. Durch die Nutzung der Lkw-Akkus als Stromspeicher können Flottenbetreiber flexibler auf Marktpreise reagieren. Dies erfordert jedoch eine engere Verzahnung von Logistik und Energiewirtschaft. Die Folge wäre eine beschleunigte Amortisation der teureren Elektro-Fahrzeuge.",
+     "quellen": []
     }
    ],
    "fehler": null
@@ -131,9 +174,17 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Bundesweite „Gen Z regelt“-Proteste: Friedliche Demos und Krawalle",
-     "text": "Zehntausende junge Menschen haben in über 30 deutschen Städten für Klimaschutz, bessere Bildung und soziale Gerechtigkeit demonstriert. Während die Kundgebungen am Nachmittag weitgehend friedlich verliefen, kam es am Abend in Städten wie Frankfurt und Köln zu Ausschreitungen durch Extremisten und Krawallmacher. Warum protestiert wurde, liegt an wachsenden Zukunftsängsten und Unzufriedenheit mit der Jugendpolitik der Bundesregierung. Die Folgen sind eine anhaltende Debatte über die politische Teilhabe der Jugend sowie eine Distanzierung der Organisatoren von der nächtlichen Gewalt.",
+     "titel": "Ausschreitungen nach 'Gen Z regelt'-Protesten lösen Debatte aus",
+     "text": "Nach bundesweiten Protesten der 'Gen Z' mit über 180.000 angemeldeten Teilnehmern kam es in Frankfurt, Köln und Hamburg zu schweren Ausschreitungen. Innenminister Dobrindt sprach von einer Unterwanderung durch gewaltbereite Gruppen und kündigte ein hartes Vorgehen an. Bildungsministerin Prien sieht in der Eskalation zudem ungelöste Integrationsfragen. Während Bundeskanzler Merz das politische Engagement der Jugend lobte, verurteilte er die Gewalt scharf. Die Organisatoren distanzierten sich von den Vorfällen und planen weitere Demonstrationen.",
      "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+      },
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
@@ -143,114 +194,74 @@
        "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-      },
-      {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/projekte/artikel/politik/gen-z-proteste-koeln-frankfurt-berlin-jugend-e722384/"
+       "url": "https://www.sueddeutsche.de/politik/gen-z-jugendproteste-hessen-frankfurt-merz-verbot-dobrindt-pistorius-li.3572698"
       }
      ]
     },
     {
-     "titel": "Eskalation im Machtkampf um Polens Verfassungsgericht",
-     "text": "In Polen hat sich der Streit um die Besetzung und Unabhängigkeit des Verfassungsgerichts verschärft, wobei es zu physischen Auseinandersetzungen zwischen Präsident Nawrocki und einer Richterin kam. Die Regierung unter Donald Tusk versucht, die Justizreformen der Vorgängerregierung rückgängig zu machen, während die rechtskonservative Opposition das Gebäude belagert. Warum der Konflikt eskaliert, liegt an der gegenseitigen Nichtanerkennung von Richterernennungen und Suspendierungen. Die Folge ist eine tiefe Verfassungskrise, die die Rechtsstaatlichkeit des Landes und die Zusammenarbeit zwischen Regierung und Präsident blockiert.",
+     "titel": "Digitalminister bestätigt Spyware-Angriffe auf deutsche Politiker",
+     "text": "Digitalminister Wildberger hat Berichte über Hackerangriffe auf Bundestagsabgeordnete und Regierungsmitglieder bestätigt, bei denen Spyware eingesetzt wurde. Apple hatte zuvor betroffene Politiker vor staatlich gesponserter Schadsoftware gewarnt. Details zu den Urhebern oder dem Umfang des Datenabflusses nannte der Minister nicht. Der Vorfall überschattet den aktuellen Digitalgipfel in Berlin und erhöht den Druck für bessere Cybersicherheitsmaßnahmen in der staatlichen Infrastruktur.",
      "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-merz-cdu-kreisvorsitzende-treffen-li.3568524"
+      }
+     ]
+    },
+    {
+     "titel": "Regierungskrise in Belgien wegen Haushaltsstreit",
+     "text": "Belgiens Premierminister De Wever hat seinen Rücktritt angeboten, nachdem die Verhandlungen über den Haushalt 2027 gescheitert sind. Zuvor waren zehntausende Menschen gegen geplante Sparmaßnahmen auf die Straße gegangen. Die politische Blockade gefährdet die finanzielle Stabilität des Landes und die Umsetzung notwendiger Reformen. Die Folge ist eine Phase politischer Unsicherheit in einem zentralen EU-Mitgliedstaat.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/belgien-premier-de-wever-ruecktritt-angebot-li.3573030"
+      }
+     ]
+    },
+    {
+     "titel": "Eskalation im polnischen Verfassungsstreit",
+     "text": "In Polen hat sich der Konflikt zwischen der Regierung von Donald Tusk und dem Lager von Präsident Nawrocki verschärft. Tusk wirft der Opposition einen Angriff auf Demokratie und Rechtsstaat vor, nachdem es zu physischen Auseinandersetzungen im Verfassungsgericht kam. Die EU-Kommission hat sich nun in den Streit eingeschaltet, um die Unabhängigkeit der Justiz zu stützen. Die Folge ist eine tiefe Spaltung der polnischen Institutionen, die auch Auswirkungen auf EU-Fördergelder haben könnte.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"
+      },
       {
        "name": "Tagesschau Ausland",
        "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/polen-verfassungsgericht-tumult-proteste-nawrocki-li.3572055"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/polen-verfassungsgericht-streit-richter-li.3571947"
       }
      ]
     },
     {
-     "titel": "Weg frei für rot-grün-rote Koalitionsverhandlungen in Berlin",
-     "text": "Nach der SPD und den Grünen hat nun auch die Berliner Linke auf einem Parteitag für die Aufnahme von Koalitionsverhandlungen gestimmt. Trotz Kritik an Details und Überschattung durch Antisemitismusvorwürfe gegen die Partei sollen die Gespräche am Montag beginnen. Warum dies geschieht, liegt am Ziel der drei Parteien, eine stabile Regierung für die Hauptstadt zu bilden. Die Folge werden intensive Verhandlungen über strittige Themen sein, wobei Teile der Basis bei SPD und Grünen dem Bündnis weiterhin skeptisch gegenüberstehen.",
+     "titel": "Sorge vor Eskalation im Iran-Konflikt wächst",
+     "text": "Die Golfstaaten rüsten angesichts einer drohenden Eskalation im Iran-Krieg massiv auf und beraten auf einer internationalen Konferenz über Sicherheitsstrategien. Israels Ministerpräsident Netanjahu drängt den US-Präsidenten Trump laut Berichten zu erneuten Schlägen gegen den Iran. Gleichzeitig bemüht sich Katar um eine Vermittlung für ein Interimsabkommen zwischen Washington und Teheran. Die Unsicherheit belastet die regionale Stabilität und führt zu einer angespannten Lage für die Bewohner Teherans unter der US-Blockade.",
      "quellen": [
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html"
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/berlin-linke-koalitionsverhandlungen-elif-eralp-rot-rot-gruen-li.3571682"
+       "url": "https://www.sueddeutsche.de/politik/belgien-premier-de-wever-ruecktritt-angebot-li.3573030"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-koalition-li.3540501"
+       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-atomalarm-app-hacker-angriff-li.3571967"
       }
      ]
     },
     {
-     "titel": "Steinmeier warnt in China vor KI-Risiken für Demokratien",
-     "text": "Bundespräsident Steinmeier hat zum Abschluss seiner China-Reise betont, dass bei der Künstlichen Intelligenz nicht das „Ob“, sondern das „Wie“ der Anwendung entscheidend sei, und vor Gefahren für demokratische Prozesse gewarnt. Im Handelskonflikt zwischen Europa und China zeigte er sich vorsichtig optimistisch hinsichtlich künftiger Fortschritte. Warum das Thema relevant ist, liegt an der globalen Systemkonkurrenz und der technologischen Vorreiterrolle Chinas. Die Folge ist eine notwendige internationale Abstimmung über ethische Standards und Sicherheitsregeln im Umgang mit KI.",
+     "titel": "Steinmeier warnt in China vor KI-Risiken für die Demokratie",
+     "text": "Zum Abschluss seiner China-Reise betonte Bundespräsident Steinmeier, dass bei der Künstlichen Intelligenz nicht das 'Ob', sondern das 'Wie' der Anwendung entscheidend sei. Er warnte insbesondere vor den Gefahren für demokratische Prozesse durch Desinformation. In Bezug auf den Handelskonflikt zwischen der EU und China zeigte er sich vorsichtig optimistisch für künftige Fortschritte. Die Reise unterstreicht die schwierige Balance zwischen wirtschaftlicher Kooperation und systemischem Wettbewerb.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "G20-Außenministertreffen in Atlanta endet ohne gemeinsame Erklärung",
-     "text": "Das Treffen der G20-Außenminister in Atlanta, bei dem internationale Krisen und deren Auswirkungen auf die Weltwirtschaft im Fokus standen, endete aufgrund tiefer Spannungen ohne Konsens. Vor allem der Konflikt mit Russland überlagerte die Gespräche und verhinderte eine gemeinsame Sprache. Warum keine Einigung erzielt wurde, liegt an den unüberbrückbaren Differenzen in der Bewertung aktueller geopolitischer Kriege. Die Folge ist eine fortgesetzte diplomatische Blockade innerhalb der wichtigsten Industrie- und Schwellenländer.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "US-Midterms: Fokus auf Texas und Auswirkungen auf Finanzmärkte",
-     "text": "Vor den US-Zwischenwahlen pausieren große Fondsmanager bei Investitionen in Staatsanleihen, da der Ausgang der Wahlen als wegweisend für die Wirtschaftspolitik gilt. In Texas zeichnet sich ein ungewöhnlich enges Rennen ab, bei dem ein Demokrat den seit Jahrzehnten republikanisch gehaltenen Senatssitz gewinnen könnte. Warum dies geschieht, liegt an sich verschiebenden Wählerpräferenzen und ökonomischen Datenveröffentlichungen. Die Folge ist eine hohe Marktvolatilität und die Möglichkeit einer Machtverschiebung im US-Kongress.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
       }
      ]
     }
@@ -261,66 +272,84 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Frankreich plant Internetsteuer auf Datenverkehr",
-     "text": "In der französischen Nationalversammlung wurde ein Antrag verabschiedet, der eine Steuer von 5,5 Cent pro Gigabyte für Hersteller digitaler Daten vorsieht. Betroffene Unternehmen protestieren bereits massiv gegen dieses Vorhaben. Warum diese Steuer eingeführt werden soll, liegt im Bestreben, neue Einnahmequellen aus der digitalen Wirtschaft zu generieren. Die Folge könnten steigende Kosten für Internetdienste und Streaming-Anbieter in Frankreich sein, was Auswirkungen auf das Nutzerverhalten haben könnte.",
+     "titel": "Cyberangriffe auf Supermarkt-Kühlsysteme in ganz Europa",
+     "text": "Nach ersten Vorfällen in Frankreich wurden nun auch Kühlsysteme in Supermärkten in Schweden, Belgien, Estland und Luxemburg gehackt. Die Angreifer manipulierten die Steuerung so, dass die Temperaturen in den Gefriereinheiten auf bis zu 55°C anstiegen. Warum diese Angriffe erfolgen, ist noch unklar, doch die Folgen sind massive Lebensmittelverluste und Betriebsunterbrechungen. Einzelhändler wie Ica Kvantum in Schweden bestätigten die technischen Störungen über soziale Medien.",
      "quellen": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Frankreich-plant-Internetsteuer-5-5-Cent-pro-Gigabyte-11507164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak"
       },
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Kuehlschraenke-in-Lebensmittellaeden-weiterer-Laender-geknackt-11507846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack"
       }
      ]
     },
     {
-     "titel": "KI-Sorgen belasten Technologie-Index Nasdaq",
-     "text": "Der Nasdaq 100 hat deutliche Kursverluste hinnehmen müssen, da Anleger zunehmend daran zweifeln, ob sich die massiven Investitionen in Künstliche Intelligenz zeitnah auszahlen werden. Die Skepsis am Markt wächst trotz des technologischen Fortschritts. Warum diese Korrektur erfolgt, liegt an der Diskrepanz zwischen hohen Investitionskosten und bisher realisierten Gewinnen durch KI-Anwendungen. Die Folge ist ein vorsichtigeres Agieren der Investoren im Tech-Sektor und ein erhöhter Druck auf Unternehmen, die Profitabilität ihrer KI-Sparten nachzuweisen.",
+     "titel": "Sicherheitslücke: 'SMS des Todes' macht Android-Geräte unbrauchbar",
+     "text": "Eine neu entdeckte Sicherheitslücke ermöglicht es Angreifern, Android-Smartphones allein durch das Senden einer speziellen SMS zum Absturz zu bringen. Da für den Angriff keine Interaktion des Nutzers erforderlich ist, können sich Betroffene kaum dagegen wehren. Die Folge ist eine Endlosschleife von Abstürzen, die das Gerät unbrauchbar macht. Ein Patch für diese kritische Schwachstelle steht für viele Geräte noch aus.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/nasdaq-ki-sorgen-treiben-anleger-aus-tech-aktien-2610-214717.html"
+       "url": "https://www.golem.de/news/ohne-nutzerinteraktion-sms-des-todes-macht-android-geraete-unbrauchbar-2611-214756.html"
       }
      ]
     },
     {
-     "titel": "Vishay erweitert Chipfabrik in Itzehoe für 300mm-Wafer",
-     "text": "Das Unternehmen Vishay hat Förderbescheide für den Ausbau seiner Halbleiterfertigung in Schleswig-Holstein erhalten, um künftig Power-Mosfets auf größeren 300mm-Siliziumscheiben zu produzieren. Warum diese Erweiterung stattfindet, liegt am steigenden Bedarf an Leistungshalbleitern für die Industrie und Elektromobilität. Die Folge ist eine Stärkung des Technologiestandorts Deutschland und eine effizientere Produktion durch die Nutzung größerer Wafer-Durchmesser.",
+     "titel": "Preiserhöhung für Raspberry Pi 5 und andere Modelle",
+     "text": "Der Hersteller des Raspberry Pi hat die Preise für mehrere Modelle angehoben. Besonders deutlich ist der Anstieg bei der 16-Gigabyte-Version des Raspberry Pi 5, deren Preis von 305 auf 385 US-Dollar stieg. Als Grund werden gestiegene Produktionskosten genannt. Für Bastler und industrielle Anwender bedeutet dies eine erhebliche Verteuerung ihrer Projekte auf Basis der beliebten Einplatinencomputer.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Foerderung-fuer-300mm-Wafer-in-Itzehoe-an-Vishay-uebergeben-11507214.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Der-teuerste-Raspi-wird-noch-teurer-16-Gigabyte-Version-kostet-385-US-Dollar-11507912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Telefónica baut Kundenservice-Standorte massiv ab",
-     "text": "Der Mobilfunkbetreiber Telefónica verkauft drei seiner fünf deutschen Kundenservice-Standorte, was von der Gewerkschaft Verdi scharf kritisiert wird. Warum dieser Schritt erfolgt, liegt in einer Strategie zur Kostenreduzierung und Umstrukturierung des Kundendienstes. Die Folge ist ein massiver Stellenabbau und eine potenzielle Veränderung der Servicequalität für die Kunden des Mobilfunkanbieters.",
+     "titel": "BMW plant teilautomatisiertes Fahren in Städten ab 2027",
+     "text": "BMW hat angekündigt, ab dem Jahr 2027 in Deutschland Funktionen für teilautomatisiertes Fahren auch im Stadtverkehr anzubieten. Bisherige Assistenzsysteme waren primär auf Autobahnen und Landstraßen beschränkt. Die neuen Modelle sollen mit fortschrittlicher Sensorik ausgestattet werden, um komplexe städtische Umgebungen zu bewältigen. Dies markiert einen wichtigen Schritt in der Entwicklung autonomer Fahrzeuge für den Massenmarkt.",
      "quellen": [
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/mobilfunk-telefonica-verkauft-drei-von-fuenf-kundenservice-standorten-2611-214724.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/BMW-will-ab-2027-teilautomatisiertes-Fahren-im-Stadtverkehr-anbieten-11507904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Habeck warnt Audi vor Imageverlust durch Trump-Unterstützung",
-     "text": "Der ehemalige Vizekanzler Robert Habeck sieht die Marke Audi durch die Nähe zum US-Präsidentschaftskandidaten Donald Trump gefährdet. Warum er dies äußert, liegt in der Befürchtung, dass politische Wahlhilfe für Trump dem Ansehen und den Verkaufszahlen deutscher Automarken schaden könnte. Die Folge ist eine Debatte über die politische Positionierung von Unternehmen und deren Auswirkungen auf den globalen Markterfolg.",
+     "titel": "Weltraumteleskop Swift vor unkontrolliertem Absturz",
+     "text": "Das Neil Gehrels Swift Observatory der NASA wird voraussichtlich diese Woche in die Erdatmosphäre eintreten und größtenteils verglühen. Rettungsversuche für das Teleskop sind gescheitert. Es besteht die Möglichkeit, dass einzelne Trümmerteile die Erdoberfläche erreichen. Parallel dazu sucht die NASA nach kommerziellen Partnern, um das Hubble-Teleskop durch einen Orbit-Boost vor einem ähnlichen Schicksal in den 2030er Jahren zu bewahren.",
      "quellen": [
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/protest-habeck-rechnet-bei-audi-mit-tesla-effekt-wegen-trump-wahlhilfe-2611-214720.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Wird-wohl-nicht-ganz-vergluehen-Absturz-des-Weltraumteleskops-Swift-diese-Woche-11507611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
       }
      ]
     },
     {
-     "titel": "Google testet KI-Rechner direkt im Weltraum-Orbit",
-     "text": "Ein experimenteller KI-Rechner von Google ist an Bord eines Satelliten online gegangen und hat erste Daten mit Bodenstationen ausgetauscht. Die erste Aufgabe des Systems bestand darin, ein Gedicht über den Weltraum zu verfassen. Warum dieses Experiment durchgeführt wird, liegt in der Erprobung von Rechenkapazitäten direkt im Orbit, um Daten schneller vor Ort verarbeiten zu können. Die Folge könnte eine effizientere Satellitenkommunikation und Datenanalyse ohne den Umweg über Bodenstationen sein.",
+     "titel": "Ablehnung von C++26 durch nationale Gremien",
+     "text": "Der kommende Standard C++26 wurde bei der entscheidenden DIS-Wahl von den nationalen Standardisierungsgremien abgelehnt. Dies ist ein ungewöhnlicher Vorgang in der Geschichte der Programmiersprache. Die Gründe liegen in technischen Unstimmigkeiten und fehlendem Konsens über neue Features. Die Folge ist eine Verzögerung der Weiterentwicklung, was Auswirkungen auf die langfristige Planung von Softwareprojekten haben könnte.",
      "quellen": [
       {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/blog/Analyse-C-26-abgelehnt-war-es-das-oder-geht-es-weiter-11507334.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Erfolg für elektronikfreie Traktoren zur Eigenreparatur",
+     "text": "Das Unternehmen Ursa AG aus Kanada verzeichnet einen Verkaufserfolg mit Traktoren, die weitgehend auf Elektronik verzichten. Diese Maschinen sind so konstruiert, dass Landwirte sie selbst reparieren können, ohne durch Software-Sperren behindert zu werden. Die Nachfrage übersteigt derzeit die Produktion deutlich. Dies ist eine Reaktion auf die zunehmende Kritik an 'Right to Repair'-Einschränkungen bei großen Landmaschinenherstellern.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Respekt-fuer-Recht-auf-Reparatur-Ursa-Traktoren-aus-Kanada-verkaufen-sich-gut-11507647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     }
