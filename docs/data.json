@@ -1,118 +1,122 @@
 {
- "erstellt": "2026-11-02T13:13:58.693483+00:00",
+ "erstellt": "2026-11-03T12:40:15.742314+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "US-Zwischenwahlen: Wirtschaftliche Bilanz und Marktreaktionen",
-     "text": "Vor den US-Zwischenwahlen zeigt sich die US-Wirtschaft gespalten: Während das Wachstum anhält, leiden viele Bürger unter hohen Lebenshaltungskosten und Kraftstoffpreisen, die Rekordhöhen erreichen. Der Arbeitsmarkt verliert an Schwung, während die Staatsverschuldung weiter ansteigt. Anleger am deutschen Aktienmarkt reagieren verunsichert, weshalb der DAX zum Wochenstart nachgab. Die Folgen der Wahl werden als richtungsweisend für die künftige US-Politik und die globale Marktstabilität eingestuft.",
+     "titel": "Massiver Stellenabbau und Werksschließungen bei Schaeffler",
+     "text": "Der Automobilzulieferer Schaeffler reagiert mit drastischen Sparmaßnahmen auf die Krise der deutschen Automobilindustrie. In Europa sollen insgesamt 3460 Arbeitsplätze wegfallen, davon allein 2660 in Deutschland, wo zudem vier Standorte vor dem Aus stehen. Grund für diesen Kahlschlag ist der wirtschaftliche Druck innerhalb der Branche. Die Folgen sind ein erheblicher Verlust an Industriearbeitsplätzen und eine strukturelle Verkleinerung des Unternehmens in seinem Heimatmarkt.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1"
-      }
-     ]
-    },
-    {
-     "titel": "Milliardenraub bei Kryptobörse Binance durch nordkoreanische Hacker",
-     "text": "Bei einem Hackerangriff auf die weltweit größte Kryptobörse Binance wurden Digitalwährungen im Wert von 6,3 Milliarden US-Dollar erbeutet. Das FBI macht die nordkoreanische Gruppe 'TraderTraitor' für den Diebstahl verantwortlich, die bereits mit der Geldwäsche über Ethereum begonnen hat. Infolge des Angriffs und trotz des Ersatzes von Kundengeldern durch Binance zogen Kunden rund 3,6 Milliarden Dollar von der Plattform ab. Die Auszahlungen wurden nach einer Unterbrechung schrittweise wieder aufgenommen, doch der Vertrauensverlust in der Branche bleibt massiv.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html"
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3572395"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1"
+       "url": "https://www.sueddeutsche.de/wirtschaft/schaeffler-stellenabbau-autozulieferer-vitesco-deutschland-li.3573439"
       }
      ]
     },
     {
-     "titel": "EU-Sonderregelung für Thyssenkrupp bei Wasserstoff-Umstellung",
-     "text": "Thyssenkrupp Steel Europe (TKSE) darf sein Duisburger Stahlwerk länger als ursprünglich geplant mit Erdgas betreiben, obwohl der Konzern zwei Milliarden Euro an Subventionen für die Umstellung auf klimafreundlichen Wasserstoff erhält. Die EU genehmigte diese Verzögerung aufgrund der aktuellen Wasserstoffknappheit. Warum diese Entscheidung trotz der fossilen Brennstoffnutzung als richtig erachtet wird, liegt in der Sicherung der Standortsicherung während der langwierigen Energiewende. Die Folge ist eine langsamere Dekarbonisierung der deutschen Stahlproduktion als ursprünglich projektiert.",
+     "titel": "EU genehmigt Übernahme von MediaMarktSaturn durch JD.com",
+     "text": "Die Europäische Kommission hat dem chinesischen Handelskonzern JD.com die Übernahme von MediaMarktSaturn, dem größten Elektronik-Fachhändler Europas, unter Auflagen genehmigt. China hatte im Vorfeld mit Konsequenzen gedroht, sollte der Verkauf scheitern. Die Übernahme ist an Bedingungen geknüpft, um den Wettbewerb im europäischen Handel zu wahren. Dies markiert einen signifikanten Einstieg eines chinesischen Giganten in den europäischen stationären und Online-Handel.",
      "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/mediamarkt-saturn-jd-com-eu-kommission-uebernahme-ceconomy-li.3573638"
+      }
+     ]
+    },
+    {
+     "titel": "Cyberangriffe auf Kühlsysteme europäischer Supermärkte",
+     "text": "Hacker haben die Kühlanlagen zahlreicher Supermärkte in Deutschland, Belgien, Schweden und Frankreich manipuliert. In einigen Fällen wurden Temperaturen von 5 auf 50 Grad erhöht, was zur Entsorgung großer Mengen an Lebensmitteln führte. Ziel der Angriffe war die Sabotage der Infrastruktur, was zu erheblichen Warenverlusten und betrieblichen Störungen führte. Die Vorfälle verdeutlichen die Verwundbarkeit der Lebensmittel-Lieferkette gegenüber Cyberkriminalität.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/cyberangriffe-supermaerkte-belgien-schweden-irland-li.3573115"
+      }
+     ]
+    },
+    {
+     "titel": "Apple erzielt Rekordumsatz unter neuer Führung",
+     "text": "Apple hat im dritten Quartal dank eines starken iPhone-Geschäfts Rekordwerte beim Konzernumsatz erreicht und die Erwartungen der Börse übertroffen. Der iPhone-Umsatz stieg um 17 Prozent auf 57,58 Milliarden Dollar, obwohl kein neues Standardmodell veröffentlicht wurde. Konzernchef John Ternus gab jedoch an, dass Lieferengpässe beim iPhone Duo derzeit schwer kalkulierbar seien. Trotz der Rekordzahlen reagierte die Aktie mit Kursverlusten.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Nordkorea bestreitet Milliarden-Raub bei Kryptobörse Binance",
+     "text": "Nach dem Diebstahl von über sechs Milliarden Dollar bei der Kryptobörse Binance hat Nordkorea jegliche Verantwortung zurückgewiesen. Die Schwester des Machthabers Kim Jong-un bezeichnete die Vorwürfe als absurd, während Experten die Elitetruppe 'Lazarus' hinter dem Hack vermuten. Der Angriff gilt als der bislang größte Kryptoraub der Geschichte. Die Folgen sind verstärkte internationale Diskussionen über die Finanzierung des isolierten Staates durch Cyberkriminalität.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3573378"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/binance-hack-lazarus-nordkorea-kryptowaehrungen-li.3572707"
+      }
+     ]
+    },
+    {
+     "titel": "Bundesnetzagentur fördert elf neue Gas-Reservekraftwerke",
+     "text": "Zur Sicherung der Stromversorgung vergibt die Bundesnetzagentur erstmals Förderungen für den Bau neuer Gas-Reservekraftwerke, vorrangig in Brandenburg, NRW und Sachsen. Die Zuschläge gingen durchweg an Gasturbinen, da diese als notwendige Absicherung für das Stromnetz gelten. Kritiker bemängeln, dass die Anlagen trotz Milliardenförderung länger als geplant mit Erdgas statt Wasserstoff laufen könnten. Dies führt zu hohen Kosten für die Versorgungssicherheit im Rahmen der Energiewende.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/warnstreik-audi-doellner-ig-metall-li.3573364"
+      },
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/wirtschaft/thyssenkrupp-tkse-gruener-wasserstoff-eu-li.3572969"
+      }
+     ]
+    },
+    {
+     "titel": "Warnstreiks in der Metall- und Elektroindustrie",
+     "text": "Die IG Metall hat bundesweite Warnstreiks gestartet, unter anderem bei Audi in Ingolstadt und in Betrieben in Niedersachsen. Mehr als 2000 Beschäftigte legten die Arbeit nieder, um die Forderung nach fünf Prozent mehr Lohn zu unterstützen. Die Gewerkschaft kritisiert zudem die Sparpläne des Audi-Vorstands in Deutschland bei gleichzeitigem Expansionskurs in den USA. Die Streiks könnten die Produktion in einer ohnehin angespannten wirtschaftlichen Lage weiter verzögern.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/warnstreik-audi-doellner-ig-metall-li.3573364"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/tkse-thyssenkrupp-wasserstoff-foerderbescheid-eu-li.3571823"
+       "url": "https://www.sueddeutsche.de/wirtschaft/warnstreik-niedersachsen-ig-metall-metallindustrie-tarifkonflikt-li.3573276"
       }
      ]
     },
     {
-     "titel": "Neue EU-Importgebühr für Pakete aus Nicht-EU-Ländern",
-     "text": "Ab November erhebt die EU eine neue Gebühr von zwei Euro pro Warenposition für Importe aus Drittstaaten wie China. Ziel dieser Maßnahme ist es, die enorme Flut an Billigpaketen im Onlinehandel einzudämmen und die heimische Wirtschaft zu schützen. Für Konsumenten bedeutet dies eine direkte Verteuerung von Kleinstbestellungen. Logistikdienstleister müssen zudem ihre Prozesse anpassen, um die Erhebung der Gebühr bei der Einfuhr sicherzustellen.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/paketgebuehr-nicht-eu-laender-onlinehandel-china-temu-li.3572439"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Deutschland hinkt bei KI-Entwicklung laut Ifo-Institut hinterher",
-     "text": "Eine Analyse des Ifo-Instituts bescheinigt Deutschland erhebliche Rückstände beim Thema Künstliche Intelligenz, insbesondere in der Verwaltung und im Bildungssystem. Die Hightech-Branche sei im internationalen Vergleich zu klein, um den aktuellen Boom voll auszuschöpfen. Die Bundesregierung hat das Ziel ausgegeben, Deutschland bis 2030 zur 'KI-Nation' zu machen, sieht sich jedoch mit hohem Handlungsdruck konfrontiert. Folgen des Rückstands könnten ein Verlust an globaler Wettbewerbsfähigkeit und Innovationskraft sein.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ifo-institut-ki-deutschland-digitalisierung-bildung-li.3572762"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/tkse-thyssenkrupp-wasserstoff-foerderbescheid-eu-li.3571823"
-      }
-     ]
-    },
-    {
-     "titel": "Warnstreiks in der Metall- und Elektroindustrie ausgeweitet",
-     "text": "Nach einer ergebnislosen zweiten Tarifrunde hat die IG Metall bundesweit zu massiven Warnstreiks aufgerufen. Bereits am Sonntag standen erste Fließbänder still, seit Wochenbeginn rollt eine größere Streikwelle durch die Betriebe. Die Gewerkschaft fordert deutliche Lohnsteigerungen, während die Arbeitgeberseite bisher kein akzeptables Angebot vorgelegt hat. Die Arbeitsniederlegungen führen zu Produktionsunterbrechungen in einer für Deutschland zentralen Schlüsselindustrie.",
+     "titel": "Polens Wirtschaft verzeichnet starkes Wachstum",
+     "text": "Die polnische Wirtschaft erlebt einen anhaltenden Boom, der das veraltete Klischee vom armen Nachbarland revidiert. Das starke Wachstum zieht mittlerweile vermehrt Arbeitskräfte und Investoren aus Deutschland an. Ursächlich sind strukturelle wirtschaftliche Verbesserungen und eine hohe Dynamik im östlichen Nachbarstaat. Dies führt zu einer Verschiebung der wirtschaftlichen Gewichte innerhalb Mitteleuropas.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
-      }
-     ]
-    },
-    {
-     "titel": "Quoten für grünen Flugkraftstoff verteuern das Fliegen",
-     "text": "Die EU schreibt künftig feste Quoten für die Beimischung von nachhaltigem Kerosin (SAF) vor. Da es derzeit jedoch kaum Produktionsanlagen gibt und die Herstellung extrem kostspielig ist, warnen Airlines vor drastisch steigenden Ticketpreisen. Warum die Kosten so hoch sind, liegt an der mangelnden Skalierung der Technologie. Die Folge wird eine dauerhafte Verteuerung des Flugverkehrs für Endverbraucher sein.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Alstom-Aktie bricht nach Gewinnwarnung massiv ein",
-     "text": "Die Aktien des französischen Zugherstellers Alstom verloren 28 Prozent an Wert, nachdem das Unternehmen seine Gewinnprognose gesenkt hatte. Der neue Chef Martin Sion kündigte einen Plan an, um die Schuldenlast um zwei Milliarden Euro zu reduzieren. Dies ist bereits die zweite größere Gewinnwarnung innerhalb kurzer Zeit. Die finanzielle Instabilität des Konzerns belastet das Vertrauen der Investoren in den europäischen Schienenverkehrssektor.",
-     "quellen": [
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1"
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html"
       }
      ]
     }
@@ -123,49 +127,92 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Flexport steigert Volumen durch KI-Einsatz bei minimalem Personalzuwachs",
-     "text": "Der Logistikdienstleister Flexport verzeichnet seit April einen Anstieg des Seefrachtvolumens um 40 Prozent, während die Mitarbeiterzahl im gleichen Zeitraum nur um 5 Prozent wuchs. CEO Ryan Petersen führt diese Effizienzsteigerung auf den verstärkten Einsatz von Künstlicher Intelligenz zurück, die Produktveröffentlichungen beschleunigt. Infolgedessen erwägt das Unternehmen, künftig mit kleineren Engineering-Teams zu arbeiten. Dies unterstreicht den Trend zur Automatisierung komplexer Logistikprozesse.",
+     "titel": "Großauftrag für Tesla: 2500 Elektro-Lkw für ZET Scale",
+     "text": "Die Shipper-Allianz ZET Scale hat mit der Bestellung von 2500 Tesla Semis den bislang größten Auftrag für elektrische Schwerlastwagen in den USA aufgegeben. Ziel ist es, durch Nachfragebündelung das 'Henne-Ei-Problem' der Ladeinfrastruktur zu lösen und Elektro-Lkw preislich konkurrenzfähig zu Diesel-Fahrzeugen zu machen. Diese Demand-Aggregation soll den Übergang zu einem nachhaltigen Güterverkehr massiv beschleunigen. Die Folgen könnten eine Transformation des US-Flottenmarktes und sinkende Betriebskosten sein.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount"
+       "url": "https://www.freightwaves.com/news/electric-trucking-why-2500-tesla-semis-will-transform-freight"
       }
      ]
     },
     {
-     "titel": "Verschärfte Kabotage-Kontrollen belasten mexikanischen Grenzverkehr",
-     "text": "In der Grenzregion zwischen Mexiko und den USA drohen verschärfte Durchsetzungen von Kabotage-Regeln den grenzüberschreitenden Lkw-Verkehr zu behindern. Um den Warenfluss dennoch zu fördern, hat der mexikanische Bundesstaat Nuevo León die Mautgebühren an der Colombia-Brücke um 50 Prozent gesenkt. Parallel dazu plant Walmart ein 400 Millionen Dollar teures Distributionszentrum nahe San Antonio, das 425 Arbeitsplätze schaffen soll. Diese Entwicklungen zeigen die hohe Dynamik und die regulatorischen Risiken in nordamerikanischen Lieferketten.",
+     "titel": "Walmart investiert 6 Milliarden Dollar in Automatisierung",
+     "text": "Der Einzelhandelsriese Walmart stellt sechs Milliarden Dollar bereit, um 25 regionale Distributionszentren mit Technologie des Partners Symbotic zu automatisieren. Die Investition soll die Geschwindigkeit der Warenabwicklung erhöhen und die Bestandsauffüllung in den Filialen optimieren. Durch den Einsatz von KI und Robotik will Walmart seine Effizienz in der Supply Chain steigern. Dies ist eine Reaktion auf den steigenden Wettbewerbsdruck und die Notwendigkeit einer präziseren Lagerhaltung.",
      "quellen": [
       {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking"
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"
       }
      ]
     },
     {
-     "titel": "AIT Worldwide Logistics expandiert im ozeanischen Raum",
-     "text": "AIT Worldwide Logistics hat den australischen Spediteur Connor Anderson International übernommen, um seine Präsenz in Ozeanien signifikant auszuweiten. Das übernommene Unternehmen ist insbesondere in große Technologie-Bauprojekte involviert. Warum dieser Schritt erfolgt, liegt in der Strategie von AIT, globale Netzwerke für spezialisierte Industrien zu stärken. Die Folge ist eine verbesserte Abdeckung von Logistikdienstleistungen für den Tech-Sektor in der Region.",
+     "titel": "US-Industrie wächst zehnten Monat in Folge trotz Nahost-Konflikt",
+     "text": "Der Einkaufsmanagerindex (PMI) für das US-verarbeitende Gewerbe stieg im Oktober auf 55,5 Punkte und markiert damit den zehnten Wachstumsmonat in Folge. Trotz dieser positiven Daten äußern Unternehmen zunehmend Sorgen über die Volatilität der Preise und die Auswirkungen des Iran-Krieges sowie drohender Handelskriege. Die logistischen Herausforderungen durch geopolitische Spannungen belasten die Stimmung der Einkäufer. Ein anhaltendes Wachstum ist somit durch externe Risiken gefährdet.",
      "quellen": [
       {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/"
+      },
+      {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout"
+       "url": "https://www.freightwaves.com/news/octobers-55-5-manufacturing-pmi-beats-expectations"
       }
      ]
     },
     {
-     "titel": "Analyse: Warum hohe Lagerbestände Lieferprobleme nicht lösen",
-     "text": "Trotz Rekordbeständen verfehlen viele Unternehmen ihre Lieferziele (Fill Rates). Die Ursache liegt laut Experten nicht in mangelndem Bestand oder schlechten Prognosen, sondern in einer fehlerhaften Entscheidungsebene innerhalb der Supply Chain. Eine Optimierung der Entscheidungsprozesse sei notwendig, um die Effizienz zu steigern. Die Folge falscher Strategien sind gebundenes Kapital bei gleichzeitig unzufriedenen Kunden.",
+     "titel": "Razzia gegen unberechtigte CDL-Inhaber in den USA",
+     "text": "In einer großangelegten Operation in 15 US-Bundesstaaten wurden über 230 Personen ohne gültigen Aufenthaltsstatus festgenommen, darunter mehr als 40 Inhaber einer Commercial Driver's License (CDL). Die Behörden gehen gezielt gegen unberechtigte Inhaber von Lkw-Führerscheinen vor, um die Einhaltung gesetzlicher Standards im Transportwesen sicherzustellen. Dies könnte kurzfristig den ohnehin bestehenden Fahrermangel in bestimmten Segmenten verschärfen. Die Aktion unterstreicht die verschärfte Durchsetzung von Einwanderungs- und Arbeitsrechten im Logistiksektor.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown-targeting-unauthorized-cdl-holders"
+      }
+     ]
+    },
+    {
+     "titel": "Pamt Corp. meldet Verluste durch hohe Dieselpreise",
+     "text": "Der Truckload-Carrier Pamt Corp. verzeichnete im dritten Quartal einen Nettoverlust und eine Operating Ratio von 109,1 Prozent. Als Hauptgründe nennt das Unternehmen gestiegene Kosten für die Fahrerbeschaffung und einen sprunghaften Anstieg der Dieselpreise. Diese Entwicklung spiegelt die allgemeinen Herausforderungen der Branche wider, in der die Kosten schneller steigen als die Frachtraten. Die Folge ist ein erhöhter Konsolidierungsdruck auf Transportunternehmen.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/pamt-corp-sees-q3-net-loss-books-109-1-truckload-or"
+      }
+     ]
+    },
+    {
+     "titel": "Steigende Frachtkosten belasten Amazon und Einzelhändler",
+     "text": "Große Einzelhändler, darunter Amazon, berichten für das dritte Quartal von einer Inflation bei den Versandkosten und punktuellen Verzögerungen bei der Bestandsaufnahme. Trotz Rekordbeständen erreichen viele Unternehmen ihre Fill-Rate-Ziele nicht, was auf Probleme in der Entscheidungsebene der Supply Chain zurückgeführt wird. Die gestiegenen Kosten für den Gütertransport schmälern die Margen im wichtigen Vorweihnachtsgeschäft. Händler suchen nun nach Wegen, durch KI-gestützte Prognosen die Effizienz zu steigern.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
        "url": "https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q"
       }
      ]
     },
     {
-     "titel": "Potenzial von Elektro-Lkw durch besseres Energiemanagement",
-     "text": "Der Umstieg auf batteriebetriebene Lkw-Flotten bietet erhebliche Einsparpotenziale bei den Energiekosten, sofern die Stromvermarktung optimiert wird. Durch die Nutzung der Lkw-Akkus als Stromspeicher können Flottenbetreiber flexibler auf Marktpreise reagieren. Dies erfordert jedoch eine engere Verzahnung von Logistik und Energiewirtschaft. Die Folge wäre eine beschleunigte Amortisation der teureren Elektro-Fahrzeuge.",
-     "quellen": []
+     "titel": "Strategische Partnerschaft zwischen Norfolk Southern und Schneider",
+     "text": "Die Eisenbahngesellschaft Norfolk Southern und der Logistikdienstleister Schneider National haben eine Kooperation zur Erweiterung ihrer Intermodal-Reichweite an der US-Ostküste gestartet. Eine potenzielle Fusion von Norfolk Southern mit Union Pacific wird dabei als zusätzlicher Beschleuniger für die Partnerschaft gesehen. Ziel ist es, den Schienentransport als effiziente Alternative zur Straße weiter zu skalieren. Dies stärkt die Kapazitäten für den Containertransport in wichtigen Wirtschaftskorridoren.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/"
+      }
+     ]
+    },
+    {
+     "titel": "Trucking-Branche wartet auf finale EPA '27-Regelung",
+     "text": "Die US-Lkw-Branche blickt gespannt auf die finale Entscheidung der Umweltschutzbehörde EPA zu den Stickoxid-Standards (NoX) für das Jahr 2027. Große Lkw-Händler wie Rush Enterprises weisen darauf hin, dass die technischen Anforderungen an neue Motoren noch unklar sind, was Investitionsentscheidungen erschwert. Die Regelung wird maßgeblich bestimmen, welche Antriebstechnologien künftig zulässig sind und wie teuer die Anschaffung neuer Fahrzeuge wird. Dies führt zu einer abwartenden Haltung bei Flottenbetreibern.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon"
+      }
+     ]
     }
    ],
    "fehler": null
@@ -174,94 +221,114 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Ausschreitungen nach 'Gen Z regelt'-Protesten lösen Debatte aus",
-     "text": "Nach bundesweiten Protesten der 'Gen Z' mit über 180.000 angemeldeten Teilnehmern kam es in Frankfurt, Köln und Hamburg zu schweren Ausschreitungen. Innenminister Dobrindt sprach von einer Unterwanderung durch gewaltbereite Gruppen und kündigte ein hartes Vorgehen an. Bildungsministerin Prien sieht in der Eskalation zudem ungelöste Integrationsfragen. Während Bundeskanzler Merz das politische Engagement der Jugend lobte, verurteilte er die Gewalt scharf. Die Organisatoren distanzierten sich von den Vorfällen und planen weitere Demonstrationen.",
+     "titel": "Zwischenwahlen in den USA: Schicksalstag für Trumps Agenda",
+     "text": "In den USA finden die entscheidenden Kongresswahlen (Midterms) statt, die über die Mehrheitsverhältnisse im Senat und Repräsentantenhaus entscheiden. Ein Verlust der republikanischen Mehrheit könnte Präsident Trump zum 'Lame Duck' machen und seine Gesetzgebung blockieren. Wähler reagieren vor allem auf hohe Lebenshaltungskosten infolge von Zöllen und dem Iran-Krieg. Erste verlässliche Ergebnisse werden für Mittwochnachmittag deutscher Zeit erwartet.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/gen-z-jugendproteste-hessen-frankfurt-merz-verbot-dobrindt-pistorius-li.3572698"
-      }
-     ]
-    },
-    {
-     "titel": "Digitalminister bestätigt Spyware-Angriffe auf deutsche Politiker",
-     "text": "Digitalminister Wildberger hat Berichte über Hackerangriffe auf Bundestagsabgeordnete und Regierungsmitglieder bestätigt, bei denen Spyware eingesetzt wurde. Apple hatte zuvor betroffene Politiker vor staatlich gesponserter Schadsoftware gewarnt. Details zu den Urhebern oder dem Umfang des Datenabflusses nannte der Minister nicht. Der Vorfall überschattet den aktuellen Digitalgipfel in Berlin und erhöht den Druck für bessere Cybersicherheitsmaßnahmen in der staatlichen Infrastruktur.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-merz-cdu-kreisvorsitzende-treffen-li.3568524"
-      }
-     ]
-    },
-    {
-     "titel": "Regierungskrise in Belgien wegen Haushaltsstreit",
-     "text": "Belgiens Premierminister De Wever hat seinen Rücktritt angeboten, nachdem die Verhandlungen über den Haushalt 2027 gescheitert sind. Zuvor waren zehntausende Menschen gegen geplante Sparmaßnahmen auf die Straße gegangen. Die politische Blockade gefährdet die finanzielle Stabilität des Landes und die Umsetzung notwendiger Reformen. Die Folge ist eine Phase politischer Unsicherheit in einem zentralen EU-Mitgliedstaat.",
-     "quellen": [
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/belgien-premier-de-wever-ruecktritt-angebot-li.3573030"
-      }
-     ]
-    },
-    {
-     "titel": "Eskalation im polnischen Verfassungsstreit",
-     "text": "In Polen hat sich der Konflikt zwischen der Regierung von Donald Tusk und dem Lager von Präsident Nawrocki verschärft. Tusk wirft der Opposition einen Angriff auf Demokratie und Rechtsstaat vor, nachdem es zu physischen Auseinandersetzungen im Verfassungsgericht kam. Die EU-Kommission hat sich nun in den Streit eingeschaltet, um die Unabhängigkeit der Justiz zu stützen. Die Folge ist eine tiefe Spaltung der polnischen Institutionen, die auch Auswirkungen auf EU-Fördergelder haben könnte.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html"
       },
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/midterms-ablauf-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-news-liveblog-li.3573278"
       }
      ]
     },
     {
-     "titel": "Sorge vor Eskalation im Iran-Konflikt wächst",
-     "text": "Die Golfstaaten rüsten angesichts einer drohenden Eskalation im Iran-Krieg massiv auf und beraten auf einer internationalen Konferenz über Sicherheitsstrategien. Israels Ministerpräsident Netanjahu drängt den US-Präsidenten Trump laut Berichten zu erneuten Schlägen gegen den Iran. Gleichzeitig bemüht sich Katar um eine Vermittlung für ein Interimsabkommen zwischen Washington und Teheran. Die Unsicherheit belastet die regionale Stabilität und führt zu einer angespannten Lage für die Bewohner Teherans unter der US-Blockade.",
+     "titel": "USA planen neue Vermittlungsgespräche mit Russland und Ukraine",
+     "text": "Der US-Sondergesandte Witkoff hat für die kommende Woche neue Dreier-Gespräche zwischen den USA, Russland und der Ukraine angekündigt. Parallel dazu sucht der ukrainische Präsident Selenskyj bei einem Besuch in Berlin den Schulterschluss mit Kanzler Merz, um Unterstützung vor den Verhandlungen zu sichern. Währenddessen setzt Russland seine Angriffe fort und bombardierte zuletzt ein Krankenhaus in Charkiw sowie Energieanlagen. Die Gespräche sind der erste Versuch einer diplomatischen Annäherung seit Februar.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/belgien-premier-de-wever-ruecktritt-angebot-li.3573030"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-atomalarm-app-hacker-angriff-li.3571967"
+       "url": "https://www.sueddeutsche.de/politik/ukraine-praesident-unterstuetzung-besuch-merz-deutschland-li.3573106"
       }
      ]
     },
     {
-     "titel": "Steinmeier warnt in China vor KI-Risiken für die Demokratie",
-     "text": "Zum Abschluss seiner China-Reise betonte Bundespräsident Steinmeier, dass bei der Künstlichen Intelligenz nicht das 'Ob', sondern das 'Wie' der Anwendung entscheidend sei. Er warnte insbesondere vor den Gefahren für demokratische Prozesse durch Desinformation. In Bezug auf den Handelskonflikt zwischen der EU und China zeigte er sich vorsichtig optimistisch für künftige Fortschritte. Die Reise unterstreicht die schwierige Balance zwischen wirtschaftlicher Kooperation und systemischem Wettbewerb.",
+     "titel": "US-Militär greift iranische Insel Qeschm an",
+     "text": "Kurz vor den Zwischenwahlen haben US-Streitkräfte Ziele auf der iranischen Insel Qeschm in der Straße von Hormus angegriffen. Washington bezeichnete die Attacke als Defensivmaßnahme gegen potenzielle Angriffe mit Boden-Luft-Raketen durch Teheran. Der Ölpreis stabilisierte sich nach dem Angriff bei etwa 106 Dollar. Die Eskalation verschärft die Spannungen im Nahen Osten und beeinflusst die politische Stimmung in den USA.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-angriff-qeschm-li.3571386"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-abgeschmettert-li.3568285"
+      }
+     ]
+    },
+    {
+     "titel": "Merz fordert Frau als Nachfolgerin für Bundespräsident Steinmeier",
+     "text": "Bundeskanzler Merz hat angekündigt, eine Frau aus der politischen Mitte als Kandidatin für die Nachfolge von Bundespräsident Steinmeier vorzuschlagen. Es wäre das erste Mal in der Geschichte der Bundesrepublik, dass eine Frau das höchste Staatsamt bekleidet. Einen konkreten Namen nannte Merz bisher nicht. Die Entscheidung folgt auf eine Phase des Zögerns und soll ein Signal für Modernisierung setzen.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
+       "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-friedrich-merz-cdu-vorschlag-kandidatin-li.3573323"
+      }
+     ]
+    },
+    {
+     "titel": "Wirtschaftsministerium legt Entwurf für Spritpreisdeckel vor",
+     "text": "Trotz persönlicher Vorbehalte von Ministerin Reiche hat das Wirtschaftsministerium einen Gesetzentwurf für einen Spritpreisdeckel vorgelegt. Das Instrument der Koalition soll festlegen, unter welchen Bedingungen staatliche Eingriffe in die Preisgestaltung an Tankstellen zulässig sind. Ziel ist die Entlastung der Bürger bei extremen Preissprüngen. Die Umsetzung gilt innerhalb der Regierung jedoch weiterhin als umstritten.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Koalitionsverhandlungen in Berlin unter internem Druck",
+     "text": "In Berlin haben die Verhandlungen für eine Koalition aus SPD, Grünen und Linken begonnen. Innerhalb der SPD gibt es jedoch erheblichen Widerstand, insbesondere von Bundespolitikern wie Boris Pistorius und Karl Lauterbach. Die Differenzen betreffen vor allem die inhaltliche Ausrichtung der Zusammenarbeit auf Landesebene. Ein Scheitern der Gespräche könnte die politische Stabilität in der Hauptstadt gefährden.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Massive Cyberattacke auf Linken-Abgeordnete im Bundestag",
+     "text": "Ein koordinierter Cyberangriff hat die E-Mail-Postfächer der Linken-Fraktion im Bundestag durch tausende Nachrichten innerhalb weniger Minuten lahmgelegt. Andere Fraktionen waren von der Attacke nicht betroffen, die Urheber sind bislang unbekannt. Der Vorfall behindert die parlamentarische Arbeit der Abgeordneten massiv. Sicherheitsbehörden untersuchen den Hintergrund des gezielten Angriffs.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Jotowa gewinnt Präsidentschaftswahl in Bulgarien",
+     "text": "Die amtierende bulgarische Präsidentin Jotowa hat die Stichwahl gegen ihren Herausforderer Gjurow gewonnen. Jotowa wird dem Lager des russlandfreundlichen Regierungschefs Radew zugerechnet. Ihr Sieg festigt die aktuelle politische Ausrichtung Bulgariens zwischen EU-Zugehörigkeit und traditionellen Verbindungen zu Moskau. Die Wahl gilt als wichtiges Signal für die Stabilität der Regierung in Sofia.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
       }
      ]
     }
@@ -272,84 +339,90 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Cyberangriffe auf Supermarkt-Kühlsysteme in ganz Europa",
-     "text": "Nach ersten Vorfällen in Frankreich wurden nun auch Kühlsysteme in Supermärkten in Schweden, Belgien, Estland und Luxemburg gehackt. Die Angreifer manipulierten die Steuerung so, dass die Temperaturen in den Gefriereinheiten auf bis zu 55°C anstiegen. Warum diese Angriffe erfolgen, ist noch unklar, doch die Folgen sind massive Lebensmittelverluste und Betriebsunterbrechungen. Einzelhändler wie Ica Kvantum in Schweden bestätigten die technischen Störungen über soziale Medien.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Kuehlschraenke-in-Lebensmittellaeden-weiterer-Laender-geknackt-11507846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack"
-      }
-     ]
-    },
-    {
-     "titel": "Sicherheitslücke: 'SMS des Todes' macht Android-Geräte unbrauchbar",
-     "text": "Eine neu entdeckte Sicherheitslücke ermöglicht es Angreifern, Android-Smartphones allein durch das Senden einer speziellen SMS zum Absturz zu bringen. Da für den Angriff keine Interaktion des Nutzers erforderlich ist, können sich Betroffene kaum dagegen wehren. Die Folge ist eine Endlosschleife von Abstürzen, die das Gerät unbrauchbar macht. Ein Patch für diese kritische Schwachstelle steht für viele Geräte noch aus.",
+     "titel": "Backdoor in 1,3 Millionen Android-Geräten entdeckt",
+     "text": "Der chinesische Hersteller Videostrong Technology hat heimlich eine Backdoor in rund 1,3 Millionen Android-TV-Boxen und anderen Geräten installiert. Google hat den Zugang nun deaktiviert und die Zusammenarbeit mit dem Hersteller beendet, der den Zugriff an Kriminelle für Botnetz-Aktivitäten verkauft hatte. Betroffene Geräte wurden weltweit vertrieben und stellten ein erhebliches Sicherheitsrisiko dar. Der Vorfall unterstreicht die Gefahren in der Hardware-Lieferkette für Consumer-Elektronik.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/ohne-nutzerinteraktion-sms-des-todes-macht-android-geraete-unbrauchbar-2611-214756.html"
-      }
-     ]
-    },
-    {
-     "titel": "Preiserhöhung für Raspberry Pi 5 und andere Modelle",
-     "text": "Der Hersteller des Raspberry Pi hat die Preise für mehrere Modelle angehoben. Besonders deutlich ist der Anstieg bei der 16-Gigabyte-Version des Raspberry Pi 5, deren Preis von 305 auf 385 US-Dollar stieg. Als Grund werden gestiegene Produktionskosten genannt. Für Bastler und industrielle Anwender bedeutet dies eine erhebliche Verteuerung ihrer Projekte auf Basis der beliebten Einplatinencomputer.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Der-teuerste-Raspi-wird-noch-teurer-16-Gigabyte-Version-kostet-385-US-Dollar-11507912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "BMW plant teilautomatisiertes Fahren in Städten ab 2027",
-     "text": "BMW hat angekündigt, ab dem Jahr 2027 in Deutschland Funktionen für teilautomatisiertes Fahren auch im Stadtverkehr anzubieten. Bisherige Assistenzsysteme waren primär auf Autobahnen und Landstraßen beschränkt. Die neuen Modelle sollen mit fortschrittlicher Sensorik ausgestattet werden, um komplexe städtische Umgebungen zu bewältigen. Dies markiert einen wichtigen Schritt in der Entwicklung autonomer Fahrzeuge für den Massenmarkt.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/BMW-will-ab-2027-teilautomatisiertes-Fahren-im-Stadtverkehr-anbieten-11507904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Weltraumteleskop Swift vor unkontrolliertem Absturz",
-     "text": "Das Neil Gehrels Swift Observatory der NASA wird voraussichtlich diese Woche in die Erdatmosphäre eintreten und größtenteils verglühen. Rettungsversuche für das Teleskop sind gescheitert. Es besteht die Möglichkeit, dass einzelne Trümmerteile die Erdoberfläche erreichen. Parallel dazu sucht die NASA nach kommerziellen Partnern, um das Hubble-Teleskop durch einen Orbit-Boost vor einem ähnlichen Schicksal in den 2030er Jahren zu bewahren.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Wird-wohl-nicht-ganz-vergluehen-Absturz-des-Weltraumteleskops-Swift-diese-Woche-11507611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.golem.de/news/tv-boxen-und-mehr-1-3-millionen-android-geraete-mit-backdoor-verkauft-2611-214785.html"
       },
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+       "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
       }
      ]
     },
     {
-     "titel": "Ablehnung von C++26 durch nationale Gremien",
-     "text": "Der kommende Standard C++26 wurde bei der entscheidenden DIS-Wahl von den nationalen Standardisierungsgremien abgelehnt. Dies ist ein ungewöhnlicher Vorgang in der Geschichte der Programmiersprache. Die Gründe liegen in technischen Unstimmigkeiten und fehlendem Konsens über neue Features. Die Folge ist eine Verzögerung der Weiterentwicklung, was Auswirkungen auf die langfristige Planung von Softwareprojekten haben könnte.",
+     "titel": "Digital Networks Act: Streit um Kupfernetz-Abschaltung",
+     "text": "Im Rahmen des Digital Networks Act wird in Europa über die Zukunft der digitalen Infrastruktur gestritten. Die Deutsche Telekom wehrt sich gegen eine schnelle Abschaltung ihres Kupfernetzes, was Auswirkungen auf die Anbieterwahl und die Preise für Endkunden haben könnte. Das Gesetz soll regeln, wer künftig die Kontrolle über die Netze behält. Für Verbraucher und Wettbewerber hängen davon die künftigen Kosten für Breitbandanschlüsse ab.",
      "quellen": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/blog/Analyse-C-26-abgelehnt-war-es-das-oder-geht-es-weiter-11507334.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "Golem",
+       "url": "https://www.golem.de/news/digital-networks-act-teil-1-warum-die-telekom-ihr-kupfernetz-nicht-abschalten-will-2611-214754.html"
       }
      ]
     },
     {
-     "titel": "Erfolg für elektronikfreie Traktoren zur Eigenreparatur",
-     "text": "Das Unternehmen Ursa AG aus Kanada verzeichnet einen Verkaufserfolg mit Traktoren, die weitgehend auf Elektronik verzichten. Diese Maschinen sind so konstruiert, dass Landwirte sie selbst reparieren können, ohne durch Software-Sperren behindert zu werden. Die Nachfrage übersteigt derzeit die Produktion deutlich. Dies ist eine Reaktion auf die zunehmende Kritik an 'Right to Repair'-Einschränkungen bei großen Landmaschinenherstellern.",
+     "titel": "Einführung des digitalen Führerscheins Ende November",
+     "text": "Die Bundesregierung hat angekündigt, den digitalen Führerschein auf dem Smartphone bis Ende November einzuführen. Damit kann das physische Dokument bei Kontrollen künftig zu Hause bleiben, sofern die digitale Version vorgezeigt wird. Die Maßnahme ist Teil der Digitalisierungsstrategie für Verwaltungsleistungen. Bürger müssen zur Nutzung eine entsprechende staatliche App installieren.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Respekt-fuer-Recht-auf-Reparatur-Ursa-Traktoren-aus-Kanada-verkaufen-sich-gut-11507647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Digitaler-Fuehrerschein-kommt-Ende-November-11509430.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Apple Intelligence startet in China mit iOS 27.3",
+     "text": "Apple bringt sein KI-System 'Apple Intelligence' zwei Jahre nach dem ursprünglichen Start nun auch auf den chinesischen Markt. Die Funktionen werden mit dem Update auf iOS 27.3 eingeführt, bieten jedoch keine neuen Features gegenüber den bereits bekannten Versionen. Der Schritt ist für Apple strategisch wichtig, um auf dem hart umkämpften chinesischen Smartphone-Markt konkurrenzfähig zu bleiben. Gleichzeitig kämpft das Unternehmen mit Lieferengpässen bei neuen Modellen.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Apple-Intelligence-kommt-nach-China-mit-iOS-27-3-11508160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+      }
+     ]
+    },
+    {
+     "titel": "Grafikkarten werden durch hohe Nachfrage knapp und teuer",
+     "text": "Die Preise für Grafikkarten von Nvidia, AMD und Intel sind aufgrund einer massiven Nachfragewelle erneut stark gestiegen. Viele Modelle sind im Handel kaum noch verfügbar oder werden zu deutlich überhöhten Preisen angeboten. Ursächlich ist unter anderem der Bedarf für KI-Anwendungen und High-End-Gaming. Für Endverbraucher und Unternehmen führt dies zu erheblichen Mehrkosten bei der Hardware-Beschaffung.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/nvidia-amd-intel-grafikkarten-werden-knapp-und-fast-unbezahlbar-2611-214790.html"
+      }
+     ]
+    },
+    {
+     "titel": "Ford verspricht Schutz von Fahrdaten vor Datenbrokern",
+     "text": "Der Automobilhersteller Ford hat eine neue Datenschutzzusage abgegeben, wonach Fahrdaten der Kunden niemals an Drittanbieter oder Datenbroker verkauft werden. Damit will sich das Unternehmen von Wettbewerbern absetzen, die wegen der unautorisierten Weitergabe von Telemetriedaten in die Kritik geraten sind. Ford reagiert damit auf wachsende regulatorische Bedenken und Kundenwünsche nach mehr Privatsphäre. Die Folge könnte ein Wettbewerbsvorteil durch höheres Kundenvertrauen sein.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
+      }
+     ]
+    },
+    {
+     "titel": "Digitaler Euro soll Abhängigkeit von US-Diensten verringern",
+     "text": "Die EZB und die Politik treiben die Entwicklung des digitalen Euro voran, um das europäische Geldsystem unabhängiger von US-Zahlungsdienstleistern zu machen. Es gibt jedoch noch Unstimmigkeiten zwischen Banken, Handel und Politik über die genaue Rollenverteilung und die technische Umsetzung (Wero). Ein Erfolg des Projekts hängt von der Akzeptanz durch die Bürger und der Integration in bestehende Systeme ab. Ziel ist eine souveräne europäische Zahlungsinfrastruktur.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/hintergrund/Digitaler-Euro-Wie-Europas-Geldsystem-unabhaengiger-von-den-USA-werden-soll-11394112.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      }
+     ]
+    },
+    {
+     "titel": "Anthropic blockiert Spiele-Klone in Claude Code",
+     "text": "Der KI-Entwickler Anthropic hat die Systemvorgaben für sein Tool 'Claude Code' aktualisiert, um die Neuerstellung existierender Videospiele zu verhindern. Während die Entwicklung neuer Spiele weiterhin erlaubt bleibt, will das Unternehmen die Flut an KI-generierten Decompilations und Ports alter Klassiker eindämmen. Dies ist eine Reaktion auf urheberrechtliche Bedenken und den Missbrauch der KI für Plagiate. Entwickler müssen nun verstärkt auf Eigenkreationen setzen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
       }
      ]
     }
