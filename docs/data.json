@@ -1,66 +1,100 @@
 {
- "erstellt": "2026-11-04T12:52:36.810202+00:00",
+ "erstellt": "2026-11-05T12:58:16.475327+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "Gewinneinbruch bei BMW durch China-Krise",
-     "text": "Der Münchner Autobauer BMW verzeichnet im dritten Quartal einen massiven Gewinnrückgang und muss seine Prognose zum zweiten Mal in diesem Jahr drastisch senken. Ursächlich hierfür ist vor allem die anhaltende Absatzkrise auf dem wichtigen chinesischen Markt sowie Kosten für teure Abfindungen und das vorgezogene Aus älterer Modelle. In München hofft man darauf, das Schlimmste bald hinter sich zu haben, wobei Experten erst für 2027 eine Besserung in Aussicht stellen. Die Folgen sind gravierend: Dem Konzern drohen Verluste, und die Prognosen für das Gesamtjahr 2026 bleiben düster.",
+     "titel": "US-Zwischenwahlen treiben DAX auf Rekordhoch",
+     "text": "Nach dem deutlichen Sieg der Demokraten bei den US-Zwischenwahlen ist der DAX auf ein neues Rekordhoch gesprungen. Anleger setzen auf ein baldiges Ende des Iran-Kriegs, was die Kurse beflügelt, während Rüstungsaktien wie Rheinmetall kräftig fallen. Die Märkte reagieren zudem positiv auf sinkende Ölpreise und erfreuliche Industriedaten. Während US-Präsident Trump trotz der Wahlniederlage an seinem Kurs im Iran-Krieg festhalten will, hoffen Investoren, dass der Wahlausgang extreme politische Entscheidungen künftig bremsen wird.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-quartalsbilanz-abfindungen-china-elektroautos-li.3574067"
+       "url": "https://www.sueddeutsche.de/wirtschaft/razzia-bayerische-versorgungskammer-millionen-verluste-li.3574468"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-krise-nedeljkovic-gewinnwarnung-kommentar-li.3574133"
+       "url": "https://www.sueddeutsche.de/wirtschaft/dax-rekordhoch-us-wahl-rheinmetall-iran-krieg-li.3574816"
       },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/bmw-autos-muenchen-gewinnwarnung-abfindung-krise-quartal-verluste-minus-li.3573626"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1"
       }
      ]
     },
     {
      "titel": "Inflation im Euroraum steigt auf 4,0 Prozent",
-     "text": "Die Teuerungsrate in der Eurozone ist im Oktober auf 4,0 Prozent geklettert, den höchsten Stand seit September 2023. Besonders hohe Energiepreise sowie Preissteigerungen in Italien und Spanien treiben diese Entwicklung voran. Warum dies geschieht, liegt primär an den volatilen Energiemärkten und regionalen wirtschaftlichen Dynamiken. Als Folge hält der Bundesbankchef eine baldige Zinserhöhung durch die Europäische Zentralbank (EZB) für wahrscheinlich, um der Inflation entgegenzuwirken.",
+     "text": "Die Teuerungsrate in der Eurozone hat im Oktober mit 4,0 Prozent den höchsten Stand seit September 2023 erreicht. Haupttreiber dieser Entwicklung sind die anhaltend hohen Energiepreise. Die Europäische Zentralbank (EZB) steht damit vor einer harten Prüfung, während gleichzeitig ein Führungswechsel ansteht. Die Niederlande haben bereits den ehemaligen Zentralbanker Knot als Nachfolger für die scheidende EZB-Chefin Christine Lagarde nominiert.",
      "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html"
+      },
       {
        "name": "Tagesschau Wirtschaft",
        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/inflation-euro-raum-ezb-energiepreise-zinserhoehung-li.3574245"
+       "url": "https://www.sueddeutsche.de/wirtschaft/ezb-christine-lagarde-inflation-frankreich-schuldenkrise-li.3574356"
       }
      ]
     },
     {
-     "titel": "Finanzmärkte reagieren gelassen auf US-Wahlsieg der Demokraten",
-     "text": "Nach dem deutlichen Sieg der Demokraten bei den US-Midterms zeigen sich die internationalen Finanzmärkte und der DAX stabil. Anleger bewerten die neue politische Konstellation positiv, da eine geteilte Regierung in Washington das Risiko für radikale politische Alleingänge reduzieren könnte. Während US-Futures anfängliche Verluste wettmachten, konzentriert sich der Markt nun wieder auf die laufende Berichtssaison. Die Folge ist eine vorerst beruhigte Stimmung an den Börsen trotz der veränderten Machtverhältnisse.",
+     "titel": "BMW verzeichnet Gewinneinbruch durch China-Krise",
+     "text": "Der Münchner Autobauer BMW meldet für das dritte Quartal einen massiven Gewinnrückgang. Ursächlich hierfür ist primär die Absatzkrise auf dem wichtigen chinesischen Markt. Zusätzlich belasteten teure Abfindungen und das vorgezogene Ende älterer Fahrzeugmodelle die Bilanz. Die Entwicklung verdeutlicht die aktuelle Schwäche deutscher Automobilhersteller im globalen Wettbewerb.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html"
-      },
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bankenpleite löst schwere Krise in Paraguay aus",
+     "text": "Der Kollaps einer Digitalbank hat in Paraguay eine nationale Krise ausgelöst, von der Millionen Bürger betroffen sind. Da Konten eingefroren und Rentenzahlungen blockiert wurden, wächst der öffentliche Unmut gegen Präsident Peña massiv. Die Menschen fürchten um ihre gesamten Ersparnisse, während das Finanzsystem des Landes unter Druck gerät. Warum die Bank genau kollabierte, geht aus den vorliegenden Informationen nicht hervor.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Zentralbank in London erhöht Leitzins auf 4 Prozent",
+     "text": "Die britische Zentralbank hat den Leitzins zum ersten Mal seit drei Jahren angehoben. Grund für diesen Schritt ist die starke Betroffenheit Großbritanniens von den wirtschaftlichen Folgen des Iran-Kriegs im Vergleich zu anderen westlichen Staaten. Die Erhöhung auf 4 Prozent soll dem Inflationsdruck entgegenwirken. Dies stellt eine signifikante Kehrtwende in der britischen Geldpolitik dar.",
+     "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/midterms-us-wahl-boerse-ki-aktien-finanzmaerkte-li.3574123"
-      },
+       "url": "https://www.sueddeutsche.de/wirtschaft/grossbritannien-pfund-leitzins-li.3574900"
+      }
+     ]
+    },
+    {
+     "titel": "Sinkender Energieverbrauch in Deutschland für 2026 prognostiziert",
+     "text": "Experten erwarten für das Jahr 2026 einen Rückgang des deutschen Energieverbrauchs. Dies liegt vor allem an der Zurückhaltung privater Haushalte beim Kauf von Heizöl. Parallel dazu steigt der Anteil erneuerbarer Energien am Gesamtmix stetig an. Die Entwicklung deutet auf einen strukturellen Wandel im Verbrauchsverhalten und der Energieerzeugung hin.",
+     "quellen": [
       {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1"
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html"
       }
      ]
     },
     {
      "titel": "Airlines reduzieren Flugangebot in Deutschland",
-     "text": "Fluggesellschaften streichen zunehmend Verbindungen an deutschen Flughäfen als Reaktion auf die hohen staatlichen Steuern und Abgaben. Die Airlines kritisieren, dass Deutschland im internationalen Wettbewerb durch diese Kostenbelastungen den Anschluss verliert. Warum dies geschieht, liegt an der strategischen Neuausrichtung der Unternehmen auf profitablere Standorte außerhalb der Bundesrepublik. Die Folge ist ein sinkendes Flugangebot, das die Anbindung des Wirtschaftsstandorts Deutschland gefährden könnte.",
+     "text": "Mehrere Fluggesellschaften haben zahlreiche Verbindungen an deutschen Flughäfen gestrichen. Die Unternehmen begründen diesen Schritt mit den im internationalen Vergleich zu hohen Steuern und staatlichen Abgaben in Deutschland. Es besteht die Sorge, dass der Standort Deutschland dadurch den Anschluss im globalen Luftverkehr verlieren könnte. Die Branche fordert daher eine Entlastung bei den Standortkosten.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -69,42 +103,20 @@
      ]
     },
     {
-     "titel": "EU genehmigt Übernahme von MediaMarktSaturn durch JD.com",
-     "text": "Der chinesische Technologiekonzern JD.com hat von der EU-Kommission die Freigabe erhalten, den Elektronikhändler MediaMarktSaturn zu übernehmen. Die Genehmigung ist jedoch an strikte Auflagen aus Brüssel gebunden, um den Wettbewerb im europäischen Handel zu schützen. JD.com strebt durch diesen Schritt eine stärkere physische Präsenz auf dem europäischen Markt an. In der Folge wird der europäische Elektronikfachhandel durch den Einstieg des chinesischen Giganten massiv umgestaltet.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Cyberangriffe auf Kühlsysteme verursachen Lebensmittelverluste",
-     "text": "Hacker haben die Steuerung von Kühlanlagen in zahlreichen deutschen Supermärkten manipuliert und die Temperaturen massiv erhöht. In einigen Fällen wurden Anlagen von fünf auf 50 Grad umgestellt, was zur Vernichtung großer Mengen an Lebensmitteln führte. Ähnliche Angriffe wurden auch aus dem Ausland, etwa aus Frankreich, gemeldet. Die Folge sind hohe wirtschaftliche Schäden für den Einzelhandel und eine verschärfte Debatte über die Cybersicherheit kritischer Infrastrukturen in der Logistikkette.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Evonik wehrt sich gegen Fusion mit BASF",
-     "text": "In der deutschen Chemiebranche bahnt sich ein Konflikt um eine mögliche Fusion zwischen BASF und Evonik an. Ein Zusammenschluss würde einen Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro schaffen, was die größte Fusion in der Geschichte der Branche wäre. Evonik leistet jedoch Widerstand gegen die Übernahmepläne des Branchenprimus BASF. Sollte die Fusion dennoch zustande kommen, würde dies die Marktstruktur der globalen Chemieindustrie grundlegend verändern.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Deutsche Bahn prüft Verkehrsreduzierung zur Pünktlichkeitssteigerung",
-     "text": "Angesichts einer Pünktlichkeitsquote von nur etwa 50 Prozent im Fernverkehr diskutiert eine Expertenkommission drastische Maßnahmen für die Deutsche Bahn. Eine der erwogenen Optionen ist die Reduzierung des Verkehrsaufkommens auf überlasteten Schienenwegen. Warum dies nötig ist, liegt an der chronischen Überlastung des Netzes, die einen reibungslosen Betrieb verhindert. Die Folge könnte ein ausgedünnter Fahrplan sein, der jedoch die Zuverlässigkeit der verbleibenden Züge erhöhen soll.",
+     "titel": "Studie warnt vor schrumpfender Mittelschicht",
+     "text": "Eine aktuelle Studie zeigt, dass die Einkommensungleichheit in Deutschland zunimmt, da die untere Mittelschicht schrumpft, während die Einkommen der Gutverdienenden am stärksten steigen. Gleichzeitig nimmt die Armutsquote zu, was laut den Autoren das politische System destabilisieren könnte. In einem anderen Kontext kritisiert die OECD das deutsche Rentensystem, insbesondere die Riester-Verträge. Während die soziale Schere auseinandergeht, wird über neue Vorsorgemodelle wie das Altersvorsorgedepot debattiert.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-puenktlichkeit-robuster-fahrplan-fernverkehr-regionalverkehr-li.3573870"
+       "url": "https://www.sueddeutsche.de/wirtschaft/einkommen-mittelschicht-reiche-armut-li.3574817"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/altersvorsorge-altersvorsorgedepot-etf-rente-steuer-e066257/"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/oecd-rentenbericht-riester-vertraege-altersvorsorge-2026-li.3573859"
       }
      ]
     }
@@ -115,98 +127,90 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Logistikkapazitäten schrumpfen den elften Monat in Folge",
-     "text": "Die Transportkapazitäten in der Logistikbranche sind im Oktober zum elften Mal hintereinander zurückgegangen, während die Nachfrage vor der Weihnachtssaison stark ansteigt. Laut dem Logistics Managers’ Index (LMI) führen knappe Kapazitäten und steigende Dieselpreise zu einem deutlichen Anstieg der Frachtraten, wobei Spot-Raten im Lkw-Verkehr um über 40 Prozent gegenüber dem Vorjahr gestiegen sind. Warum dies geschieht, liegt an einem massiven Bestandsaufbau der Händler vor den Feiertagen. Die Folge sind steigende Kosten für Verlader, die vermehrt auf geteilte Lkw-Lösungen (Shared Truckload) ausweichen.",
+     "titel": "US-Wahlsieg der Demokraten erzwingt Umbau der Verkehrsausschüsse",
+     "text": "Der deutliche Sieg der Demokraten bei den US-Zwischenwahlen führt zu einer umfassenden Neugestaltung des Transport- und Infrastrukturausschusses im Repräsentantenhaus. Da mehrere bisherige Mitglieder ihre Sitze verloren haben, wird mit signifikanten Auswirkungen auf die Gesetzgebung im Lkw-Verkehr und das kommende Fernstraßengesetz (Highway Bill) gerechnet. Die neue Mehrheitsverhältnisse könnten die regulatorischen Rahmenbedingungen für die gesamte US-Logistikbranche verschieben.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/logistics-alert-capacity-shrinks-for-11-straight-months"
-      },
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/truckload-rates-explode-how-shippers-adapt-to-rising-costs"
-      },
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/holiday-inventory-surge-supportive-of-double-digit-plus-tl-contract-rates"
+       "url": "https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election"
       }
      ]
     },
     {
-     "titel": "Walmart investiert 6 Milliarden Dollar in Lagerautomatisierung",
-     "text": "Der US-Einzelhandelsriese Walmart hat einen Vertrag über 6 Milliarden US-Dollar mit dem Unternehmen Symbiotic abgeschlossen, um seine großen Logistikzentren zu automatisieren. Ziel dieser massiven Investition ist es, die Effizienz in der Lieferkette zu steigern und den Durchsatz in den Lagern zu erhöhen. Warum dies geschieht, liegt im Wettbewerbsdruck und dem Bedarf an schnellerer Auftragsabwicklung. Die Folge wird eine technologische Transformation der Walmart-Logistik sein, die als Benchmark für die gesamte Branche dienen könnte.",
+     "titel": "33.000 Lkw-Fahrer in den USA wegen Verstößen aus dem Verkehr gezogen",
+     "text": "Bei großangelegten Kontrollen in Virginia und Arkansas wurden massive Sicherheitsmängel im US-Straßengüterverkehr aufgedeckt. Insgesamt wurden 33.000 Fahrer aufgrund von Verstößen, insbesondere wegen mangelnder Englischkenntnisse, vorerst außer Dienst gestellt. Allein bei den jüngsten Kontrollaktionen wurden 283 spezifische Verstöße registriert. Dies unterstreicht die strengere Durchsetzung von Sicherheitsstandards durch das Verkehrsministerium.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/walmart-in-6b-symbiotic-deal-to-automate-warehouses"
+       "url": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia"
       }
      ]
     },
     {
-     "titel": "3M schließt 16 Fabriken im Rahmen eines Netzwerk-Umbaus",
-     "text": "Der Industriekonzern 3M plant die Schließung von 16 Fabriken und Anpassungen an zehn weiteren Standorten weltweit. CEO William Brown strebt durch diese operative Neuausrichtung Produktivitätsgewinne von einer Milliarde US-Dollar jährlich bis Ende 2027 an. Warum dies geschieht, liegt an der Notwendigkeit, das globale Produktionsnetzwerk zu straffen und Kosten zu senken. Die Folge sind weitreichende Veränderungen in der Lieferkette des Konzerns und potenzielle Auswirkungen auf die regionale Versorgung.",
+     "titel": "Auftragseinbruch bei schweren Lkw durch regulatorische Unsicherheit",
+     "text": "Die Bestellungen für schwere Lastwagen der Klasse 8 sind in Nordamerika im Oktober im Jahresvergleich um 36 Prozent eingebrochen. Hauptgründe sind die Unsicherheit über künftige EPA-Umweltvorschriften sowie steigende Anschaffungskosten und knappere Flottenbudgets. Die Transportunternehmen zögern bei Neuinvestitionen, solange die regulatorischen Rahmenbedingungen unklar sind. Dies führt zu einer spürbaren Abkühlung auf dem Markt für Nutzfahrzeuge.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-as-epa-uncertainty-rattles-fleets"
+      }
+     ]
+    },
+    {
+     "titel": "Amazon führt Smart Glasses für Zusteller ein",
+     "text": "Amazon stattet tausende Paketzusteller mit intelligenten Brillen aus, um die Effizienz auf der „letzten Meile“ zu steigern. Die Brillen blenden Navigationshilfen und spezifische Anweisungen für den Abgabeort direkt im Sichtfeld der Fahrer ein. Ziel ist es, die Zustellgeschwindigkeit zu erhöhen und Suchzeiten vor Ort zu minimieren. Die Technologie ist Teil einer umfassenden Strategie zur Optimierung der Lieferprozesse.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/3m-closes-16-factories-plans-changes-at-10-more-in-network-revamp/873536/"
+       "url": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/"
       }
      ]
     },
     {
-     "titel": "FedEx forciert Integration und gewinnt Industrieprojekte",
-     "text": "FedEx treibt sein Integrationsprogramm 'Network 2.0' voran, das nach Märkten wie Dallas und San Francisco nun auch in Los Angeles umgesetzt wird. Gleichzeitig nutzt das Unternehmen spezialisierte Logistikteams, um Großaufträge in der Luftfahrt- und Automobilindustrie zu gewinnen, darunter den Transport von Flugzeugtriebwerken. Warum dies geschieht, liegt in der Strategie, durch Premium-Dienstleistungen margenstarke Industriekunden zu binden. Die Folge ist eine effizientere Netzwerkstruktur, die bis 2027 vollständig abgeschlossen sein soll.",
+     "titel": "Schwere Regenfälle und IT-Ausfall lähmen US-Schienenverkehr",
+     "text": "Rekordverdächtige Regenfälle in New Mexico führten zu einer 60-stündigen Sperrung der meistbefahrenen US-Eisenbahnstrecke. Zusätzlich verschärfte ein massiver IT-Ausfall beim Anbieter CSX die operativen Probleme im Schienennetz. Diese Ereignisse führten zu erheblichen Störungen im Intermodal- und Wagenladungsverkehr. Die Vorfälle verdeutlichen die Anfälligkeit der logistischen Infrastruktur gegenüber Wetterextremen und technischen Defekten.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/8-inches-of-rain-shut-down-busiest-us-rail-line-for-60-hours"
+      }
+     ]
+    },
+    {
+     "titel": "Containerraten stabilisieren sich trotz sinkender Nachfrage",
+     "text": "Die Frachtraten für Container von Asien in die USA bleiben fest, obwohl die Nachfrage insgesamt nachlässt. Reedereien versuchen derzeit, für den November Preiserhöhungen von bis zu 3.000 US-Dollar durchzusetzen. Zusätzliche Unsicherheit entsteht durch drohende Streiks in den Häfen von Los Angeles und Long Beach. Gleichzeitig fordern Wirtschaftsverbände wie der National Retail Federation die dauerhafte Aussetzung von Gebühren für Schiffe mit China-Bezug, um die Transportkosten nicht weiter zu belasten.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873453/"
+       "url": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/"
       },
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/fedex-uses-dedicated-logistics-teams-to-win-aerospace-automotive-business"
+       "url": "https://www.freightwaves.com/news/asia-us-container-rates-hold-as-carriers-seek-3000-november-rate-hikes"
       }
      ]
     },
     {
-     "titel": "Extreme Volatilität bei Dieselpreisen",
-     "text": "Der Dieselmarkt erlebt derzeit eine Phase extremer Preisschwankungen, getrieben durch geopolitische Nachrichten und kritisch niedrige Lagerbestände. Während der Benchmark-Einzelhandelspreis zuletzt leicht auf 6,292 Dollar pro Gallone fiel, verzeichneten die Terminmärkte zeitweise massive Einbrüche. Warum dies geschieht, liegt an der Unsicherheit über Raffineriekapazitäten und die künftige Heizölnachfrage. Die Folge für Logistikunternehmen sind unvorhersehbare Treibstoffzuschläge, die die Kalkulation von Transportkosten erschweren.",
+     "titel": "GXO meldet Rekord bei Neuverträgen trotz Kostendruck",
+     "text": "Der Logistikdienstleister GXO konnte im dritten Quartal neue Verträge im Wert von 375 Millionen US-Dollar abschließen, was einem Zuwachs von 34 Prozent entspricht. Trotz steigender Umsätze und Gewinne führt das schnelle Onboarding neuer Kunden zu temporärem Kostendruck. Auch Uber Freight meldet Rekordbuchungen von 1,768 Milliarden US-Dollar, bleibt jedoch weiterhin von der operativen Profitabilität entfernt. Beide Unternehmen kämpfen mit dem Spagat zwischen schnellem Wachstum und Margenstabilität.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/diesel-prices-collapse-then-rebound-whats-driving-volatility"
+       "url": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures"
       },
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/benchmark-diesel-price-is-down-so-is-futures-market-in-a-big-way"
+       "url": "https://www.freightwaves.com/news/stronger-revenue-at-uber-freight-but-profits-still-elusive"
       }
      ]
     },
     {
-     "titel": "Verlagerung der Lagerhausnachfrage in Binnenmärkte",
-     "text": "Experten beobachten eine Verschiebung der Lagerhaltung von Hafenstandorten hin zu Binnenmärkten (Inland Markets). Shippers reagieren damit auf Unsicherheiten in den globalen Lieferketten und versuchen, Bestände näher an den Endverbrauchern zu positionieren. Warum dies geschieht, liegt an dem Bestreben, Puffer gegen Störungen an den Seehäfen aufzubauen. Die Folge ist eine steigende Nachfrage nach Logistikflächen im Hinterland, auch wenn dies noch nicht zwangsläufig zu einer dauerhaften Abkehr von Hafenstandorten führt.",
+     "titel": "US-Initiative zur Sicherung der Batterie-Lieferkette",
+     "text": "Das US-Energieministerium hat den „Battery Manufacturing Accelerator“ (BattMan) gestartet, um Lücken in der heimischen Versorgung mit Batteriematerialien zu schließen. Hintergrund ist die Erwartung, dass sich die US-Nachfrage nach Batterien in den nächsten Jahren vervierfachen wird. Ziel ist der Aufbau einer robusten nationalen Lieferkette, um die Abhängigkeit von Importen zu verringern. Dies ist ein strategischer Schritt zur Absicherung der Elektromobilität und Energiespeicherung.",
      "quellen": [
       {
        "name": "Supply Chain Dive",
-       "url": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/"
-      }
-     ]
-    },
-    {
-     "titel": "GXO Logistics meldet Rekord-Pipeline im dritten Quartal",
-     "text": "GXO Logistics konnte seinen Umsatz im dritten Quartal um 5,7 Prozent auf 3,59 Milliarden US-Dollar steigern. Das Unternehmen verzeichnete ein Plus von 34 Prozent bei Neugeschäften, wodurch die Vertriebspipeline einen Rekordwert von 3,1 Milliarden US-Dollar erreichte. Warum dies geschieht, liegt an der steigenden Nachfrage nach ausgelagerten Logistikdienstleistungen. Die Folge ist eine gestärkte Marktposition von GXO als weltweit führender Kontraktlogistiker.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/first-look-gxo-logistics-q3-revenue-hits-3-6b"
-      }
-     ]
-    },
-    {
-     "titel": "Klage bedroht US-Registrierungssystem für Frachtführer",
-     "text": "Die 'Small Business in Transportation Coalition' hat Klage gegen das föderale 'Uniform Crime Reporting' (UCR) System in den USA eingereicht. Die Kläger stellen die Rechtmäßigkeit des Systems infrage, über das Registrierungsgebühren für Lkw-Unternehmen abgewickelt werden. Warum dies geschieht, liegt in rechtlichen Bedenken kleinerer Transportunternehmen gegen die Gebührenstruktur. Die Folge könnte eine Unterbrechung der staatlichen Finanzierung für die Sicherheit von Kraftfahrzeugen sein, falls das System gekippt wird.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/trucking-groups-lawsuit-threatens-to-upend-federal-carrier-registration-system"
+       "url": "https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/"
       }
      ]
     }
@@ -217,8 +221,30 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Historischer Wahlsieg der Demokraten bei US-Midterms",
-     "text": "Bei den US-Zwischenwahlen haben die Demokraten eine historische 'blaue Welle' ausgelöst und die Mehrheit in beiden Kammern des Kongresses – dem Senat und dem Repräsentantenhaus – errungen. Zudem stellen sie erstmals seit 15 Jahren wieder mehr Gouverneure als die Republikaner, wobei Premieren wie die erste schwarze Gouverneurin und eine indigene Senatorin gefeiert wurden. Warum dies geschieht, wird auf die Unbeliebtheit von Präsident Trump, die hohen Lebenshaltungskosten und die Ablehnung seiner Außenpolitik zurückgeführt. Die Folge ist eine veränderte Machtdynamik in Washington, die sogar neue Amtsenthebungsverfahren gegen den Präsidenten ermöglichen könnte.",
+     "titel": "Bayerns Wirtschaftsminister Hubert Aiwanger überraschend verstorben",
+     "text": "Hubert Aiwanger, der Chef der Freien Wähler und stellvertretende bayerische Ministerpräsident, ist im Alter von 55 Jahren tot in einem Berliner Hotel aufgefunden worden. Ministerpräsident Söder bezeichnete den Tod als „absolute Tragödie“ und würdigte ihn als prägende Figur Bayerns. Die Freien Wähler müssen sich nun ohne ihren zentralen Kopf neu aufstellen, während die Bestürzung über Parteigrenzen hinweg groß ist. Aiwanger galt als das Gesicht seiner Partei, das sie bis in die Staatsregierung geführt hatte.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Demokraten sichern sich Mehrheit im US-Senat",
+     "text": "Bei den US-Zwischenwahlen haben die Demokraten eine knappe Mehrheit im Senat errungen und konnten dabei traditionell republikanische Bundesstaaten wie Texas gewinnen. In Texas siegte mit James Talarico erstmals seit 1988 wieder ein Demokrat bei einer Senatswahl. Trotz der Verluste seiner Partei verteidigte Präsident Trump seinen Kurs im Iran-Krieg, während sein Vize JD Vance den Krieg als Grund für die Wahlniederlage sieht. Experten werten das Ergebnis als Absage an den aggressiven christlichen Nationalismus der MAGA-Bewegung.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
@@ -226,38 +252,56 @@
       },
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"
+       "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
       },
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html"
+       "url": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html"
       },
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-analyse-100.html"
+       "url": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-ergebnisse-demokraten-sieg-trump-li.3573278"
+       "url": "https://www.sueddeutsche.de/politik/alexander-schweitzer-arbeitsminister-sozialbeitraege-rente-arbeitslosenversicherung-li.3574165"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/midterms-2026-demokraten-macht-donald-trump-us-kongress-hakeem-jeffries-li.3574028"
+       "url": "https://www.sueddeutsche.de/politik/midterms-usa-christentum-anstand-maga-religion-li.3574145"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/projekte/artikel/politik/midterms-2026-usa-wahl-trump-ergebnisse-swing-states-live-e979000/"
+       "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-oeffentlicher-auftritt-ballsaal-vance-iran-krieg-li.3573278"
       }
      ]
     },
     {
-     "titel": "Geplante Wohngeldreform soll Milliarden einsparen",
-     "text": "Die Bundesregierung plant eine umfassende Reform des Wohngelds, um den Bundeshaushalt um mehrere Milliarden Euro zu entlasten. Schätzungen zufolge könnte dadurch ein Drittel der bisherigen Empfänger den Anspruch auf die Sozialleistung verlieren. Warum dies geschieht, liegt im Sparzwang der Regierung zur Konsolidierung der Staatsfinanzen. Die Folge ist eine drohende doppelte Belastung für Bedürftige, die in Zeiten hoher Wohnkosten ihre Unterstützung verlieren könnten.",
+     "titel": "Merz forciert weibliche Nachfolge für Bundespräsident Steinmeier",
+     "text": "Bundeskanzler Merz hat sich darauf festgelegt, eine Frau für die Nachfolge von Bundespräsident Steinmeier zu nominieren. In der Union wächst derzeit die Unterstützung für die bayerische Landtagspräsidentin Ilse Aigner. Eine endgültige Entscheidung über die Nominierung soll bereits in der kommenden Woche fallen. Ziel ist es, eine Kandidatin zu finden, die über die Parteigrenzen hinweg mehrheitsfähig ist.",
      "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bundestag berät über Reformen bei Führerschein und Pflege",
+     "text": "Der Bundestag debattiert heute über eine Reform der Fahrschulausbildung, die durch den Wegfall der Präsenzpflicht im Theorieunterricht und weniger Sonderfahrten Kosten senken soll. Parallel dazu wird über eine erste Pflegereform beraten, der im neuen Jahr eine große Strukturreform folgen soll. Zudem plant die Regierung Einsparungen beim Wohngeld, wodurch schätzungsweise ein Drittel der bisher Berechtigten ihren Anspruch verlieren könnte. Diese Maßnahmen sind Teil eines breiteren Pakets zur Modernisierung und Haushaltskonsolidierung.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html"
+      },
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html"
@@ -265,86 +309,46 @@
      ]
     },
     {
-     "titel": "Deutsche Politik reagiert verhalten auf US-Wahlergebnis",
-     "text": "Deutsche Spitzenpolitiker, darunter Kanzler Friedrich Merz und Verteidigungsminister Pistorius, haben den Sieg der Demokraten begrüßt, warnen jedoch vor überzogenen Erwartungen. Es wird befürchtet, dass Präsident Trump nach der Niederlage noch unberechenbarer agieren könnte, insbesondere in der Außen- und Handelspolitik. Warum dies geschieht, liegt an der Sorge vor einer 'wütenden Ente' im Weißen Haus, die ihre Agenda nun gegen einen demokratischen Kongress durchsetzen muss. Die Folge ist eine weiterhin angespannte diplomatische Lage zwischen Berlin und Washington.",
+     "titel": "Zehn Jahre Haft für Hongkonger Aktivist Joshua Wong",
+     "text": "Der ehemalige Studentenführer und Demokratie-Aktivist Joshua Wong ist in Hongkong zu weiteren zehn Jahren Haft verurteilt worden. Das Urteil basiert auf dem von China eingeführten „Sicherheitsgesetz“, das zur Unterdrückung der Demokratiebewegung genutzt wird. Wong war einer der prominentesten Köpfe der Proteste für mehr politische Freiheit in der Sonderverwaltungszone. Die internationale Gemeinschaft beobachtet die systematische Verfolgung von Aktivisten in Hongkong mit Sorge.",
      "quellen": [
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html"
-      },
-      {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-104.html"
+       "url": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-auswirkungen-deutschland-merz-bundesregierung-li.3574082"
-      },
+       "url": "https://www.sueddeutsche.de/politik/hongkong-haftstrafe-fuer-demokratieaktivist-wong-li.3574896"
+      }
+     ]
+    },
+    {
+     "titel": "Selenskij hofft auf verstärkte US-Unterstützung nach Midterms",
+     "text": "Der ukrainische Präsident Wolodymyr Selenskij hat sich hoffnungsvoll geäußert, dass der Wahlsieg der Demokraten in den USA zu einer Erneuerung der transatlantischen Verbindung führen wird. Er setzt darauf, dass die USA ihre Unterstützung für die Ukraine im Verteidigungskrieg gegen Russland weiter intensivieren. Die Demokraten hatten im Wahlkampf betont, die Beziehungen zu Europa stärken zu wollen. Dies wird in Kiew als positives Signal für die künftige Militär- und Finanzhilfe gewertet.",
+     "quellen": [
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-midterms-reaktionen-pistorius-prien-gabriel-li.3568524"
+       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-boehmermann-selenskij-zdf-midterms-li.3571967"
       }
      ]
     },
     {
-     "titel": "Spaniens Verkehrsminister tritt nach Zugunglücken zurück",
-     "text": "Nach zwei schweren Zugunglücken innerhalb eines Jahres, bei denen zuletzt 69 Menschen starben, ist der spanische Verkehrsminister Puente zurückgetreten. Die Katastrophen ereigneten sich durch die Kollision von Hochgeschwindigkeitszügen und lösten eine nationale Debatte über die Sicherheit im Bahnverkehr aus. Warum dies geschieht, liegt im politischen Druck und dem Eingeständnis von Sicherheitsmängeln. Die Folge sind neue, von der Regierung beschlossene Sicherheitsmaßnahmen, um das Vertrauen in das spanische Schienennetz wiederherzustellen.",
+     "titel": "Debatte über Videoüberwachung in Schlachthöfen",
+     "text": "Zur Verbesserung des Tierschutzes berät der Bundestag über eine verpflichtende Videoüberwachung in großen Schlachthöfen. Während Tierschützer die Maßnahme begrüßen, gibt es Diskussionen über Ausnahmen für kleine Betriebe und die konkrete technische Umsetzung. Ziel ist es, Verstöße gegen Tierschutzauflagen besser dokumentieren und verhindern zu können. Kritiker hinterfragen jedoch die Verhältnismäßigkeit und den bürokratischen Aufwand für die Betreiber.",
      "quellen": [
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html"
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
       }
      ]
     },
     {
-     "titel": "Rentenanstieg von 4,1 Prozent für 2027 prognostiziert",
-     "text": "Der Rentenversicherungsbericht der Bundesregierung stellt Rentnerinnen und Rentnern für das Jahr 2027 eine Erhöhung der Bezüge um 4,1 Prozent in Aussicht. Warum dies geschieht, basiert auf der positiven Lohnentwicklung und den Berechnungen der Rentenversicherungsträger. Die Folge ist eine spürbare finanzielle Entlastung für Millionen von Senioren im übernächsten Jahr. Dennoch bleibt die langfristige Finanzierung des Rentensystems ein zentrales Thema der politischen Debatte.",
+     "titel": "Bund fördert Schwimmunterricht mit 20 Millionen Euro",
+     "text": "Da mehr als die Hälfte aller Grundschulkinder in Deutschland nicht sicher schwimmen kann, hat der Bund ein Förderprogramm in Höhe von 20 Millionen Euro aufgelegt. In Zusammenarbeit mit Schwimmverbänden und Hilfsorganisationen soll die Schwimmkompetenz von Kindern gezielt verbessert werden. Das Programm reagiert auf die seit Jahren sinkende Zahl von Kindern mit Jugendschwimmabzeichen. Damit soll die Sicherheit im Wasser erhöht und Badeunfällen vorgebeugt werden.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Debatte um Senkung der Stromsteuer hält an",
-     "text": "Kanzler Friedrich Merz fordert eine Senkung der Stromsteuer, um Bürger und Unternehmen finanziell zu entlasten, und erhält dafür breite Unterstützung. Die Umsetzung scheitert jedoch bislang an der ungeklärten Finanzierung der Steuerausfälle im Bundeshaushalt. Warum dies geschieht, liegt im Bestreben, die Energiekosten am Standort Deutschland wettbewerbsfähiger zu machen. Die Folge ist eine anhaltende politische Hängepartie, während die Strompreise für Verbraucher weiterhin auf hohem Niveau verharren.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Krawalle nach 'Gen Z'-Protesten in Frankfurt",
-     "text": "Am vergangenen Wochenende kam es in Frankfurt nach Protesten der 'Generation Z' zu schweren Ausschreitungen mit Plünderungen und Sachbeschädigungen. Innenminister Dobrindt verteidigte seine Bezeichnung der Beteiligten als 'Chaoten' und machte 'migrantische Milieus' verantwortlich, was auf heftige Kritik stieß. Warum dies geschieht, ist Gegenstand polizeilicher Ermittlungen zur Radikalisierung innerhalb der Protestbewegung. Die Folge ist eine juristische Prüfung, unter welchen Bedingungen künftige Demonstrationen dieser Gruppierungen verboten werden können.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Bund und Länder üben Krisenmanagement für Extremhitze",
-     "text": "Zehn Bundesländer und 20 Bundesbehörden haben in einer großangelegten Übung den Ernstfall einer extremen Hitzewelle mit Temperaturen von 45 Grad simuliert. Ziel der Übung ist es, die Koordinierung zwischen den Behörden bei langanhaltenden Dürreperioden und Katastrophenszenarien zu verbessern. Warum dies geschieht, liegt in der notwendigen Anpassung an klimatische Veränderungen und die Zunahme von Extremwetterereignissen. Die Folge soll ein optimierter nationaler Hitzeaktionsplan sein, um die Bevölkerung besser zu schützen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bbk-krisenmanagement-duerre-hitze-100.html"
+       "url": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html"
       }
      ]
     }
@@ -355,102 +359,90 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Nintendo veröffentlicht Remake von 'Zelda: Ocarina of Time' für Switch 2",
-     "text": "Nintendo hat eine grundlegend überarbeitete Version des Klassikers 'The Legend of Zelda: Ocarina of Time' für die neue Switch 2 veröffentlicht. Das Remake bietet einen realistischeren Grafikstil und spielerische Verbesserungen, während es die Kernstruktur des Originals von 1998 beibehält. Warum dies geschieht, liegt in der Strategie, die neue Hardware-Generation mit einer starken Eigenmarke zu etablieren. Die Folge ist eine begeisterte Aufnahme durch Kritiker, die das Spiel als gelungenen Sprung in die Gegenwart bezeichnen.",
+     "titel": "Tesla eröffnet neues Entwicklungszentrum in Berlin",
+     "text": "Tesla hat nach weniger als einem Jahr Bauzeit ein zentrales Entwicklungszentrum in Berlin in Betrieb genommen. Der neue Standort bündelt 30 bisher auf vier Standorte verteilte Testlabore an einem Ort. Ziel der Konsolidierung ist eine effizientere Zusammenarbeit und die Beschleunigung technologischer Innovationen. Dies unterstreicht die Bedeutung des Standorts Berlin für die globale Forschungsstrategie des US-Automobilherstellers.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/entwicklungszentrum-eroeffnet-tesla-buendelt-30-testlabore-in-berlin-2611-214894.html"
+      }
+     ]
+    },
+    {
+     "titel": "Qualcomm setzt auf KI-Rechenzentren bei sinkenden Smartphone-Verkäufen",
+     "text": "Angesichts eines Rückgangs der Smartphone-Verkäufe um etwa 20 Prozent im Vergleich zum Vorjahr richtet Qualcomm sein Geschäft neu aus. Das Unternehmen plant, massiv in den Markt für KI-Rechenzentren einzusteigen und hat hierfür Partnerschaften mit Amazon und Meta angekündigt. Während das Kerngeschäft mit Mobiltelefonen schwächelt, soll die Hardware für künstliche Intelligenz das künftige Wachstum sichern. Qualcomm folgt damit dem Trend anderer Chip-Hersteller, die auf die steigende Nachfrage nach KI-Infrastruktur setzen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+      }
+     ]
+    },
+    {
+     "titel": "Sony meldet Gewinnsprung durch PlayStation und Spider-Man",
+     "text": "Der Nettogewinn von Sony ist im letzten Quartal um 44 Prozent auf rund 449,6 Milliarden Yen (ca. 2,84 Milliarden Dollar) gestiegen. Haupttreiber dieses Erfolgs waren die PlayStation-Sparte und der Verkaufserfolg des Spiels „Spider-Man: Brand New Day“. Die starken Zahlen zeigen die anhaltende Dominanz von Sony im Gaming-Sektor trotz eines allgemein volatilen Marktes. Gleichzeitig arbeitet Nintendo an einem Remake von „Ocarina of Time“ für die kommende Switch 2, um an vergangene Erfolge anzuknüpfen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi"
+      }
+     ]
+    },
+    {
+     "titel": "Discord wechselt von Electron zu Rust für bessere Performance",
+     "text": "Die Kommunikationsplattform Discord verabschiedet sich von dem Framework Electron und stellt ihre Desktop-App vollständig auf die Programmiersprache Rust um. Ziel ist es, den hohen Ressourcenverbrauch und die Speicherlast der bisherigen Web-basierten App signifikant zu reduzieren. Rust gilt als moderner, schneller und bietet eine höhere Speichersicherheit. Nutzer sollen von einer deutlich performanteren Anwendung profitieren, die weniger Arbeitsspeicher beansprucht.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+      }
+     ]
+    },
+    {
+     "titel": "Apple verordnet Sparmaßnahmen bei KI-Entwicklung",
+     "text": "Apple hat interne Sparmaßnahmen für seine KI-Entwickler angekündigt und das tägliche Budget für das Training von Modellen um ein Drittel gekürzt. Das sogenannte „Tokenmaxxing“ soll damit beendet werden, um die Kosten für künstliche Intelligenz besser zu kontrollieren. Ungeachtet dessen führt Apple technologische Neuerungen ein, wie die „Dynamic Island“ im neuen OLED-MacBook-Pro, die nun auch bei Notebooks den klassischen Notch ersetzt. Dies zeigt den Spagat zwischen notwendiger Innovation und finanzieller Disziplin.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/tests/Ocarina-of-Time-angespielt-Das-beste-Spiel-aller-Zeiten-ist-zurueck-11510709.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+       "url": "https://www.heise.de/news/KI-Modelle-Apple-Entwickler-sollen-sparen-11513333.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/the-legend-of-zelda-fuer-switch-2-im-test-ocarina-of-time-gelingt-der-sprung-in-die-gegenwart-2611-214832.html"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
-      }
-     ]
-    },
-    {
-     "titel": "AMD erzielt Rekordumsatz durch Rechenzentrums-Boom",
-     "text": "AMD hat im dritten Quartal 2026 mit 13,4 Milliarden US-Dollar den höchsten Umsatz seiner Unternehmensgeschichte erzielt. CEO Lisa Su prognostiziert für das kommende Quartal eine weitere Steigerung auf 17 Milliarden US-Dollar, getrieben durch das massive Wachstum im Bereich der KI-Beschleuniger für Rechenzentren. Warum dies geschieht, liegt an der enormen Nachfrage nach Rechenleistung für KI-Anwendungen. Die Folge ist eine Festigung von AMDs Position als profitabelster Akteur im Halbleitermarkt neben Nvidia.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
-      }
-     ]
-    },
-    {
-     "titel": "Google verzeichnet verlangsamtes Umsatzwachstum trotz KI-Boom",
-     "text": "Obwohl die Suchanfragen bei Google so schnell wachsen wie seit fünf Jahren nicht mehr, hat sich das Umsatzwachstum im Suchmaschinengeschäft im dritten Quartal auf 12 Prozent verlangsamt. Warum dies geschieht, liegt darin, dass Google noch keinen Weg gefunden hat, die KI-gestützten Suchergebnisse so effektiv zu monetarisieren wie die klassische Suche. Die Folge ist eine wachsende Skepsis der Anleger, ob die hohen Investitionen in KI kurzfristig die gewünschten Renditen bringen. Zudem verliert Google in den USA den Zugriff auf Schulen, die der KI-Integration nicht zustimmen.",
-     "quellen": [
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/ohne-zustimmung-zu-ki-us-schulen-verlieren-zugriff-auf-google-suche-2611-214831.html"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
-      }
-     ]
-    },
-    {
-     "titel": "Canva entlässt 22 Prozent der Belegschaft",
-     "text": "Das Design-Unternehmen Canva hat die Entlassung von 1.271 Mitarbeitern angekündigt, was etwa 22 Prozent der gesamten Belegschaft entspricht. CEO Melanie Perkins begründet diesen Schritt mit einer notwendigen Umstrukturierung und der Konzentration auf zentrale Hubs. Warum dies geschieht, liegt im Bestreben, das Unternehmen in einem schwierigeren Marktumfeld effizienter aufzustellen. Die Folge sind weitreichende Veränderungen in der Unternehmenskultur und die Umsiedlung verbleibender Teams in zentrale Standorte.",
-     "quellen": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
-      }
-     ]
-    },
-    {
-     "titel": "Cadillac führt freihändiges Fahren in Europa ein",
-     "text": "Cadillac bringt sein Fahrerassistenzsystem 'Super Cruise' in 16 europäische Länder, was freihändiges Fahren auf über 180.000 Kilometern Autobahn ermöglicht. Das System nutzt hochauflösende Karten und Sensoren, um den Fahrer zu entlasten, erfordert jedoch weiterhin dessen Aufmerksamkeit. Warum dies geschieht, liegt in der Expansion der US-Technologie auf den europäischen Markt für autonomes Fahren. Die Folge ist ein erhöhter Wettbewerbsdruck auf europäische Premiumhersteller wie Mercedes-Benz, die zeitgleich an holografischen Displays forschen.",
-     "quellen": [
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/cadillac-super-cruise-haende-weg-vom-lenkrad-auf-ueber-180-000-kilometern-2611-214844.html"
-      },
-      {
-       "name": "Golem",
-       "url": "https://www.golem.de/news/prototyp-mercedes-testet-holografischen-display-2611-214840.html"
-      }
-     ]
-    },
-    {
-     "titel": "Mitarbeiterüberwachung durch neue Claude-Funktion möglich",
-     "text": "Anthropic hat für seine KI Claude die Funktion 'Smart Reports' eingeführt, die Unternehmen helfen soll, KI-Kosten zu kontrollieren. Kritiker weisen jedoch darauf hin, dass diese Funktion auch zur Bewertung der individuellen Mitarbeiterleistung genutzt werden kann. Warum dies geschieht, liegt im Bedürfnis von Unternehmen nach Transparenz über die Nutzung teurer KI-Ressourcen. Die Folge ist eine neue Debatte über Datenschutz und Leistungsüberwachung am digitalen Arbeitsplatz.",
-     "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Neues-OLED-MacBook-Pro-So-funktioniert-die-Dynamic-Island-11503859.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "titel": "Sicherheitsforscher knacken iOS-Blockierungsmodus",
-     "text": "Dem Security-Team von Calif.io ist es gelungen, den als besonders sicher geltenden Lockdown-Mode von Apple zu überwinden. Dieser Erfolg folgt auf den ersten 'Untethered-Jailbreak' für iOS 27 und zeigt, dass auch spezialisierte Sicherheitsmodi verwundbar sind. Warum dies geschieht, liegt in der kontinuierlichen Suche von Forschern nach tiefgreifenden Systemschwachstellen. Die Folge ist ein erhöhter Druck auf Apple, die Sicherheitsarchitektur des iPhones weiter zu verstärken.",
+     "titel": "Amazon und Uber kooperieren bei Essenslieferungen",
+     "text": "Amazon und Uber haben eine Partnerschaft geschlossen, durch die Uber Eats zum offiziellen Partner für Restaurantlieferungen für US-Prime-Abonnenten wird. Prime-Mitglieder erhalten dadurch den Vorteil, keine Liefergebühren auf ihre Bestellungen zahlen zu müssen. Dieser Schritt ist eine Reaktion auf die Fusion der Konkurrenten DoorDash und Instacart. Amazon stärkt damit den Wert seines Prime-Abonnements, während Uber seine Reichweite im hart umkämpften Liefermarkt vergrößert.",
      "quellen": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Calif-io-iOS-Angriff-killt-Blockierungsmodus-bleibt-ueber-Update-persistent-11511374.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"
       }
      ]
     },
     {
-     "titel": "Erste 3D-Druck-Fabrik im Weltraum erfolgreich",
-     "text": "Ein Start-up hat erstmals im Erdorbit ein 50 Zentimeter langes Bauteil mithilfe einer Anordnung von 3D-Druckern hergestellt. Diese Technologie soll es ermöglichen, große Konstruktionen direkt im Weltraum zu fertigen, anstatt sie mühsam von der Erde aus zu transportieren. Warum dies geschieht, liegt in der Reduzierung von Startkosten und der Überwindung von Größenbeschränkungen bei Raketenstarts. Die Folge könnte eine neue Ära des Weltraum-Engineerings sein, in der Infrastrukturen direkt vor Ort entstehen.",
+     "titel": "Gefährliche Sicherheitslücke bei Android-Apps entdeckt",
+     "text": "Sicherheitsforscher warnen vor einer gravierenden Lücke in Android, bei der bereits die bloße Installation einer präparierten App das Gerät unbrauchbar machen kann. Das Smartphone gerät dabei in eine Endlos-Bootschleife, was in vielen Fällen zu einem vollständigen Datenverlust führt. Ein Start der App ist für den Angriff nicht erforderlich. Nutzer werden zur Vorsicht bei der Installation von Anwendungen aus unbekannten Quellen gemahnt.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/3d-druck-fabrik-im-orbit-stellt-festen-traeger-her-2611-214838.html"
+       "url": "https://www.golem.de/news/kein-start-noetig-blosse-app-installation-kann-android-geraete-unbrauchbar-machen-2611-214896.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bericht: Globale Bedeutung der Atomkraft schrumpft",
+     "text": "Ein neuer Bericht zur Atomindustrie stellt fest, dass die Bedeutung der Kernkraft weltweit kontinuierlich abnimmt, selbst im Wachstumsmarkt China. Besonders kritisch werden die sogenannten Small Modular Reactors (SMRs) bewertet, die hinter den Erwartungen zurückbleiben. Im Gegensatz dazu gewinnt die Solarenergie weiter an Boden. Die hohen Kosten und langen Bauzeiten von Atomkraftwerken machen sie im Vergleich zu erneuerbaren Energien zunehmend unattraktiv.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bericht-zur-atomindustrie-weltweit-schrumpft-die-atomkraft-kritik-an-smrs-2611-214888.html"
       }
      ]
     }
