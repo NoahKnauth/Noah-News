@@ -1,24 +1,480 @@
 {
- "erstellt": "2026-11-10T13:20:24.710015+00:00",
+ "erstellt": "2026-11-11T12:34:42.328703+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Anthropic plant Börsengang mit Billionenbewertung trotz Branchenzweifeln",
+     "text": "Das KI-Unternehmen Anthropic bereitet sein Börsendebüt vor und strebt dabei eine Bewertung von rund einer Billion US-Dollar an. Ursprünglich waren bis zu zwei Billionen Dollar im Gespräch, doch Marktturbulenzen und wachsende Zweifel an der Rentabilität der KI-Branche führten zu einem vorsichtigeren Ansatz. Die Financial Times weist darauf hin, dass die Bewertung je nach Modell zwischen 500 Milliarden und 4 Billionen Dollar schwanken könnte. Ein Erfolg des Börsengangs gilt als richtungsweisend für den gesamten Sektor, wird jedoch durch Schattenverkäufe von Insidern und komplexe Finanzierungsstrukturen innerhalb der Lieferkette erschwert. Anleger reagieren derzeit sensibel auf die hohen Infrastrukturkosten der KI-Entwicklung.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/anthropic-ipo-boersengang-billion-ki-li.3578418"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6"
+      }
+     ]
+    },
+    {
+     "titel": "Spionage-Affäre um Nvidia-Chips im Wert von 7,5 Milliarden Dollar",
+     "text": "Gegen den Nvidia-Chef Jensen Huang und eine mutmaßliche chinesische Agentin namens Alice Huang sind schwere Vorwürfe laut geworden. Die Verdächtige soll jahrelang ein Unternehmen geleitet haben, das Hochleistungschips im Wert von 7,5 Milliarden Dollar kaufte und diese mutmaßlich nach China schmuggelte. US-Behörden untersuchen den Fall, da die Technologie unter strikten Exportbeschränkungen steht, um Chinas KI-Entwicklung zu begrenzen. Die Affäre erreicht eine neue Dimension, da Huang eine persönliche Beziehung zu der mutmaßlichen Spionin nachgesagt wird. Dies könnte die Sicherheit der US-KI-Vorherrschaft gefährden und regulatorische Konsequenzen für Nvidia nach sich ziehen.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-megaspeed-alice-huang-jensen-huang-chip-schmuggel-li.3578669"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/podcast-auf-den-punkt-nvidia-spionage-li.3578498"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-china-chips-li.3578431"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Arbeitslosigkeit unter Akademikern erreicht Höchststand",
+     "text": "Trotz der generell guten Schutzwirkung eines Studiums ist die Zahl der arbeitslosen Akademiker in Deutschland auf einen Höchststand gestiegen. Die Bundesagentur für Arbeit macht hierfür die schwache Wirtschaftslage sowie den zunehmenden Einsatz von Künstlicher Intelligenz verantwortlich, die Aufgabenbereiche von Absolventen verändert. Besonders jüngere Studienabgänger sind von dieser Entwicklung betroffen. Dennoch bleibt das Risiko, erwerbslos zu werden, für Akademiker im Vergleich zu anderen Qualifikationsgruppen weiterhin gering. Die Entwicklung zeigt jedoch, dass ein Hochschulabschluss kein automatischer Garant mehr für sofortige Beschäftigung in einem sich wandelnden Marktumfeld ist.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Rekordjahr für Siemens Energy und Infineon durch KI-Boom",
+     "text": "Siemens Energy verzeichnet ein Rekordjahr, getrieben durch den massiven Ausbau von Rechenzentren für Künstliche Intelligenz sowie die Nachfrage nach Windkraft und E-Mobilität. Auch der Chipkonzern Infineon meldet Rekordumsätze und plant ein weiteres zweistelliges Wachstum, da die KI-Infrastruktur und das Automobilgeschäft florieren. Deutsche Unternehmen profitieren davon, dass US-Tech-Giganten Milliarden in die notwendige Hardware investieren. Während Anleger bei den reinen Software-Anbietern vorsichtiger werden, stützt die physische Infrastruktur das Wachstum der Energietechnik- und Halbleiterbranche. Siemens Energy blickt aufgrund dieser Trends äußerst optimistisch auf die kommenden Geschäftsjahre.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "EU plant 'Digital Fairness Act' gegen manipulative Online-Praktiken",
+     "text": "Die EU-Kommission hat einen Vorschlag für den 'Digital Fairness Act' vorgelegt, um den Verbraucherschutz im Internet drastisch zu verschärfen. Das Gesetz zielt auf Influencer, Onlineshops und Ticketbörsen ab, um Praktiken wie Abo-Fallen, manipulative Algorithmen und versteckte Werbung zu unterbinden. Auch sogenannte 'Dark Patterns' und Lootboxen stehen im Fokus der Regulierer. Ziel ist es, die Transparenz zu erhöhen und den Druck auf Plattformen zu verstärken, die psychologische Tricks zur Verkaufsförderung nutzen. Dies könnte weitreichende Folgen für die Gestaltung von Benutzeroberflächen und Geschäftsmodellen im E-Commerce haben.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/abo-kuendigung-online-eu-kommission-digital-fairness-act-li.3578792"
+      }
+     ]
+    },
+    {
+     "titel": "Inflation sinkt durch Tankrabatt auf Heizöl und Energie",
+     "text": "Im Oktober ist die Inflationsrate in Deutschland spürbar zurückgegangen, was primär auf den sogenannten 'Tankrabatt' zurückzuführen ist. Während Energie und insbesondere Heizöl weiterhin auf hohem Preisniveau verharren, wirkte die Entlastung bei Kraftstoffen dämpfend auf die Teuerungsrate. Im Gegensatz dazu stiegen die Preise für einige Lebensmittel erneut an. Die Entwicklung zeigt eine Stabilisierung der Verbraucherpreise, wobei die Kerninflation durch volatile Energiepreise beeinflusst bleibt. Für Haushalte bedeutet dies eine punktuelle Entlastung, während die langfristige Preisstabilität von der weiteren Entwicklung der Rohstoffmärkte abhängt.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Tarifstreit in der Autoindustrie: Mercedes signalisiert Gesprächsbereitschaft",
+     "text": "Im festgefahrenen Tarifstreit der deutschen Automobilindustrie hat Mercedes-Chef Ola Källenius überraschend Gesprächsbereitschaft für einen Vorschlag der IG Metall signalisiert. Damit setzt er sich von anderen Branchenkollegen ab, die bisher eine härtere Linie verfolgten. Die Gewerkschaft versucht, in der aktuellen Krise einen Kompromiss zu finden, um Eskalationen und Streiks zu vermeiden. Hintergrund sind die schwierige wirtschaftliche Lage der Hersteller und der Transformationsdruck durch die Elektromobilität. Eine Einigung bei Mercedes könnte Signalwirkung für die gesamte Branche und die laufenden Verhandlungen haben.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/ola-kaellenius-ig-metall-mercedes-li.3578717"
+      }
+     ]
+    },
+    {
+     "titel": "Generalstreik in Spanien wegen Wohnkosten und niedriger Löhne",
+     "text": "In Spanien findet der erste Generalstreik seit 14 Jahren statt, mobilisiert durch eine starke Mieterbewegung. Die Proteste richten sich gegen die explodierenden Wohnkosten und die stagnierenden Reallöhne vor den anstehenden Neuwahlen am 29. November. Gewerkschaften und soziale Verbände fordern drastische Eingriffe in den Wohnungsmarkt und höhere Mindestlöhne. Die Streiks legen weite Teile des öffentlichen Lebens lahm und erhöhen den politischen Druck auf die Regierung. Die Bewegung zeigt die wachsende soziale Instabilität in europäischen Ballungsräumen aufgrund der Immobilienkrise.",
+     "quellen": [
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Logistik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Kuehne+Nagel automatisiert Kühlketten-Kommunikation mit KI-Agenten",
+     "text": "Der Logistikriese Kuehne+Nagel setzt KI-Agenten ein, um die nächtliche Überwachung der Kühlkette effizienter zu gestalten. Diese autonomen Systeme wickelten bereits 78 % der Anrufe bei Frachtführern im Control Tower vollständig ab. Durch die Integration von 'Executable AI' in Transport-Management-Systeme (TMS) können komplexe Aufgaben wie Multi-Stop-Routing und Frachtaudits automatisiert werden. Dies reduziert die Fehlerquote und entlastet das Personal von repetitiven Telefonaten. Auch Wettbewerber wie DHL und CMA CGM investieren massiv in ähnliche Technologien zur Prozessoptimierung.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/inside-kuebix-ai-a-shipper-tms-rebuilt-around-executable-ai"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/tech-transformation-shipstation-globals-ai-overhauls-freight-operations"
+      }
+     ]
+    },
+    {
+     "titel": "KI-Boom treibt Luftfrachtraten um 30 Prozent nach oben",
+     "text": "Die hohe Nachfrage nach KI-Hardware und globalen Logistik-Disruptionen haben zu einem unerwarteten Boom in der Luftfracht geführt. Die Raten stiegen im Jahresvergleich um 30 %, während das Volumen um 6 % zunahm. Dies verhinderte eine zuvor prognostizierte Rezession im Sektor. Besonders der Transport von spezialisiertem KI-Equipment benötigt schnelle und sichere Luftwege. Parallel dazu bauen Drohnen-Lieferanten wie Wing und Zipline ihre Partnerschaften mit Einzelhändlern wie Walmart aus, um die letzte Meile zu revolutionieren. Die Branche wandelt sich damit von einem reinen Transportsektor zu einem technologiegetriebenen Wachstumsmarkt.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ai-saved-air-cargo-rates-up-30-yoy"
+      }
+     ]
+    },
+    {
+     "titel": "Studie: Autonome Lkw erreichen Kostenparität mit menschlichen Fahrern bis 2028",
+     "text": "Ein Bericht der MIT Mobility Initiative und Kearney prognostiziert, dass fahrerlose Lkw in den USA bis zum Jahr 2028 die Kosteneffizienz von bemannten Transporten erreichen werden. Aktuell liegen die Kosten für autonome Fahrten noch bei etwa 4 Dollar pro Meile. Die technologische Entwicklung schreitet jedoch so schnell voran, dass die Parität in greifbare Nähe rückt. Dies wird die Logistikbranche grundlegend verändern, insbesondere im Hinblick auf den Fahrermangel und die Betriebskosten. Unternehmen müssen ihre Flottenstrategien bereits jetzt auf diese Transformation vorbereiten, um wettbewerbsfähig zu bleiben.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/kearney-mit-driverless-truck-cost-parity-2028"
+      }
+     ]
+    },
+    {
+     "titel": "Sinkende Dieselpreise nach US-Wahlen entlasten Transportsektor",
+     "text": "Die Dieselpreise sind nach den demokratischen Wahlsiegen in den USA deutlich gesunken, da die Märkte auf Signale einer möglichen Entspannung im Nahen Osten reagieren. Analysten bleiben jedoch gespalten, da geopolitische Risiken wie die Lage an der Straße von Hormuz und beschädigte Raffineriekapazitäten die Volatilität hoch halten. Für Logistikunternehmen bedeutet der aktuelle Preisrückgang eine kurzfristige Senkung der operativen Kosten. Dennoch warnen Experten davor, sich auf dauerhaft niedrige Preise zu verlassen. Die Kraftstoffkosten bleiben ein zentraler Unsicherheitsfaktor in der Kalkulation von Frachtraten.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/diesel-price-drop-why-oil-markets-are-tumbling"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/diesel-market-points-down-post-election-benchmark-slides"
+      }
+     ]
+    },
+    {
+     "titel": "Sicherheitsrisiko KI: Jeder sechste Logistik-Profi berichtet von Datenlecks",
+     "text": "Eine Umfrage unter Supply-Chain-Experten ergab, dass 16,7 % der Unternehmen bereits Vorfälle erlebten, bei denen Kunden- oder Lieferantendaten durch KI-Tools offengelegt wurden. Dies unterstreicht die wachsenden Sicherheitsbedenken bei der schnellen Einführung neuer Technologien. Gleichzeitig wurde ein massiver Betrugsfall mit Tankkarten bekannt, bei dem eine Michiganer Spedition imitiert wurde, um einen Schaden von 760.000 Dollar zu verursachen. Die Branche steht vor der Herausforderung, die Effizienzvorteile der Digitalisierung gegen steigende Cyber-Risiken und Identitätsdiebstahl abzuwägen. Robuste Sicherheitsarchitekturen werden somit zu einem kritischen Wettbewerbsfaktor.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/760k-fuel-card-fraud-scheme-tied-to-impersonated-michigan-trucking-company"
+      }
+     ]
+    },
+    {
+     "titel": "Anpassung der Lieferketten an neue US-Zölle und De-minimis-Regeln",
+     "text": "Unternehmen wie Canada Goose und der australische Versender OTAA passen ihre Logistikstrategien an, um drohende US-Importzölle und das Ende von Steuerfreigrenzen (De-minimis) zu umgehen. Canada Goose zog Warenlieferungen vor und plant Preisanpassungen für das kommende Jahr. OTAA verlagert die Auftragsabwicklung für den US-Markt in ein neues Fulfillment-Zentrum in Texas, um lokale Versandvorteile zu nutzen. Diese Verschiebungen zeigen, wie stark handelspolitische Entscheidungen die physische Gestaltung globaler Lieferketten beeinflussen. Logistikstandorte in Grenznähe oder innerhalb der Zielmärkte gewinnen dadurch massiv an Bedeutung.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/"
+      },
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/apparel-shipper-expands-us-fulfillment-operations-to-skirt-de-minimis-end/874073/"
+      }
+     ]
+    },
+    {
+     "titel": "Amazon baut Marktanteil im Paketversand gegenüber UPS weiter aus",
+     "text": "In der ersten Jahreshälfte 2026 konnte Amazon seinen Marktanteil im Paketsektor weiter steigern, während die Abhängigkeit von UPS kontinuierlich sinkt. Der E-Commerce-Riese nutzt sein eigenes Zustellnetzwerk immer effizienter und erreicht eine größere geografische Abdeckung. Alternative Carrier gewinnen ebenfalls an Boden, was den Wettbewerbsdruck auf etablierte Dienstleister erhöht. Diese Entwicklung zwingt traditionelle Logistiker zu massiven Kosteneinsparungen und Prozessoptimierungen. Der Markt für die letzte Meile wird zunehmend durch technologische Integration und eigene Infrastrukturen der großen Händler dominiert.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/amazon-alternative-carriers-gained-parcel-volume-in-2026s-first-half/873932/"
+      }
+     ]
+    },
+    {
+     "titel": "Hafen von Long Beach plant Elektrifizierung von 35 Prozent der Schifffahrt",
+     "text": "Eine internationale Koalition unter Führung des Hafens von Long Beach hat sich zum Ziel gesetzt, bis zum Jahr 2035 mindestens 35 % des Energiebedarfs der internationalen Schifffahrt durch Elektrizität zu decken. Dieser Rahmenplan sieht massive Investitionen in die Hafeninfrastruktur vor, um Schiffe während der Liegezeiten mit Landstrom zu versorgen. Ziel ist die Reduzierung von Emissionen in der maritimen Logistikkette. Dies erfordert eine globale Abstimmung zwischen Hafenbetreibern, Reedereien und Energieversorgern. Die Initiative markiert einen wichtigen Meilenstein für die Dekarbonisierung der globalen Handelswege.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/port-of-long-beach-coalition-aims-for-electricity-to-power-35-of-shipping-by-2035"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Politik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Ukraine-Gespräche in Abu Dhabi: Europa bleibt am Seitenrand",
+     "text": "In Abu Dhabi finden derzeit von den USA vermittelte Verhandlungen über ein Ende des Ukraine-Krieges statt, an denen Vertreter der USA, Russlands und der Ukraine teilnehmen. Obwohl Deutschland der größte europäische Unterstützer der Ukraine ist, sitzt die Bundesrepublik nicht mit am Verhandlungstisch. Die russische Delegation zeigt zudem demonstrativ kein Interesse an Gesprächen mit den anwesenden europäischen Vertretern. Bisher konnte lediglich eine Einigung über einen Gefangenenaustausch erzielt werden, während substantielle Fortschritte ausbleiben. Die Situation verdeutlicht die schwindende diplomatische Rolle der EU in dem Konflikt.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-beendet-li.3571967"
+      }
+     ]
+    },
+    {
+     "titel": "Cyberangriff auf französische Supermärkte: Regierung beschuldigt Iran",
+     "text": "Nach einem massiven Cyberangriff auf die Kühlsysteme von rund 700 Supermärkten in Frankreich hat die Regierung in Paris ungewöhnlich deutlich den Iran als Urheber benannt. Der Angriff führte zu erheblichen Störungen in der Lebensmittelversorgung und wird als Akt hybrider Kriegsführung eingestuft. Deutsche Behörden und Außenminister Wadephul warnten Teheran ebenfalls vor solchen Attacken, legten sich aber noch nicht offiziell auf einen Täter fest. Der Iran dementiert jegliche Beteiligung an den Vorfällen. Dieser Vorfall unterstreicht die Verwundbarkeit kritischer Infrastrukturen durch digitale Sabotageakte im Kontext internationaler Spannungen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/frankreich-cyberangriffe-gehackte-kuehlregale-supermaerkte-verdaechtige-iran-li.3578676"
+      }
+     ]
+    },
+    {
+     "titel": "Pistorius kündigt 'Null Toleranz' bei sexuellem Fehlverhalten in der Bundeswehr an",
+     "text": "Verteidigungsminister Pistorius reagiert auf eine Studie, die eine hohe Zahl von Fällen sexualisierten Fehlverhaltens innerhalb der Bundeswehr belegt. Er kündigte eine 'Null Toleranz'-Politik an, die durch bessere Prävention und die Einrichtung einer externen Anlaufstelle für Betroffene umgesetzt werden soll. Die Vorwürfe reichen von Belästigung bis hin zu schwerer Gewalt gegen Soldatinnen. Obwohl viele Fälle bereits seit längerem bekannt waren, sollen nun drastischere Maßnahmen zur Aufklärung und Bestrafung ergriffen werden. Ziel ist eine grundlegende Änderung der Organisationskultur innerhalb der Streitkräfte.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundeswehr-sexuelle-uebergriffe-dunkelfeldstudie-li.3576560"
+      }
+     ]
+    },
+    {
+     "titel": "Ilse Aigner stellt sich als Präsidentschaftskandidatin vor",
+     "text": "Die Unions-Kandidatin für das Amt der Bundespräsidentin, Ilse Aigner, hat ihre Vorstellungsrunde bei den Bundestagsfraktionen von Union, SPD und Grünen begonnen. Kritik erntete sie dafür, dass sie Einladungen der AfD ausschlug und die Linke bisher nicht besuchte, was Kommentatoren als schlechten Start für ihr Ziel, Gräben zu überwinden, werten. Aigner präsentiert sich als überparteiliche Kandidatin, die die Demokratie stärken möchte. Die Wahl gilt als Formsache, da sie von den großen Koalitionspartnern unterstützt wird. Dennoch bleibt ihr Umgang mit den Rändern des politischen Spektrums ein kontroverses Thema.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "US-Repräsentantenhaus blockiert Amtsenthebung von Verteidigungsminister Hegseth",
+     "text": "Die Republikaner im US-Repräsentantenhaus haben ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth vorerst gestoppt. Ein Parteikollege hatte das Verfahren aufgrund von Vorwürfen des Machtmissbrauchs im Zusammenhang mit dem Iran-Krieg angestrebt. Hegseth selbst bezeichnete die Vorwürfe als 'Schauprozess' und politisch motivierte Inszenierung. Trotz der aktuellen Blockade wird erwartet, dass Kritiker zeitnah einen zweiten Versuch unternehmen werden, den Minister zu stürzen. Die parteiinternen Spannungen spiegeln die tiefe Spaltung über die US-Militärstrategie im Nahen Osten wider.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/arbeitsagentur-akademiker-arbeitslosigkeit-li.3578610"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/trump-hegseth-amtsenthebungsverfahren-midterms-kongress-republikaner-li.3578586"
+      }
+     ]
+    },
+    {
+     "titel": "Kabinett beschließt Gasreserve für Krisenzeiten",
+     "text": "Die Bundesregierung hat die Einrichtung einer Gasreserve von 24 Terawattstunden beschlossen, um die Energieversorgung in Krisenzeiten abzusichern. Diese Menge reicht rechnerisch aus, um den Bedarf für etwa sechs Wintertage zu decken. Kritisch angemerkt wird jedoch, dass der Beschluss für den aktuell beginnenden Winter zu spät kommt und erst ab dem nächsten Jahr voll wirksam sein wird. Die Maßnahme ist Teil der Strategie, die Abhängigkeit von volatilen Importen zu verringern und die nationale Resilienz zu erhöhen. Die Kosten für die Vorhaltung der Reserve werden voraussichtlich auf die Verbraucher umgelegt.",
+     "quellen": [
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-gasspeicher-li.3568524"
+      }
+     ]
+    },
+    {
+     "titel": "Gesetz gegen Ticket-Wucher in der Abstimmung",
+     "text": "Justiz- und Verbraucherschutzministerin Hubig plant ein neues Gesetz, um extreme Preisaufschläge beim Weiterverkauf von Eintrittskarten zu unterbinden. Der Entwurf sieht einen Preisdeckel für Ticketbörsen vor, um spekulativen Handel zulasten der Fans zu verhindern. Das Vorhaben befindet sich derzeit in der internen Abstimmung der Ministerien. Hintergrund sind zunehmende Beschwerden über automatisierte Käufe durch Bots und anschließende Verkäufe zu einem Vielfachen des Originalpreises. Die Regelung soll für mehr Fairness am Veranstaltungsmarkt sorgen und den Zugang zu kulturellen Events sichern.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "EKD-Synode beschließt Maßnahmen zur Stärkung der Demokratie",
+     "text": "Die evangelische Kirche in Deutschland (EKD) hat auf ihrer Synode in Würzburg beschlossen, verstärkt in die Demokratiebildung zu investieren. Durch Begegnungsräume und Bildungsarbeit, insbesondere im ländlichen Raum, soll Menschenfeindlichkeit entgegengewirkt werden. Die Kirche sieht sich hier in einer besonderen gesellschaftlichen Verantwortung, kämpft jedoch gleichzeitig mit knapper werdenden finanziellen Mitteln und Personalmangel. Die Initiative ist eine Reaktion auf die zunehmende Polarisierung der Gesellschaft. Trotz der Sparzwänge soll die Arbeit an der Basis priorisiert werden.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "KI und Technik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "IBM präsentiert Quantenchip 'Nighthawk' für kommerzielle Nutzung",
+     "text": "IBM hat die nächste Generation seines Quantenchips mit dem Namen 'Nighthawk' vorgestellt. Laut Unternehmensangaben sollen damit kommerziell relevante Anwendungen in greifbare Nähe rücken, was einen Meilenstein in der Quanten-Entwicklung darstellt. Während IBM Fortschritte macht, meldet das japanische Start-up Rapidus Verzögerungen bei seiner 2-nm-Fertigung, da zentrale Schaltungskomponenten nicht wie spezifiziert funktionieren. Dies verdeutlicht die technologischen Hürden bei der Skalierung von Hochleistungschips. Die Branche blickt gespannt auf die ersten praktischen Einsatzgebiete der Nighthawk-Architektur.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/IBM-praesentiert-naechste-Generation-seines-Quantenchips-Nighthawk-11520831.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/2-nm-fertigung-rapidus-scheint-produktionsstart-verschieben-zu-muessen-2611-215085.html"
+      }
+     ]
+    },
+    {
+     "titel": "KI-Kompetenz wird zum entscheidenden Faktor auf dem IT-Arbeitsmarkt",
+     "text": "In der US-Tech-Branche zeichnet sich ein Strukturwandel ab: Während die Einstellungen von reinen Softwareentwicklern zurückgehen, gehören Produktmanager zu den Gewinnern des KI-Zeitalters. Der sichere Umgang mit KI-Tools wird zu einem essenziellen Skill bei der Jobsuche in allen IT-Bereichen. Unternehmen suchen verstärkt nach Fachkräften, die KI-Modelle strategisch implementieren und steuern können, statt nur Code zu schreiben. Dieser Trend dürfte zeitverzögert auch den deutschen Arbeitsmarkt erreichen. Für Studenten bedeutet dies eine notwendige Anpassung ihres Qualifikationsprofils hin zu KI-gestützten Workflows.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/it-jobs-produktmanager-sind-gewinner-des-ki-zeitalters-2611-215076.html"
+      }
+     ]
+    },
+    {
+     "titel": "Telekom setzt auf KI zur Abwehr von Zero-Day-Sicherheitslücken",
+     "text": "Der Chief Security Officer der Telekom betont die Notwendigkeit von KI-Modellen, die rund um die Uhr Code-Analysen durchführen, um Zero-Day-Lücken aufzuspüren. Besonders bei Open-Source-Software sieht das Unternehmen erhebliche Sicherheitsrisiken, die manuell nicht mehr zu bewältigen sind. KI soll dabei helfen, Schwachstellen zu finden, bevor Angreifer sie ausnutzen können. Gleichzeitig prüft Australien neue Gesetze, um Unternehmen zu bestrafen, die wissentlich unsichere KI-Modelle auf den Markt bringen. Die Cybersicherheit wird somit untrennbar mit der Weiterentwicklung defensiver KI-Systeme verknüpft.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/code-analyse-telekom-braucht-rund-um-die-uhr-ki-modelle-gegen-zero-day-luecken-2611-215088.html"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/nach-sicherheitsvorfall-mit-openai-australien-prueft-straftatbestand-gegen-unsichere-ki-2611-215079.html"
+      }
+     ]
+    },
+    {
+     "titel": "Mercedes lässt elektrische Oberklasse-Modelle EQE und EQS auslaufen",
+     "text": "Mercedes-Benz hat einen Bestellstopp für mehrere Modelle seiner elektrischen Oberklasse verhängt, darunter das EQE und EQS SUV. Von ursprünglich vier Modellen in diesem Segment bleibt nur noch eines bestellbar, da der Hersteller die Strategie für seine Elektro-Flotte anpasst. Grund ist die hinter den Erwartungen zurückgebliebene Nachfrage nach den hochpreisigen Stromern. Mercedes plant nun eine Neuausrichtung, um effizientere und marktgerechtere Modelle einzuführen. Dieser Schritt markiert eine Zäsur in der Elektro-Strategie des Stuttgarter Konzerns und spiegelt die allgemeine Abkühlung des EV-Marktes in der Oberklasse wider.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html"
+      }
+     ]
+    },
+    {
+     "titel": "Apple schließt langjährige Support-Foren ohne Begründung",
+     "text": "Apple hat angekündigt, seine offiziellen Support-Foren in der kommenden Woche dauerhaft zu schließen. Die Plattform, auf der Nutzer über Jahre hinweg Tipps austauschten und Probleme lösten, wurde bereits in den Nur-Lese-Modus versetzt. Ein offizieller Grund für diesen Schritt wurde nicht genannt, was in der Community auf scharfe Kritik stößt. Nutzer verlieren damit eine zentrale Wissensdatenbank für die Selbsthilfe bei Hardware- und Softwareproblemen. Es wird spekuliert, dass Apple den Support stärker auf direkte, kontrollierte Kanäle oder KI-gestützte Systeme verlagern möchte.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Apple-killt-eigene-Supportforen-ohne-Angabe-von-Gruenden-11520644.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down"
+      }
+     ]
+    },
+    {
+     "titel": "Microsoft bringt KI-Upscaler 'Auto SR' auf Handheld-Konsolen",
+     "text": "Microsoft hat seine KI-Upscaling-Technologie 'Auto SR' offiziell für die Xbox Ally X und ausgewählte Copilot Plus PCs veröffentlicht. Die Technologie konkurriert mit Nvidias DLSS und ermöglicht es, die Bildqualität und Bildrate in Spielen durch KI-Berechnungen signifikant zu steigern. Neu ist ein Modus, der bis zu 120 Bilder pro Sekunde unterstützt und nun auch im mobilen Handheld-Betrieb funktioniert. Dies verbessert das Spielerlebnis auf tragbaren Geräten erheblich, ohne die Akkulaufzeit übermäßig zu belasten. Die Integration zeigt den wachsenden Einfluss von KI auf die Unterhaltungselektronik.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Auto-SR-Microsofts-KI-Upscaler-laeuft-auf-der-Xbox-Ally-X-jetzt-auch-mobil-11520596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+      }
+     ]
+    },
+    {
+     "titel": "Sony stellt PlayStation Plus App für PC ein",
+     "text": "Sony wird die PlayStation Plus App für Windows zum 10. Dezember einstellen und zieht sich damit weiter vom PC-Markt zurück. Die App ermöglichte es Abonnenten bisher, Konsolenspiele per Stream auf dem PC zu nutzen, wurde laut Sony jedoch nur von einer sehr kleinen Nutzergruppe verwendet. Betroffene Kunden sollen direkt über die Abschaltung informiert werden. Dieser Schritt erschwert den Zugang zu PlayStation-Exklusivtiteln für Spieler ohne eigene Konsole. Sony scheint seine Strategie wieder stärker auf die eigene Hardware-Plattform zu fokussieren.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/sony-playstation-wendet-sich-weiter-vom-pc-ab-2611-215077.html"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+      }
+     ]
+    },
+    {
+     "titel": "Zelda-Remake bricht Verkaufsrekorde auf der neuen Switch 2",
+     "text": "Das Remake von 'The Legend of Zelda: Ocarina of Time' hat einen phänomenalen Verkaufsstart auf der Nintendo Switch 2 hingelegt. Innerhalb von nur vier Tagen wurden mehr als 5,2 Millionen Exemplare verkauft, was einen neuen Rekord für die Plattform darstellt. Der Erfolg unterstreicht die anhaltende Zugkraft klassischer Marken für den Hardware-Absatz von Nintendo. Gleichzeitig zeigt eine Analyse, dass US-Entwickler im Bereich Mobile Games massiv an Boden gegenüber chinesischen Konkurrenten verlieren. Der globale Spielemarkt befindet sich somit in einer Phase der geografischen und technologischen Umverteilung.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/the-legend-of-zelda-zelda-ocarina-of-time-legt-rekordstart-auf-switch-2-hin-2611-215084.html"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/spielebranche-china-haengt-die-usa-bei-mobile-games-ab-2611-215081.html"
+      }
+     ]
+    }
+   ],
    "fehler": null
   }
  ]
