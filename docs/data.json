@@ -1,154 +1,126 @@
 {
- "erstellt": "2026-11-14T12:01:44.320811+00:00",
+ "erstellt": "2026-11-15T12:33:23.081733+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "Nvidia-Krise: Rücktritt von Jensen Huang und Spionageverdacht",
-     "text": "Der Mitbegründer und langjährige Chef von Nvidia, Jensen Huang, ist nach Bekanntwerden mehrerer Affären, unter anderem mit einer mutmaßlichen chinesischen Spionin, zurückgetreten. Infolge des Skandals verlor das Unternehmen rund eine Billion US-Dollar an Börsenwert, was weitreichende Folgen für Privatanleger und ETFs hat. Ein US-Senatsausschuss hat Huang sowie Handelsminister Lutnick vorgeladen, um mögliche illegale Chip-Lieferungen nach China aufzuarbeiten. Während die Suche nach einem Nachfolger läuft – unter anderem wurde Arm-Chef Rene Haas kontaktiert –, fordern Teile der Belegschaft Huangs Rückkehr. Kritiker werfen Huang zudem vor, die Umweltbelastungen durch die KI-Chip-Produktion und den enormen Energiebedarf der Rechenzentren vernachlässigt zu haben.",
+     "titel": "Nvidia-Skandal um Jensen Huang und verschärfte Exportregeln",
+     "text": "Nvidia-Chef Jensen Huang steht wegen einer angeblichen Affäre mit einer mutmaßlichen chinesischen Spionin, Alice Huang, unter erheblichem Druck. Diese Vorwürfe haben im US-Kongress die Dynamik für strengere Exportregeln von KI-Hardware nach China massiv verstärkt. Während Mitarbeiter und Elon Musk per Petition Huangs Rückkehr fordern, wird bereits über eine Ära nach Huang spekuliert, da das Unternehmen mit zahlreichen Gegnern konfrontiert ist. Die Situation verdeutlicht das Risiko von „Visionär-CEOs“, wenn menschliches Urteilsvermögen versagt. Alice Huang hat das Unternehmen Megaspeed bereits vor Monaten verlassen.",
      "quellen": [
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-aktien-etf-geldanlage-boerse-li.3579669"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-chipkonzern-firmenname-li.3579910"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
       },
       {
        "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a"
+       "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3"
       },
       {
        "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1"
+       "url": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1"
       },
       {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
       }
      ]
     },
     {
-     "titel": "Weltweite IT-Störungen bei Microsoft-Diensten behoben",
-     "text": "Eine stundenlange Großstörung hat zentrale Cloud-Dienste von Microsoft, darunter Outlook und Teams, weltweit lahmgelegt. Ursache war laut Microsoft eine Überlastung der Server durch einen internen Fehler, wobei Hinweise auf Cyberangriffe oder KI-Fehlfunktionen ausgeschlossen wurden. Während die Systeme in Europa und Nordamerika inzwischen wieder vollständig hergestellt sind, fordern IT-Experten wie Dennis-Kenji Kipker mehr digitale Souveränität, um die Abhängigkeit von einzelnen US-Konzernen zu verringern. Für viele betroffene Unternehmen bedeutete der Ausfall einen temporären Stillstand ihrer digitalen Verwaltung. In Deutschland blieben kritische Infrastrukturen weitgehend verschont.",
+     "titel": "Weltweite Microsoft-Störung führt zu Unfällen und Backup-Lösungen",
+     "text": "Eine stundenlange Großstörung von Microsoft-Diensten wie Outlook hat weltweit massive Probleme verursacht. Im Phantasialand kam es in einem Hotelpool zu einem Chlorunfall mit 15 Verletzten, da eine Warnmeldung aufgrund der Outlook-Panne nicht rechtzeitig eintraf. In Japan erwiesen sich Faxgeräte während des Ausfalls als lebenswichtiges Kommunikations-Backup. Die Störung zeigt die hohe Abhängigkeit kritischer Infrastrukturen von einzelnen Softwareanbietern. Die genauen Hintergründe der Störung werden noch untersucht.",
      "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html"
-      },
       {
        "name": "Tagesschau Wirtschaft",
        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html"
       },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-heute-weltweit-outlook-probleme-teams-li.3579791"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "Mercedes-Benz stoppt Investitionen und droht mit Werkschließungen",
-     "text": "Im eskalierenden Tarifstreit mit der IG Metall hat Mercedes-Benz sämtliche Investitionen in Deutschland gestoppt und droht offen mit der Schließung von Standorten. Die Unternehmensleitung reagiert damit auf den hohen Kostendruck und die Forderungen der Gewerkschaft, die ihrerseits zu Kompromissen bereit sein muss, um eine tiefere Krise abzuwenden. Experten warnen, dass die unnachgiebige Haltung beider Seiten die wirtschaftliche Lage im Stammland des Autobauers massiv gefährdet. Die Folgen könnten ein dauerhafter Verlust von Arbeitsplätzen und eine Schwächung des Industriestandorts Baden-Württemberg sein.",
+     "titel": "Widersprüchliche Ursachen für massiven US-Flugstopp",
+     "text": "Ein vierstündiges Startverbot legte den gesamten US-Flugverkehr lahm, was als längster Ausfall seit Jahrzehnten gilt. Zur Ursache gibt es widersprüchliche Angaben: Während Experten von einer Router-Überlastung sprechen, die das Netzwerk flutete, führt das Verkehrsministerium den Ausfall auf Routine-Wartungsarbeiten beim Austausch alter Kupferkabel durch Glasfaser zurück. Die Folgen waren tausende verspätete Flüge und eine Debatte über die veraltete Luftfahrtinfrastruktur der USA. Experten kritisieren eine jahrzehntelange Vernachlässigung der Systeme durch beide politischen Lager.",
+     "quellen": [
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "SpaceX gelingt historisches Auffangen der Starship-Oberstufe",
+     "text": "Dem Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die etwa 50 Meter große Oberstufe der „Starship“-Rakete nach einem Flug in der Erdumlaufbahn am Startplatz mit Greifarmen („Chopsticks“) aufzufangen. Zuvor waren bereits Booster-Stufen erfolgreich eingefangen worden, doch das Manöver mit dem Starship-Vehikel selbst gilt als technischer Durchbruch. Ziel ist die vollständige Wiederverwendbarkeit der Rakete, um sie künftig wie ein ziviles Flugzeug einsetzen zu können. Trotz kleinerer Probleme während des 22-stündigen Fluges wertet das Unternehmen den Test als Erfolg für die künftige Raumfahrtlogistik.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-werkschliessungen-ig-metall-investitionsstopp-arbeitszeit-li.3579859"
+       "url": "https://www.sueddeutsche.de/wirtschaft/spacex-starship-nasa-raumfahrt-li.3580613"
       },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-ig-metall-tarifstreit-streiks-li.3579856"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "Cyberangriff auf Drohnenhersteller Quantum Systems",
-     "text": "Der bayerische Drohnenhersteller Quantum Systems, ein wichtiger Lieferant für das ukrainische Militär, wurde Ziel eines massiven Cyberangriffs. Ermittler vermuten einen russischen Hintergrund hinter der Attacke, von der auch die Bundeswehr betroffen war, was den Verfassungsschutz auf den Plan rief. Der Vorfall unterstreicht die Verwundbarkeit der Rüstungsindustrie in Zeiten hybrider Kriegsführung. Die Suche nach den Tätern und die genaue Analyse der schadhaften Software dauern an.",
+     "titel": "Krise im Handwerk gefährdet 80.000 Arbeitsplätze jährlich",
+     "text": "Handwerkspräsident Dittrich warnt vor einem „stillen Sterben“ der Betriebe in Deutschland aufgrund sinkender Auftragszahlen und steigender Kosten. Ohne politisches Gegensteuern droht der Branche ein Verlust von bis zu 80.000 Arbeitsplätzen pro Jahr. Die Krise trifft auf einen Sektor, der bereits mit Nachwuchssorgen kämpft. Gleichzeitig entscheiden sich Azubis in der Autoindustrie trotz dortiger Sparprogramme und Werksschließungen weiterhin für den Einstieg, da die Branche langfristige Perspektiven bietet. Die Diskrepanz zwischen Handwerk und Industrie verdeutlicht die unterschiedliche Belastbarkeit der Wirtschaftszweige.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html"
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
       },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/quantum-systems-hackerangriff-drohnen-bundeswehr-muenchen-li.3579860"
-      }
-     ]
-    },
-    {
-     "titel": "EU-Emissionshandel: Entlastung für die Industrie beschlossen",
-     "text": "EU-Parlament und Mitgliedstaaten haben sich darauf geeinigt, der europäischen Industrie zusätzliche kostenlose Emissionszertifikate zuzuteilen. Diese Maßnahme soll die finanzielle Belastung der Unternehmen durch das Emissionshandelssystem zeitlich befristet senken und deren internationale Wettbewerbsfähigkeit sichern. Kritiker sehen darin jedoch eine Aufweichung der Klimaschutzziele. Die Entscheidung folgt auf massiven Druck aus verschiedenen Industriebranchen, die unter hohen Energiekosten leiden.",
-     "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/dhl-post-myflexbox-packstation-preise-li.3579938"
+       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildung-volkswagen-trotz-krise-100.html"
       }
      ]
     },
     {
-     "titel": "DHL und Post erhöhen Paketpreise ab 2025/2027",
-     "text": "Der Marktführer DHL hebt die Portopreise für Privatkunden deutlich an, wobei insbesondere Päckchen ab dem kommenden Jahr teurer werden. Um die Nutzung von Packstationen zu fördern, führt die Deutsche Post erstmals Rabatte für Sendungen ein, die direkt an diese automatisierten Stationen adressiert werden. Auch in den USA plant der USPS Preiserhöhungen von durchschnittlich 5,9 % sowie permanente Treibstoffzuschläge ab 2027. Grund für diese Anpassungen sind steigende Betriebskosten und der Versuch, die Zustelllogistik effizienter zu gestalten.",
+     "titel": "Meta zu 805 Millionen Euro Strafe in Italien verurteilt",
+     "text": "Die italienische Datenschutzbehörde hat gegen den US-Konzern Meta eine Strafe in Höhe von 805 Millionen Euro verhängt. Grund für die Sanktion ist der unbefugte Zugriff auf Fotos und Videos von Android-Nutzern ohne deren ausdrückliche Erlaubnis. Die Behörde kritisiert den massiven Verstoß gegen die Privatsphäre der Anwender. Diese Entscheidung unterstreicht den zunehmenden regulatorischen Druck auf Tech-Giganten in Europa bezüglich der Datennutzung. Meta hat sich zu den Vorwürfen bisher nicht detailliert geäußert.",
      "quellen": [
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html"
-      },
-      {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/dhl-post-myflexbox-packstation-preise-li.3579938"
+       "url": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557"
       }
      ]
     },
     {
-     "titel": "Sinkende Spritpreise nach US-Wahlen",
-     "text": "In Deutschland sinken die Benzinpreise infolge fallender Ölpreise nach den US-Parlamentswahlen. Marktteilnehmer hoffen auf ein baldiges Ende des Iran-Kriegs, was die Unsicherheit am Energiemarkt reduziert. Gleichzeitig wird diskutiert, ob teures Öl den Umstieg auf erneuerbare Energien beschleunigt, da Alternativen dadurch attraktiver werden. Dennoch bleibt die langfristige Preisentwicklung von der geopolitischen Stabilität abhängig.",
+     "titel": "KI-Boom belastet Bitcoin und Gold durch Kapitalabzug",
+     "text": "Der anhaltende Boom bei KI-Investitionen zieht massiv Kapital von traditionellen Wertspeichern wie Bitcoin und Gold ab. Infolgedessen verzeichneten diese Anlagen Kursverluste, verstärkt durch steigende Inflation und höhere Zinserwartungen. Gleichzeitig verloren Aktien von Unternehmen im Bereich Rechenzentrumsbau rund 4,2 Billionen US-Dollar an Wert, da der „Picks and Shovels“-Handel mit KI-Hardware erste Risse zeigt. Anleger suchen derzeit verstärkt nach Rendite in direkten KI-Anwendungen statt in der Infrastruktur. Dies deutet auf eine Neubewertung des gesamten Sektors hin.",
      "quellen": [
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/benzinpreise-deutschland-us-parlamentswahlen-iran-krieg-oelpreise-li.3580131"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1"
       },
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/klimaschutz-energiewende-oelpreis-erneuerbare-energien-li.3577911"
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "Führungswechsel bei Hugo Boss",
-     "text": "Überraschend verlässt CEO Daniel Grieder das Modeunternehmen Hugo Boss, trotz zuvor betonter guter Zusammenarbeit mit dem neuen britischen Großaktionär. Die britischen Investoren übernehmen damit faktisch die Kontrolle über Deutschlands größte Modefirma. Dieser Wechsel markiert eine strategische Neuausrichtung des Konzerns unter neuem Einfluss. Die genauen Hintergründe des plötzlichen Abgangs blieben zunächst unklar.",
+     "titel": "Wettbewerb im Bahn-Fernverkehr bedroht ländliche Anbindung",
+     "text": "Private Anbieter drängen verstärkt in den deutschen Bahn-Fernverkehr, was die Attraktivität auf Hauptstrecken erhöhen könnte. Es besteht jedoch die Sorge, dass dies zu Lasten kleinerer Städte und ländlicher Regionen geht, die für private Betreiber weniger rentabel sind. Zur Sicherung der Anbindung dieser Gebiete existieren bereits Konzepte, doch die Bundesregierung sieht aktuell keinen akuten Handlungsbedarf. Die Folge könnte eine Zweiteilung des Schienennetzes in hochfrequente Metropolverbindungen und vernachlässigte Randregionen sein. Ein verstärkter Wettbewerb erfordert daher neue regulatorische Rahmenbedingungen.",
      "quellen": [
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/hugo-boss-daniel-grieder-ruecktritt-frasers-group-modekonzern-metzingen-li.3579929"
+       "name": "Deutschlandfunk",
+       "url": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html"
       }
      ]
     }
@@ -159,44 +131,24 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Massive Flugausfälle in den USA nach technischer Panne",
-     "text": "Ein landesweites Startverbot legte den US-Luftraum für über vier Stunden lahm, was zu mehr als 10.000 Flugstreichungen und massiven Verspätungen führte. Ursache war ein Ausfall der überlasteten Kommunikationssysteme der Flugsicherung (FAA), wobei Probleme bei der Harmonisierung alter Systeme (wie Diskettenlaufwerke) mit neuer Technik eine Rolle spielten. Verkehrsminister Duffy bestätigte die Behebung der Störung, doch die Normalisierung des Flugverkehrs wird Tage in Anspruch nehmen. Der Vorfall verdeutlicht den dringenden Modernisierungsbedarf der veralteten US-Luftfahrtinfrastruktur.",
-     "quellen": []
+     "titel": "Lkw-Verkehr zwischen Texas und Mexiko steigt deutlich an",
+     "text": "Durch ein Pilotprojekt für Samstagsabfertigungen ist der grenzüberschreitende Lkw-Verkehr zwischen Texas und Mexiko um 400 Fahrzeuge gestiegen. Insgesamt erreichte der Lkw-Güterverkehr zwischen den USA und Mexiko im September ein Volumen von 75,4 Milliarden US-Dollar. Parallel dazu investiert das Unternehmen Teleflex 5 Millionen US-Dollar in eine neue Produktionsstätte für Medizintechnik in Mexiko. Diese Daten unterstreichen die wachsende Bedeutung Mexikos als Logistik- und Produktionsstandort für den US-Markt. Die Ausweitung der Betriebszeiten an der Grenze dient der Bewältigung des steigenden Frachtaufkommens.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot"
+      }
+     ]
     },
     {
-     "titel": "KI-gestützter Frachtdiebstahl verursacht Millionenschäden",
-     "text": "Zwischen Juni 2025 und Juni 2026 wurden KI-Komponenten im Wert von über 150 Millionen US-Dollar gestohlen. In 92 % der Fälle nutzten die Täter gefälschte Frachtführer-Identitäten und manipulierte Versanddokumente, um die Ware abzugreifen. Diese neue Qualität der Kriminalität stellt Logistikunternehmen vor enorme Herausforderungen bei der Verifizierung von Geschäftspartnern. Experten raten zu strengeren Sicherheitskontrollen und digitaler Absicherung der Lieferketten.",
-     "quellen": []
-    },
-    {
-     "titel": "Humble Robotics sichert 51 Millionen Dollar für autonome E-Laster",
-     "text": "Das Startup Humble Robotics hat in einer Finanzierungsrunde 51 Millionen US-Dollar für die Entwicklung autonomer, elektrischer Frachttransporter erhalten. Das Konzept basiert auf einem „Skateboard“-Chassis, das Zugmaschine und Auflieger kombiniert, um die Effizienz im Kurzstreckenverkehr zu steigern. Ziel ist es, repetitive Logistikprozesse durch Automatisierung kostengünstiger und umweltfreundlicher zu gestalten. Die Technologie könnte den Fachkräftemangel im Lkw-Sektor langfristig abmildern.",
-     "quellen": []
-    },
-    {
-     "titel": "Stau am Hafen von Los Angeles: Bahn-Wartezeiten steigen",
-     "text": "Am Hafen von Los Angeles haben die Liegezeiten für Container, die auf den Weitertransport per Schiene warten, einen Höchstwert von über neun Tagen erreicht. Hafendirektor Gene Seroka wies auf die zunehmende Belastung der Schieneninfrastruktur hin, die den Warenfluss ins Hinterland bremst. Diese Verzögerungen führen zu Engpässen in den nachgelagerten Lieferketten und erhöhen die Lagerkosten für Importeure. Eine schnelle Lösung ist aufgrund der hohen Auslastung derzeit nicht in Sicht.",
-     "quellen": []
-    },
-    {
-     "titel": "CMA CGM verdreifacht Gewinn dank steigender Frachtraten",
-     "text": "Die Reederei CMA CGM konnte ihren Gewinn im dritten Quartal verdreifachen, getrieben durch ein höheres Frachtaufkommen und gestiegene Raten im Seeverkehr. Während das Schifffahrtssegment florierte, schwächten sich die Margen im Logistikbereich trotz Umsatzwachstums leicht ab. Das Unternehmen profitiert von der robusten Nachfrage im Welthandel, sieht sich aber mit schwankenden Betriebskosten konfrontiert. Die Ergebnisse spiegeln die aktuelle Volatilität und Profitabilität der globalen Containerschifffahrt wider.",
-     "quellen": []
-    },
-    {
-     "titel": "Walmart weitet Drohnen-Zustellung landesweit aus",
-     "text": "Durch eine Kooperation mit dem Betreiber Zipline verdoppelt Walmart seine Kapazitäten für die Zustellung per Drohne. In den kommenden Jahren soll dieser Dienst landesweit verfügbar sein, um Kunden eine extrem schnelle Lieferung kleinerer Bestellungen zu ermöglichen. Damit positioniert sich Walmart als Vorreiter in der „Last-Mile“-Logistik gegen Konkurrenten wie Amazon. Die Technologie verspricht eine Entlastung des Straßenverkehrs und kürzere Lieferzeiten in urbanen Gebieten.",
-     "quellen": []
-    },
-    {
-     "titel": "Machtkampf bei Freightos: Gründer wirft Vorstand Manipulation vor",
-     "text": "Zvi Schreiber, Gründer und ehemaliger CEO der Logistik-Plattform Freightos, beschuldigt den Vorstand, die bevorstehende Abstimmung über die Unternehmensstrategie zu manipulieren. Der Vorstand empfiehlt den Aktionären einstimmig, Schreibers Vorschläge zur Führung und Governance abzulehnen. Der Konflikt gefährdet die strategische Stabilität des Unternehmens kurz vor der Jahreshauptversammlung am 16. Dezember. Es geht im Kern um die zukünftige Ausrichtung und Kontrolle des digitalen Frachtmarktplatzes.",
-     "quellen": []
-    },
-    {
-     "titel": "RICO-Klage gegen Großbroker C.H. Robinson und TQL",
-     "text": "Sechs Transportunternehmen haben eine zivilrechtliche RICO-Klage gegen die Branchenriesen C.H. Robinson und TQL eingereicht. Ihnen wird vorgeworfen, durch Zusammenarbeit mit illegalen Frachtführern die Preise künstlich gedrückt und damit legalen Wettbewerbern geschadet zu haben. Der Rechtsstreit wird sich voraussichtlich bis 2028 hinziehen und könnte die gesamte Broker-Branche in den USA zur Transparenz zwingen. Die Klage zielt auf den Vorwurf des organisierten Betrugs und der Marktmanipulation ab.",
-     "quellen": []
+     "titel": "Frühzeitiger Anstieg der Spotraten im Straßengüterverkehr",
+     "text": "Die Spotraten im Lkw-Verkehr sind in diesem Jahr ungewöhnlich früh vor den Feiertagen angestiegen. Branchenexperten hinterfragen, ob dies auf eine bewusste Strategie der Versender zurückzuführen ist, um Kapazitäten vorzeitig zu sichern. Normalerweise ziehen die Preise erst unmittelbar vor der Hochsaison an. Die Folge sind höhere Transportkosten für kurzfristige Buchungen bereits im Vorfeld der Feiertage. Logistikplaner müssen ihre Budgets entsprechend anpassen, um auf diese Marktverschiebung zu reagieren.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays"
+      }
+     ]
     }
    ],
    "fehler": null
@@ -205,130 +157,126 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "Bundeshaushalt 2027 steht: Rekordausgaben ohne Stromsteuersenkung",
-     "text": "Nach einer 15-stündigen Marathonsitzung hat der Haushaltsausschuss den Etat für 2027 mit geplanten Ausgaben von 560,9 Milliarden Euro beschlossen. Trotz der massiven Kritik von Opposition und Industrie reicht das Geld nicht für die geforderte Senkung der Stromsteuer aus, da Kanzler Merz und die Koalition keine Finanzierungslücke schließen konnten. Kommentatoren bemängeln dem Haushalt fehlende Ambition und eine klare Strategie zur Wirtschaftsförderung. Deutschland wird zudem seine Klimaziele für 2030 und 2040 voraussichtlich verfehlen, da der Klimaschutz in der aktuellen Haushaltsplanung keine Priorität genießt.",
+     "titel": "Machtkampf um SPD-Vorsitz zwischen Heil und Klingbeil",
+     "text": "Ex-Arbeitsminister Hubertus Heil hat offiziell seine Kandidatur für den SPD-Vorsitz angekündigt und präsentiert sich als Mann für einen neuen Aufbruch. Dies hat die Unterstützer des amtierenden Parteichefs Lars Klingbeil aktiviert, die sich nun öffentlich für dessen Verbleib aussprechen. Die Entscheidung über die gesamte Parteiführung fällt auf einem Bundesparteitag Mitte Januar. Heil war jahrelang an allen wesentlichen Entscheidungen der Partei beteiligt, was seine Positionierung als Erneuerer intern diskussionswürdig macht. Viel hängt nun von der Haltung einflussreicher Akteure wie Manuela Schwesig ab.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/spd-vorsitz-heil-kandidatur-klingbeil-schwesig-li.3580594"
+      }
+     ]
+    },
+    {
+     "titel": "Iran greift US-Stützpunkt in Bahrain mit Drohnen an",
+     "text": "Die iranische Revolutionsgarde hat nach eigenen Angaben eine Radaranlage eines US-Stützpunkts in Bahrain mit sechs Drohnen attackiert. Bahrain meldete, mehrere dieser Angriffe erfolgreich abgewehrt zu haben. Der Angriff markiert eine weitere Eskalation der Spannungen in der Region. Ziel der iranischen Operation war offenbar die Schwächung der US-Luftabwehrkapazitäten vor Ort. Die USA und Bahrain prüfen derzeit die Schäden und weitere Sicherheitsmaßnahmen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-bahrain-us-stuetzpunkt-drohnen-angriff-li.3579157"
+      }
+     ]
+    },
+    {
+     "titel": "Kritik an Plänen für Selbstzahler-Termine bei Fachärzten",
+     "text": "Kassenärzte-Chef Gassen erwartet, dass gesetzlich Versicherte künftig Behandlungen selbst zahlen müssen, um lange Wartezeiten bei Fachärzten zu vermeiden. Grund für diese Einschätzung sind die kürzlich beschlossenen Honorarkürzungen für Ärzte. Diese Äußerungen stießen auf scharfe Kritik von Patientenvertretern und Politikern. Es wird befürchtet, dass dies zu einer Zwei-Klassen-Medizin führt, in der medizinische Versorgung vom Geldbeutel abhängt. Die Bundesregierung steht unter Druck, die Finanzierung des Gesundheitssystems ohne Leistungseinbußen sicherzustellen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Deutschland verfehlt Klimaziele für 2030 und 2040",
+     "text": "Umweltverbände werfen Kanzler Merz und Wirtschaftsministerin Reiche einen Rückschritt beim Klimaschutz vor, da Deutschland seine selbst gesteckten Ziele für 2030 und 2040 verfehlen wird. Auf der Weltklimakonferenz COP31 in Antalya zeigt sich ein gegensätzliches Bild: Die Ukraine baut trotz des Krieges riesige Windparks aus Gründen der Energiesicherheit aus. In der Türkei protestierten zudem tausende Menschen am Rande der Konferenz gegen den Staatsapparat und für mehr Klimagerechtigkeit. Die Kritik in Deutschland richtet sich vor allem gegen die mangelnde Priorisierung grüner Themen in der aktuellen Koalition.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html"
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/cop31-klimakonferenz-ukraine-windpark-erneuerbare-energie-strom-russland-li.3579407"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/türkei-tausende-protestieren-am-rande-der-cop31-in-antalya/a-79951855?maca=de-rss-de-all-1119-rdf"
       }
      ]
     },
     {
-     "titel": "Reform der Nachrichtendienste: Mehr Befugnisse beschlossen",
-     "text": "Der Bundestag hat eine weitreichende Reform verabschiedet, die den deutschen Nachrichtendiensten neue Kompetenzen wie das heimliche Betreten von Wohnungen und Hackerangriffe zur Abwehr von Bedrohungen einräumt. Während Innenminister Dobrindt von einem „Jahrhundertwerk“ spricht, kritisieren Gegner das Gesetz als „Monster“, das die Privatsphäre unverhältnismäßig einschränke. Die Reform ist eine Reaktion auf die verschärfte Sicherheitslage und hybride Bedrohungen durch ausländische Akteure. Die Umsetzung soll die Schlagkraft der Dienste gegen Falschinformationen und Spionage erhöhen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Geplantes Dreiertreffen: Trump, Xi und Putin beraten über Atomwaffen",
-     "text": "Das Weiße Haus hat ein historisches Treffen zwischen US-Präsident Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Putin am Rande des Apec-Gipfels in Shenzhen angekündigt. Im Zentrum der Gespräche soll der Abbau von Atomwaffenbeständen stehen, wobei auch der laufende Iran-Krieg thematisiert werden könnte. Es ist das erste Mal, dass diese drei Staatschefs in diesem Format zusammenkommen. Die internationale Gemeinschaft erhofft sich von dem Gipfel eine Deeskalation der globalen Spannungen.",
+     "titel": "Korruptionsfund bei ehemaligem ungarischen Minister",
+     "text": "Im Rahmen von Korruptionsermittlungen haben ungarische Behörden mehr als 17 Millionen Euro Bargeld beim ehemaligen Entwicklungsminister Miklós Seszták sichergestellt. Das Geld war an ungewöhnlichen Orten wie Wäldern, Scheunen und Lagerhallen vergraben. Seszták war Mitglied der Regierung unter Viktor Orbán. Der Fund ist einer der größten Korruptionsskandale in der jüngeren Geschichte Ungarns. Die Ermittlungen dauern an, um die Herkunft der Gelder und mögliche weitere Beteiligte zu klären.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/atomwaffen-abruestung-putin-trump-xi-jinping-apec-shenzhen-li.3580363"
+       "url": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html"
       }
      ]
     },
     {
-     "titel": "EU bildet Verhandlungsteam für Ukraine-Gespräche",
-     "text": "Die EU-Mitgliedstaaten haben sich auf ein gemeinsames Team geeinigt, das Europa bei künftigen Friedensverhandlungen zwischen der Ukraine und Russland vertreten soll. Dem Team gehören Vertreter der EU-Institutionen sowie aus Deutschland, Frankreich, Großbritannien, Italien und Polen an. Ziel ist eine geschlossene europäische Position gegenüber dem Kreml und in Abstimmung mit den USA. Die Einigung beendet eine lange interne Debatte über die Federführung bei diplomatischen Initiativen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ukraine-frieden-europa-li.3579897"
-      }
-     ]
-    },
-    {
-     "titel": "Historischer Wahlsieg in Mississippi und Migrationsbewegungen",
-     "text": "Der Demokrat Scott Colom hat als erster schwarzer Senator seit 1881 den US-Bundesstaat Mississippi gewonnen, was als politisches Beben in der republikanischen Hochburg gilt. Gleichzeitig löste der Sieg der Demokraten bei den Midterms neue Hoffnung bei Migranten in Mittelamerika aus, die nun auf eine liberalere Einwanderungspolitik setzen; über 1.000 Menschen machten sich bereits auf den Weg Richtung USA. Die US-Einwanderungsbehörde ICE meldete derweil einen Rekordwert von fast einer halben Million Abschiebungen im vergangenen Jahr, wobei die Transparenz dieser Daten angezweifelt wird.",
+     "titel": "Demokraten gewinnen Gouverneursposten in Alaska",
+     "text": "Bei den US-Nachwahlen konnten die Demokraten einen Erfolg in Alaska verbuchen, wo sie den Gouverneursposten gewannen. In Colorado verlor hingegen die prominente Republikanerin Lauren Boebert, eine enge Verbündete von Donald Trump, ihren Sitz an die Demokratin Eileen Laubacher. Innerhalb der Demokraten im Senat gibt es zudem einen Machtkampf: Chris Van Hollen fordert den langjährigen Mehrheitsführer Chuck Schumer heraus. Diese Verschiebungen deuten auf eine Neuausrichtung der Parteien nach den Midterms hin, die auch Auswirkungen auf die Migrationsbewegungen Richtung USA haben.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
        "url": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html"
       },
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-senator-scott-colom-100.html"
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/usa-demokraten-chuck-schumer-chris-van-hollen-mehrheitsfuehrer-senat-li.3580160"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/arzttermine-selbstzahler-kassenaerzte-gassen-li.3580428"
-      }
-     ]
-    },
-    {
-     "titel": "Kassenärzte warnen vor Zunahme von Selbstzahler-Terminen",
-     "text": "Aufgrund beschlossener Honorarkürzungen erwartet der Chef der Kassenärztlichen Bundesvereinigung, Andreas Gassen, dass gesetzlich Versicherte künftig häufiger für zeitnahe Termine selbst zahlen müssen. Besonders betroffen seien Fachrichtungen wie Orthopädie, Kardiologie und HNO. Die Ärzte sehen sich gezwungen, Leistungen außerhalb des gedeckelten Budgets privat in Rechnung zu stellen, um ihre Praxen wirtschaftlich zu führen. Dies könnte zu einer weiteren Verschärfung der Zwei-Klassen-Medizin in Deutschland führen.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html"
+       "url": "https://www.sueddeutsche.de/politik/usa-demokrat-wird-gouverneur-in-alaska-li.3580769"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/arzttermine-selbstzahler-kassenaerzte-gassen-li.3580428"
+       "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-colorado-boebert-li.3578585"
       }
      ]
     },
     {
-     "titel": "Große Anteilnahme beim Trauerakt für Hubert Aiwanger",
-     "text": "In München haben zahlreiche Bürger und Politiker Abschied vom verstorbenen bayerischen Vize-Ministerpräsidenten Hubert Aiwanger genommen. Kardinal Marx würdigte den Chef der Freien Wähler als außergewöhnliche Persönlichkeit, deren Tod einen Schock für das Land darstelle. Aiwanger prägte über Jahre die bayerische Landespolitik und galt als streitbare, aber volksnahe Figur. Die politische Nachfolge innerhalb der Freien Wähler ist noch ungeklärt.",
+     "titel": "Russland und Ukraine melden Opfer nach gegenseitigen Angriffen",
+     "text": "Bei russischen Angriffen auf Ziele in der Ukraine, darunter Saporischschja, wurden mindestens drei Menschen getötet und 22 verletzt, unter ihnen auch Kinder. Russland meldete seinerseits einen Toten durch ukrainischen Beschuss. Die Kämpfe halten unvermindert an, während die Ukraine auf der Klimakonferenz betont, dass erneuerbare Energien ein Mittel gegen die russische Aggression seien. In den USA scheiterte derweil ein Plan von Donald Trump, russischen Diesel zu kaufen, da die Tanker keine Abnehmer fanden. Dennoch profitiert Moskau weiterhin von globalen Energieströmen.",
      "quellen": [
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html"
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/russland-usa-trump-putin-diesel-deal-oeltanker-li.3578803"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/cop31-klimakonferenz-ukraine-windpark-erneuerbare-energie-strom-russland-li.3579407"
       }
      ]
     },
     {
-     "titel": "Positive Bilanz zum Alkoholverbot an Bahnhöfen",
-     "text": "Einen Monat nach Einführung des bundesweiten Alkoholverbots an Bahnhöfen zieht die Deutsche Bahn eine positive erste Bilanz. Laut Bahnangaben gibt es spürbar weniger Müll und weniger Konflikte, was die Sicherheit und das Wohlbefinden für Reisende und Personal verbessert habe. Kritiker hatten zuvor bezweifelt, ob das Verbot effektiv kontrolliert werden könne. Die Bahn plant, die Präsenz von Sicherheitskräften beizubehalten, um den Erfolg der Maßnahme dauerhaft zu sichern.",
+     "titel": "CSU fordert höhere Abschläge für Frührentner",
+     "text": "Die CSU schlägt vor, die Abschläge für Personen, die vorzeitig in Rente gehen, zu erhöhen. Hintergrund sind Einsparungen der Regierung, die die Rentenversicherung stärker belasten als ursprünglich geplant. Durch die höheren Abzüge sollen die finanziellen Einbußen der Versicherung ausgeglichen werden. Dies würde bedeuten, dass Frührentner dauerhaft mit geringeren monatlichen Bezügen rechnen müssten. Der Vorschlag sorgt für Diskussionen über die soziale Gerechtigkeit und die langfristige Stabilität des Rentensystems.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html"
       }
      ]
     }
@@ -339,44 +287,66 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Amazon plant globales Datenverzeichnis für Online-Shopping",
-     "text": "Amazon arbeitet unter dem Projektnamen „World Product Graph“ an einer umfassenden Datenbank, die Informationen zu jedem im Internet verkauften Produkt indexieren soll. Ziel ist es, auch Produkte zu erfassen, die Amazon selbst nicht führt, um Kunden den Preisvergleich und die Suche direkt auf der eigenen Plattform zu ermöglichen. Damit will der Konzern verhindern, dass Nutzer für Recherchen zu anderen Seiten abwandern. Das Projekt könnte die Dominanz von Amazon im E-Commerce weiter zementieren und den Wettbewerb im Online-Handel massiv beeinflussen.",
-     "quellen": []
+     "titel": "Klage gegen Tech-Giganten wegen unkontrollierter KI-Entwicklung",
+     "text": "Verbraucherschützer und Sicherheitsinitiativen haben in den USA Klage gegen fünf führende Technologieunternehmen, darunter OpenAI und Google, eingereicht. Ziel ist es, den aus ihrer Sicht unkontrollierten Fortschritt der künstlichen Intelligenz gerichtlich zu stoppen. Helen Toner, ehemaliges Vorstandsmitglied von OpenAI, warnt zudem öffentlich davor, dass man den CEOs von KI-Unternehmen derzeit nicht vertrauen könne. Die Kläger fordern strengere Sicherheitsauflagen und eine stärkere staatliche Aufsicht. Diese rechtlichen Schritte könnten die Entwicklungsgeschwindigkeit neuer KI-Modelle erheblich beeinflussen.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      }
+     ]
     },
     {
-     "titel": "OpenAI führt Wallet für KI-Agenten ein",
-     "text": "OpenAI hat das „ChatGPT Wallet“ gestartet, mit dem KI-Agenten (sogenannte Dots) eigenständig Einkäufe für Nutzer tätigen können. Der Dienst ist zunächst für ChatGPT-Pro-Abonnenten in den USA verfügbar und unterstützt gängige Kreditkarten von Visa, Mastercard und American Express. Nutzer können ihren Agenten Vollmachten für Transaktionen erteilen, was die Automatisierung von Alltagsprozessen auf eine neue Stufe hebt. Sicherheitsbedenken hinsichtlich unautorisierter Käufe sollen durch strikte Alters- und Adressprüfungen begegnet werden.",
-     "quellen": []
+     "titel": "Ukraine nutzt israelische Satellitentechnik für Drohnensteuerung",
+     "text": "Die Ukraine rüstet ihre Drohnen zunehmend mit Satelliten-Terminals der israelischen Firma HiSky aus. Grund für diesen Wechsel ist die Unzuverlässigkeit von Starlink als Partner im laufenden Konflikt. Durch die neue Technik kann die Ukraine ihre Drohnen unabhängig von den Beschränkungen durch SpaceX steuern. Dies stellt eine strategische Anpassung an die wechselhaften Bedingungen der Satellitenkommunikation im Kriegsgebiet dar. Die Nutzung alternativer Anbieter erhöht die operative Sicherheit der ukrainischen Streitkräfte.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/starshield-gedrosselt-ukraine-steuert-drohnen-ueber-israelische-satellitentechnik-2611-215225.html"
+      }
+     ]
     },
     {
-     "titel": "KI-Chatbots überlasten Parlamentsbetrieb in Brüssel",
-     "text": "In Brüssel und Straßburg schlagen Beamte Alarm, da der Einsatz generativer KI zu einer Flut von automatisierten Änderungsanträgen und Anfragen führt. Die schiere Menge an KI-generierten Dokumenten droht die demokratischen Prozesse zu verlangsamen und die Kapazitäten der Abgeordneten zu übersteigen. Es wird befürchtet, dass die Qualität der parlamentarischen Arbeit unter der Masse an maschinell erstellten Inhalten leidet. Erste Forderungen nach Regeln für den Einsatz von KI in der Gesetzgebung werden laut.",
-     "quellen": []
+     "titel": "OpenAI löst Robotik-Team zugunsten allgemeiner KI-Modelle auf",
+     "text": "OpenAI hat die Auflösung seines spezialisierten Robotik-Teams bekannt gegeben. Das Unternehmen plant stattdessen, sich auf die Entwicklung allgemeiner KI-Modelle zu konzentrieren, die als Grundlage für künftige Roboterforschung dienen sollen. Dieser Strategiewechsel markiert eine Abkehr von der direkten Hardware-Entwicklung hin zur Optimierung der zugrunde liegenden Software-Intelligenz. Die gewonnenen Erkenntnisse sollen später in Kooperationen mit Hardware-Herstellern einfließen. Damit setzt OpenAI seine Ressourcen fokussierter für die Weiterentwicklung von Large Language Models ein.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/neue-gewichtung-openai-loest-robotik-team-auf-2611-215222.html"
+      }
+     ]
     },
     {
-     "titel": "Tesla verkauft Robotaxi „Cybercab“ an Privatkunden",
-     "text": "Tesla hat mit dem Verkauf seines autonomen Robotaxis „Cybercab“ an Privatpersonen begonnen, was ein Novum in der Branche darstellt. Allerdings ist der Nutzen des Fahrzeugs derzeit stark eingeschränkt, da die rechtlichen Rahmenbedingungen für vollautonomes Fahren in vielen Regionen noch fehlen. Das Cybercab verfügt weder über Lenkrad noch Pedale und setzt vollständig auf Teslas Vision-System. Experten bezweifeln, dass Privatbesitzer das Fahrzeug in naher Zukunft als echtes autonomes Taxi nutzen können.",
-     "quellen": []
+     "titel": "Sicherheitslücken in Check-Point-Gateways und N-central ausgenutzt",
+     "text": "Angreifer haben erfolgreich Sicherheitslücken in Check-Point-Gateways verkettet, um Hintertüren zu installieren und Daten auf ESXi-Hosts zu löschen. Parallel dazu werden Attacken auf die Fernwartungslösung N-central von N-able beobachtet, für die es aktuell nur eine Übergangslösung, aber noch keinen finalen Patch gibt. Zudem analysieren Forensiker derzeit den massiven Daten-Leak der Hackergruppe Rhysida bei der Berliner Verwaltung, bei dem mehrere Terabyte Daten ins Netz gestellt wurden. Diese Vorfälle verdeutlichen die anhaltende Verwundbarkeit zentraler IT-Infrastrukturen. Administratoren werden dringend zum Handeln aufgefordert.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
     },
     {
-     "titel": "SpaceX: Erneuter Fehlschlag bei Starship-Booster-Landung",
-     "text": "Auch beim 15. Testflug des Starship-Systems gelang die geplante Wiederverwendung des Boosters nicht. Die Raketenstufe musste vorzeitig gesprengt werden, nachdem technische Unregelmäßigkeiten eine sichere Landung verhinderten. SpaceX hält dennoch an seinem ehrgeizigen Zeitplan fest, um das System für künftige Mars-Missionen einsatzbereit zu machen. Jeder Testflug liefert wertvolle Daten, auch wenn die vollständige Bergung der Hardware weiterhin eine Herausforderung bleibt.",
-     "quellen": []
-    },
-    {
-     "titel": "GTA VI Release löst weltweite Urlaubswelle aus",
-     "text": "Die bevorstehende Veröffentlichung von Grand Theft Auto VI am 19. November führt weltweit zu einem signifikanten Anstieg von Urlaubsanträgen bei Arbeitnehmern. Da Rabatte auf das Spiel zum Start kaum zu erwarten sind, nutzen Spieler vermehrt vergünstigte Geschenkkarten für Konsolen-Stores, um beim Kauf zu sparen. Der Release gilt als eines der größten Medienereignisse des Jahrzehnts und hat messbare Auswirkungen auf die Arbeitswelt. Unternehmen stellen sich auf eine kurzzeitig reduzierte Produktivität in der Gaming-affinen Belegschaft ein.",
-     "quellen": []
-    },
-    {
-     "titel": "Millionenbußgeld gegen Tinder wegen DSGVO-Verstößen",
-     "text": "Die irische Datenschutzbehörde hat gegen die europäische Tochter der Tinder-Muttergesellschaft Match Group ein Bußgeld in Millionenhöhe verhängt. Grund sind Verstöße gegen die Datenschutz-Grundverordnung (DSGVO) im Umgang mit Nutzerdaten. Die Behörde kritisierte mangelnde Transparenz und unzureichende Kontrollmöglichkeiten für die Anwender. Das Urteil unterstreicht den strengeren Kurs der europäischen Regulierer gegen US-Tech-Konzerne.",
-     "quellen": []
-    },
-    {
-     "titel": "Rust als bevorzugte Sprache für KI-Agenten",
-     "text": "Auf der Fachkonferenz betterCode() Rust wird die Programmiersprache Rust als ideal für die Entwicklung von „Agentic AI“ hervorgehoben. Rust bietet durch seine Speicherverwaltung und Performance Vorteile bei der Erstellung komplexer, autonom agierender Software-Agenten. Im Vergleich zu Sprachen wie Python ermöglicht Rust eine sicherere und effizientere Ausführung von KI-Modellen in Produktionsumgebungen. Dies ist besonders relevant für Anwendungen, die in Echtzeit auf externe Daten reagieren müssen.",
-     "quellen": []
+     "titel": "Tesla bietet Cybercab für den persönlichen Gebrauch an",
+     "text": "Tesla lädt ausgewählte Kunden dazu ein, das autonome „Cybercab“ für den persönlichen Gebrauch zu erwerben. Das Fahrzeug verfügt weder über ein Lenkrad noch über Pedale und ist als reiner Zweisitzer konzipiert. Die Nutzung ist jedoch stark eingeschränkt und nur in unterstützten Servicegebieten möglich, was die praktische Einsetzbarkeit vorerst limitiert. Tesla-Chef Elon Musk bekräftigt damit seine Vision einer vollautonomen Zukunft. Kritiker verweisen jedoch auf die rechtlichen und technischen Hürden, die einem flächendeckenden Einsatz noch im Weg stehen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+      }
+     ]
     }
    ],
    "fehler": null
