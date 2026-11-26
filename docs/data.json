@@ -1,24 +1,302 @@
 {
- "erstellt": "2026-11-25T15:23:27.625695+00:00",
+ "erstellt": "2026-11-26T14:50:49.048486+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Hernández de Cos soll Nachfolge von EZB-Chefin Lagarde antreten",
+     "text": "Der spanische Ökonom Pablo Hernández de Cos soll im Februar die Nachfolge von Christine Lagarde an der Spitze der Europäischen Zentralbank antreten. Die Staats- und Regierungschefs der EU einigten sich auf den derzeitigen Chef der Bank für Internationalen Zahlungsausgleich, nachdem die Niederlande die Unterstützung für den Konkurrenten Klaas Knot eingestellt hatten. Lagarde hatte zuvor angekündigt, ihren Posten vorzeitig aufzugeben. Die Personalentscheidung ist wegweisend für die künftige Zinspolitik und Stabilität der Eurozone. De Cos gilt als erfahrener Notenbanker, der nun die Herausforderungen der Inflation und des Wirtschaftswachstums in Europa steuern muss.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/eilmeldung/ezb-chef-de-cos-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/de-cos-lagarde-ezb-nachfolge-li.3586728"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "UniCredit fordert Hauptversammlung zur Machtübernahme bei Commerzbank",
+     "text": "Die italienische Großbank UniCredit hat offiziell eine außerordentliche Hauptversammlung bei der Commerzbank beantragt, um eigene Vertreter in den Aufsichtsrat zu entsenden. Ziel ist es, die Kontrolle über das Gremium zu erlangen und weitreichende strategische Umbaumaßnahmen einzuleiten. Dies könnte zur Absetzung der derzeitigen Vorstandschefin Bettina Orlopp führen. Während UniCredit-Chef Orcel die Belegschaft lobt, wird sein Vorgehen von Kritikern als aggressiv und als fatales Signal für das Vertrauensverhältnis gewertet. Die Folgen könnten eine vollständige Übernahme und eine Neuausrichtung der zweitgrößten deutschen Privatbank sein.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/unicredit-commerzbank-andrea-orcel-vertrauensentzug-kommentar-li.3586568"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-li.3586426"
+      }
+     ]
+    },
+    {
+     "titel": "Streit um EU-Haushalt und Ukraine-Hilfen eskaliert",
+     "text": "Bei einem Sondergipfel in Brüssel beraten die 27 EU-Mitgliedstaaten über den langfristigen Haushalt von bis zu zwei Billionen Euro. Die Slowakei droht zusammen mit Polen, Ungarn und Tschechien mit einer Blockade, insbesondere bei den geplanten Ukraine-Hilfen, was Regierungschef Fico innenpolitisch nutzt. Deutschland fordert unterdessen weitere Kürzungen des bereits um 200 Milliarden Euro reduzierten Entwurfs. Frankreich verlangt zusätzliche 35 Milliarden Euro für Landwirte, um den Haushalt gegen künftige politische Einflussnahmen der extremen Rechten abzusichern. Mögliche neue Einnahmequellen wie eine Digitalsteuer werden diskutiert, um die finanziellen Lücken zu schließen.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html"
+      },
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-lieferzeiten-volkswagen-id-polo-e-mobilitaet-li.3581346"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/katja-eichinger-punk-geld-london-muenchen-interview-li.3585874"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Nvidia stoppt Chiplieferungen nach Südostasien wegen US-Exportkontrollen",
+     "text": "Der US-Konzern Nvidia hat den Versand von Chips nach Südostasien eingestellt, da die US-Regierung ihre Exportkontrollen verschärft hat. Ziel dieser Maßnahmen ist es, den Zugriff Chinas auf Rechenleistung für künstliche Intelligenz über Drittstaaten zu unterbinden. Firmengründer Jensen Huang gerät dabei in eine schwierige Position, da er enge Geschäftsbeziehungen zu beiden Seiten der Taiwan-Straße pflegt. Die Entscheidung verdeutlicht die zunehmende geopolitische Bedeutung von Halbleitern als strategische Ressource. Für die Region bedeutet dies eine Verknappung wichtiger Hardware für den Ausbau lokaler KI-Infrastrukturen.",
+     "quellen": [
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1"
+      },
+      {
+       "name": "Financial Times Deutschland",
+       "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "titel": "Reallöhne in Deutschland wachsen langsamer",
+     "text": "Im Sommer sind die Reallöhne in Deutschland um 1,3 Prozent gestiegen, was das schwächste Wachstum seit Anfang 2025 markiert. Zwar wuchs die deutsche Wirtschaft im vierten Quartal in Folge, doch die Inflation dämpft die Kaufkraft der Beschäftigten weiterhin erheblich. Arbeitnehmer haben somit trotz nominaler Steigerungen nur geringfügig mehr Geld zur Verfügung. Experten sehen darin eine Gefahr für den privaten Konsum, der als Stütze der Konjunktur auszufallen droht. Die Daten des Statistischen Bundesamtes unterstreichen die zähe Erholung der privaten Haushalte von der Teuerungswelle.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/loehne-wachstum-inflation-100.html"
+      },
+      {
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/reallohn-statistisches-bundesamt-wachstum-li.3586579"
+      }
+     ]
+    },
+    {
+     "titel": "Temu verspricht besseren Verbraucherschutz in der EU",
+     "text": "Der chinesische Online-Marktplatz Temu hat zugesagt, die EU-Verbraucherschutzstandards künftig besser einzuhalten. Das Unternehmen will auf manipulative Praktiken wie gefälschte Bewertungen oder künstlichen Kaufdruck verzichten. Diese Zusage folgt auf massiven Druck durch europäische Regulierungsbehörden. Für Verbraucher bedeutet dies eine höhere Transparenz und Sicherheit beim Einkauf auf der Plattform. Gleichzeitig muss Temu sein Geschäftsmodell anpassen, um rechtliche Konsequenzen und Sanktionen innerhalb des EU-Binnenmarktes zu vermeiden.",
+     "quellen": [
+      {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Logistik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Hohe Frachtraten und massive Hafenstaus belasten Seehandel",
+     "text": "Die weltweiten Seefrachtraten liegen derzeit 138 % über dem Niveau von 2025, während etwa 3,6 Millionen TEU aufgrund von Hafenstaus blockiert sind. DHL prognostiziert, dass diese anhaltenden Disruptionen dazu führen werden, dass Verlader bei den kommenden Vertragsverhandlungen für 2027 Resilienz und Planungssicherheit über den reinen Preis stellen. Die Kapazitätsengpässe zwingen Unternehmen dazu, ihre Lieferkettenstrategien grundlegend zu überdenken. Folgen sind längerfristig höhere Transportkosten und eine notwendige Pufferplanung in der Bestandsführung. Die Volatilität im Frachtmarkt wird zunehmend zu einem zentralen Thema für Finanzvorstände.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teus"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/freight-volatility-moved-to-the-pl-is-your2027-budget-ready"
+      }
+     ]
+    },
+    {
+     "titel": "USA planen massive Zölle auf Importe aus China und der EU",
+     "text": "Die US-Regierung bereitet neue Zölle in Höhe von 15 % bis 35 % auf Waren aus China, der Europäischen Union und weiteren Partnerländern vor. Hintergrund sind Ergebnisse einer Untersuchung gemäß Section 301, die Bedenken hinsichtlich unfairer Subventionen und Überkapazitäten in der Fertigung aufzeigte. China hat bereits mit Gegenmaßnahmen auf diese Drohungen reagiert, was die Gefahr eines globalen Handelskrieges erhöht. Für die Logistikbranche bedeuten diese Barrieren eine erhebliche Verteuerung grenzüberschreitender Warenströme. Unternehmen müssen mit einer Umleitung von Handelsrouten und einer Neubewertung ihrer Produktionsstandorte rechnen.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/"
+      }
+     ]
+    },
+    {
+     "titel": "Shein leidet unter EU-Einfuhrgebühren – Umsatz sinkt",
+     "text": "Der Ultra-Fast-Fashion-Anbieter Shein verzeichnete im dritten Quartal einen Umsatzrückgang von 6 %, was direkt auf neue EU-Handelsbeschränkungen für B2C-Importe zurückgeführt wird. Die EU hat Maßnahmen ergriffen, um die Flut an Kleinsendungen zu regulieren und Wettbewerbsnachteile für lokale Händler zu verringern. Diese regulatorischen Eingriffe treffen das Kernmodell des direkten Versands aus China hart. Die Folge ist ein steigender Kostendruck auf Billigplattformen, die nun ihre Logistik- und Preisstrukturen anpassen müssen. Dies könnte das Ende der Ära extrem günstiger, steuerfreier Kleinstimporte in Europa einläuten.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/shein-feels-impact-of-eu-import-fees-as-revenue-slides-6"
+      }
+     ]
+    },
+    {
+     "titel": "Identitätsdiebstahl wird zur Hauptursache für Frachtbetrug",
+     "text": "Im dritten Quartal 2026 wurden über 80 % der gemeldeten Ladungsdiebstähle unter Verwendung realer Frachtführer-Identitäten begangen. Kriminelle nutzen dabei gestohlene oder gekaperte Zugangsdaten echter Transportunternehmen, um wertvolle Fracht zu übernehmen. Dieser Trend erschwert die Sicherheitsüberprüfungen für Versender massiv, da die Täter auf den ersten Blick legitim erscheinen. Die Haftungslandschaft verschiebt sich dadurch, da Versicherungen bei Identitätsmissbrauch oft schwieriger regulieren. Logistikverantwortliche sind gezwungen, in fortschrittlichere Verifizierungstechnologien zu investieren, um ihre Lieferketten gegen diesen professionellen Betrug abzusichern.",
+     "quellen": [
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/real-credentials-wrong-hands"
+      }
+     ]
+    },
+    {
+     "titel": "Stellenabbau in der US-Logistikbranche vor der Weihnachtssaison",
+     "text": "Kurz vor dem Start des Weihnachtsgeschäfts haben US-Unternehmen in den Bereichen Transport, Logistik und Fertigung über 7.600 Mitarbeiter entlassen. Betroffen sind vor allem Frachtvermittler und Logistikdienstleister, die auf die schwankende Nachfrage reagieren. Gleichzeitig rüstet der US Postal Service (USPS) 16 Standorte technisch auf, was zu kurzfristigen Verzögerungen im Volumenfluss führen kann. Diese Kombination aus Personalabbau und technischer Umstellung erhöht das Risiko von Engpässen während der Hochsaison. Unternehmen müssen ihre Kapazitätsplanung für den Jahresendspurt kritisch prüfen.",
+     "quellen": [
+      {
+       "name": "Supply Chain Dive",
+       "url": "https://www.supplychaindive.com/news/usps-to-upgrade-16-sites-just-before-peak-season-rush/875592/"
+      },
+      {
+       "name": "FreightWaves",
+       "url": "https://www.freightwaves.com/news/pre-holiday-layoffs-hit-over-7600-workers-in-trucking-logistics-manufacturing"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "Politik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "Haushaltsdebatte im Bundestag: Streit um Ukraine-Milliarden",
+     "text": "In der Generaldebatte zum Haushalt 2027 verteidigte Bundeskanzler Merz die geplanten zwölf Milliarden Euro an Ukraine-Hilfen als notwendigen Beitrag zur Verteidigung der europäischen Freiheit. Die AfD kritisierte diese Ausgaben scharf und bezeichnete sie als Veruntreuung nationaler Steuergelder. Merz forderte zudem weitere Kürzungen im EU-Haushalt, um die nationale Belastung zu senken. Ein interessanter Aspekt der Zusammenarbeit ist das ukrainische System „Delta“, auf das die Bundeswehr nun als erste Armee Zugriff erhält. Dies zeigt, dass die Ukraine trotz der finanziellen Abhängigkeit technologische Innovationen in die NATO einbringt.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
+      },
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundeswehr-delta-militaerhilfe-ukraine-li.3586457"
+      }
+     ]
+    },
+    {
+     "titel": "Verschärfte Regeln für Prostitution in Deutschland empfohlen",
+     "text": "Eine Expertenkommission der Bundesregierung fordert strengere Regeln für die Sexarbeit, darunter ein Mindestalter von 21 Jahren und schärfere Auflagen für Freier. Ziel ist die wirksamere Bekämpfung von Zwangsprostitution und Menschenhandel sowie ein besserer Schutz der Betroffenen vor Gewalt. Die Vorschläge orientieren sich teilweise am „skandinavischen Modell“, das die Nachfrage regulieren will. Professionelle Sexarbeiter kritisieren die Pläne als „Ohrfeige“ und befürchten eine Abdrängung in die Illegalität, was die Sicherheit gefährden könnte. Die politische Entscheidung über die Umsetzung dieser Reformen steht noch aus.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/prostitution-karin-prien-freier-gesetz-nordisches-modell-li.3586439"
+      }
+     ]
+    },
+    {
+     "titel": "Koalitionsstreit über „Rente mit 63“ verschärft sich",
+     "text": "Die Union hat einen Kompromissvorschlag zur „Rente mit 63“ vorgelegt, den sie als „Respekt-Rente“ bezeichnet. Demnach soll die abschlagsfreie Frühverrentung nur noch für Menschen mit geringem Einkommen bestehen bleiben. Die SPD reagierte jedoch verhalten und wies den Vorstoß als unzureichend zurück, während die Union zur Einigung mahnt. Der Streit blockiert wichtige Rentenreformen, die angesichts des demografischen Wandels als dringend notwendig erachtet werden. Ohne Konsens droht das Rentenpaket der Regierung zu scheitern, was langfristige Unsicherheiten für die Altersvorsorge bedeutet.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
+      },
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/rentenreform-fruehrente-spd-union-koalitionsstreit-li.3586471"
+      }
+     ]
+    }
+   ],
    "fehler": null
   },
   {
    "name": "KI und Technik",
-   "meldungen": [],
+   "meldungen": [
+    {
+     "titel": "SpaceX erhält Genehmigung für eine Million Satelliten",
+     "text": "Die US-Regierung hat SpaceX die Erlaubnis erteilt, bis zu eine Million Satelliten in den Erdorbit zu bringen, um das Starlink-Netzwerk massiv auszubauen. Während die Behörden dies als Meilenstein für die globale Konnektivität feiern, warnen Weltraumexperten vor erheblichen Folgen durch Weltraummüll und Kollisionsgefahren. Die schiere Anzahl der Objekte könnte den Zugang zum All für künftige Generationen einschränken und astronomische Beobachtungen stören. Diese Entscheidung zwingt internationale Organisationen dazu, die Regeln für den Satellitenverkehr im erdnahen Orbit dringend zu verschärfen. Die langfristige Nachhaltigkeit der Raumfahrt steht hierbei zur Debatte.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Starterlaubnis-fuer-eine-Million-SpaceX-Satelliten-Bereitet-mir-Bauchschmerzen-11539365.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Tesla expandiert in Deutschland am Standort von EMAG",
+     "text": "Tesla hat eine neue Gesellschaft an der Firmenadresse des angeschlagenen deutschen Maschinenbauers EMAG registriert. Dies deutet auf eine strategische Expansion oder Übernahme von Fertigungskapazitäten im Bereich der Werkzeugmaschinen und Automatisierungstechnik hin. EMAG ist spezialisiert auf Präzisionsfertigung, was für Teslas Pläne in der Roboterproduktion oder der vertikalen Integration der Fahrzeugfertigung von hohem Wert sein könnte. Eine offizielle Bestätigung über die Art der Zusammenarbeit steht noch aus. Für den Standort Deutschland könnte dies eine Sicherung von Arbeitsplätzen in einer kriselnden Branche bedeuten.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/emag-tesla-gruendet-gesellschaft-am-standort-eines-deutschen-maschinenbauers-2611-215702.html"
+      }
+     ]
+    },
+    {
+     "titel": "US-Generalstaatsanwälte blockieren Datenverkauf von Character.AI",
+     "text": "Eine Koalition aus 42 US-Generalstaatsanwälten geht gerichtlich gegen Character.AI vor, um den Verkauf von Nutzerdaten im Rahmen eines Insolvenzverfahrens zu verhindern. Das Unternehmen plant offenbar, die privaten Chat-Verläufe von über 21 Millionen Konten zu versteigern, um Gläubiger zu bedienen. Die Kläger sehen darin einen massiven Verstoß gegen den Datenschutz und die Privatsphäre der Nutzer. Der Fall könnte als Präzedenzfall dafür dienen, wie mit sensiblen KI-Trainingsdaten bei Firmenpleiten umgegangen werden muss. Nutzer riskieren die Offenlegung ihrer privatesten Interaktionen mit KI-Agenten.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+      }
+     ]
+    },
+    {
+     "titel": "Serverhersteller erhöhen Preise wegen teurem Speicher um 45 %",
+     "text": "Hersteller wie Dell geben massive Preissteigerungen bei Speicherkomponenten an ihre Kunden weiter und erhöhen die Preise für Server nachträglich um bis zu 45 %. Die Unternehmen wurden von der rasanten Verteuerung bei RAM- und Flash-Speichern überrascht, die durch die hohe Nachfrage im KI-Sektor getrieben wird. Diese Entwicklung belastet die IT-Budgets von Unternehmen, die ihre Infrastruktur ausbauen wollen, erheblich. Folgen sind verzögerte Investitionen in Rechenzentren und steigende Kosten für Cloud-Dienstleistungen. Die Hardware-Kosten für KI-Anwendungen steigen damit schneller als ursprünglich kalkuliert.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/bis-zu-45-prozent-serverhersteller-erhoehen-nachtraeglich-preise-2611-215698.html"
+      }
+     ]
+    },
+    {
+     "titel": "Zulassung von Teslas Fahrassistenzsystem in der EU verzögert sich",
+     "text": "Die Entscheidung über die EU-weite Zulassung von Teslas „Full Self-Driving“ (FSD) System wurde vom 1. auf den 15. Dezember verschoben. Während das System in zwölf anderen Ländern bereits erlaubt ist, prüfen die europäischen Regulierungsbehörden die Sicherheitsaspekte weiterhin intensiv. Die Verzögerung bremst Teslas Ambitionen, seine Software-Abos auf dem europäischen Markt großflächig auszurollen. Gleichzeitig kämpfen andere Anbieter wie Waymo in den USA mit Problemen bei Autobahnfahrten, was die Skepsis gegenüber autonomem Fahren verstärkt. Für Tesla-Besitzer in Europa bedeutet dies eine weitere Wartezeit auf die Freischaltung der Funktionen.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Tesla-Assisted-Driving-EU-Entscheidung-verschiebt-sich-auf-15-Dezember-11539133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls"
+      }
+     ]
+    }
+   ],
    "fehler": null
   }
  ]
