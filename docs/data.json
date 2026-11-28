@@ -1,50 +1,16 @@
 {
- "erstellt": "2026-11-27T14:46:44.559782+00:00",
+ "erstellt": "2026-11-28T14:02:35.508259+00:00",
  "themen": [
   {
    "name": "Wirtschaft",
    "meldungen": [
     {
-     "titel": "Pablo Hernández de Cos wird neuer EZB-Präsident",
-     "text": "Der 55-jährige Spanier Pablo Hernández de Cos soll im Februar die Nachfolge von Christine Lagarde an der Spitze der Europäischen Zentralbank antreten. De Cos, der als pragmatische 'Taube' und Vertreter einer lockeren Geldpolitik gilt, wurde von den EU-Spitzen nominiert, während ein Deutscher als Chefvolkswirt vorgesehen ist. Die Neubesetzung erfolgt, da Lagarde ihren Posten vorzeitig aufgibt. In Zeiten hoher Inflation und drohender Schuldenkrisen sind Konflikte im EZB-Rat programmiert, da de Cos sofort über den künftigen Zinskurs entscheiden muss.",
-     "quellen": [
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ezb-pablo-hernandez-de-cos-christine-lagarde-markus-brunnermeier-inflation-li.3587049"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/de-cos-lagarde-ezb-nachfolge-li.3586728"
-      },
-      {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/ezb-praesident-europaeische-zentralbank-deutschland-kommentar-joachim-nagel-li.3569550"
-      }
-     ]
-    },
-    {
-     "titel": "SAP plant Abbau von über 10.000 Stellen",
-     "text": "Der Softwarekonzern SAP erwägt laut Medienberichten den Abbau von mehr als 10.000 Arbeitsplätzen. Hintergrund dieser Maßnahme ist die zunehmende Automatisierung durch Künstliche Intelligenz, wobei gleichzeitig an anderer Stelle neue Stellen entstehen sollen. Parallel dazu meldete das Unternehmen verdächtige Aktivitäten in seinen Systemen, wobei Mitarbeiter zur Änderung von Zugangsdaten aufgefordert wurden; einen Hackerangriff wollte der Konzern jedoch nicht offiziell bestätigen. Die Folgen für die Belegschaft sind weitreichend, da die KI-Transformation die Personalstruktur des DAX-Unternehmens grundlegend verändert.",
+     "titel": "SAP plant massiven Stellenabbau durch KI-Automatisierung",
+     "text": "Der Softwarekonzern SAP erwägt laut Medienberichten den Abbau von mehr als 10.000 Arbeitsplätzen. Hintergrund dieser Maßnahme ist die zunehmende Automatisierung von Prozessen durch Künstliche Intelligenz. Während in einigen Bereichen massiv Stellen wegfallen, sollen an anderer Stelle neue Positionen entstehen. Die Folge ist eine tiefgreifende Umstrukturierung des Walldorfer DAX-Unternehmens, um im Wettbewerb der KI-gestützten Softwareentwicklung bestehen zu können.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
       },
       {
        "name": "Süddeutsche Wirtschaft",
@@ -53,18 +19,22 @@
      ]
     },
     {
-     "titel": "IG Metall erzielt Tarifeinigung in der Industriekrise",
-     "text": "In der Metall- und Elektroindustrie erhalten Millionen Beschäftigte eine Lohnerhöhung von 4,3 Prozent. Angesichts der schweren Krise in der Automobilbranche stimmte die Gewerkschaft jedoch Klauseln zu, die es Firmen erlauben, Gehälter zeitweise zu senken oder Arbeitszeiten ohne Lohnausgleich zu verlängern. Diese Flexibilität soll Unternehmen ermöglichen, notwendige Investitionen zu tätigen und Arbeitsplätze zu sichern. Die Einigung ist eine Reaktion auf die angespannte wirtschaftliche Lage, in der Betriebe zwischen Kostendruck und Beschäftigungssicherung abwägen müssen.",
+     "titel": "Pablo Hernández de Cos wird neuer EZB-Präsident",
+     "text": "Der Spanier Pablo Hernández de Cos wurde als künftiger Chef der Europäischen Zentralbank (EZB) festgelegt, eine Entscheidung, die maßgeblich von Emmanuel Macron beeinflusst wurde. De Cos gilt als Vertreter einer eher lockeren Geldpolitik, was in Zeiten hoher Inflation zu Konflikten führen könnte. Er tritt sein Amt in einer Phase wirtschaftlicher Instabilität an und muss sich unmittelbar der Frage nach weiteren Zinsschritten stellen. Die Folgen könnten eine Fortführung der expansiven Geldpolitik und potenzielle Spannungen innerhalb des EZB-Rats sein.",
      "quellen": [
       {
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
+      },
+      {
        "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/streiks-autoindustrie-elektroindustrie-gesamtmetall-loehne-ig-metall-tarifabschluss-vw-mercedes-inflation-tarifrunde-einigung-li.3585685"
+       "url": "https://www.sueddeutsche.de/wirtschaft/ezb-pablo-hernandez-de-cos-christine-lagarde-markus-brunnermeier-inflation-li.3587049"
       }
      ]
     },
     {
-     "titel": "Schwache Herbstbelebung am Arbeitsmarkt und hohe Arbeitslosigkeit bei Schwerbehinderten",
-     "text": "Die Zahl der Arbeitslosen in Deutschland ist im November nur leicht gesunken, womit die übliche Herbstbelebung weitgehend ausgeblieben ist. Besonders betroffen sind Menschen mit Schwerbehinderung, deren Arbeitslosenquote im Jahresdurchschnitt 2025 bei zwölf Prozent lag – fast doppelt so hoch wie im Gesamtschnitt. Da auch gezielte Zuwanderung den Fachkräftemangel aufgrund des demografischen Wandels nicht mehr ausgleichen kann, setzen viele Firmen verstärkt auf interne Weiterbildung. Die gesamtwirtschaftliche Lage erschwert die Integration benachteiligter Gruppen und zwingt Unternehmen zu neuen Strategien in der Personalentwicklung.",
+     "titel": "Deutscher Arbeitsmarkt im November ohne Herbstbelebung",
+     "text": "Die Zahl der Arbeitslosen in Deutschland ist im November nur geringfügig gesunken, womit die übliche saisonale Belebung weitgehend ausblieb. Besonders kritisch ist die Lage für Menschen mit Schwerbehinderung, deren Arbeitslosenquote mit zwölf Prozent fast doppelt so hoch liegt wie im Gesamtdurchschnitt. Firmen versuchen dem allgemeinen Fachkräftemangel verstärkt durch interne Weiterbildung zu begegnen, da Zuwanderung allein die demografischen Lücken nicht mehr füllt. Die schwache wirtschaftliche Dynamik verzögert somit eine spürbare Erholung auf dem Jobmarkt.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -81,8 +51,8 @@
      ]
     },
     {
-     "titel": "Bundesregierung plant Abgabe für KI-Anbieter",
-     "text": "Die Bundesregierung beabsichtigt, Anbieter von Künstlicher Intelligenz künftig finanziell zu belasten, wenn deren Modelle Inhalte erzeugen, die direkt mit menschlichen Werken konkurrieren. Ziel ist es, Urheber zu schützen und sicherzustellen, dass KI-Unternehmen für die Nutzung von Trainingsdaten und die Marktverdrängung menschlicher Arbeit zahlen. Dies könnte die Kostenstruktur für KI-Dienste in Deutschland verändern und rechtliche Präzedenzfälle für die Vergütung digitaler Inhalte schaffen. Die Maßnahme ist Teil einer breiteren Debatte über die faire Verteilung von Gewinnen in der KI-Ökonomie.",
+     "titel": "Bundesregierung plant Abgabe für KI-Inhalte",
+     "text": "Die Bundesregierung beabsichtigt, Anbieter von Künstlicher Intelligenz künftig finanziell zu belangen, wenn deren Modelle Inhalte erzeugen. Diese Regelung soll greifen, sobald die KI-generierten Werke in direkter Konkurrenz zu von Menschen geschaffenen Inhalten stehen. Ziel ist es, die Urheber menschlicher Werke zu schützen und einen fairen Wettbewerb zu gewährleisten. Dies könnte die Kosten für KI-Dienstleister in Deutschland erhöhen und neue rechtliche Rahmenbedingungen für die Branche schaffen.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
@@ -91,48 +61,42 @@
      ]
     },
     {
-     "titel": "Proteste bei Volkswagen gegen drohenden Stellenabbau",
-     "text": "In Emden haben rund viertausend Menschen gegen die Sparpläne des VW-Vorstands demonstriert, um ihre Arbeitsplätze zu verteidigen. Die Beschäftigten setzen ihre Hoffnung auf den Verhandlungsführer Thorsten Gröger, der in den anstehenden Gesprächen Entlassungen verhindern soll. Ursache für die Unruhe ist die tiefe Krise des Automobilherstellers, die drastische Kostensenkungen zur Folge haben könnte. Der Ausgang dieser Verhandlungen wird richtungsweisend für die gesamte deutsche Automobilindustrie und deren Standortgarantien sein.",
+     "titel": "Widersprüchliche Berichte über Hackerangriff auf SAP",
+     "text": "Medienberichte über einen Hackerangriff auf den Softwaregiganten SAP sorgen für Unruhe, da Mitarbeiter angehalten wurden, ihre Zugangsdaten zu ändern. Der Konzern selbst wollte einen erfolgreichen Angriff bisher nicht bestätigen und spricht lediglich von verdächtigen Aktivitäten. Warum die Sicherheitsmaßnahmen verschärft wurden, bleibt ohne offizielle Bestätigung unklar. Sollten sich die Berichte bewahrheiten, könnten sensible Kundendaten gefährdet sein, was das Vertrauen in die Sicherheit der SAP-Systeme belasten würde.",
      "quellen": [
       {
-       "name": "Süddeutsche Wirtschaft",
-       "url": "https://www.sueddeutsche.de/wirtschaft/vw-streik-tarifverhandlungen-emden-li.3583340"
+       "name": "Tagesschau Wirtschaft",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
       }
      ]
     },
     {
-     "titel": "Chinesische Investitionen in Deutschland werden zum Risiko",
-     "text": "Ehemals als Retter gefeierte chinesische Investoren werden für deutsche Unternehmen zunehmend zum Risiko, da viele übernommene Weltmarktführer trotz großer Versprechen in der Krise stecken. Während die Bundesregierung um einen neuen Kurs im Umgang mit Peking ringt, signalisiert die chinesische Führung verstärkte Unterstützung für die eigene Wirtschaft, was den CSI 300 Index zuletzt stark steigen ließ. Gleichzeitig bauen chinesische Haushalte massiv Konsumschulden und Hypotheken ab, was auf eine veränderte Binnennachfrage hindeutet. Für deutsche Firmen bedeutet dies eine wachsende Unsicherheit bezüglich ihrer Eigentümerstrukturen und Absatzmärkte.",
+     "titel": "Chinesische Investitionen in deutsche Firmen werden zum Risiko",
+     "text": "Ehemals als Retter gefeierte chinesische Investoren entwickeln sich für deutsche Weltmarktführer zunehmend zum wirtschaftlichen Risiko. Viele Unternehmen, bei denen chinesische Firmen eingestiegen sind, stecken heute in tiefen Krisen, da versprochene Synergien ausblieben. Die Bundesregierung ringt angesichts dieser Entwicklung um einen neuen Kurs im Umgang mit ausländischen Beteiligungen an kritischen Industrien. Die Folge ist eine restriktivere Prüfung von Übernahmen, um die technologische Souveränität Deutschlands zu schützen.",
      "quellen": [
       {
        "name": "Süddeutsche Wirtschaft",
        "url": "https://www.sueddeutsche.de/wirtschaft/china-kuka-kiekert-putzmeister-investoren-deutschland-li.3583490"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1"
-      },
-      {
-       "name": "Financial Times Deutschland",
-       "url": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "titel": "Black Friday verändert den Einzelhandel nachhaltig",
-     "text": "Der Black Friday hat sich von einem einzelnen Aktionstag zu wochenlangen Rabattphasen ausgeweitet, was das Konsumverhalten grundlegend verändert. Verbraucher warten gezielt auf diese Zeiträume, was Händler dazu zwingt, mit massiven Preisnachlässen mitzuziehen, um wettbewerbsfähig zu bleiben. Experten sehen durch den Einsatz von KI-Einkaufshelfern weiteres Wachstumspotenzial, während Politik und Verbraucherschützer vor Ladensterben in Innenstädten und finanziellen Risiken warnen. In der Textilbranche führt der Preisdruck zudem zu Kämpfen um Mindestlohnerhöhungen in Produktionsländern wie Bangladesch.",
+     "titel": "Turbulente Börsenwoche für KI-Konzern Anthropic",
+     "text": "Der KI-Spezialist Anthropic erlebte nach seinem Börsengang in New York eine spektakuläre erste Woche mit extremen Kursschwankungen. Trotz hoher Erwartungen fällt die Bilanz nach den ersten Handelstagen ernüchternd aus, da die Aktie deutlich an Boden verlor. Ursache ist die Skepsis der Anleger bezüglich der langfristigen Profitabilität von KI-Geschäftsmodellen. Diese Entwicklung könnte Auswirkungen auf die Bewertung anderer Tech-Startups haben, die ebenfalls einen Börsengang planen.",
      "quellen": [
       {
        "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html"
-      },
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Quantencomputer-Durchbruch in Garching",
+     "text": "Ein Start-up aus Garching hat erfolgreich einen Quantencomputer mit Software von SAP verbunden, was als wichtiger technologischer Meilenstein gilt. Dieser Erfolg demonstriert die praktische Anwendbarkeit von Quantencomputing in Verbindung mit etablierter Unternehmenssoftware in Deutschland. Warum dies gerade jetzt gelingt, liegt an der fortgeschrittenen Entwicklung lokaler Hardware-Lösungen. Die Folge könnte eine Beschleunigung komplexer Datenanalysen für Großunternehmen sein.",
+     "quellen": [
       {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html"
-      },
-      {
-       "name": "Tagesschau Wirtschaft",
-       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html"
+       "name": "Süddeutsche Wirtschaft",
+       "url": "https://www.sueddeutsche.de/wirtschaft/quantencomputer-sap-planqc-garching-li.3586751"
       }
      ]
     }
@@ -143,32 +107,22 @@
    "name": "Logistik",
    "meldungen": [
     {
-     "titel": "Seefrachtraten steigen massiv bei globaler Hafenüberlastung",
-     "text": "Die Frachtraten im Seeverkehr liegen aktuell um 138 % über dem Niveau des Vorjahres, während weltweit etwa 3,6 Millionen TEU in Hafenstaus feststecken. Diese massiven Verzögerungen führen dazu, dass Verlader ihre Strategien für die kommende Ausschreibungssaison 2027 ändern und den Fokus verstärkt auf die Resilienz der Lieferketten statt auf den reinen Preis legen. Die anhaltende Instabilität zwingt Unternehmen dazu, längere Transitzeiten und höhere Pufferkapazitäten in ihre Logistikplanung einzukalkulieren. Dies ist eine direkte Folge der globalen Kapazitätsengpässe und logistischen Störungen.",
+     "titel": "US-Schienengüterverkehr verzeichnet deutliches Wachstum",
+     "text": "Das Frachtaufkommen auf US-Schienen ist in der aktuellen Woche um 4,7 % gegenüber dem Vorjahr gestiegen. Besonders hervorzuheben ist der Anstieg im intermodalen Verkehr, der ein Plus von 8,3 % verzeichnete. Ursache für diesen Zuwachs ist eine verstärkte Nachfrage nach kombinierten Transportlösungen. Für die Logistikbranche bedeutet dies eine Stabilisierung der Lieferketten und eine effizientere Auslastung der Schieneninfrastruktur in Nordamerika.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teus"
+       "url": "https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3"
       }
      ]
     },
     {
-     "titel": "FedEx-Frachtmaschine verunglückt in Miami",
-     "text": "Eine MD-11-Frachtmaschine von FedEx ist am Samstag auf dem Flughafen von Miami über die Landebahn hinausgeschossen und in einem angrenzenden Grasfeld zum Stehen gekommen. Es handelt sich um einen wiederholten Vorfall dieser Art auf diesem Flughafen. Die Ursachen für das Überschießen der Bahn werden derzeit untersucht. Der Vorfall unterstreicht die operativen Risiken im Luftfrachtverkehr, auch wenn über Verletzte oder das genaue Ausmaß der Ladungsschäden zunächst keine detaillierten Angaben vorlagen.",
+     "titel": "Expeditors International veröffentlicht Umsatzanteile",
+     "text": "Der Logistikdienstleister Expeditors International hat im Rahmen eines seltenen Investorentags detaillierte Einblicke in seine Umsatzstruktur gegeben. CEO Daniel Wall brach damit mit der bisherigen Tradition der Zurückhaltung gegenüber Analysten. Warum dieser Strategiewechsel vollzogen wurde, liegt am Wunsch nach mehr Transparenz für Investoren. Die Offenlegung der Umsatzanteile ermöglicht eine bessere Bewertung der Marktposition des Unternehmens im Bereich der Frachtvermittlung.",
      "quellen": [
       {
        "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/deja-vu-in-miami-as-fedex-md-11-freighter-overshoots-runway"
-      }
-     ]
-    },
-    {
-     "titel": "Rechtsstreit um Lkw-Führerscheine für ausländische Fahrer in den USA",
-     "text": "Fünf Lkw-Fahrer kämpfen vor US-Gerichten um die Wiedereinsetzung ihrer gewerblichen Führerscheine (CDLs), die sie aufgrund einer Änderung der Bundespolitik für Fahrer ohne festen Wohnsitz verloren haben. Ein entsprechender Antrag wurde im Federal Register veröffentlicht und löste eine Debatte über die Zulassungsvoraussetzungen aus. Die Entscheidung könnte erhebliche Auswirkungen auf die Verfügbarkeit von Fahrpersonal im US-Logistikmarkt haben. Befürworter und Gegner streiten über die Sicherheitsaspekte und die rechtliche Grundlage der Wohnsitzregelung.",
-     "quellen": [
-      {
-       "name": "FreightWaves",
-       "url": "https://www.freightwaves.com/news/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-moves-through-courts"
+       "url": "https://www.freightwaves.com/news/been-a-long-time-expeditors-meets-analysts-discloses-revenue-shares"
       }
      ]
     }
@@ -179,134 +133,110 @@
    "name": "Politik",
    "meldungen": [
     {
-     "titel": "EU-Sondergipfel zum Haushalt ohne Einigung abgebrochen",
-     "text": "Die Verhandlungen der 27 EU-Staats- und Regierungschefs über den langfristigen Haushalt wurden vorzeitig beendet, da die Positionen zu weit auseinanderlagen. Deutschland fordert unter Kanzler Merz weitere Kürzungen um mehr als 200 Milliarden Euro und verknüpft dies mit der Unterstützung für die Ukraine, während Länder wie die Slowakei und Ungarn die Ukraine-Hilfen blockieren wollen. Es geht um ein Gesamtvolumen von bis zu zwei Billionen Euro und neue Einnahmequellen wie eine Digitalsteuer. Das Scheitern des Gipfels lässt die künftige Finanzierung zentraler EU-Projekte und die Stabilität der Ukraine-Hilfe ungewiss.",
+     "titel": "Kontroverse um Rentenreform-Entwurf von Minister Schweitzer",
+     "text": "Arbeitsminister Schweitzer hat einen Entwurf zur Rentenreform vorgelegt, der die Beibehaltung der abschlagsfreien Rente nach 45 Beitragsjahren vorsieht. Die Union und Mitglieder der Rentenkommission kritisieren den Plan scharf als nicht nachhaltig und als zusätzliche Belastung für die junge Generation. Schweitzer verteidigt den Entwurf als notwendige Stabilisierung der Beiträge für langjährig Beschäftigte. Die Folge sind tiefe politische Gräben über die zukünftige Finanzierbarkeit des Rentensystems.",
      "quellen": [
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html"
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html"
       },
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html"
       },
       {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html"
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html"
       },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html"
-      },
-      {
-       "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-macron-gipfel-bruessel-nettozahler-costa-li.3587062"
-      }
-     ]
-    },
-    {
-     "titel": "Arbeitsminister legt Entwurf für Rentenreform vor",
-     "text": "Arbeitsminister Schweitzer hat einen Gesetzentwurf vorgelegt, der die 'Rente mit 63' im Kern erhält, aber die Anforderungen für Frührentner erhöht. Für Minijobber sind höhere Sozialbeiträge vorgesehen, was Teil eines Kompromisses innerhalb der Koalition ist, um die langfristige Finanzierung zu sichern. Während die Union die Pläne skeptisch sieht und Schulden zur Finanzierung ablehnt, hofft Schweitzer auf eine baldige Einigung im Bundestag. Die Reform gilt als eine der bedeutendsten Änderungen der Alterssicherung der letzten zwei Jahrzehnte.",
-     "quellen": [
       {
        "name": "Tagesschau Inland",
        "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
       },
       {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html"
-      },
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html"
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rentenkommission-schweitzer-vorschlaege-kritik-union-li.3587609"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-rente-li.3587087"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-bundesregierung-gesetzentwurf-ueberblick-li.3586468"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-arbeitsminister-bundesregierung-li.3586466"
+       "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-schweitzer-rente-mit-63-spd-gesetzentwurf-reaktionen-li.3473361"
       }
      ]
     },
     {
-     "titel": "Ex-BND-Chef Hanning bleibt wegen Spionageverdachts in Haft",
-     "text": "Der 80-jährige ehemalige Chef des Bundesnachrichtendienstes (BND), Hanning, bleibt nach einer Entscheidung des Bundesgerichtshofs weiterhin in Untersuchungshaft. Gegen ihn wird wegen des Verdachts der Spionage ermittelt, nachdem er im Oktober festgenommen worden war. Die Ermittlungen haben international für Aufsehen gesorgt, da es sich um eine hochrangige Figur des deutschen Sicherheitsapparats handelt. Die Fortdauer der Haft begründet sich durch die Schwere der Vorwürfe und die laufende Beweissicherung.",
+     "titel": "Spritpreisdeckel soll ab Januar 2027 gelten",
+     "text": "Die Bundesregierung plant die Einführung eines Spritpreisdeckels, der ab Anfang 2027 den auslaufenden Tankrabatt ersetzen soll. Ein entsprechender Entwurf sieht werktäglich berechnete Höchstpreise für Super und Diesel vor, wobei Ausnahmen für Autobahntankstellen möglich sind. Bei Nichteinhaltung drohen den Betreibern Bußgelder. Ziel ist es, die Verbraucher vor extremen Preissprüngen zu schützen, was jedoch zu administrativen Herausforderungen für Tankstellenbetreiber führen könnte.",
      "quellen": [
       {
        "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html"
+       "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html"
       },
       {
        "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/bundesgerichtshof-zum-bnd-spionagefall-hanning-bleibt-in-u-haft-li.3587330"
+       "url": "https://www.sueddeutsche.de/politik/bundesregierung-spritpreisdeckel-2027-tanken-hoechstpreise-li.3587637"
       }
      ]
     },
     {
-     "titel": "UN warnt vor fünf Hunger-Hotspots weltweit",
-     "text": "Die Vereinten Nationen warnen vor einer drastischen Verschärfung der Ernährungskrise in fünf Ländern, die als 'Hunger-Hotspots' identifiziert wurden. Ursachen sind anhaltende Kriege, extreme Dürren und gleichzeitige Budgetkürzungen bei internationalen Hilfsorganisationen. Die UN fordern die Weltgemeinschaft zu schnellem Handeln auf, um eine drohende Katastrophe abzuwenden. Die Folgen des Ausbleibens von Hilfe wären massenhafter Hunger und eine weitere Destabilisierung der betroffenen Regionen.",
+     "titel": "Bundestag beschließt Senkung der Stromsteuer und neue Zuckersteuer",
+     "text": "Der Bundestag hat eine einjährige Senkung der Stromsteuer beschlossen, um die Energiekosten für Verbraucher und Industrie zu dämpfen. Gleichzeitig wurde die Einführung einer Zuckersteuer auf Getränke sowie eine Erhöhung der Abgaben auf hochprozentigen Alkohol verabschiedet. Diese Maßnahmen dienen der Gesundheitsprävention und der Gegenfinanzierung des Haushalts. Die Folge werden steigende Preise für zuckerhaltige Softdrinks und alkoholische Mischgetränke sein.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Eskalation beim BSW über Umgang mit der AfD",
+     "text": "Auf dem Parteitag des Bündnis Sahra Wagenknecht (BSW) in Dresden ist ein heftiger Streit über die Zusammenarbeit mit der AfD ausgebrochen. Während Parteichef Fabio de Masi für mehr Spielraum bei Kooperationen warb, forderte eine Minderheit eine strikte Abgrenzung. In der Folge traten mehrere Delegierte und Gründungsmitglieder unter Protest aus der Partei aus. Dies schwächt die Geschlossenheit der jungen Partei und erschwert die künftige Regierungsbildung in den Bundesländern.",
+     "quellen": [
+      {
+       "name": "Tagesschau Inland",
+       "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html"
+      },
+      {
+       "name": "Süddeutsche Politik",
+       "url": "https://www.sueddeutsche.de/politik/bsw-parteitag-dresden-afd-sahra-wagenknecht-abgrenzung-zusammenarbeit-klaus-ernst-austritte-li.3587237"
+      }
+     ]
+    },
+    {
+     "titel": "Datenleak offenbart hohe russische Verluste im Ukraine-Krieg",
+     "text": "Ein Hackerangriff auf die russische Statistikbehörde hat Einblicke in das wahre Ausmaß der militärischen Verluste Russlands ermöglicht. Die geleakten Daten deuten auf Hunderttausende getötete Soldaten hin, was weit über den offiziellen Angaben des Kremls liegt. Warum diese Zahlen unter Verschluss gehalten wurden, liegt in der Sorge vor innenpolitischen Unruhen begründet. Die Veröffentlichung könnte den Druck auf die russische Führung erhöhen und die internationale Wahrnehmung des Konflikts beeinflussen.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html"
+       "url": "https://www.tagesschau.de/ausland/europa/russland-rosstat-datenleak-hacker-100.html"
       }
      ]
     },
     {
-     "titel": "Bundestag beschließt Haushalt 2027 mit Rekordsumme",
-     "text": "Der Bundestag hat den Haushalt für das Jahr 2027 mit einem Volumen von 556 Milliarden Euro verabschiedet, ergänzt durch zusätzliche Sondertöpfe. Es gibt deutliche Umschichtungen: Während die Ausgaben für Verteidigung und Soziales steigen, müssen die Bereiche Gesundheit und Entwicklungshilfe Kürzungen hinnehmen. Trotz der Rekordsumme bleibt die Haushaltsdisziplin umstritten, da die Union höhere Schulden ablehnt. Die Prioritätensetzung spiegelt die veränderte Sicherheitslage und den steigenden Bedarf an Sozialleistungen wider.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/haushalt-bundestag-schulden-li.3586771"
-      },
-      {
-       "name": "Süddeutsche Politik",
-       "url": "https://www.sueddeutsche.de/politik/politbarometer-die-union-verliert-leicht-li.3587060"
-      }
-     ]
-    },
-    {
-     "titel": "Gerichtsurteil zu Waffenbesitz von AfD-Mitgliedern",
-     "text": "Das Bundesverwaltungsgericht hat entschieden, dass die bloße Mitgliedschaft in einer unter Extremismusverdacht stehenden Organisation wie der früheren AfD-Jugend nicht ausreicht, um waffenrechtliche Erlaubnisse zu entziehen. Geklagt hatten zwei AfD-Politiker, denen die Behörden die Zuverlässigkeit abgesprochen hatten. Im Gegensatz dazu bleibt der Entzug bei Personen aus der 'Reichsbürger'-Szene weiterhin rechtens. Das Urteil setzt hohe Hürden für den Entzug von Waffenbesitzkarten allein aufgrund politischer Zugehörigkeit.",
-     "quellen": [
-      {
-       "name": "Tagesschau Inland",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html"
-      }
-     ]
-    },
-    {
-     "titel": "Machtwechsel in der Republika Srpska durch Familiennachfolge",
-     "text": "Nach seinem internationalen Druck geschuldeten Rücktritt hat Milorad Dodik seinen Sohn zum neuen Regierungschef der Republika Srpska in Bosnien und Herzegowina gemacht. Dodik war über 20 Jahre der dominierende Politiker der serbischen Entität. Dieser Schritt wird als Versuch gewertet, den Familieneinfluss auf die Politik trotz des formalen Rücktritts zu sichern. Kritiker sehen darin eine weitere Schwächung der demokratischen Institutionen in der Region.",
+     "titel": "Schweiz stimmt über Lockerung von Waffenexporten ab",
+     "text": "In der Schweiz findet eine Volksabstimmung darüber statt, ob Rüstungsgüter künftig einfacher ins Ausland verkauft werden dürfen. Die Regierung argumentiert, dass die bisherigen strengen Vorgaben die nationale Sicherheit und die heimische Industrie schwächen. Kritiker befürchten hingegen, dass Schweizer Waffen in Konfliktgebieten landen könnten. Das Ergebnis wird maßgeblich über die künftige Ausrichtung der Schweizer Außen- und Sicherheitspolitik entscheiden.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html"
+       "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html"
       }
      ]
     },
     {
-     "titel": "Frauen im Polizeidienst unter dem Taliban-Regime",
-     "text": "In Afghanistan arbeiten trotz massiver Einschränkungen der Frauenrechte weiterhin einige Frauen bei der Polizei, wobei sie im Dienst vollständig verhüllt sein müssen. Sie sind damit Teil eines Systems, das Frauen Bildung und öffentliche Sichtbarkeit weitgehend untersagt. Die Taliban nutzen diese Polizistinnen für Aufgaben, die nach ihrer Auslegung des islamischen Rechts nicht von Männern durchgeführt werden dürfen. Dies verdeutlicht die widersprüchliche Realität von Frauen, die innerhalb eines sie unterdrückenden Regimes Funktionen ausüben.",
+     "titel": "Extreme Treibstoffkrise in Malawi durch Devisenmangel",
+     "text": "Malawi leidet unter einer massiven Treibstoffknappheit, die durch schwache Einnahmen aus dem Tabakexport und die angespannte Lage an der Straße von Hormus verschärft wird. Dem Land fehlen die notwendigen Devisen, um Importe zu finanzieren, was den Alltag und die Wirtschaft nahezu zum Erliegen bringt. Die Krise zeigt die hohe Abhängigkeit fragiler Volkswirtschaften von globalen Handelswegen und Rohstoffpreisen. Die Folge ist eine drohende humanitäre Notlage in weiten Teilen des Landes.",
      "quellen": [
       {
        "name": "Tagesschau Ausland",
-       "url": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html"
+       "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "US-Militär beschießt Frachter im Golf von Oman",
+     "text": "Die US-Marine hat im Golf von Oman ein Handelsschiff beschossen, das versucht haben soll, eine Blockade iranischer Häfen zu durchbrechen. Das Schiff wurde manövrierunfähig geschossen, wobei die Besatzung nach US-Angaben unverletzt blieb. Ursache ist die Durchsetzung von Sanktionen gegen den Iran durch das US-Militär. Dieser Vorfall verschärft die Spannungen in der strategisch wichtigen Seestraße und erhöht das Risiko für die zivile Schifffahrt in der Region.",
+     "quellen": [
+      {
+       "name": "Tagesschau Ausland",
+       "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html"
       }
      ]
     }
@@ -317,86 +247,88 @@
    "name": "KI und Technik",
    "meldungen": [
     {
-     "titel": "Warnung vor Wafer-Mangel ab 2027",
-     "text": "Führende Hersteller von Wafer-Rohlingen warnen vor einem drohenden Lieferengpass ab dem Jahr 2027, da die Nachfrage der Chiphersteller das Angebot übersteigen könnte. Der Bau neuer Produktionsstätten gilt derzeit als wirtschaftlich nicht tragfähig, was notwendige Investitionen verhindert. Ohne neue Kapazitäten wird die Halbleiterindustrie Schwierigkeiten haben, die weltweite Nachfrage zu bedienen. Dies könnte zu Produktionsverzögerungen in allen Branchen führen, die auf moderne Mikrochips angewiesen sind.",
+     "titel": "KI bedroht gängige Verschlüsselungssysteme",
+     "text": "Sicherheitsforscher und Institutionen wie die Bank of England warnen davor, dass neue KI-Modelle bald in der Lage sein könnten, heutige Verschlüsselungsstandards zu knacken. Informatikprofessoren fordern KI-Labore auf, brisante Durchbrüche in diesem Bereich vorerst zurückzuhalten, um die globale Finanzsicherheit nicht zu gefährden. Gleichzeitig wurde eine neue Skimming-Methode via WebRTC entdeckt, die Online-Händler bedroht. Die Folge ist ein dringender Bedarf an quantenresistenten und KI-sicheren Kryptografie-Lösungen.",
      "quellen": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Silizium-Wafer-werden-knapp-11541071.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Stellantis drosselt Produktion in französischen Werken",
-     "text": "Der Automobilkonzern Stellantis stellt ab Dezember die Produktion in den Werken Mulhouse, Sochaux und Rennes vorübergehend ein. Als Grund nennt das Unternehmen die schwache Marktnachfrage, was unmittelbar zum Verlust von Arbeitsplätzen für zahlreiche Leiharbeiter führt. Gewerkschaften kritisieren die damit verbundenen Lohnverluste für die Stammbelegschaft. Die Maßnahme unterstreicht die aktuelle Schwäche des europäischen Automobilmarktes und den Druck auf die Hersteller.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Peugeot-und-Citroen-Stellantis-drosselt-Produktion-Leiharbeiter-verlieren-Jobs-11540542.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Sicherheitslücken in der KI-Lieferkette und bei Apache Tomcat",
-     "text": "Über kostengünstige KI-Router-Dienste wurden sensible Promptinhalte und 'Secrets' abgefischt, da Anbieter wie MiniMax Sicherheits-Flags ignorierten. Gleichzeitig wurden in der aktuellen Version des Webservers Apache Tomcat neun Schwachstellen behoben, während für weitere Probleme noch Updates fehlen oder Konfigurationsänderungen nötig sind. Diese Vorfälle zeigen die Verwundbarkeit digitaler Infrastrukturen sowohl bei neuen KI-Technologien als auch bei etablierter Server-Software. Unternehmen sind aufgerufen, ihre Sicherheitskonfigurationen und die Wahl ihrer Dienstleister dringend zu überprüfen.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Zum-Black-Friday-Kreditkarten-Skimming-via-WebRTC-entdeckt-11541584.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Diverse-Schwachstellen-in-Apache-Tomcat-11540730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "Golem",
+       "url": "https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/anzeige-jetzt-amazon-essentials-entdecken-und-2-000-euro-mitnehmen-2611-215739.html"
       }
      ]
     },
     {
-     "titel": "Gläubiger übernehmen Kabelnetzbetreiber Tele Columbus",
-     "text": "Finanzgläubiger übernehmen den Mutterkonzern von Pyur, Tele Columbus, und führen dem Unternehmen 342 Millionen Euro neues Kapital zu. Diese Restrukturierung soll das Überleben des Glasfaser- und Kabelnetzbetreibers sichern, der zuvor in finanzielle Schieflage geraten war. Für Kunden bedeutet dies zunächst eine Fortführung des Betriebs, während die neuen Eigentümer die strategische Ausrichtung bestimmen. Die Kapitalspritze ist entscheidend für den weiteren Ausbau der digitalen Infrastruktur des Unternehmens.",
+     "titel": "Telekom und Rheinmetall planen Aufklärungsplattform gegen Sabotage",
+     "text": "Die Deutsche Telekom und Rheinmetall wollen gemeinsam eine neue Plattform zum Schutz kritischer Infrastrukturen entwickeln. Das System soll Betreiber vor Cyberangriffen, Drohnen und physischer Sabotage warnen und tritt in direkte Konkurrenz zum US-Anbieter Palantir. Warum diese Kooperation zustande kam, liegt im wachsenden Bedürfnis nach europäischer Souveränität in Sicherheitsfragen. Die Folge könnte eine stärkere Vernetzung deutscher Sicherheits- und Technologiekonzerne sein.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Medienbericht-Telekom-und-Rheinmetall-wollen-Palantir-Konkurrenz-machen-11541409.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "titel": "Massiver Preisanstieg bei Festplatten",
+     "text": "Daten des Statistischen Bundesamtes belegen, dass die Preise für Festplatten innerhalb eines Jahres um 40,8 Prozent gestiegen sind. Dieser drastische Anstieg bei PC-Hardware belastet sowohl private Verbraucher als auch Unternehmen bei der IT-Beschaffung. Ursachen sind gestiegene Produktionskosten und eine veränderte Marktdynamik bei Speichermedien. Dies führt dazu, dass Investitionen in Speicherinfrastruktur deutlich teurer werden als im Vorjahr.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/pyur-mutterkonzern-glaeubiger-uebernehmen-tele-columbus-2611-215755.html"
+       "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html"
       }
      ]
     },
     {
-     "titel": "Geely plant E-Auto-Produktion in der EU ab 2028",
-     "text": "Der chinesische Autokonzern Geely beabsichtigt, ab 2028 eine neue Plattform für elektrifizierte Fahrzeuge im spanischen Valencia zu fertigen. Auch Werke der Tochtermarke Volvo werden als mögliche Standorte für die Produktion in Europa in Betracht gezogen. Ziel ist es, die Marktpräsenz in der EU zu stärken und lokale Produktionskapazitäten aufzubauen. Dies könnte den Wettbewerb auf dem europäischen Markt für Elektrofahrzeuge weiter verschärfen.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Chinesische-E-Auto-Produktion-in-der-EU-Geely-plant-mit-neuer-Plattform-11540890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Fairphone expandiert mit Fokus auf ethische Lieferketten in die USA",
-     "text": "Der für nachhaltige Smartphones bekannte Hersteller Fairphone weitet sein Geschäft auf den US-Markt aus. Unternehmenschef Raymond van Eck betont dabei die Bedeutung von Reparierbarkeit ('Right-to-Repair') und ethisch vertretbaren Lieferketten als Kern der Unternehmensstrategie. Durch die Expansion soll die Relevanz nachhaltiger Elektronik durch größere Stückzahlen gesteigert werden. Dies bietet Konsumenten eine Alternative zu herkömmlichen Smartphones und fördert langlebigere Hardware-Konzepte.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/hintergrund/Relevanz-durch-Groesse-Wie-Fairphone-Lieferketten-nachhaltiger-machen-will-11507874.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
-      }
-     ]
-    },
-    {
-     "titel": "GrapheneOS zeigt RCS-Messenger ohne Google-Dienste",
-     "text": "Das Team hinter dem sicherheitsfokussierten Betriebssystem GrapheneOS hat einen Proof of Concept für eine RCS-Messenger-App präsentiert, die unabhängig von Google-Diensten funktioniert. Damit soll die Privatsphäre bei der Nutzung moderner Kommunikationsstandards verbessert werden, ohne auf proprietäre Cloud-Infrastrukturen angewiesen zu sein. Dies ist ein wichtiger Schritt für Nutzer, die Wert auf digitale Souveränität legen. Die Entwicklung könnte langfristig eine Alternative zu herkömmlichen Messaging-Apps auf Android-Basis bieten.",
-     "quellen": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Proof-of-Concept-GrapheneOS-zeigt-RCS-Messenger-ohne-Google-Messages-11540974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "titel": "Rockstar-Mitarbeiter lehnen Gewerkschaft ab",
-     "text": "In Großbritannien haben die Beschäftigten des Spieleentwicklers Rockstar Games gegen die Anerkennung einer Gewerkschaft gestimmt. Während einige Mitarbeiter ihren Arbeitgeber lobten, zeigt das Ergebnis die gespaltene Meinung über kollektive Interessenvertretungen in der Gaming-Branche. Die Entscheidung hat zur Folge, dass die Arbeitsbedingungen weiterhin individuell oder durch unternehmensinterne Gremien verhandelt werden. Dies geschieht vor dem Hintergrund der weltweiten Debatte über Arbeitsbelastung und Mitbestimmung in der Softwareentwicklung.",
+     "titel": "Pirelli entwickelt intelligente Reifen mit Sensorik",
+     "text": "Der Reifenhersteller Pirelli steht kurz vor der Serienreife von Reifen, die mittels integrierter Sensoren direkt mit der Fahrzeugelektronik kommunizieren. Die Sensoren messen Druck, Temperatur und den Zustand der Fahrbahn in Echtzeit und funken diese Daten an das Auto. Dies soll die Fahrsicherheit erhöhen und eine präzisere Steuerung der Assistenzsysteme ermöglichen. Die Folge ist eine weitere Digitalisierung der Fahrzeugkomponenten im Sinne des autonomen Fahrens.",
      "quellen": [
       {
        "name": "Golem",
-       "url": "https://www.golem.de/news/gta-6-rockstar-mitarbeiter-stimmen-gegen-gewerkschaft-2611-215749.html"
+       "url": "https://www.golem.de/news/pirelli-treibt-sensorik-voran-reifen-die-mit-dem-auto-sprechen-2611-215781.html"
+      }
+     ]
+    },
+    {
+     "titel": "Energie-Monitoring: Erneuerbare bei 55 Prozent",
+     "text": "Laut dem aktuellen Monitoringbericht der Bundesnetzagentur haben erneuerbare Energien in Deutschland einen Anteil von 55 Prozent erreicht. Trotz dieses Erfolgs der Energiewende nehmen Stromsperrungen aufgrund unbezahlter Rechnungen zu, was auf anhaltend hohe Endkundenpreise hindeutet. Finnland zeigt derweil, wie durch strukturelle Anpassungen negative Strompreise minimiert werden können. Die Folge für Deutschland bleibt ein Spannungsfeld zwischen Klimazielen und sozialer Verträglichkeit der Energiekosten.",
+     "quellen": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Energiemarkt-2026-Solar-boomt-doch-Grosshandelspreise-ziehen-wieder-an-11541379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html"
+      }
+     ]
+    },
+    {
+     "titel": "BYD präsentiert Elektro-Minivan mit hoher Reichweite",
+     "text": "Der chinesische Hersteller BYD hat einen neuen elektrischen Minivan angekündigt, der eine Reichweite von bis zu 900 Kilometern (559 Meilen) erzielen soll. Damit übertrifft das Fahrzeug aktuelle Konkurrenzmodelle wie den VW ID.Buzz deutlich. Warum diese hohe Reichweite möglich ist, liegt an der effizienten Nutzung des Bauraums für größere Batterien. Dies könnte den Druck auf europäische Automobilhersteller im Segment der elektrischen Nutz- und Familienfahrzeuge massiv erhöhen.",
+     "quellen": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"
+      }
+     ]
+    },
+    {
+     "titel": "Gesundheitsbeschwerden bei neuen Macbook-Pro-Displays",
+     "text": "Nach dem Umstieg auf OLED-Displays beim neuen Macbook Pro mehren sich Nutzerberichte über Kopfschmerzen, Schwindel und Übelkeit. In Onlineforen wird über die Ursachen spekuliert, wobei die Art der Bildwiederholrate oder Lichtmodulation im Verdacht steht. Apple hat sich zu den Klagen bisher nicht offiziell geäußert. Für betroffene Nutzer bedeutet dies eine Einschränkung der Nutzbarkeit der teuren Hardware, was die Akzeptanz der OLED-Technologie in Laptops beeinträchtigen könnte.",
+     "quellen": [
+      {
+       "name": "Golem",
+       "url": "https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html"
       }
      ]
     }
